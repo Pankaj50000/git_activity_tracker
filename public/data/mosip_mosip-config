@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/mosip-config",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #7945 from kameshsr/patch-287703\n\nMOSIP-39180 Corrected default value"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Corrected default value\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #7916 from kameshsr/patch-927713\n\nMOSIP-39180 Removed unused property"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Reverted to default value\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Reverted defalut value\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-39581 added missing property",
+            "author": "kameshsr"
+        },
+        {
+            "title": "Update application-lts.properties",
+            "author": "hteshome2016"
+        },
+        {
+            "title": "Update application-default.properties",
+            "author": "hteshome2016"
+        },
+        {
+            "title": "[MOSIP-33020]Removing debug config as per review comments",
+            "author": "aranaravi"
+        },
+        {
+            "title": "MOSIP-35135 - enable captcha in pre-registration",
+            "author": "ymahtat-dev"
+        }
+    ],
+    "issues": [
+        {
+            "title": "MOSIP-39581 added missing property",
+            "author": "kameshsr"
+        },
+        {
+            "title": "Update application-lts.properties",
+            "author": "hteshome2016"
+        },
+        {
+            "title": "Update application-default.properties",
+            "author": "hteshome2016"
+        },
+        {
+            "title": "[MOSIP-33020]Removing debug config as per review comments",
+            "author": "aranaravi"
+        },
+        {
+            "title": "MOSIP-35135 - enable captcha in pre-registration",
+            "author": "ymahtat-dev"
+        }
+    ]
+}

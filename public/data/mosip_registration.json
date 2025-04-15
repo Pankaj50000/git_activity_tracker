@@ -1,0 +1,811 @@
+{
+    "repository": "mosip/registration",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1952 from Mahesh-Binayak/master\n\n[MOSIP_38484]Created  custom dependabot.yml",
+            "date": "2025-01-22T06:29:12Z"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "message": "Create dependabot.yml\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>",
+            "date": "2025-01-21T13:42:57Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-6971] ARC 1.2.0.2 release changes to master",
+            "date": "2025-01-09T05:24:22Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1950 from Prafulrakhade/release-1.2.0.x\n\n[DSD-6971] ARC 1.2.0.2 release changes",
+            "date": "2025-01-08T07:37:05Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6971] ARC 1.2.0.2 release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-07T15:59:40Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6971] ARC 1.2.0.2 release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-07T15:54:24Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1949)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2025-01-07T08:35:33Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1937 from Khuddusshariff0022/release-1.2.0.x_adding_to_release\n\n[ MOSIP-35378 ] adding upgrade and rollback scripts for 1.2.0.1 version",
+            "date": "2024-12-05T08:48:16Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "adding upgrade and rollback scripts for 1.2.0.1 version\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-12-04T12:35:27Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1931 from Khuddusshariff0022/release-1.2.0.x_adding_to_release\n\n[ MOSIP-35378 ] Release 1.2.0.x adding to release",
+            "date": "2024-11-08T15:22:00Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "adding testcase for array of string data type\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-11-07T13:35:46Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "adding testcase for array of string data type\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-11-07T10:34:34Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "MOSIP-35378 merging selected handel changes to release-1.2.0.x branch\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-11-07T07:06:55Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1921 from Khuddusshariff0022/v1.2.0.1-selectedHandels\n\n[ MOSIP-35378 ] changes for selected handels for docker file. adding ARG and LABEL",
+            "date": "2024-09-23T07:45:05Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "changes for selected handels for docker file. adding ARG and LABEL\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-23T07:26:16Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Merge pull request #1920 from Khuddusshariff0022/v1.2.0.1-selectedHandels\n\n[ MOSIP-35378 ] selected handles in uin generator stage.",
+            "date": "2024-09-20T07:35:01Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "changes for selected handels for docker file. adding ARG and LABEL\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-19T10:04:07Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "changes for selected handels\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-19T05:20:36Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "changes for selected handels\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-19T05:19:58Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "changes for selected handels\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-18T13:09:46Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "changes for selected handels\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-18T07:06:42Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "changes for selected handels\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-18T07:04:47Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "removing branch name rom git action trigger list\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-13T09:08:11Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[ RCF-921 ] changes fof selected handel\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-12T06:29:43Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "adding SelectedHandel\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-09-01T08:33:59Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Revert \"[MOSIP-34112] Release 1.2.0.x code marge for Bio-dedupes updated flow\u2026\" (#1911)\n\nThis reverts commit b9c907c19c8a9a734d36bcdb1341a48e06426d66.",
+            "date": "2024-08-12T11:35:27Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1903 from mosip/revert-1902-release-1.2.0.x\n\nRevert \"[DSD-5925] Updated org.projectlombok version\"",
+            "date": "2024-08-05T12:14:56Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Revert \"[DSD-5925] Updated org.projectlombok version\"",
+            "date": "2024-08-05T11:45:39Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1902 from Prafulrakhade/release-1.2.0.x\n\n[DSD-5925] Updated org.projectlombok version",
+            "date": "2024-08-05T07:52:38Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-5925] Updated org.projectlombok version \n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-08-05T06:19:27Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[MOSIP-34112] Release 1.2.0.x code marge for Bio-dedupes updated flow (#1901)\n\n* [MOSIO-34112] Adding test cases (#1899)\r\n\r\n* [MOSIO-34112] Adding test cases\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n* pushtriger changes\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n* added logger\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n* test case modification\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n* test case modification commented changes\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n* test case modification commented changes\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <43202851+sowmya695@users.noreply.github.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-08-04T09:27:26Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1869 from sowmya695/MOSIP-32283\n\nMOSIP-32283 code fix and version change",
+            "date": "2024-04-15T08:41:26Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-32283 chnages to fix enable checks for dockerfile\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-04-15T07:11:05Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-32283 snapshot url added\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-04-12T08:41:21Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-32283 code fix and version change\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-04-11T11:04:37Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "MOSIP-31887added missing pluggins and distribution url (#1857)\n\n* [MOSIP-31887]\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* MOSIP-31887added missing pluggins and distribution urlk\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T08:08:34Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[MOSIP-31887] (#1856)\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T06:41:57Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1855)\n\nSigned-off-by: GitHub <noreply@github.com>\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-04T11:13:40Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-31766 version fix (#1854)\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-03-04T10:27:19Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1849 from sowmya695/MOSIP-31759\n\nMOSIP-31759 script change",
+            "date": "2024-02-28T04:29:26Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-31759 script change\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-02-27T13:21:04Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1843 from sowmya695/MOSIP-31387\n\n[MOSIP-31387] code fix",
+            "date": "2024-02-02T14:35:46Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-31387 code fix\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-02-02T10:50:00Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[Mosip-30240]Release 1.2.0.1 mosip 30240 (#1840)\n\n* Merge pull request #1831 from Khuddusshariff0022/develop_Mosip_30241\r\n\r\nMOSIP-30241 adding trim functionality based on property.\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n* [Mosip-30241] Merge pull request #1831 from Khuddusshariff0022/develop-Mosip_30241\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\nCo-authored-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-01-24T08:09:26Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "Merge pull request #1804 from Khuddusshariff0022/develop-Mosip_30417 (#1839)\n\n[Mosip-30417] Regproc -Landing zone config property naming convention\u2026\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\nCo-authored-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-01-24T06:58:53Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "Merge pull request #1819 from Khuddusshariff0022/develop-MOSIP-28440 (#1838)\n\n[Mosip-28440] changes to compare the biometric records only with the \u2026\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\nCo-authored-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-01-24T06:23:49Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "Merge pull request #1788 from sowmya695/MOSIP-29780_develop (#1836)\n\nMosip 29780 develop\r\n\r\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\nCo-authored-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-01-24T06:05:45Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1825 from Khuddusshariff0022/release-1.2.0.1_Mosip_29895_1\n\n[MOSIP-29895] Release 1.2.0.1 mosip 29895 1",
+            "date": "2024-01-18T05:47:10Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1833 from mosip/MOSIP-31202\n\n[MOSIP-31202] updated sql file names",
+            "date": "2024-01-17T13:08:12Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Rename 1.2.0.1-B2_to_1.2.0.1_upgrade.sql to 1.2.0.1-B2_to_1.2.0.1-B3_upgrade.sql\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-17T12:25:39Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Rename 1.2.0.1-B2_to_1.2.0.1_rollback.sql to 1.2.0.1-B2_to_1.2.0.1-B3_rollback.sql\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-17T12:25:15Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1828 from Prafulrakhade/release-1.2.0.1\n\n[DSD-4192] updated snapshot url in release-1.2.0.1 branch",
+            "date": "2024-01-11T09:36:16Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1827 from sowmya695/MOSIP-31016_release-1.2.0.1\n\nMOSIP-31016 pom removed as its added as empty in cherry pick with con\u2026",
+            "date": "2024-01-11T09:16:24Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-3932] updated snapshot url in release-1.2.0.1 branch\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-01-11T07:14:51Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "Merge branch 'mosip:release-1.2.0.1' into release-1.2.0.1",
+            "date": "2024-01-11T07:12:06Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-31016 pom removed as its added as empty in cherry pick with conflicts resolving\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-01-11T07:01:49Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1826 from sowmya695/MOSIP-31016_release-1.2.0.1\n\nMOSIP-31016 code changes (#1824)",
+            "date": "2024-01-11T06:05:41Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-31016 code changes (#1824)\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\nCo-authored-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-01-10T05:50:05Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[Mosip_29895]cherry pick develop from mosip_29896\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-01-09T08:36:57Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[Mosip_29895]cherry pick develop from mosip_29896\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-01-09T08:24:54Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[Mosip_29895]cherry pick develop from mosip_29896\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-01-09T08:22:44Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[Mosip_29895]cherry pick develop from mosip_29896\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-01-09T07:37:33Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[Mosip_29895]cherry pick develop from mosip_29896\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2023-11-28T10:33:37Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "[Mosip_29895]cherry pick develop from mosip_29896\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2023-11-07T05:31:51Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-28185 Code fix for notification (#1782) (#1787)\n\n* MOSIP-28185 Code fix for notification (#1782)\r\n\r\nCo-authored-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>\r\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\n\r\n* MOSIP-28185 registration confirmation notification corrected (#1789)\r\n\r\n* MOSIP-28185 registration confirmation notification corrected\r\n\r\nSigned-off-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>\r\n\r\n* MOSIP-28185 code fix for packet validator\r\n\r\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>\r\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\nSigned-off-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-01-08T09:34:55Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-29935 Code changes (#1800) (#1815)\n\n* MOSIP-29935 Code changes\r\n\r\n\r\n\r\n* MOSIP-29935 intial changes after new approach\r\n\r\n\r\n\r\n* MOSIP-29935 code fix\r\n\r\n\r\n\r\n* MOSIP-29935 code fix\r\n\r\n\r\n\r\n* MOSIp-29935 code fix after testing\r\n\r\n\r\n\r\n---------\r\n\r\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>\r\nCo-authored-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-01-08T07:43:29Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1822 from sowmya695/sowmya_release_1.2.0.1\n\nupdated versions to snapshot",
+            "date": "2024-01-05T09:19:34Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "Merged from upstream\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-01-05T06:01:47Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1821 from MonobikashDas/1.2.0.1\n\ncherry picked changes for MOSIP-28121",
+            "date": "2024-01-04T13:02:39Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "updated versions to snapshot\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-01-04T12:03:22Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1818 from MonobikashDas/develop\n\nMOSIP-28121 : calling idrepo instead of packetmanager in credential r\u2026\nSigned-off-by: Monobikash Das <monobikash.das@mindtree.com>",
+            "date": "2024-01-03T14:20:05Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1774 from MonobikashDas/MOSIP-28121\n\nMOSIP-28121 : rename print stage to credential requestor stage",
+            "date": "2023-11-17T05:26:44Z"
+        },
+        {
+            "author": "Rakshith B",
+            "message": "[MOSIP-29961] removed paths from db-test.yml (#1817)\n\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2024-01-02T12:17:56Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#1811)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* [DSD-3932] Update pom.xml\r\n\r\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n* [DSD-3932] Update pom.xml\r\n\r\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-12-21T04:55:13Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file (#1808)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-21T02:41:02Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-19T10:03:24Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-29918] added db-test.yml (#1794)\n\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>",
+            "date": "2023-11-24T11:16:18Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1779 from Rakshitha650/release-1.2.0.1\n\n[MOSIP-29167]added reusable workflow",
+            "date": "2023-09-28T10:27:49Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1780 from sowmya695/MOSIP-29117_1.2.0.1\n\nMOSIP-29117 code fix",
+            "date": "2023-09-27T11:10:10Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-29117 code fix",
+            "date": "2023-09-25T10:55:15Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "quality checker level tags more specific MOSIP-29419 (#1778)\n\n* quality checker level tags more specific MOSIP-29419\r\n\r\n* quality checker level tags more specific MOSIP-29419\r\n\r\n* quality checker level tags more specific MOSIP-29419",
+            "date": "2023-09-25T07:19:15Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[MOSIP-29167]added reusable workflow",
+            "date": "2023-09-21T13:41:03Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[MOSIP-29167]added reusable workflow",
+            "date": "2023-09-21T12:20:05Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1773 from sowmya695/MOSIP-29399_release\n\nMOSIP-29399 code fix",
+            "date": "2023-09-13T12:39:00Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-29399 Code fix",
+            "date": "2023-09-13T05:30:28Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-29399 code fix",
+            "date": "2023-09-12T10:09:29Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-28646 code changes (#1757)\n\nCo-authored-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>",
+            "date": "2023-08-22T07:50:24Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[MOSIP-28484] Added error handling for deploy.sh script (#1758)\n\nCo-authored-by: akilalakshmanan <Akila.L@iiitb.ac.in>",
+            "date": "2023-08-22T03:27:30Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-28557 Bug fix (#1754)\n\nCo-authored-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>",
+            "date": "2023-07-28T09:35:05Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1753 from sowmya695/MOSIP-28478\n\nMOSIP-28478 Code fix",
+            "date": "2023-07-17T09:41:51Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1722 from mosip/ckm007-patch-2\n\n[MOSIP-27996] updated rollback sql",
+            "date": "2023-07-14T17:04:38Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-28478 Code fix",
+            "date": "2023-07-14T12:51:47Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1752 from sowmya695/health_check_camel\n\nMOSIP-28445 Removed DB health check for camel",
+            "date": "2023-07-13T06:18:50Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "Removed DB health check for camel",
+            "date": "2023-07-12T13:12:19Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1751 from sowmya695/MOSIP-28217\n\nMOSIP-28217 script changes",
+            "date": "2023-07-12T10:08:58Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-28217 script changes",
+            "date": "2023-07-12T09:00:43Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1750 from mosip/ckm007-patch-3\n\n[DSD-3010] added changes to run nginx in foreground",
+            "date": "2023-07-11T07:53:46Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-3010] added changes to run nginx in foreground\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-11T07:50:30Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1739 from sowmya695/MOSIP-28217\n\nMOSIP-28217 scripts added",
+            "date": "2023-07-07T11:48:35Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-28217 script renamed",
+            "date": "2023-07-07T10:49:59Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-38917 Security testing: Registration processor -Restrict the methods allowed",
+            "author": "kaledOu",
+            "date": "2025-02-06T11:29:04Z"
+        },
+        {
+            "title": "38915 - Security testing: Registration processor- header issues",
+            "author": "kaledOu",
+            "date": "2025-02-06T11:16:56Z"
+        },
+        {
+            "title": "38914 - Security testing: Registration processor -reflected user input",
+            "author": "kaledOu",
+            "date": "2025-02-06T11:05:24Z"
+        },
+        {
+            "title": "MOSIP-37259 -  Remove hardcoded spring boot version from registration repo pom file",
+            "author": "kaledOu",
+            "date": "2025-02-06T10:24:51Z"
+        },
+        {
+            "title": "updating to custom codeql",
+            "author": "rajapandi1234",
+            "date": "2025-02-06T05:09:01Z"
+        },
+        {
+            "title": "Bump joda-time:joda-time from 2.12.7 to 2.13.1 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-02-04T09:55:37Z"
+        },
+        {
+            "title": "Introducing Tracking Mechanism to track RID Stage Process and restric\u2026",
+            "author": "trialblazerseee",
+            "date": "2025-01-31T05:26:44Z"
+        },
+        {
+            "title": "Bump net.bytebuddy:byte-buddy from 1.10.13 to 1.17.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-30T09:51:35Z"
+        },
+        {
+            "title": "Bump com.auth0:java-jwt from 3.9.0 to 4.5.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-30T09:51:31Z"
+        },
+        {
+            "title": "[MOSIP-38917] Update TransactionServiceSecurityConfig.java",
+            "author": "kaledOu",
+            "date": "2025-01-29T15:46:01Z"
+        },
+        {
+            "title": "[MOSIP-38915] Update TransactionServiceSecurityConfig.java",
+            "author": "kaledOu",
+            "date": "2025-01-29T13:10:48Z"
+        },
+        {
+            "title": "[MOSIP-38914]  Update RegistrationTransactionController.java",
+            "author": "kaledOu",
+            "date": "2025-01-29T11:50:20Z"
+        },
+        {
+            "title": "Bump org.springdoc:springdoc-openapi-starter-webmvc-ui from 2.5.0 to 2.8.4 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-27T09:20:22Z"
+        },
+        {
+            "title": "Bump org.springframework.boot:spring-boot-maven-plugin from 3.2.3 to 3.4.2 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-24T09:18:50Z"
+        },
+        {
+            "title": "[PER-178] Sync Data and Reg Proc Performance Scripts",
+            "author": "akhilmoogi",
+            "date": "2025-01-23T11:25:37Z"
+        },
+        {
+            "title": "Bump org.apache.httpcomponents:httpmime from 4.3.1 to 4.5.14 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:33:27Z"
+        },
+        {
+            "title": "Bump org.apache.maven.plugins:maven-javadoc-plugin from 3.2.0 to 3.11.2 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:33:24Z"
+        },
+        {
+            "title": "Bump org.sonatype.plugins:nexus-staging-maven-plugin from 1.6.7 to 1.7.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:32:52Z"
+        },
+        {
+            "title": "Bump org.apache.hadoop:hadoop-client from 2.8.1 to 3.4.1 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:32:50Z"
+        },
+        {
+            "title": "Bump com.h2database:h2 from 1.4.195 to 2.3.232 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:32:48Z"
+        },
+        {
+            "title": "Bump org.apache.maven.plugins:maven-war-plugin from 3.1.0 to 3.4.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:32:43Z"
+        },
+        {
+            "title": "Bump commons-io:commons-io from 2.6 to 2.18.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:32:00Z"
+        },
+        {
+            "title": "Bump org.apache.maven.plugins:maven-gpg-plugin from 1.5 to 3.2.7 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:31:43Z"
+        },
+        {
+            "title": "Bump org.apache.maven.plugins:maven-compiler-plugin from 3.8.0 to 3.13.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:31:39Z"
+        },
+        {
+            "title": "Bump org.apache.maven.plugins:maven-jar-plugin from 3.0.2 to 3.4.2 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:31:24Z"
+        },
+        {
+            "title": "Bump org.javassist:javassist from 3.27.0-GA to 3.30.2-GA in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:31:10Z"
+        },
+        {
+            "title": "Bump org.mockito:mockito-core from 3.11.2 to 5.15.2 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:31:06Z"
+        },
+        {
+            "title": "Bump org.apache.activemq:activemq-client from 6.1.2 to 6.1.5 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:30:57Z"
+        },
+        {
+            "title": "Bump swagger.version from 2.9.2 to 3.0.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:30:44Z"
+        },
+        {
+            "title": "Bump org.sonarsource.scanner.maven:sonar-maven-plugin from 3.7.0.1746 to 5.0.0.4389 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:30:27Z"
+        },
+        {
+            "title": "Bump camel.vertx.version from 2.23.0 to 4.9.0 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:30:24Z"
+        },
+        {
+            "title": "Bump org.apache.maven.plugins:maven-source-plugin from 2.2.1 to 3.3.1 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:30:07Z"
+        },
+        {
+            "title": "Bump org.apache.maven.plugins:maven-surefire-plugin from 2.22.0 to 3.5.2 in /registration-processor",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T06:30:04Z"
+        },
+        {
+            "title": "testing Pull request Updated README.md",
+            "author": "Prafulrakhade",
+            "date": "2025-01-09T07:37:21Z"
+        },
+        {
+            "title": "[MOSIP-37506] Updated to nfs-csi in values.yaml",
+            "author": "VSIVAKALYAN",
+            "date": "2024-11-26T06:16:46Z"
+        },
+        {
+            "title": "Update push-trigger.yml",
+            "author": "rajapandi1234",
+            "date": "2024-10-23T09:24:04Z"
+        },
+        {
+            "title": "Update push-trigger.yml",
+            "author": "rajapandi1234",
+            "date": "2024-10-22T06:53:56Z"
+        },
+        {
+            "title": "Mosip 35378 version change",
+            "author": "Khuddusshariff0022",
+            "date": "2024-10-08T12:32:41Z"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-08-29T05:23:10Z"
+        },
+        {
+            "title": "[MOSIP-34681] snyk fix",
+            "author": "rajapandi1234",
+            "date": "2024-08-27T12:05:40Z"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-08-23T07:15:15Z"
+        },
+        {
+            "title": "[mosip-34112] code changes for bio-dedupes update changes",
+            "author": "Khuddusshariff0022",
+            "date": "2024-08-09T12:38:01Z"
+        },
+        {
+            "title": "MOSIP-22185 readme updated",
+            "author": "sowmya695",
+            "date": "2024-04-18T06:38:35Z"
+        },
+        {
+            "title": "MOSIP-26346 Code fix for status code update",
+            "author": "sowmya695",
+            "date": "2024-02-05T07:08:46Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/core-processor/registration-processor-bio-dedupe-stage",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:41Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/core-processor/registration-processor-manual-adjudication-stage",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:18Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/core-processor/registration-processor-abis-handler-stage",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:17Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/pre-processor/registration-processor-quality-classifier-stage",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:16Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/core-processor/registration-processor-uin-generator-stage",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:15Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/core-processor/registration-processor-verification-stage",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:12Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/core-processor/registration-processor-abis-middleware-stage",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:11Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/workflow-engine/registration-processor-reprocessor",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:09Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/workflow-engine/registration-processor-workflow-manager-service",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:02Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.195 to 2.2.220 in /registration-processor/registration-processor-message-sender-impl",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:35:00Z"
+        },
+        {
+            "title": "MOSIP - 22953 - Add ABIS Response in the Manual Adjuducation Datashare URL - pull Request",
+            "author": "trialblazerseee",
+            "date": "2022-07-14T02:53:53Z"
+        },
+        {
+            "title": "MOSIP-18534 : Bus out halt config and conditions added to allow stop \u2026",
+            "author": "vishwa-vyom",
+            "date": "2021-11-30T07:24:43Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[BUG]  <use verb instead of noun such as 'unable to register...'",
+            "author": "ghost",
+            "date": "2022-07-27T08:58:41Z"
+        },
+        {
+            "title": "[BUG] - Unable to process packets in Processor",
+            "author": "amoljad",
+            "date": "2020-06-21T16:06:33Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "ashok-ksharma",
+            "comment": "No comment provided",
+            "date": "2025-02-06T12:49:24Z"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "comment": "No comment provided",
+            "date": "2025-02-03T12:21:07Z"
+        }
+    ]
+}

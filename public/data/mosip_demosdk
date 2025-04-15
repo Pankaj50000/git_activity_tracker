@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/demosdk",
+    "commits": [
+        {
+            "author": "ckm007",
+            "message": "[DSD-4772] PLA 1.2.0.1 release changes code to master"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#28)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #27 from LoganathanSekar7627/MOSIP-31845-fix-ida-startup-issue-due-to-jackson-dependency-related-error\n\nMOSIP-31845 Updated pom version"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Corrected jackson dependency versions and added exclusions\n\nSigned-off-by: Loganathan Sekar <Loganathan.Sekar@mindtree.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #26 from LoganathanSekar7627/MOSIP-31067-excluded-jackson-databind\n\nMOSIP-31067 updated jackson dependency"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[DSD-5110] updated push-trigger.yml file",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "[DSD-5110] updated push-trigger.yml file for java21 migration changes.",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "Bump spring-web from 5.0.6.RELEASE to 6.0.0 in /demosdk",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump jackson-databind from 2.11.3 to 2.12.7.1 in /demosdk",
+            "author": "dependabot[bot]"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[DSD-5110] updated push-trigger.yml file",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "[DSD-5110] updated push-trigger.yml file for java21 migration changes.",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "Bump spring-web from 5.0.6.RELEASE to 6.0.0 in /demosdk",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump jackson-databind from 2.11.3 to 2.12.7.1 in /demosdk",
+            "author": "dependabot[bot]"
+        }
+    ]
+}

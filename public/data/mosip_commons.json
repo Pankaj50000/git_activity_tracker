@@ -1,0 +1,761 @@
+{
+    "repository": "mosip/commons",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "v1.2.0.1 changes to master",
+            "date": "2025-01-09T12:29:19Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1496)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-01T07:22:02Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1495 from HimajaDhanyamraju2/release-1.2.0.1-scripts\n\nMOSIP-31759: Added upgrade scripts",
+            "date": "2024-02-27T15:57:19Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-31759: Added upgrade scripts\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-27T12:59:21Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1494 from Prafulrakhade/release-1.2.0.1\n\n[MOSIP-31766] Updated ossrh snapshot url in push-trigger.yml file",
+            "date": "2024-02-27T11:46:08Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[MOSIP-31766] Update OSSRH SNAPSHOT URL\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-02-27T10:57:24Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge branch 'mosip:release-1.2.0.1' into release-1.2.0.1",
+            "date": "2024-02-27T10:54:26Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1493 from HimajaDhanyamraju2/release-1.2.0.1-pomchanges\n\nChanged to SNAPSHOT versions",
+            "date": "2024-02-27T10:30:34Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "Changed to SNAPSHOT versions\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-27T09:29:28Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1492 from LoganathanSekar7627/MOSIP-31542-otpmanager-db-script-add-back-release-1.2.0.1\n\nMOSIP-31542-Revert \"Removed db script for otp-manager\"",
+            "date": "2024-02-26T07:45:52Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Revert \"Removed db script for otp-manager\"\n\nThis reverts commit 03db71aaebea55de2c0b7884d9b5a4c0046b655b.\n\nSigned-off-by: Loganathan Sekar <Loganathan.Sekar@mindtree.com>",
+            "date": "2024-02-20T06:12:53Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1489 from LoganathanSekar7627/MOSIP-29982-move-commons-release-1.2.0.1-changes-to-otpmanager-repo\n\n[MOSIP-29982] remove otp manager build in commons",
+            "date": "2024-01-29T06:26:53Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Removed otpmanager guild in push trigger.\n\nSigned-off-by: Loganathan Sekar <Loganathan.Sekar@mindtree.com>",
+            "date": "2024-01-25T12:35:15Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Removed db script for otp-manager\n\nSigned-off-by: Loganathan Sekar <Loganathan.Sekar@mindtree.com>",
+            "date": "2024-01-25T12:32:45Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Removed otp manager maven build\n\nSigned-off-by: Loganathan Sekar <Loganathan.Sekar@mindtree.com>",
+            "date": "2024-01-25T09:59:04Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1415 from avinashwagdare/RD\n\nMOSIP-24102",
+            "date": "2024-01-23T12:56:52Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1487 from mosip/MOSIP-30923\n\n[MOSIP-30923] moved ceffutil and biosdk provider to bio util",
+            "date": "2024-01-22T13:03:17Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-30923] moved ceffutil and biosdk provider to bio util\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-01-19T07:03:53Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[MOSIP-31202] renamed the upgrade sql's (#1485)\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-01-17T13:11:32Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1481 from kameshsr/MOSIP-30716\n\nMOSIP-30716 Added comments for profile specific plugin",
+            "date": "2023-12-21T16:40:39Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-30716 Added comments for otp manager and rid generator\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2023-12-21T08:56:14Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Updated comments\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2023-12-20T11:54:08Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-30716 Added comments for profile specif plugin\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2023-12-19T08:20:44Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#1475)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* [DSD-3932] Removed \"rc1\" from kernel-notification-service pom.xml \r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] updaetd pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] revert back the changes.\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] Updated latest biomatrics-api release version\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] Updated biomatrics-api latest release version\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] update biometrics-api latest version\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] minior fix\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: ckm007 <ckm007@users.noreply.github.com>\r\nCo-authored-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-12-14T10:54:37Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] removed release-changes.yml and tag.yml (#1479)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-14T07:48:37Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-3932] removed release-changes.yml and tag.yml\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-14T06:09:43Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-30716] (#1478)\n\n* [MOSIP-30716] removed unused declared parameters causing circular dependency for release\r\n\r\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>\r\n\r\n* [MOSIP-30716] updated the older version of dependency in pom\r\n\r\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2023-12-13T08:38:36Z"
+        },
+        {
+            "author": "Rakshith B",
+            "message": "[MOSIP-29961] Updated push-trigger.yml (#1477)\n\n* [MOSIP-29961] Updated push-trigger.yml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n* [MOSIP-29961] removed paths from db-test.yml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-12-13T08:34:30Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1470 from LoganathanSekar7627/revert-pom-build-changes-release-1.2.0.1\n\n[MOSIP-29931] Revert pom build changes release 1.2.0.1",
+            "date": "2023-11-24T16:21:19Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Revert \"Excluded OTP Manager from build of Commons\"\n\nThis reverts commit f439a7e2ec6f13c78d803fef892f22e3f32eba8f.\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-11-24T14:53:12Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Revert \"Removed build of otpmanager in github workflow\"\n\nThis reverts commit edd917648fd2bc66117f95a7434309bfc02920cb.\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-11-24T14:52:43Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Removed build of otpmanager in github workflow (#1469)\n\nSigned-off-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>",
+            "date": "2023-11-24T14:23:41Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Excluded OTP Manager from build of Commons (#1468)\n\nSigned-off-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>",
+            "date": "2023-11-24T13:53:13Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-29918] added db-test.yml (#1467)\n\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>",
+            "date": "2023-11-24T11:14:53Z"
+        },
+        {
+            "author": "Sasikumar Ganesan",
+            "message": "Merge pull request #1457 from LoganathanSekar7627/MOSIP-29931-otp-manager-security-fix-1.2.0.1\n\nMOSIP-29931 Fix to store hash of otp and key",
+            "date": "2023-10-27T12:50:30Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "test case fix\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-10-26T13:09:11Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "storing OTP and key hash to the ID\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-10-26T11:36:06Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Test fixes\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-10-25T13:25:15Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Updated db script to increase id column size to 64 for storing hash\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-10-25T13:10:21Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Fixed hash logic\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-10-25T13:09:51Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Fix to store hash of otp and key\n\nSigned-off-by: Loganathan Sekar <m1047627@mindtree.com>",
+            "date": "2023-10-25T11:33:16Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-29113] Updated clear-artifacts.yml (#1455)\n\n[MOSIP-25631]\r\n\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-09-26T14:12:14Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-29113] Updated workflows as per reusable workflows (#1454)\n\n[MOSIP-25631]\r\n\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-09-25T14:31:51Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1451 from HimajaDhanyamraju2/release-1.2.0.1_fork\n\nMOSIP-28212: Added error handling",
+            "date": "2023-09-07T18:03:00Z"
+        },
+        {
+            "author": "Himaja Dhanyamraju",
+            "message": "MOSIP-28212: Added error handling",
+            "date": "2023-09-07T13:06:37Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[MOSIP-28484] Added error handling for deploy.sh script (#1444)\n\nCo-authored-by: akilalakshmanan <Akila.L@iiitb.ac.in>",
+            "date": "2023-08-22T03:26:40Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1440 from mosip/ckm007-patch-7\n\n[MOSIP-27028] Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-17T12:54:06Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27028] Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-17T12:02:20Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[28241] Added docker build in push_trigger.yml file (#1436)",
+            "date": "2023-07-16T17:14:44Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1434 from mosip/ckm007-patch-5\n\n[MOSIP-27996]         updated rollback sql's",
+            "date": "2023-07-14T17:03:33Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1438 from mosip/ckm007-patch-4\n\n[DSD-3039] Commented moved out module authcodeflowproxyapi",
+            "date": "2023-07-13T11:18:43Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-3039] Commented moved out module authcodeflowproxyapi\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-13T11:17:39Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1437 from HimajaDhanyamraju2/release-1.2.0.1_versionchanges\n\nMOSIP-28224",
+            "date": "2023-07-13T06:16:23Z"
+        },
+        {
+            "author": "M1044292",
+            "message": "MOSIP-28224: Placeholder upgrade files created for last release to\n1.2.0.1 release since there are no DB changes",
+            "date": "2023-07-13T04:17:34Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_rollback.sql\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-15T02:22:38Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_rollback.sql\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-15T02:20:55Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27996]         updated rollback sql's",
+            "date": "2023-06-14T16:57:03Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1433 from mosip/ckm007-patch-3\n\n[MOSIP-27964] updated db upgrade sql",
+            "date": "2023-06-14T06:12:28Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27964]",
+            "date": "2023-06-13T16:55:25Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27964]",
+            "date": "2023-06-13T16:50:40Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_rollback.sql\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-13T12:50:42Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27964] updated db upgrade sql",
+            "date": "2023-06-13T11:22:11Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1430 from sowmya695/release-1.2.0.1\n\nMOSIP-27357 updated scripts",
+            "date": "2023-05-17T16:14:22Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "code review comments fixed",
+            "date": "2023-05-17T08:10:34Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-27357 updated scripts",
+            "date": "2023-05-15T10:46:27Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #1428 from mosip/MOSIP-23833\n\nMOSIP-23833",
+            "date": "2023-05-15T09:53:39Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-23833] restructered db upgrade scripts",
+            "date": "2023-05-08T06:34:18Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Rename release.sh to upgrade.sh",
+            "date": "2023-05-04T13:07:50Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-23833] updated DB upgrade scripts",
+            "date": "2023-05-04T12:17:54Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Rename 1.1.5.5_to_1.2.0.1_upgrade.sql to 1.1.5.5_to_1.2.0.1-B1_upgrade.sql (#1427)",
+            "date": "2023-05-04T06:48:42Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Rename 1.2.0.1_to_1.1.5.5_revoke.sql to 1.1.5.5_to_1.2.0.1-B1_rollback.sql",
+            "date": "2023-05-04T06:47:07Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Create release.sh",
+            "date": "2023-04-26T08:16:46Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1423 from mosip/ckm007-patch-11\n\n[DSD-2180] commented out depricated or moved api's",
+            "date": "2023-03-09T11:35:12Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2023-03-07T18:26:19Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-2180] commented out depricated or moved api's",
+            "date": "2023-03-07T18:22:39Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2023-02-22T11:16:43Z"
+        },
+        {
+            "author": "Fossgen_AvinashW",
+            "message": "Fixed:MOSIP-24102",
+            "date": "2022-12-20T10:02:05Z"
+        },
+        {
+            "author": "Fossgen_AvinashW",
+            "message": "Fixed: MOSIP-24102",
+            "date": "2022-12-20T09:48:43Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-23422] updated upgrade.sh",
+            "date": "2022-11-17T10:20:16Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-23422] updated deploy.properties",
+            "date": "2022-11-17T10:18:25Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1393 from ckm007/release-1.2.0.1\n\n[MOSIP-23422] changes for including patch release",
+            "date": "2022-10-25T10:38:15Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-23422] changes for including patch release",
+            "date": "2022-10-25T05:51:54Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1386 from ckm007/release-1.2.0.1\n\nMOSIP-23833",
+            "date": "2022-10-17T04:44:41Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-23833] add psql error handling",
+            "date": "2022-10-15T11:02:19Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-23833] renamed sql scripts",
+            "date": "2022-10-15T10:10:09Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1384 from ckm007/release-1.2.0.1\n\n[MOSIP-24254] reverted pom version to 1.2.0.1-SNAPSHOT",
+            "date": "2022-10-10T04:42:17Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-24254] reverted pom version to 1.2.0.1-SNAPSHOT",
+            "date": "2022-10-10T04:32:22Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1380 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-09-28T17:33:44Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "Release Bot Pre-release changes",
+            "date": "2022-09-28T17:05:06Z"
+        },
+        {
+            "author": "Sasikumar Ganesan",
+            "message": "Merge pull request #1375 from urviljoshi/email-html-enable-1.2.0.1\n\nconfigurable html content added",
+            "date": "2022-09-15T08:10:17Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "configurable html content added",
+            "date": "2022-03-23T14:34:59Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1360 from urviljoshi/prid-h-h\n\nPrid health check cherry-pick",
+            "date": "2022-08-19T11:14:47Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "health check issue resolved",
+            "date": "2022-04-22T08:23:40Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "health check issue resolved",
+            "date": "2022-04-22T10:39:37Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1358 from urviljoshi/scripts_rerstruc\n\ndb release restructure",
+            "date": "2022-08-18T10:28:15Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "db release restructure",
+            "date": "2022-08-17T13:06:36Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20028] added action for tagging",
+            "date": "2022-07-18T03:02:57Z"
+        },
+        {
+            "author": "Monobikash Das",
+            "message": "MOSIP-22432 : added new addAuthFilter method (#1341)",
+            "date": "2022-06-30T15:52:02Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "1.2.0.1 logout (#1337)\n\n* temp endpoint added for logout (#1324)\r\n\r\n* temp endpoint added for logout (#1324)\r\n\r\n* temp endpoint added for logout (#1324)\r\n\r\n* Logout issue (#1326)\r\n\r\n* temp endpoint added for logout\r\n\r\n* logout modified for keycloak 14\r\n\r\n* Logout issue (#1327)\r\n\r\n* temp endpoint added for logout\r\n\r\n* logout modified for keycloak 14\r\n\r\n* changing delete to get api\r\n\r\n* Logout issue (#1328)\r\n\r\n* temp endpoint added for logout\r\n\r\n* logout modified for keycloak 14\r\n\r\n* changing delete to get api\r\n\r\n* ut modified from delete to get\r\n\r\n* Logout issue (#1329)\r\n\r\n* merge commit\r\n\r\n* merge commit\r\n\r\n* Logout issue (#1330)\r\n\r\n* merge commit\r\n\r\n* merge commit\r\n\r\n* changed method\r\n\r\n* changed uri component builder (#1331)\r\n\r\n* unused import removed",
+            "date": "2022-06-03T04:52:49Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #1325 from mosip/ckm007-patch-8\n\nUpdate release_changes.yml",
+            "date": "2022-05-20T01:05:50Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[MOSIP-35637] added sqaush layers",
+            "author": "Rakshithb1",
+            "date": "2025-02-05T12:40:57Z"
+        },
+        {
+            "title": "[MOSIP-35637]",
+            "author": "Rakshithb1",
+            "date": "2025-02-04T13:06:05Z"
+        },
+        {
+            "title": "[MOSIP-39559] Updated configmap-share.yaml",
+            "author": "shubham17998",
+            "date": "2025-02-04T11:14:38Z"
+        },
+        {
+            "title": "[MOSIP-36830]-Adding  Trivy scan to analyse Docker image vulnerabilities",
+            "author": "rajapandi1234",
+            "date": "2024-10-16T06:31:36Z"
+        },
+        {
+            "title": "MOSIP-31617: Sonar Fixes",
+            "author": "HimajaDhanyamraju2",
+            "date": "2024-07-10T07:39:58Z"
+        },
+        {
+            "title": "Revert \"[MOSIP-30425] Updated bootstrap properties\"",
+            "author": "ckm007",
+            "date": "2024-06-14T08:17:06Z"
+        },
+        {
+            "title": "[MOSIP-29771] Updated icu4j version",
+            "author": "aihamh",
+            "date": "2023-10-31T08:11:22Z"
+        },
+        {
+            "title": "Bump json from 20180813 to 20230227 in /kernel/kernel-applicanttype-api",
+            "author": "dependabot[bot]",
+            "date": "2023-04-14T17:51:32Z"
+        },
+        {
+            "title": "Bump itextpdf from 5.5.13 to 5.5.13.3 in /kernel/kernel-pdfgenerator-itext",
+            "author": "dependabot[bot]",
+            "date": "2023-03-27T22:20:46Z"
+        },
+        {
+            "title": "Revert kernel core change for auth adapter 1",
+            "author": "loganathan-sekaran",
+            "date": "2023-02-01T07:29:18Z"
+        },
+        {
+            "title": "Moved auth adapter api classes into mosip-openid-bridge-api module. and",
+            "author": "loganathan-sekaran",
+            "date": "2022-12-22T15:14:32Z"
+        },
+        {
+            "title": "Add CodeQL workflow for GitHub code scanning",
+            "author": "lgtm-com[bot]",
+            "date": "2022-12-04T15:28:22Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.9.6 to 2.12.7.1 in /kernel/kernel-biometrics-api",
+            "author": "dependabot[bot]",
+            "date": "2022-11-16T11:00:06Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.9.6 to 2.12.7.1 in /kernel/kernel-demographics-api",
+            "author": "dependabot[bot]",
+            "date": "2022-11-16T10:59:50Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.7.1 in /kernel/kernel-core",
+            "author": "dependabot[bot]",
+            "date": "2022-11-16T02:43:52Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.7.1 in /kernel/kernel-salt-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-11-16T02:38:48Z"
+        },
+        {
+            "title": "Bump spring-data-jpa from 2.0.7.RELEASE to 2.1.0.RELEASE in /kernel/kernel-core",
+            "author": "dependabot[bot]",
+            "date": "2022-10-05T19:25:32Z"
+        },
+        {
+            "title": "MOSIP-23962 Db lock added to idgen batch ops",
+            "author": "urviljoshi",
+            "date": "2022-09-20T10:44:00Z"
+        },
+        {
+            "title": "MOSIP-23945 bean defination modified for websub and authcode proxy flow",
+            "author": "urviljoshi",
+            "date": "2022-09-16T11:40:33Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-machineid",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:46Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-ridgenerator-service",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:46Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-otpmanager-service",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:46Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-salt-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:46Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-rid",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:46Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-service",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:46Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-prid",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:46Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-partnerid",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:45Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-mispid",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:45Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-pridgenerator-service",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:45Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-regcenterid",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:45Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.4.1 in /kernel/kernel-idgenerator-tokenid",
+            "author": "dependabot[bot]",
+            "date": "2022-09-08T01:14:45Z"
+        },
+        {
+            "title": "revamp db release documentation",
+            "author": "urviljoshi",
+            "date": "2022-04-11T08:33:26Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /kernel/kernel-websubclient-api",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T20:07:50Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /kernel/kernel-salt-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T20:07:22Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /kernel/kernel-transliteration-icu4j",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T20:07:16Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /kernel/kernel-biosdk-provider",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T20:07:02Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /kernel/kernel-notification-service",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T20:06:45Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /kernel/kernel-authcodeflowproxy-api",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T19:31:53Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /kernel/kernel-dataaccess-hibernate",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T19:00:42Z"
+        },
+        {
+            "title": "1.1.4",
+            "author": "ashegad",
+            "date": "2021-05-20T07:22:50Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[BUG] Notification service in a crash loop ",
+            "author": "jainhitesh9998",
+            "date": "2022-10-18T18:42:40Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "dhanendra06",
+            "comment": "No comment provided",
+            "date": "2025-02-04T13:13:32Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-07-10T16:52:34Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "comment": "No comment provided",
+            "date": "2024-07-11T04:44:04Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "comment": "No comment provided",
+            "date": "2024-07-11T04:48:26Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "comment": "No comment provided",
+            "date": "2024-07-12T06:41:36Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "comment": "No comment provided",
+            "date": "2024-07-12T06:41:48Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-07-16T09:37:44Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-07-16T09:38:50Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "comment": "No comment provided",
+            "date": "2024-07-19T10:37:03Z"
+        }
+    ]
+}

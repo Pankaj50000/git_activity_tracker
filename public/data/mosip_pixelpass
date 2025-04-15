@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/pixelpass",
+    "commits": [
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIVER-720] - add gradle tasks ans steps to generate and include javadoc and sourcesets (#81)\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6411] injiverify 0.10.0 release changes (#80)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIVER-718] - update readme (#78)\n\n* [INJIVER-718] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-718] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "JAVA version downgrade to 17 (#69)\n\n* [INJIVER-644] - update API with its own functionality only and throw proper errors\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [NOJIRA] - java21 to java17 for wallet support\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIVER-644] - Added extra API to support binary QR data decoding for Sunbird QR codes (#68)\n\n* [INJIVER-644] - rename binary decode API\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - add binary decode API\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update API with its own functionality only and throw proper errors\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.6.0 release",
+            "author": "vishwa-vyom"
+        },
+        {
+            "title": "Bump path-to-regexp and express in /js/example",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump cookie and express in /js/example",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump send and express in /js/example",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump serve-static and express in /js/example",
+            "author": "dependabot[bot]"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.6.0 release",
+            "author": "vishwa-vyom"
+        },
+        {
+            "title": "Bump path-to-regexp and express in /js/example",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump cookie and express in /js/example",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump send and express in /js/example",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump serve-static and express in /js/example",
+            "author": "dependabot[bot]"
+        }
+    ]
+}

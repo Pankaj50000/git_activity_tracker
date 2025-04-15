@@ -1,0 +1,345 @@
+{
+    "repository": "mosip/inji-vci-client",
+    "commits": [
+        {
+            "author": "ckm007",
+            "message": "[DSD-6169] inji-wallet 0.13.1 release changes to master",
+            "date": "2024-09-10T11:54:42Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #31 from Prafulrakhade/release-0.1.x\n\n[DSD-6169] inji-wallet 0.13.1 release",
+            "date": "2024-09-06T07:01:54Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6169] inji-wallet 0.13.1 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-09-06T06:17:58Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update publish-maven-npm.yml (#30)\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-09-06T05:36:25Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1970] add dependency node in publish-artifact (#28)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-09-05T19:12:09Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[DSD-5825] - Add missing pom parameters and support for gpg sign (#24)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-07-31T16:20:49Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #23 from tw-mosip/release-0.1.x\n\n[DSD-5825] - add mandatory nodes for pom",
+            "date": "2024-07-29T07:39:53Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "[DSD-5825] - add mandatory nodes for pom\n\nSigned-off-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-07-29T07:33:03Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #21 from Prafulrakhade/release-0.1.x\n\n[DSD5825] Updated publish-maven-npm.yml",
+            "date": "2024-07-29T06:32:18Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update publish-maven-npm.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-07-29T06:28:06Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD5825] Updated publish-maven-npm.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-07-29T06:22:37Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] update publish workflow to be in sync with master (#19)\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-07-26T12:44:40Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-5825] inji-mob 0.13.0 release changes (#18)\n\n* [DSD-5825] inji-mob 0.13.0 release changes\r\n\r\nSigned-off-by: shubham_G <88794020+shubham17998@users.noreply.github.com>\r\n\r\n* [DSD-5825] inji-mob 0.13.0 release changes\r\n\r\nSigned-off-by: shubham_G <88794020+shubham17998@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: shubham_G <88794020+shubham17998@users.noreply.github.com>",
+            "date": "2024-07-26T10:51:35Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] update organization in license (#16)\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-07-11T10:28:23Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1552] fix attribute name mismatch on serialization process (#11)\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-06-28T12:18:45Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] update readme (#9)\n\n* [INJIMOB-1303] update readme\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1303] update version to 0.1.0\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1303] update readme\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-06-21T12:54:29Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] remove unused dependencies (#7)\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-23T09:18:26Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] modify request credential signature to accept proofJWT directly (#6)\n\n* [INJIMOB-1302] accept proofJWT for request credential method\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1303] refactor test and optimize imports\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1303] update publish snapshot version to 1.1\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] fix typo in downloadTimeout field\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-23T03:05:37Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #4 from tw-mosip/injimob-1303-refactor-kotlin-vci-client\n\n[INJIMOB-1303] refactor kotlin vci client",
+            "date": "2024-05-16T08:45:20Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] setup JDK version as 21 in kotlin build\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-16T07:32:55Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] extract JsonUtils for serialization & deserialization\n\nCreated singleton instance of Gson and use it in the library to avoid expensive calls\nRef - https://groups.google.com/g/google-gson/c/rhIJ4wi5IRE\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-16T07:25:30Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] throw invalid public key exception when passed publicKey is invalid\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-16T07:00:35Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #2 from tw-mosip/injimob-1303-workflows\n\n[INJIMOB-1303] add push as trigger for android publish for test",
+            "date": "2024-05-15T10:36:12Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] remove PR trigger for publishing aar\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-15T10:14:08Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] add gradle jar\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-15T10:05:58Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] modify service location inputs of android publish job\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-15T08:49:00Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] initiate gradle wrapper in vci-client\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-15T08:48:03Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] create MIT LICENSE\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-15T08:31:11Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] set java 21 version for android publish\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-15T08:16:10Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] add push & PR trigger for kotlin test check\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-13T10:19:12Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] add push as trigger for android publish for test\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-13T09:46:11Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #1 from tw-mosip/develop\n\n[INJIMOB-1303] kotlin inji-vci-client",
+            "date": "2024-05-13T09:32:08Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #2 from tw-mosip/injimob-1303-workflows\n\n[INJIMOB-1303] add android publish workflow",
+            "date": "2024-05-13T07:33:59Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] add android publish workflow\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-10T11:08:39Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] create gradle wrapper\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-10T11:03:10Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #1 from tw-mosip/injimob-979-kotlin-vci-client\n\n[INJIMOB-1303] kotlin library for inji-vci-client",
+            "date": "2024-05-07T09:56:31Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] add direct values in assertions\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-07T08:53:17Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] add traceability ID to the log\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-07T08:36:00Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] rename IssuerMeta to IssuerMetaData\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-07T07:59:11Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] update readme\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-07T07:55:34Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] remove unused dependencies\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-07T06:21:54Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] extract proof generation part\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-07T03:21:10Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] move building credentialRequest to factory pattern based on credentialFormat\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-06T04:44:32Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] move building credentialResponse to factory pattern\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-03T12:54:35Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] move token expiration period to constant\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-03T06:00:35Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] move proofJWT algorithm & type to constants\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-03T05:57:14Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] modify readme\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-24T11:45:24Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] remove unused debug logs\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-24T10:58:48Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] add jacoco test report generation\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-24T10:55:58Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] update json dependency\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-24T10:53:29Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] update gradle\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-24T10:51:05Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] update readme\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-24T10:49:36Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] implement example for inji vci client module\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-17T16:13:00Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1303] inji vci client kotlin library\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-04-17T16:03:55Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Initial commit",
+            "date": "2024-04-17T10:40:53Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.2.0 release",
+            "author": "vishwa-vyom",
+            "date": "2025-01-27T00:36:34Z"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-09-19T07:54:05Z"
+        }
+    ],
+    "issues": [],
+    "reviews": [
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2025-01-27T02:18:09Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2025-01-27T02:34:01Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "comment": "No comment provided",
+            "date": "2025-01-28T13:11:24Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "comment": "No comment provided",
+            "date": "2025-01-28T13:23:33Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-01-29T06:43:11Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-01-29T07:00:29Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-01-29T07:00:31Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-01-29T07:01:20Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-01-31T08:25:46Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-01-31T08:27:51Z"
+        }
+    ]
+}

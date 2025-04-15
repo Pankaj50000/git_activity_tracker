@@ -1,0 +1,771 @@
+{
+    "repository": "mosip/mosip-ref-impl",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "1.2.0.1 release changes",
+            "date": "2025-01-13T11:56:32Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1007 from Prafulrakhade/release-1.2.0.x\n\n[DSD-5498] release changes",
+            "date": "2024-06-19T12:36:23Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-06-19T12:27:33Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update push-trigger.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-06-19T10:31:13Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-5498] release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-06-19T10:13:36Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-5498] release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-06-19T10:11:42Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1006 from Prafulrakhade/release-1.2.0.x\n\n[DSD-5498] updated spring-cloud-config.version",
+            "date": "2024-06-18T14:30:24Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update pom.xml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-06-18T13:48:30Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update pom.xml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-06-18T13:47:55Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1005 from Prafulrakhade/release-1.2.0.x\n\n[DSD-5498] updated authentication-rel-impl parent version",
+            "date": "2024-06-18T07:59:23Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update pom.xml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-06-18T07:21:49Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update pom.xml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-06-18T07:21:21Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-5492] Updated push-trigger.yml (#1004)\n\nSigned-off-by: shubham_G <88794020+shubham17998@users.noreply.github.com>",
+            "date": "2024-06-17T07:43:05Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1002 from ase-101/release-1.2.0.x\n\nES-1305",
+            "date": "2024-06-14T16:43:27Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-1305\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-06-14T16:38:04Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Revert \"Updated Pom versions for release changes (#1001)\" (#1003)\n\nThis reverts commit 3ad76f142278573a16fe9c58f824f9a39eb8f391.",
+            "date": "2024-06-14T15:28:25Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-1305\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-06-14T14:34:05Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1001)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-06-13T13:46:19Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Update push-trigger.yml (#990)\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-05-31T11:24:41Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #989 from balaji-alluru/release-1.2.0.x\n\nES-519",
+            "date": "2024-05-30T18:13:10Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "updated pom file versions\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-05-30T12:56:35Z"
+        },
+        {
+            "author": "Muralitharan K",
+            "message": "ES-519: Implementation of Min & Max length logic in SMS ref. (#965)\n\n* ES-519: SMS number min and max length configuration\r\n\r\nSigned-off-by: Muralitharan K <muralitharan@mosip.io>\r\n\r\n* ES-519: SMS number min and max length configuration\r\n\r\nSigned-off-by: Muralitharan K <muralitharan@mosip.io>\r\n\r\n---------\r\n\r\nSigned-off-by: Muralitharan K <muralitharan@mosip.io>",
+            "date": "2024-01-02T10:46:02Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#982)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T09:20:44Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #981 from LoganathanSekar7627/MOSIP-31845-fix-ida-startup-issue-due-to-jackson-dependency-related-error\n\nMOSIP-31845-Corrected jackson dependency versions and added exclusions",
+            "date": "2024-02-29T07:04:31Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Corrected jackson dependency versions and added exclusions\n\nSigned-off-by: Loganathan Sekar <Loganathan.Sekar@mindtree.com>",
+            "date": "2024-02-29T04:58:50Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #980 from Khuddusshariff0022/release-1.2.0.1-mosip-31766\n\n[Mosip-31766] changing pom version to 1.2.0.1-SNAPSHOT",
+            "date": "2024-02-28T04:28:54Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[Mosip-31766] changing pom version to 1.2.0.1-SNAPSHOT\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-02-27T13:03:59Z"
+        },
+        {
+            "author": "avinashwagdare",
+            "message": "Fixed: MOSIP-25196 (#934)\n\nCo-authored-by: Fossgen_AvinashW <Fossgen_AvinashW@nsdlegovnb943.nsdl.co.in>",
+            "date": "2024-01-24T10:39:01Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #978 from Prafulrakhade/release-1.2.0.1\n\n[DSD-4270] updated pom version as 1.2.0.1-SNAPSHOT",
+            "date": "2024-01-22T07:59:58Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-4270] updated pom version as 1.2.0.1-SNAPSHOT\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-01-22T07:56:39Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #977 from Prafulrakhade/release-1.2.0.1\n\n[DSD-4270] updated pom version as 1.2.0.1-SNAPSHOT",
+            "date": "2024-01-22T07:41:07Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-4270] updated pom version as 1.2.0.1-SNAPSHOT\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-01-22T07:37:36Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #976 from Prafulrakhade/release-1.2.0.1\n\n[DSD-4270] updated pom version as 1.2.0.1-SNAPSHOT",
+            "date": "2024-01-22T07:28:23Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-4270] updated pom version as 1.2.0.1-SNAPSHOT\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-01-22T07:15:02Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge branch 'mosip:release-1.2.0.1' into release-1.2.0.1",
+            "date": "2024-01-22T06:42:49Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #975 from mosip/releas-branch\n\nPost release changes",
+            "date": "2024-01-22T06:14:01Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "Updated Pom versions for release changes\n\nSigned-off-by: GitHub <noreply@github.com>",
+            "date": "2024-01-22T05:58:20Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #974 from aranaravi/release-1.2.0.1\n\n[MOSIP-28400]Updating the pom version as recommended by team",
+            "date": "2024-01-19T10:17:08Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Updating the pom version as recommended by team\n\nSigned-off-by: Aravindhan Alagesan <aravindh2090@gmail.com>",
+            "date": "2024-01-19T10:14:23Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #973 from sowmya695/MOSIP-31018_release\n\nMerge pull request #969 from sowmya695/MOSIP-31018_develop",
+            "date": "2024-01-15T06:09:16Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #969 from sowmya695/MOSIP-31018_develop\n\nMosip 31018 develop\n\nSigned-off-by: Sowmya Ujjappa Banakar <sowmya.61022006@ltimindtree.com>",
+            "date": "2024-01-11T12:32:40Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #971 from aranaravi/release-1.2.0.1\n\n[MOSIP-28400]Added the url decoder to avoid double encoding for SMS",
+            "date": "2024-01-11T05:30:27Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Added the url decoder to avoid double encoding for SMS\n\nSigned-off-by: Aravindhan Alagesan <aravindh2090@gmail.com>",
+            "date": "2024-01-11T05:20:38Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[DSD-3932] (#968)\n\n* [DSD-3932] updated for release\r\n\r\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>\r\n\r\n* [MOSIP-3932] updated pom version for authentication-ref-parent\r\n\r\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-01-03T10:49:24Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[DSD-3932] updated for release (#967)\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-01-02T17:10:57Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[DSD-3923] Update push-trigger.yml (#966)\n\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2024-01-02T15:48:13Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-3932] Updated changes for release\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2023-12-28T17:48:07Z"
+        },
+        {
+            "author": "Rakshith B",
+            "message": "[MOSIP-29961] Updated push-trigger.yml (#964)\n\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-12-25T17:11:00Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file (#961)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-25T17:10:32Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-21T13:25:33Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-29252] updated pom.xml and added project key  for reusable flows (#956)\n\n* [MOSIP-29252] updated project key for reusable flows\r\n\r\n* [MOSIP-29252] updated project key for reusable flows\r\n\r\n* [MOSIP-29252] updated project key for reusable flows\r\n\r\n* [MOSIP-29252] updated project key for reusable flows",
+            "date": "2023-10-04T08:08:48Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-3005] updated publish_to_nexus_kernel job in push_trigger.yml (#948)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-07-11T08:39:21Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-3005] separated jobs in push_trigger.yml (#945)\n\n* [DSD-3005] separated jobs in push_trigger.yml\r\n\r\n* [DSD-3005] updated as per review changes\r\n\r\n---------\r\n\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-07-11T08:26:00Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[DSD-2986] fixed the publish to nexus failure (#941)\n\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2023-07-10T08:36:51Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #939 from sowmya695/release-1.2.0.1\n\nMOSIP-28181 version changes",
+            "date": "2023-07-07T07:14:49Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-28181 version changes",
+            "date": "2023-06-28T10:47:51Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md (#937)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-21T14:28:28Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #929 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-10-21T07:36:33Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "Release Bot Pre-release changes",
+            "date": "2022-10-21T07:32:42Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #927 from ckm007/release-1.2.0.1\n\n[MOSIP-24254] reverted pom version",
+            "date": "2022-10-10T11:42:20Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-24254] reverted pom version",
+            "date": "2022-10-10T11:41:13Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #926 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-09-30T04:23:11Z"
+        },
+        {
+            "author": "pramod444",
+            "message": "Release Bot Pre-release changes",
+            "date": "2022-09-29T11:09:36Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20028] added action for tagging",
+            "date": "2022-07-18T06:25:12Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #920 from mosip/ckm007-patch-1\n\nUpdate README.md",
+            "date": "2022-07-04T14:22:47Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2022-07-04T14:22:08Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #916 from mosip/syed-salman-technoforte-patch-1\n\n[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-20T00:52:19Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-19T11:17:59Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #914 from syed-salman-technoforte/release-1.2.0.1\n\n[ MOSIP-20020 ] updated push_trigger.yml",
+            "date": "2022-05-12T13:25:08Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "[ MOSIP-20020 ] updated push_trigger.yml",
+            "date": "2022-05-12T13:23:52Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20020] Update release_changes.yml",
+            "date": "2022-05-12T10:45:27Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Merge pull request #901 from aihamh/develop\n\n[MOSIP-193847] Fixed Book Appointment Slot time issue",
+            "date": "2022-03-03T07:58:05Z"
+        },
+        {
+            "author": "Aiham Hasan",
+            "message": "[MOSIP-193847] Fixed Book Appointment Slot time issue",
+            "date": "2022-03-03T07:54:12Z"
+        },
+        {
+            "author": "Aiham Hasan",
+            "message": "Merge branch 'develop' of https://github.com/aihamh/mosip-ref-impl into develop",
+            "date": "2022-03-03T07:40:05Z"
+        },
+        {
+            "author": "Aiham Hasan",
+            "message": "Merge pull request #900 from mayuradesh/mydev\n\nMOSIP-20359 updated getApplicationStatus url",
+            "date": "2022-03-03T07:39:45Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Merge pull request #900 from mayuradesh/mydev\n\nMOSIP-20359 updated getApplicationStatus url",
+            "date": "2022-03-03T05:13:41Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "MOSIP-20359 updated getApplicationStatus url",
+            "date": "2022-03-03T05:12:59Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Merge pull request #898 from mayuradesh/mydev\n\nMOSIP-20359 added chk if PRID belongs to the user",
+            "date": "2022-03-02T13:09:01Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "MOSIP-20359 added chk if PRID belongs to the user",
+            "date": "2022-03-02T13:07:57Z"
+        },
+        {
+            "author": "Monobikash Das",
+            "message": "Updated pom version (#893)",
+            "date": "2022-02-18T06:43:04Z"
+        },
+        {
+            "author": "Monobikash Das",
+            "message": "merged release-1.2.0 (#892)\n\n* updating booking pom version\r\n\r\n* updating kernel pom for rc2 version\r\n\r\n* updating kernel pom rc2 version\r\n\r\n* updating push trigger branch\r\n\r\n* Update push_trigger.yml\r\n\r\n* Updated pom version to rc2 (#698)\r\n\r\nCo-authored-by: Monobikash Das <M1045447@mindtree.com>\r\n\r\n* Fixed the packet status issues\r\n\r\n* Fixed the issue related to single language in template page\r\n\r\n* Moving the changes related to RC2 blocker hot fixes\r\n\r\n* MOSIP-17343\r\n\r\n* MOSIP-17343\r\n\r\n* Changes missed in rc2 file has been added\r\n\r\n* Fixing the RC3 related bugs\r\n\r\n* Latest admin UI bug fixes\r\n\r\n* Added missing data feature to documnet type and category\r\n\r\n* Latest Admin UI changes\r\n\r\n* Change the location hirearchy logic based on the location code config\r\n\r\n* Fixed the blocker issue and displayed certificate after csr generate\r\n\r\n* Merge from dev\r\n\r\n* Fixed the Active InActive issue user center mapping\r\n\r\n* Added Module Name as part of request for template creation\r\n\r\n* Added condition to not load the last level of the data in location\r\n\r\n* Request sent POST for both the panel has been fixed\r\n\r\n* Removed the old hardcoded with region\r\n\r\n* Modified the userId param in url param instead of id\r\n\r\n* Fixed certificate formatting and handled 999 code specifically\r\n\r\n* Pagination not working in zone user is fixed\r\n\r\n* Issue in cancel button not redirecting is fixed and implemented missing Ids\r\n\r\n* Swagger related code from dev\r\n\r\n* Modified the search functionality in edit mode with code instead of id\r\n\r\n* Removed the location related info from the dropdown which is not displayed in listing screen\r\n\r\n* MOSIP-17753 fixed swagger issues\r\n\r\n* Latest Changes related to Must fix changes in sprint1\r\n\r\n* Modified the hardcoded url\r\n\r\n* Dynamic field routing path sends description instead of name has been fixed\r\n\r\n* Handled 500 validate token seperately in UI\r\n\r\n* MOSIP-17633 Sprint 1 Fix\r\n\r\n* Moved the entity spec file load logic during run time\r\n\r\n* Sprint 2 MOSIP-17633 Fix\r\n\r\n* removed admin-ui build.\r\n\r\n* MOSIP-16661, pom.xml Fixed\r\n\r\n* Modified the registartion with custom UI\r\n\r\n* Dockerfile modified to map the jar file to standalone folder\r\n\r\n* MOSIP-17852 fix from dev\r\n\r\n* MOSIP-18794,MOSIP-18959,MOSIP-18323 Fixes\r\n\r\n* added for prereg build failure.\r\n\r\n* added for prereg build failure.\r\n\r\n* added afterburner jar dependencies.\r\n\r\n* Virus scanner guide added.\r\n\r\n* Guide updated.\r\n\r\n* [ DSD-697 ] Fixed issues\r\n\r\n* [ DSD-697 ] updated ida username\r\n\r\n* [ DSD-697 ] set for python3\r\n\r\n* added new gpg keys\r\n\r\n* Deleted missed files\r\n\r\n* Mosip:15286 Fixed Generation of openapi.json (#860)\r\n\r\n* Mosip:15286 Fixed Generation of openapi.json\r\n\r\n* Changed name to artifactid for openapi.json.\r\n\r\n* [MOSIP-19014] Doc cleanup.\r\n\r\n* to trigger rebuild\r\n\r\n* Fixed Security issues, bugs as per SonarCloud\r\n\r\n* Added comments\r\n\r\n* removed below module folders from mosip-ref-impl and created below repos for the same:\r\nFolder      Repo-name\r\nadmin-ui >> admin-ui\r\nauthentication-demo-ui  >>  authentication-demo-ui\r\nbiosdk-client >>  biosdk-client\r\nbiosdk-services  >> biosdk-services\r\ncreate-db-user >> mosip-infra/utils\r\ndata-archive  >>   data-archive\r\ndata-dml   >>  mosip-data\r\ndemo-sdk   >>  demosdk\r\nhsm-keystore-impl   >>  hsm-ref-impl\r\nkeycloak   >>    keycloak\r\nPre-registration-ui   >>   pre-registration-ui\r\n\r\n* Fixed compilation error\r\n\r\n* Update pom.xml\r\n\r\n* Update pom.xml\r\n\r\nupdated prometheus version\r\n\r\n* [MOSIP-19983] updated workflows\r\n\r\n* [MOSIP-19883] updated workflow\r\n\r\n* Fixed build issue\r\n\r\n* [MOSIP-19883] updated workflow\r\n\r\n* [MOSIP-19883] updated workflow\r\n\r\n* [MOSIP-19883] updated workflow\r\n\r\n* Updated Pom versions for release changes\r\n\r\n* Updated Pom versions for release changes\r\n\r\n* [MOSIP-19885] updated plugins\r\n\r\nCo-authored-by: Ajay1596 <ajay.j2@mindtree.com>\r\nCo-authored-by: Ajay1596 <44763643+Ajay1596@users.noreply.github.com>\r\nCo-authored-by: Monobikash Das <M1045447@mindtree.com>\r\nCo-authored-by: Aravindhan Alagesan <aravindh2090@gmail.com>\r\nCo-authored-by: Sasikumar Ganesan <gsasikumar@gmail.com>\r\nCo-authored-by: Mandeep Dhiman <46880392+mandeepdhiman123@users.noreply.github.com>\r\nCo-authored-by: ase-101 <sunkadaeanusha@gmail.com>\r\nCo-authored-by: Mayura Deshmukh <mayura.deshmukh@gmail.com>\r\nCo-authored-by: Mayura Deshmukh <52281514+mayuradesh@users.noreply.github.com>\r\nCo-authored-by: mandeepdhiman123 <mandeep.kumar@technoforte.co.in>\r\nCo-authored-by: Mahammed Taheer <mohd.taheer@gmail.com>\r\nCo-authored-by: Puneet Joshi <puneet@mosip.io>\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>\r\nCo-authored-by: kameshsr <47484458+kameshsr@users.noreply.github.com>\r\nCo-authored-by: Loganathan Sekar <loganathan.sekar@mindtree.com>\r\nCo-authored-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: ckm007 <ckm007@users.noreply.github.com>",
+            "date": "2022-02-18T06:03:51Z"
+        },
+        {
+            "author": "Monobikash Das",
+            "message": "Added cache provider redis module (#884)\n\n* Added cache provider redis module\r\n\r\n* Added cache provider redis module",
+            "date": "2022-02-09T12:58:12Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Merge pull request #874 from mayuradesh/mydev\n\nResolved bugs as per SonarCloud",
+            "date": "2022-01-25T10:32:50Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Resolved bugs as per SonarCloud",
+            "date": "2022-01-25T10:31:53Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Merge pull request #873 from mayuradesh/mydev\n\nFixed Security Hotspots, Bugs, as per SonarCloud",
+            "date": "2022-01-25T08:26:55Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Fixed Security Hotspots",
+            "date": "2022-01-25T08:23:58Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "Merge pull request #871 from mayuradesh/mydev\n\ndummy PR to trigger rebuild",
+            "date": "2022-01-24T10:55:47Z"
+        },
+        {
+            "author": "Mayura Deshmukh",
+            "message": "to trigger rebuild",
+            "date": "2022-01-24T10:54:55Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Mosip:15286 Fixed Generation of openapi.json (#864)\n\n* MOSIP-17753 Fixed white label error page for dev env.\r\n\r\n* MOSIP-17753 Fixed white label error page for dev env.\r\n\r\n* MOSIP-17753 Generated opanpi.json for reg-proc external integration service.\r\n\r\n* MOSIP-15368 Generated opanpi.json for pre-reg booking service.\r\n\r\n* MOSIP-15368 Fixed openapi UI issue in booking service.\r\n\r\n* MOSIP-15368 Fixed openapi UI issue in booking service.\r\n\r\n* MOSIP-15368 Fixed openapi UI issue in booking service.\r\n\r\n* MOSIP-15368 Fixed 401 issue in booking service.\r\n\r\n* Mosip:15286 Fixed Generation of openapi.json\r\n\r\n* Mosip:15286 Fixed Generation of openapi.json",
+            "date": "2022-01-12T09:42:43Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Merge pull request #869 from LoganathanSekar7627/auth-demo-ui-option-to-capture-delay-and-prelts\n\nAdded option to add delay after capture, and prelts test",
+            "date": "2022-01-11T16:06:51Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Added option to add delay after capture, and prelts test",
+            "date": "2022-01-11T15:10:21Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #867 from manojsp12/MOSIP-19482MOSIP-19482\n\n[MOSIP-19482] Resolved dependency management for jackson ObjectMapper",
+            "date": "2022-01-11T10:48:00Z"
+        },
+        {
+            "author": "Manoj SP",
+            "message": "[MOSIP-19482] Resolved dependency management for jackson ObjectMapper",
+            "date": "2022-01-11T10:40:38Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #865 from aranaravi/develop\n\nDevelop",
+            "date": "2022-01-11T05:56:24Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Modified the registartion page to capture the language code for notification",
+            "date": "2022-01-11T05:54:30Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #862 from syed-salman-technoforte/develop\n\nadded new gpg keys",
+            "date": "2022-01-10T06:14:59Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "added new gpg keys",
+            "date": "2022-01-10T05:23:24Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Mosip:15286 Fixed Generation of openapi.json for Pre-reg booking service. (#859)\n\n* MOSIP-17753 Fixed white label error page for dev env.\r\n\r\n* MOSIP-17753 Fixed white label error page for dev env.\r\n\r\n* MOSIP-17753 Generated opanpi.json for reg-proc external integration service.\r\n\r\n* MOSIP-15368 Generated opanpi.json for pre-reg booking service.\r\n\r\n* MOSIP-15368 Fixed openapi UI issue in booking service.\r\n\r\n* MOSIP-15368 Fixed openapi UI issue in booking service.\r\n\r\n* MOSIP-15368 Fixed openapi UI issue in booking service.\r\n\r\n* MOSIP-15368 Fixed 401 issue in booking service.\r\n\r\n* Mosip:15286 Fixed Generation of openapi.json",
+            "date": "2022-01-07T06:13:00Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #852 from rambhatt1591/mosip_18968\n\nMOSIP-18968 Python script changes",
+            "date": "2021-12-30T07:10:52Z"
+        },
+        {
+            "author": "mahammedtaheer",
+            "message": "Merge pull request #858 from mahammedtaheer/develop\n\ncorrect develop version in pom files.",
+            "date": "2021-12-28T07:20:57Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-08-29T05:24:45Z"
+        },
+        {
+            "title": "[MOSIP-30443] changed the service git properties name",
+            "author": "ckm007",
+            "date": "2024-04-02T10:07:39Z"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar",
+            "date": "2024-03-20T10:43:37Z"
+        },
+        {
+            "title": "[MOSIP-23218] Updated Pom.xml versions.",
+            "author": "Mohanraj209",
+            "date": "2023-06-21T13:55:18Z"
+        },
+        {
+            "title": "Bump json-smart from 2.2.1 to 2.4.9 in /pre-registration-booking-service",
+            "author": "dependabot[bot]",
+            "date": "2023-03-23T20:34:32Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.7.1 in /pre-registration-booking-service",
+            "author": "dependabot[bot]",
+            "date": "2022-11-16T02:38:57Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.6.1 in /kernel/kernel-ref-idobjectvalidator",
+            "author": "dependabot[bot]",
+            "date": "2022-07-18T06:25:02Z"
+        },
+        {
+            "title": "Bump logback-core from 1.2.3 to 1.2.9 in /pre-registration-booking-service",
+            "author": "dependabot[bot]",
+            "date": "2022-07-18T06:24:59Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.8.RELEASE to 2.5.12 in /kernel/kernel-ref-idobjectvalidator",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T20:07:30Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-webflux from 2.0.2.RELEASE to 2.5.12 in /authentication",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T18:34:14Z"
+        },
+        {
+            "title": "1.1.5.5",
+            "author": "trialblazerseee",
+            "date": "2022-03-02T05:47:59Z"
+        },
+        {
+            "title": "[MOSIP-19482] Resolved dependency management for jackson ObjectMapper",
+            "author": "manojsp12",
+            "date": "2022-01-11T11:12:36Z"
+        },
+        {
+            "title": "Revert \"Flow change for admin-ui build\"",
+            "author": "ase-101",
+            "date": "2021-11-19T11:14:57Z"
+        },
+        {
+            "title": "[MOSIP-14058] removed the fields on header",
+            "author": "VenkateshBuddepu",
+            "date": "2021-11-03T13:07:46Z"
+        },
+        {
+            "title": "Auth UI request template fix",
+            "author": "ankitvaishnav",
+            "date": "2021-10-06T07:07:36Z"
+        },
+        {
+            "title": "Bump url-parse from 1.4.7 to 1.5.3 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-10-06T00:37:31Z"
+        },
+        {
+            "title": "Bump tar from 4.4.8 to 4.4.19 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-09-01T19:01:26Z"
+        },
+        {
+            "title": "1.2.0 rc1",
+            "author": "Rakshitha650",
+            "date": "2021-08-12T11:15:43Z"
+        },
+        {
+            "title": "Test cases",
+            "author": "harishmejari8496",
+            "date": "2021-08-11T14:12:55Z"
+        },
+        {
+            "title": "Bump path-parse from 1.0.6 to 1.0.7 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-08-11T06:02:11Z"
+        },
+        {
+            "title": "Webhook url",
+            "author": "harishmejari8496",
+            "date": "2021-08-03T15:37:59Z"
+        },
+        {
+            "title": "Added correctionRoot screen authorization",
+            "author": "ase-101",
+            "date": "2021-07-29T06:42:22Z"
+        },
+        {
+            "title": "Removed debugging VM args from command",
+            "author": "loganathan-sekaran",
+            "date": "2021-07-26T05:14:52Z"
+        },
+        {
+            "title": "MOSIP-15652 Master UI Spec Old file",
+            "author": "rambhatt1591",
+            "date": "2021-07-09T07:10:36Z"
+        },
+        {
+            "title": "Feature",
+            "author": "harishmejari8496",
+            "date": "2021-06-29T17:58:54Z"
+        },
+        {
+            "title": "Bump httpclient from 4.5.6 to 4.5.13 in /biosdk-client",
+            "author": "dependabot[bot]",
+            "date": "2021-06-04T03:11:55Z"
+        },
+        {
+            "title": "Fixes for dynamic field issues",
+            "author": "afazdeen",
+            "date": "2021-06-01T04:29:04Z"
+        },
+        {
+            "title": "Bump dns-packet from 1.3.1 to 1.3.4 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-05-27T22:09:52Z"
+        },
+        {
+            "title": "Bump hosted-git-info from 2.8.5 to 2.8.9 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-05-10T22:47:41Z"
+        },
+        {
+            "title": "Bump lodash from 4.17.15 to 4.17.21 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-05-10T01:04:46Z"
+        },
+        {
+            "title": "Bump handlebars from 4.5.3 to 4.7.7 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-05-08T00:37:26Z"
+        },
+        {
+            "title": "Bump ssri from 6.0.1 to 6.0.2 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-04-30T00:49:27Z"
+        },
+        {
+            "title": "Fixed Application ID issue in Template",
+            "author": "yaswanths2",
+            "date": "2021-04-16T06:45:06Z"
+        },
+        {
+            "title": "Dockerization of biosdk services",
+            "author": "ankitvaishnav",
+            "date": "2021-04-10T07:55:44Z"
+        },
+        {
+            "title": "Bump y18n from 4.0.0 to 4.0.1 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-03-30T20:37:27Z"
+        },
+        {
+            "title": "Bump elliptic from 6.5.2 to 6.5.4 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2021-03-09T11:46:22Z"
+        },
+        {
+            "title": "Update the steps for Pre-reg angular build",
+            "author": "hosurkrishnan",
+            "date": "2021-02-26T11:26:07Z"
+        },
+        {
+            "title": "Mosip 11886",
+            "author": "mayuradesh",
+            "date": "2021-02-12T12:47:19Z"
+        },
+        {
+            "title": "Device sub type is being corrected for the face with value from MDS",
+            "author": "nikhileshkumar0408",
+            "date": "2020-12-29T11:11:11Z"
+        },
+        {
+            "title": "Device sub type has been rectified with value coming from MDS",
+            "author": "nikhileshkumar0408",
+            "date": "2020-12-29T11:08:30Z"
+        },
+        {
+            "title": "Bump jackson-datatype-jsr310 from 2.7.3 to 2.9.8 in /registration-processor-utilities/packet-generator-uploader-utility/packet-generator",
+            "author": "dependabot[bot]",
+            "date": "2020-11-04T13:58:03Z"
+        },
+        {
+            "title": "removed snapshot",
+            "author": "saumyamosip",
+            "date": "2020-06-27T07:47:33Z"
+        },
+        {
+            "title": "Bump websocket-extensions from 0.1.3 to 0.1.4 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2020-06-07T00:54:38Z"
+        },
+        {
+            "title": "Partner management ui added",
+            "author": "NagarjunaKuchi",
+            "date": "2020-05-25T05:29:06Z"
+        },
+        {
+            "title": "1.0.9 merge",
+            "author": "srinivasanMT",
+            "date": "2020-05-07T09:26:18Z"
+        },
+        {
+            "title": "Bump acorn from 6.4.0 to 6.4.1 in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2020-05-06T13:22:24Z"
+        },
+        {
+            "title": "MOSIP-207_Modified packet meta info creation date",
+            "author": "GirishYarru",
+            "date": "2020-02-19T05:15:59Z"
+        },
+        {
+            "title": "Bump commons-fileupload from 1.2 to 1.3.3 in /registration-processor-utilities/packet-generator-uploader-utility/packet-generator",
+            "author": "dependabot[bot]",
+            "date": "2020-02-18T09:07:37Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Built and run admin-ui but user interface with no options",
+            "author": "namatedev",
+            "date": "2020-05-26T20:08:27Z"
+        },
+        {
+            "title": "Cookie issue ('state') with admin-ui",
+            "author": "namatedev",
+            "date": "2020-05-25T18:42:02Z"
+        },
+        {
+            "title": "Cross-Origin Request Blocke when open UI",
+            "author": "asibrahim1985",
+            "date": "2020-04-24T22:41:35Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "syedsalman3753",
+            "comment": "No comment provided",
+            "date": "2024-04-02T12:13:01Z"
+        }
+    ]
+}

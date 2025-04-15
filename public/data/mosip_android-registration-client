@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/android-registration-client",
+    "commits": [
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-841] (#438)\n\n* added collab env to gradle\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* changed server url\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the actions yml file\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated Operator biometrics logic\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Release 0.11.x (#437)"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-914] (#434)\n\n* added collab env to gradle\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* changed server url\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Fixed state update issue in biometrics\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Fixed state update issue in biometrics1\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>"
+        },
+        {
+            "author": "Sachin S  P",
+            "message": "fixed ui spec issue, multiple dropdown display and removed unfunctional button (#435)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "RCF-922 (#436)\n\n* revert const from operator biometrics update\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* Update UIN fixed\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* saving update UIN template\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[RCF-1130]",
+            "author": "GSPrakash2662"
+        },
+        {
+            "title": "MOSIP-36833---release-0.11.x-customization",
+            "author": "jayesh12234"
+        },
+        {
+            "title": "Manual trigger Actions master",
+            "author": "developer-aditya"
+        },
+        {
+            "title": "workflow_dispatch added in .github",
+            "author": "SachinPremkumar"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[RCF-1130]",
+            "author": "GSPrakash2662"
+        },
+        {
+            "title": "MOSIP-36833---release-0.11.x-customization",
+            "author": "jayesh12234"
+        },
+        {
+            "title": "Manual trigger Actions master",
+            "author": "developer-aditya"
+        },
+        {
+            "title": "workflow_dispatch added in .github",
+            "author": "SachinPremkumar"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        }
+    ]
+}

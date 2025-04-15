@@ -1,0 +1,580 @@
+{
+    "repository": "mosip/mosip-helm",
+    "commits": [
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-4439] removed extra space\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-02-05T11:32:39Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-4439] Update values.yaml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-02-05T08:25:13Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-4439] re-tag mosip-helm with 1.2.0.1-B4\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-02-05T06:53:44Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #616 from VSIVAKALYAN/release-1.2.0.1-B4\n\n[DSD-4344] Added Role for release-1201-B4",
+            "date": "2024-02-01T09:33:29Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-4344] Added Role for release-1201-B4\n\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>",
+            "date": "2024-02-01T07:50:38Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] updated helm chart version (#602)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-01-11T09:39:12Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] updated image tag (#599)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-01-10T06:56:12Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[MOSIP-29598] Added encryption key in 1201 branch (#597)\n\n* [MOSIP-29598] Added encryption key in 1201 branch\n\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\n\n* [MOSIP-29598] Updated encryption key\n\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\n\n* [MOSIP-29598] Updated encryption key in secret.yaml\n\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\n\n---------\n\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>",
+            "date": "2024-01-09T16:19:38Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] updated push values.yml and Chart.yaml file for upgrade-B4 release (#590)\n\n* [DSD-3932] updated push values.yml and Chart.yamlfile\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update chart-lint-publish.yml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] upfated prereg-catcha chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] upfated prereg-catcha chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] upfated prereg-catcha chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] upfated prereg-catcha chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] upfated prereg-catcha chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated reporting-init chart.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-09T07:15:24Z"
+        },
+        {
+            "author": "Rakshith B",
+            "message": "[MOSIP-29961] removed paths from chart-lint-publish.yml  (#591)\n\n* [[MOSIP-29961] removed paths from chart-lint-publish.yml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n* [MOSIP-29961]Updated Chart.yaml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n* [MOSIP-29961]Update values.yaml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n* [MOSIP-29961]removed trail space values.yaml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2024-01-03T09:11:09Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-30398] Updated minio-client-util helm chart (#588)\n\n* [MOSIP-30398] Updated minio-client-util helm chart\r\n\r\nSigned-off-by: syed salman <syedsalman3753@gmail.com>\r\n\r\n* [MOSIP-30398] helm lint fix\r\n\r\nSigned-off-by: syed salman <syedsalman3753@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-01-02T11:26:51Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[DSD-3557]reverted to mobile id (#580)\n\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>",
+            "date": "2023-12-14T11:59:47Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "message": "[DSD-3835]Added keycloak role (#574)\n\nSigned-off-by: abhishek8shankar <abhishek.shankarcs@gmail.com>",
+            "date": "2023-11-20T10:06:57Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[DSD-3831] updated resident roles (#571)\n\n* [DSD-3831] updated resident roles\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n* [DSD-3831]Update values.yaml\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>",
+            "date": "2023-11-16T13:48:53Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-3769] updated values.yaml and configmap-index.yaml (#568)\n\n* Update values.yaml\r\n\r\nSigned-off-by: shubham_G <88794020+shubham17998@users.noreply.github.com>\r\n\r\n* Update configmap-index.yaml\r\n\r\nSigned-off-by: shubham_G <88794020+shubham17998@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: shubham_G <88794020+shubham17998@users.noreply.github.com>",
+            "date": "2023-11-09T04:06:27Z"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "message": "Updated values.yaml [DSD-3671] (#566)\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>",
+            "date": "2023-11-08T06:50:36Z"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "message": "Update values.yaml and added headers (#565)\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>",
+            "date": "2023-11-07T10:01:30Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[DSD-3753] Added missing uri prefix (#564)\n\nSigned-off-by: Rakshitha650 <rakshitham38@gmail.com>",
+            "date": "2023-11-02T17:08:12Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-3714] Updated onboarder Resource Limits for 1201 branch. (#562)\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2023-10-30T06:15:07Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-3557] Updated to Mimoto in mosip-helm for 1201. (#559)\n\n* [DSD-3557] Updated to Mimoto.\r\n\r\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>\r\n\r\n* [DSD-3557] Updated to Mimoto.\r\n\r\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2023-10-20T09:16:31Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-29245] Updated workflows as per reusable workflow format (#555)\n\n[MOSIP-25631]\r\n\r\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2023-10-19T06:28:51Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "message": "[MOSIP29616]Fixed lint issue (#552)\n\n* [MOSIP-29616]Updated Charts mosip-file-server 1.2.0.1 \r\n\r\nadded new line at the end .\r\n\r\nSigned-off-by: abhishek8shankar <127825992+abhishek8shankar@users.noreply.github.com>\r\n\r\n* [MOSIP-29616]Fixed the lint issue .\r\n\r\nSigned-off-by: abhishek8shankar <abhishek.shankarcs@gmail.com>\r\n\r\n* [MOSIP29616]Fixed lint issue\r\n\r\nSigned-off-by: abhishek8shankar <127825992+abhishek8shankar@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: abhishek8shankar <127825992+abhishek8shankar@users.noreply.github.com>\r\nSigned-off-by: abhishek8shankar <abhishek.shankarcs@gmail.com>",
+            "date": "2023-10-19T04:47:53Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "message": "[MOSIP-29616]Updated Charts mosip-file-server 1.2.0.1 (#550)\n\nadded new line at the end .\r\n\r\nSigned-off-by: abhishek8shankar <127825992+abhishek8shankar@users.noreply.github.com>",
+            "date": "2023-10-18T06:01:46Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "message": "[MOSIP-29616]Updated Charts mosip-file-server 1.2.0.1 (#546)\n\n* [MOSIP-29616]Updated Charts mosip-file-server 1.2.0.1\r\n\r\nSigned-off-by: abhishek8shankar <abhishek.shankarcs@gmail.com>\r\n\r\n* [MOSIP-29616]Updated Charts mosip-file-server 1.2.0.1\r\n\r\nSigned-off-by: abhishek8shankar <abhishek.shankarcs@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: abhishek8shankar <abhishek.shankarcs@gmail.com>",
+            "date": "2023-10-17T10:20:20Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[DSD-3627] Increased the resources.. (#545)\n\n* [DSD-3627] Increased the resources..\r\n\r\nSigned-off-by: Rakshitha650 <rakshitham38@gmail.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshitha650 <rakshitham38@gmail.com>\r\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2023-10-17T08:47:26Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-27365] removed bqat helm chart (#547)\n\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>",
+            "date": "2023-10-16T07:29:18Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[DSD-3558] updated virtualservice.yaml and values.yaml (#542)\n\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>",
+            "date": "2023-10-16T06:16:42Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[DSD-3532] added values.yaml (#536)\n\n* [MOSIP-29450] removed _overides.tpl and env variables in values.yaml\r\n\r\n* [DSD-3532] added imagecompressor and updated biosdk service (#535)\r\n\r\n* [DSD-3532] added imagecompressor and updated biosdk service\r\n\r\n* [DSD-3532] updated deployment.yml and values.yaml\r\n\r\n* [DSD-3532] removed imagecompressor",
+            "date": "2023-10-05T06:40:53Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-29450] removed _overides.tpl and env variables in values.yaml (#534)",
+            "date": "2023-10-04T11:58:13Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-28587] Updated postgres key for latest postgres version. (#529)\n\n* [MOSIP-28587] Updated postgres key for latest postgres version.\r\n\r\n* [MOSIP-28587] Updated mosip_regdevice database in values.yaml.\r\n\r\n* [MOSIP-28587] Updated mosip_regdevice database in values.yaml.\r\n\r\n* [MOSIP-28587] Updated mosip_authdevice database in values.yaml.\r\n\r\n* [MOSIP-28587] Removed authdevice from templates and values.yaml.\r\n\r\n* [MOSIP-28587] Removed authdevice from templates and values.yaml.\r\n\r\n* [MOSIP-28587] Removed regdevice from templates and values.yaml.",
+            "date": "2023-09-27T05:11:00Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update Chart.yaml (#527)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-09-22T06:26:42Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-29263] added runtime closing of db scripts (#523)\n\n* [MOSIP-29263] added runtime closing of db scripts\r\n\r\n* Update Chart.yaml\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-09-22T06:23:51Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-28576] updated landing page configmap-index.yaml file with res\u2026 (#520)\n\n* [MOSIP-28576] updated landing page configmap-index.yaml file with respected services images.\r\n\r\n* Update configmap-index.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-09-06T05:25:49Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #512 from Rakshithb1/1.2.0.1\n\n[DSD-3108] updated secret.yaml",
+            "date": "2023-08-29T08:02:29Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[DSD-3282] Updated helm chart to include biosdk config property file (#515)\n\nCo-authored-by: akilalakshmanan <Akila.L@iiitb.ac.in>",
+            "date": "2023-08-24T11:04:16Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[DSD-3108] updated secret.yaml",
+            "date": "2023-08-22T10:00:03Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3247] updated .workflowaction.server.port=8023 in values.yaml, s\u2026 (#510)\n\n* [DSD-3247] updated .workflowaction.server.port=8023 in values.yaml, service.yaml, virtualservice.yaml and deployment.yaml\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-08-21T12:52:49Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "updated resources for regproc camel (#506)",
+            "date": "2023-08-08T11:16:37Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-28681] Added idgenerator service cronJob in values.yaml file. (#505)",
+            "date": "2023-08-04T07:37:50Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-28544] increased CPU limit in apitestrig. (#502)",
+            "date": "2023-07-26T10:30:48Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-2996] Removed eCaptcha in values.yaml file and esignet-site-key, esignet-secret-key removed from _overides.tpl file. (#499)",
+            "date": "2023-07-24T06:34:19Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "MOSIP-28488 (#496)\n\n* [MOSIP-28488] Updated backoffLimit in job.yaml\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>\r\n\r\n* [MOSIP-28488] Updated backoffLimit in values.yaml\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>\r\n\r\n* Update values.yaml\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>\r\n\r\n* [MOSIP-28488] Updated backoffLimit.\r\n\r\n* [MOSIP-28488] Updated backoffLimit.\r\n\r\n* [MOSIP-28488] Updated cronjob.yaml\r\n\r\n* [MOSIP-28488] Updated jobs.yaml\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>",
+            "date": "2023-07-21T17:33:35Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-28491] Update regclient version (#494)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-20T08:19:03Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-28539] (#493)",
+            "date": "2023-07-19T17:32:29Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[DSD-3027] Updated \"eSignetDeployed\" variable in apitestrig configmap. (#492)\n\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>",
+            "date": "2023-07-19T07:11:39Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-23518] added db user pwd",
+            "date": "2023-07-17T02:33:09Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #486 from mosip/MOSIP-28363\n\n[MOSIP-28363]",
+            "date": "2023-07-10T02:18:57Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added version changes",
+            "date": "2023-07-10T01:57:43Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added version changes",
+            "date": "2023-07-09T18:30:05Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added tusd charts",
+            "date": "2023-07-09T18:27:49Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added status check util",
+            "date": "2023-07-09T18:27:25Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added restart cron",
+            "date": "2023-07-09T18:27:04Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added pms migration util changes",
+            "date": "2023-07-09T18:26:43Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added gc util changes",
+            "date": "2023-07-09T18:26:08Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added bqat service chart",
+            "date": "2023-07-09T18:25:53Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added minioclient util changes",
+            "date": "2023-07-09T18:25:33Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-28363] added monitoring changes",
+            "date": "2023-07-09T18:25:17Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[DSD-2651]added smtp and sms configuration (#482)",
+            "date": "2023-07-09T16:26:29Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-23218] Updated the values.yaml and charts.yaml file of all the\u2026 (#476)\n\n* [MOSIP-23218] Updated the values.yaml and charts.yaml file of all the charts.\r\n\r\n* Updated values.yaml.\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>\r\n\r\n* [MOSIP-23218] Updated the values.yaml file of all the charts.\r\n\r\n* Updated values.yaml\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>",
+            "date": "2023-06-21T17:49:53Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-2820] added upgrade scripts (#474)",
+            "date": "2023-06-18T16:50:03Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-2478] release 1.2.0.1-B3 (#425)\n\n* [DSD-2478] updated released images\r\n\r\n* [DSD-2478] updated released images",
+            "date": "2023-04-16T08:22:54Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[DSD-2445] Renamed s3-utility helm chart to minio-client-util (#419)",
+            "date": "2023-04-13T06:32:25Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2545 ] updated docker images (#423)\n\n[ DSD-2454 ] updated dslrig configmap\r\n\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-04-12T19:43:45Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ MOSIP-25074 ] added mimto-keybinding module (#421)\n\n* [ MOSIP-25074 ] added mimto-keybinding module\r\n\r\n* [MOSIP-25074] disabled digitalcard",
+            "date": "2023-04-12T18:46:40Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2455 ] removed idp-host (#416)",
+            "date": "2023-04-12T12:33:10Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ MOSIP-25074 ] updated onboarder charts to run as for specific modules (#412)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-04-12T09:09:33Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[DSD-2445] Updated chart version and image name (#414)\n\n* [DSD-2445] Updated chart version\r\n\r\n* [DSD-2445] Updated image name",
+            "date": "2023-04-12T09:02:56Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-2445] Updated s3 utility helm charts (#411)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-04-12T06:36:47Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ MOSIP-25074 ] updated onboarder charts (#408)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-04-11T07:18:24Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "Update _overides.tpl (#407)",
+            "date": "2023-04-05T14:53:01Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ MOSIP-26738 ] Added response header in virtualservice.yaml for mimoto charts (#406)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-04-04T15:23:34Z"
+        },
+        {
+            "author": "Sasikumar Ganesan",
+            "message": "Merge pull request #403 from ase-101/patch-3",
+            "date": "2023-04-04T11:32:23Z"
+        },
+        {
+            "author": "Anusha Sunkada",
+            "message": "MOSIP-26803",
+            "date": "2023-04-04T09:47:51Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2389 ] updated pms and resident charts (#402)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-03-31T17:44:11Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2389 ] updated Chart.yaml in mimoto (#401)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-03-31T13:03:05Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2389 ] updated charts for 1.2.0.1-B3 release (#400)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-03-31T12:29:18Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2389 ] Updated postgres-init helm chart (#399)\n\n[ MOSIP-26666 ]",
+            "date": "2023-03-30T14:34:07Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2395 ] added \"push_reports_to_s3\" to dslorchestrator configmap (#398)",
+            "date": "2023-03-30T14:33:08Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2389 ] updated chart version to 12.0.1-B3 release (#396)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-03-30T07:05:54Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ DSD-2299 ] Added \"mosip_digitalcard_client_secret\" secret to keycloak-init (#395)",
+            "date": "2023-03-29T13:33:39Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[MOSIP-26596] replaced idp with esignet (#392)",
+            "date": "2023-03-27T12:02:44Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ MOSIP-26249 ] Added & updated apitestrig, authdemo, packetcreator, & dslorchestrator helm charts (#385)\n\n* [ MOSIP-26249 ] Added & updated apitestrig, authdemo, packetcreator, & dslorchestrator helm charts\r\n\r\nThe following tickets are taken care of:\r\n[ MOSIP-26294 ]\r\n[ MOSIP-26323 ]\r\n[ MOSIP-26425 ]\r\n\r\n* [ DSD-2358 ] Added new variable \"THREAD_COUNT\" for dslorchestrator configmap\r\n\r\n---------\r\n\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-03-27T11:41:53Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[DSD-2355] Add auth scopes for mpartner-default-mobile (#390)\n\n* [DSD-2355] Add auth scopes for mpartner-default-mobile\r\n\r\n* [DSD-2355] Add auth scopes for mpartner-default-mobile",
+            "date": "2023-03-27T10:54:31Z"
+        },
+        {
+            "author": "Anusha Sunkada",
+            "message": "Added identity-key-binding to istio (#387)\n\n* Added identity-key-binding to istio\n\n* Updated version",
+            "date": "2023-03-23T05:06:01Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[DSD-2295] Updated mappers and roles for mosip-pms-client (#383)\n\n* [DSD-2295] Updated mappers and roles for mosip-pms-client\r\n\r\n* [DSD-2295] Updated mappers and roles for mosip-pms-client",
+            "date": "2023-03-17T07:58:13Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[DSD-2263] Updated esignet_wrapper_url for esignet service (#379)\n\n* [MOSIP-25065] Updated helm to enable prometheus scraping for regproc stage groupes\n\n* [DSD-2263] Updated esignet_wrapper_url for esignet service",
+            "date": "2023-03-13T10:04:53Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[MOSIP-25065] Updated helm to enable prometheus scraping for regproc stage groupes (#376)",
+            "date": "2023-03-06T06:08:20Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-25065 prometheus changes (#375)\n\nCo-authored-by: Sowmya Ujjappa Banakar <m1022006@mindtree.com>",
+            "date": "2023-03-03T09:21:53Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[ MOSIP-26372 ] update mosip-file-server helm/chart for inji (#372)\n\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-02-28T10:54:57Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-24801] removed unused env variable",
+            "date": "2023-02-14T05:26:26Z"
+        },
+        {
+            "author": "gaganamadival",
+            "message": "[DSD-2133] Enable Prometheus metrics in mimoto for 1.2.0.1 branch (#366)",
+            "date": "2023-02-14T05:15:41Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "updated docker tag for keycloak-init (#363)",
+            "date": "2023-02-13T10:09:07Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[MOSIP-25959] Added helm changes for S3 bucket pretext (#359)\n\n* [DSD-2029] Added \"time-zone-offset\" header to the cors-policy of resident\r\n\r\n* [DSD-2029] updated chart version\r\n\r\n* [MOSIP-25959] Added helm changes for S3 bucket pretext\r\n\r\n* [MOSIP-25959] Added helm changes for S3 bucket pretext",
+            "date": "2023-02-10T07:34:16Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[DSD-2097]removed the toolkit client and secret from the keycloak-init (#357)\n\n* [DSD-2097]removed the toolkit client and secret from the keycloak-init\n\n* updated the chart version",
+            "date": "2023-02-10T05:09:12Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[DSD-2079] Added esignet_auth_wrapper_url_env to artifactory-share (#353)\n\n* [DSD-2079] Added esignet_auth_wrapper_url_env to artifactory-share\r\n\r\n* [DSD-2079] Added esignet host to config server\r\n\r\n* [DSD-2079] Updated chart versions\r\n\r\n---------\r\n\r\nCo-authored-by: akilalakshmanan <Akila.L@iiitb.ac.in>",
+            "date": "2023-02-07T12:43:19Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[DSD-2067] corrected the configmap-index.yaml (#351)",
+            "date": "2023-01-30T13:17:58Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[DSD-2029] Added \"time-zone-offset\" header to cors-policy of resident (#347)\n\n* [DSD-2029] Added \"time-zone-offset\" header to the cors-policy of resident\r\n\r\n* [DSD-2029] updated chart version",
+            "date": "2023-01-19T10:47:34Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[DSD-2014] changed resident-app to mimoto (#344)\n\n* [DSD-2014] changed resident-app to mimoto\r\n\r\n* [DSD-2014] changed tag to B3\r\n\r\n* [DSD-2014] changed tag from B3 to B1 in values.yaml and in chart.yaml changed version to 12.0.1-B3",
+            "date": "2023-01-17T14:11:24Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #342 from syedsalman3753/1.2.0.1\n\n[ DSD-2010 ] removed Chart.lock from repo & updated .gitignore file",
+            "date": "2023-01-17T06:29:31Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "[ DSD-2010 ] fixed chart lint issues",
+            "date": "2023-01-17T06:01:15Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[DSD-7140] Delete charts/keycloak-init directory",
+            "author": "Rakshithb1",
+            "date": "2025-01-31T08:11:08Z"
+        },
+        {
+            "title": "[DSD-7089] updated helm and deploy for helm publish",
+            "author": "bhumi46",
+            "date": "2025-01-22T13:16:39Z"
+        },
+        {
+            "title": "[MOSIP-35490] moved required helm and deploy scripts to modular repo",
+            "author": "ckm007",
+            "date": "2024-12-03T04:31:24Z"
+        },
+        {
+            "title": "[MOSIP-37410] Removed the monitoring and logging helm charts",
+            "author": "Mohanraj209",
+            "date": "2024-11-12T09:36:45Z"
+        },
+        {
+            "title": "[MOSIP-35421] Disabled all the apitestrig by default in values.yaml.",
+            "author": "Mohanraj209",
+            "date": "2024-10-16T12:11:15Z"
+        },
+        {
+            "title": "Update configmaps.yaml",
+            "author": "Rakshitha650",
+            "date": "2024-09-24T07:58:34Z"
+        },
+        {
+            "title": "[MOSIP-27423] data-archive ",
+            "author": "bhumi46",
+            "date": "2024-03-21T08:30:08Z"
+        },
+        {
+            "title": "Revert \"[DSD-4835]added signuphost\"",
+            "author": "ckm007",
+            "date": "2024-03-20T05:00:38Z"
+        },
+        {
+            "title": "Develop mosip 15265",
+            "author": "pramod444",
+            "date": "2022-09-30T13:50:27Z"
+        }
+    ],
+    "issues": [],
+    "reviews": [
+        {
+            "author": "Rakshithb1",
+            "comment": "No comment provided",
+            "date": "2025-01-28T07:37:05Z"
+        },
+        {
+            "author": "ashok-ksharma",
+            "comment": "No comment provided",
+            "date": "2024-12-03T08:35:17Z"
+        },
+        {
+            "author": "lalithkota",
+            "comment": "No comment provided",
+            "date": "2022-10-12T06:08:34Z"
+        },
+        {
+            "author": "pramod444",
+            "comment": "No comment provided",
+            "date": "2022-10-12T06:19:53Z"
+        },
+        {
+            "author": "syedsalman3753",
+            "comment": "No comment provided",
+            "date": "2022-10-21T06:38:09Z"
+        }
+    ]
+}

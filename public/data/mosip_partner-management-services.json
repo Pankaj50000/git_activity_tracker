@@ -1,0 +1,561 @@
+{
+    "repository": "mosip/partner-management-services",
+    "commits": [
+        {
+            "author": "ckm007",
+            "message": "[DSD-6112] revert back the 1.3.0-dp.1 changes from master branch",
+            "date": "2024-09-23T13:35:15Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #686 from Prafulrakhade/release-1.2.1.x\n\n[MOSIP-33380] added helm and install script for partner-management-se\u2026",
+            "date": "2024-05-30T07:54:24Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-33380] added helm and install script for partner-management-services\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-30T05:58:14Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#680)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update README.md\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-23T10:36:58Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #678 from dhanendra06/patch-2\n\nUpdate badge in README.md",
+            "date": "2024-05-22T11:30:54Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "Update badge in README.md\n\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>",
+            "date": "2024-05-22T11:25:51Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #659 from balaji-alluru/patch-22\n\n[MOSIP-31850]Update pom.xml",
+            "date": "2024-04-30T04:28:22Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-31850]Update pom.xml\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-04-29T14:22:25Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #658 from balaji-alluru/release-1.2.1.x\n\n[MOSIP-31850]Update SearchHelper.java",
+            "date": "2024-04-26T11:40:31Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Update SearchHelper.java\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-03-05T06:18:51Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #653 from kameshsr/MOSIP-30588-1\n\nMOSIP-30588 Changed type of share to Data share for pdf card",
+            "date": "2024-04-23T10:21:47Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-30588 Added auth adapter version to openapi profile\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-23T09:31:57Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-30588 Added version changes\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-23T08:27:29Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-30588 Changed type of share to Data share for pdf card\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-22T11:17:05Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #651 from kameshsr/MOSIP-32300\n\nMOSIP-32300 Move develop changes to release 121x",
+            "date": "2024-04-19T10:10:30Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Move develop changes to release 121x\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-19T06:01:49Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #648 from balaji-alluru/release-1.2.1.x\n\nMOSIP-32300",
+            "date": "2024-04-15T14:24:04Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "MOSIP-32300\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-04-15T07:26:59Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#643)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T12:37:04Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#642)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T12:17:23Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #637 from balaji-alluru/patch-release-dependencies\n\n[MOSIP-31766]Updated pom dependency versions",
+            "date": "2024-02-28T10:52:14Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Updated pom file dependencies\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-02-28T07:48:52Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #636 from balaji-alluru/patch-release-dbscripts\n\n[MOSIP-31761]Added db upgrade scripts",
+            "date": "2024-02-28T07:04:09Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "[MOSIP-31766]Updated pom dependency versions\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-02-27T13:13:20Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Added db upgrade scripts\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-02-27T06:08:52Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "Taking develop changes to release  (#630)\n\n* MOSIP-25622 : Updated OIDC Client Details For Audit Purpose\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Remove Commented Codes\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Updated EvenID's\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Updated the return type in the controller\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Removed Set Items\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Update pms-auth_policy.csv (#552)\r\n\r\nThis is to make sure that while issuing credential , we dont face \"Error occured while publishing topic to hub :- Failed to send data to Kafka server: The message is 1063127 bytes when serialized which is larger than 1048576, which is the value of the max.request.size configuration.\\\" issue in kafka\r\n\r\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* MOSIP-18951 , MOSIP-27040 : Update ClientManagementServiceImpl.java (#541)\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* MOSIP-26591 : Updated policy management service\r\n\r\n* Update PolicyValidatorErrorConstant.java\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* Update PolicyManagementService.java\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* fix for build failure (#575)\r\n\r\n* Update AuditUtil.java\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\n\r\n* Update AuditUtil.java\r\n\r\n---------\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [DSD-2861]updated \u201cData Share\u201c from \u201cDirect\u201d to Auth policy mpolicy-default-euin , mpolicy-default-qrcode, mpolicy-default-reprint\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Update pms-auth_policy.csv (#586)\r\n\r\n* Update pms-auth_policy.csv\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\n\r\n* Update pms-auth_policy.csv\r\n\r\n* Update 1.2.0.1_to_1.2.0.1-B2_upgrade.sql\r\n\r\n* Update pms-auth_policy.csv\r\n\r\n* Update pms-auth_policy.csv\r\n\r\n* Update 1.2.0.1_to_1.2.0.1-B2_upgrade.sql\r\n\r\n* Update 1.2.0.1_to_1.2.0.1-B2_upgrade.sql\r\n\r\n---------\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-28228]Update pms-misp_license.sql (#587)\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Added Test Cases for Increasing the coverage PMS\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Update pms-auth_policy.csv (#597)\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-29315] Update pms-oidc_client.sql\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-29315]\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-29600]Update PartnerManagementServiceImpl.java (#605)\r\n\r\n* [MOSIP-29600]Update PartnerManagementServiceImpl.java\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\n\r\n* Update PartnerManagementServiceImplTest.java\r\n\r\n* Update AuthPolicyRepository.java\r\n\r\n* Update PolicyManagementService.java\r\n\r\n* Update PolicyServiceTest.java\r\n\r\n* Update PartnerServiceImplTest.java\r\n\r\n* Update PartnerManagementServiceImplTest.java\r\n\r\n* Update PartnerManagementServiceImpl.java\r\n\r\n* Update PartnerServiceImpl.java\r\n\r\n---------\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [DSD-3823]Update pms-partner_policy_bioextract.csv\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Update pms-partner_type.csv\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-29600]Update PartnerManagementServiceImpl.java (#605)\r\n\r\n* [MOSIP-29600]Update PartnerManagementServiceImpl.java\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\n\r\n* Update PartnerManagementServiceImplTest.java\r\n\r\n* Update AuthPolicyRepository.java\r\n\r\n* Update PolicyManagementService.java\r\n\r\n* Update PolicyServiceTest.java\r\n\r\n* Update PartnerServiceImplTest.java\r\n\r\n* Update PartnerManagementServiceImplTest.java\r\n\r\n* Update PartnerManagementServiceImpl.java\r\n\r\n* Update PartnerServiceImpl.java\r\n\r\n---------\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-29852]Update InfraProviderServiceImpl.java\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Updated misp license key regenerate logic\r\n\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Update InfraProviderServiceImpl.java\r\n\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-29315]\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Added revoke scripts for 1.2.0\r\n\r\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Updated 1.2.0_revoke.sql\r\n\r\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* MOSIP-28900:Asdded the test cases for PolicyManagementController\r\n\r\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Fixed the test failures\r\n\r\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Update PartnerServiceImpl.java (#540)\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [DSD-2429]Updated swagger config and changed folder structure. (#545)\r\n\r\n* [DSD-2429]Updated swagger config.java\r\n\r\n* [DSD_2429]Updated folder structure and package name\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [DSD-2861]updated \u201cData Share\u201c from \u201cDirect\u201d to Auth policy mpolicy-default-euin , mpolicy-default-qrcode, mpolicy-default-reprint\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* MOSIP-18951 , MOSIP-27040 : Update ClientManagementServiceImpl.java (#541)\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* MOSIP-26591 : Updated policy management service\r\n\r\n* Update PolicyValidatorErrorConstant.java\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* Update PolicyManagementService.java\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Fixed testcase failures\r\n\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* fixed test case failures\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-31269]Update ClientManagementServiceImplTest.java\r\n\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Fixed test case failures\r\n\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* MOSIP-27049 : Sonar Bug Fixes (#550)\r\n\r\n* MOSIP-25622 : Updated OIDC Client Details For Audit Purpose\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Remove Commented Codes\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Updated EvenID's\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Updated the return type in the controller\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Removed Set Items\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* MOSIP-27049 : Sonar Bug Fixes\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* fixed the test cases\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* Update ClientManagementServiceImplTest.java\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\nSigned-off-by: Gokulraj C <110164849+GOKULRAJ136@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* [MOSIP-23086] Updated getPartnerDetails API to remove IDOR (#629)\r\n\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* updated pom file versions\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* MOSIP-18951 , MOSIP-27040 : Update ClientManagementServiceImpl.java (#541)\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* MOSIP-26591 : Updated policy management service\r\n\r\n* Update PolicyValidatorErrorConstant.java\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* Update PolicyManagementService.java\r\n\r\n* Update ClientManagementServiceImpl.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\n* Update AuthenticationContextRefUtil.java\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* changed the pom versions\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n* fixed psql test failures\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>\r\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>\r\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>\r\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>\r\nSigned-off-by: Gokulraj C <110164849+GOKULRAJ136@users.noreply.github.com>\r\nCo-authored-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>\r\nCo-authored-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\r\nCo-authored-by: techno-243 <gaganaa10@gmail.com>\r\nCo-authored-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: yashmsonkusare <yashmsonkusare@gmail.com>\r\nCo-authored-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-01-25T11:45:27Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #607 from balaji-alluru/release-1.2.0.1\n\n[MOSIP-29600]",
+            "date": "2024-01-23T08:33:01Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[MOSIP-31202] updated sql file names (#625)\n\n* Rename 1.2.0.1-B3_to_1.2.0.1_rollback.sql to 1.2.0.1-B3_to_1.2.0.1-B4_rollback.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Rename 1.2.0.1-B3_to_1.2.0.1_upgrade.sql to 1.2.0.1-B3_to_1.2.0.1-B4_upgrade.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-17T13:06:59Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#620)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-12-25T16:51:04Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file (#617)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-25T16:36:02Z"
+        },
+        {
+            "author": "Rakshith B",
+            "message": "[MOSIP-29961] Updated push-trigger.yml  (#622)\n\n* [MOSIP-299610] removed paths from db-test.yml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n* [MOSIP-29961] Updated push-trigger.yml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-12-25T16:01:17Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-29918] added db-test.yml and updated pms-oidc_client.sql  (#614)\n\n* [MOSIP-29918] added db-test.yml\r\n\r\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>\r\n\r\n* [MOSIP-29918] updated pms-oidc_client.sql\r\n\r\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>",
+            "date": "2023-11-24T11:17:13Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerServiceImpl.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:08:36Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerManagementServiceImpl.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:07:48Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerManagementServiceImplTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:07:06Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerServiceImplTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:06:38Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PolicyServiceTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:05:27Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PolicyManagementService.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T06:56:41Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update AuthPolicyRepository.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T06:54:06Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerManagementServiceImplTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-02T19:44:15Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-29600]Update PartnerManagementServiceImpl.java\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-02T19:39:50Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"[MOSIP-29600]Update PartnerManagementServiceImpl.java\"\n\nThis reverts commit 8f3742ae9cc97aaf62f28020457ade90235a2812.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:19:49Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-29600]Update PartnerManagementServiceImpl.java\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-02T19:39:50Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"[MOSIP-29600]Update PartnerManagementServiceImpl.java\"\n\nThis reverts commit 231859ef77f4472d324b6bd658b9c900d8ffd4b0.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:24Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update PartnerManagementServiceImplTest.java\"\n\nThis reverts commit ce09994f637b5456e245897ee76c3cd1b0c742b6.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:21Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update AuthPolicyRepository.java\"\n\nThis reverts commit db377ae6eacbc59384929e69431ab062f0ff787f.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:16Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update PolicyManagementService.java\"\n\nThis reverts commit f93677e4172e11e7d85fdd149df460413cf1c870.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:12Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update PolicyServiceTest.java\"\n\nThis reverts commit 5d5e1334c1a6b95e36752c541575d0fa314860ee.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:09Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update PartnerServiceImplTest.java\"\n\nThis reverts commit 02660cb8a621cbd35c9bcd4441050e7e48ada08a.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:06Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update PartnerManagementServiceImplTest.java\"\n\nThis reverts commit b9a518c1a85375973e396f28b59f971e2ad009ba.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:04Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update PartnerManagementServiceImpl.java\"\n\nThis reverts commit 9088b6d2a264a1571af5055251d4149f37885839.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:03:01Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Revert \"Update PartnerServiceImpl.java\"\n\nThis reverts commit fea7c742df152f9ce281135344ad5760e2dfc199.\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-19T05:00:56Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerServiceImpl.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:08:36Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerManagementServiceImpl.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:07:48Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerManagementServiceImplTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:07:06Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerServiceImplTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:06:38Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PolicyServiceTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T07:05:27Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PolicyManagementService.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T06:56:41Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update AuthPolicyRepository.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-09T06:54:06Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update PartnerManagementServiceImplTest.java\n\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-02T19:44:15Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-29600]Update PartnerManagementServiceImpl.java\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>\nSigned-off-by: Balaji <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-10-02T19:39:50Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-29256] updated reusable worklows (#604)",
+            "date": "2023-09-25T14:49:03Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #599 from balaji-alluru/release-1.2.0.1\n\n[MOSIP-23924] replaced the swagger property files to config package",
+            "date": "2023-09-01T05:57:54Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Updated swagger config",
+            "date": "2023-08-24T14:14:26Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "Merge branch 'release-1.2.0.1' of https://github.com/balaji-alluru/partner-management-services into release-1.2.0.1",
+            "date": "2023-08-24T14:01:05Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "[MOSIP-23924] replaced the swagger property files to config package",
+            "date": "2023-08-24T14:00:08Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Merge branch 'mosip:release-1.2.0.1' into release-1.2.0.1",
+            "date": "2023-08-24T13:54:13Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[MOSIP-28484] Added error handling for deploy.sh script (#598)\n\nCo-authored-by: akilalakshmanan <Akila.L@iiitb.ac.in>",
+            "date": "2023-08-22T03:25:56Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-28228]Update 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql (#588)\n\n* [MOSIP-28228]Update 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql\r\n\r\n* Update pms-misp_license.sql",
+            "date": "2023-07-28T09:08:41Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update pms-misp_license.sql",
+            "date": "2023-07-28T08:44:08Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-28228]Update 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql",
+            "date": "2023-07-27T13:22:52Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #585 from balaji-alluru/patch-10\n\n[MOSIP-28221]Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-17T08:28:46Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-07-17T07:49:07Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-23518] Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql (#584)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-16T18:02:13Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #567 from mosip/ckm007-patch-3\n\n[MOSIP-27996] updated rollback sql",
+            "date": "2023-07-14T17:07:29Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #576 from balaji-alluru/patch-9\n\n[MOSIP-28228, MOSIP-28221] Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-14T07:45:49Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Delete db_upgrade_scripts/mosip_pms/dml directory",
+            "date": "2023-07-14T07:28:52Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update upgrade.sh",
+            "date": "2023-07-14T07:27:52Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-14T06:49:36Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Delete db_upgrade_scripts/mosip_pms/ddl directory",
+            "date": "2023-07-12T12:02:02Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Create 1.2.0.1-B3_to_1.2.0.1_rollback.sql",
+            "date": "2023-07-12T11:59:21Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Create 1.2.0.1-B3_to_1.2.0.1_upgrade.sql",
+            "date": "2023-07-12T11:58:01Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-12T10:52:58Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-11T13:01:50Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "MOSIP-28176 : updated internal dependencies (#578)\n\n* MOSIP-28176 : updated internal dependencies\r\n\r\n* Update pom.xml",
+            "date": "2023-07-08T15:16:22Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-07T09:13:43Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-03T09:38:30Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-03T09:34:38Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-07-03T04:26:48Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "MOSIP-27980 command addition failure corrected (#574)\n\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2023-06-22T16:45:08Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-23218] Updated Pom.xml versions. (#573)",
+            "date": "2023-06-21T14:12:44Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #571 from balaji-alluru/patch-7\n\n[MOSIP-27980] Update 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql",
+            "date": "2023-06-21T13:04:34Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-06-21T11:44:29Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-27980] Update 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2023-06-20T05:26:45Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27350] Update 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql (#570)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-17T12:53:04Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql (#569)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-17T12:16:59Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #568 from HimajaDhanyamraju2/release-1.2.0.1\n\nFixed MOSIP-27980",
+            "date": "2023-06-16T06:51:32Z"
+        },
+        {
+            "author": "M1044292",
+            "message": "MOSIP-27980",
+            "date": "2023-06-16T06:35:25Z"
+        },
+        {
+            "author": "M1044292",
+            "message": "Fixed MOSIP-27980",
+            "date": "2023-06-16T06:15:37Z"
+        },
+        {
+            "author": "M1044292",
+            "message": "Fixed MOSIP-27980",
+            "date": "2023-06-15T13:31:05Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-37901: PMS- release",
+            "author": "nagendra0721",
+            "date": "2025-02-06T11:36:46Z"
+        },
+        {
+            "title": "MOSIP-39585 - Updated the apitest commons version",
+            "author": "mohanachandran-s",
+            "date": "2025-02-05T13:28:12Z"
+        },
+        {
+            "title": "MOSIP-36424 Automated negative test cases for PMS",
+            "author": "prathmeshj12",
+            "date": "2025-01-31T08:09:15Z"
+        },
+        {
+            "title": "MOSIP-24027 resttemplate issue resolved version modified to p1",
+            "author": "urviljoshi",
+            "date": "2022-09-27T10:13:57Z"
+        },
+        {
+            "title": "MOSIP-23945 bean defination modified",
+            "author": "urviljoshi",
+            "date": "2022-09-16T13:39:15Z"
+        },
+        {
+            "title": "[MOSIP-23258]Updated release scripts",
+            "author": "NagarjunaKuchi",
+            "date": "2022-08-24T08:52:42Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "BUG: Approving device using the API PATCH partnermanagement/v1/partners/DeviceDetail fails",
+            "author": "almontasser",
+            "date": "2021-01-25T13:11:03Z"
+        },
+        {
+            "title": "Not able to generate new access token using refresh token automatically",
+            "author": "ase-101",
+            "date": "2020-01-08T15:17:19Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "lsivanand",
+            "comment": "No comment provided",
+            "date": "2025-02-06T16:25:37Z"
+        },
+        {
+            "author": "mohanachandran-s",
+            "comment": "for negative scenarios checkErrorsOnlyInResponse should not be used, remove the line from PR for all the neg testcases",
+            "date": "2025-02-04T07:41:08Z"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "repository": "mosip/inji-vci-client",
+    "commits": [
+        {
+            "author": "ckm007",
+            "message": "[DSD-6169] inji-wallet 0.13.1 release changes to master"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #31 from Prafulrakhade/release-0.1.x\n\n[DSD-6169] inji-wallet 0.13.1 release"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6169] inji-wallet 0.13.1 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update publish-maven-npm.yml (#30)\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1970] add dependency node in publish-artifact (#28)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.2.0 release",
+            "author": "vishwa-vyom"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.2.0 release",
+            "author": "vishwa-vyom"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        }
+    ]
+}

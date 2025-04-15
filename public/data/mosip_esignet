@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/esignet",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-6947] esignet 1.5.0 release"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1134 from shubham17998/release-1.5.x\n\n[DSD-6947] Updated chart verisons and branch"
+        },
+        {
+            "author": "shubham_G",
+            "message": "Updated init_values.yaml\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6947] Updated init_values.yaml\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6947] Updated init_db.sh\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[MOSIP-39232] and [ES-2180] fix the deployment issues for esignet",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "[MOSIP-39232] and [ES-2180] fix the deployment issues for esignet",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "[ES-1915] Documentation of prefix and postfix feature config.",
+            "author": "gk-4VII"
+        },
+        {
+            "title": "[MOSIP-35637] added sqaush layers",
+            "author": "Rakshithb1"
+        },
+        {
+            "title": "[PER-208]: eSignet Mosip IDA script and ReadMe file",
+            "author": "nihallakshmankonchady"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[MOSIP-39232] and [ES-2180] fix the deployment issues for esignet",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "[MOSIP-39232] and [ES-2180] fix the deployment issues for esignet",
+            "author": "Prafulrakhade"
+        },
+        {
+            "title": "[ES-1915] Documentation of prefix and postfix feature config.",
+            "author": "gk-4VII"
+        },
+        {
+            "title": "[MOSIP-35637] added sqaush layers",
+            "author": "Rakshithb1"
+        },
+        {
+            "title": "[PER-208]: eSignet Mosip IDA script and ReadMe file",
+            "author": "nihallakshmankonchady"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "repository": "mosip/security-tools",
+    "commits": [
+        {
+            "author": "Mahesh-Binayak",
+            "message": "Delete .github/workflows/codeql.yml\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "message": "Create codeql.yml\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Initial commit"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Create codeql.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "Create t.java",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "test trivy.yml",
+            "author": "rajapandi1234"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Create codeql.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "Create t.java",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "test trivy.yml",
+            "author": "rajapandi1234"
+        }
+    ]
+}

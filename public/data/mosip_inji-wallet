@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/inji-wallet",
+    "commits": [
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #1778 from tw-mosip/injimob-2878-master\n\n[INJIMOB-2878] add custom workflow for ios build"
+        },
+        {
+            "author": "Abhishek Paul",
+            "message": "[INJIMOB-2878] add custom workflow for ios build\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1695 from Prafulrakhade/release-0.14.x\n\n[DSD-6453] inji-wallet 0.14.0 release"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6453] inji-wallet 0.14.0 release\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-2368] update tuvali, pixelpass, inji-vci-client version (#1689)\n\n- tuvali -> 0.5.0 (tag)\r\n- pixelpass -> 0.2.0 (tag)\r\n- inji-vci-client -> release-0.1.x (branch)\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\nCo-authored-by: Alka Prasad <prasadalka1998@gmail.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-39578  optimize  code",
+            "author": "anup-nehe"
+        },
+        {
+            "title": "enabling advanced codeql",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[INJIMOB-2109] - create component and sequence diagram for Inji Wallet",
+            "author": "swatigoel"
+        },
+        {
+            "title": "[INJIMOB-956] Formatting code with editor config rules.",
+            "author": "balachandarg-tw"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        }
+    ],
+    "issues": [
+        {
+            "title": "MOSIP-39578  optimize  code",
+            "author": "anup-nehe"
+        },
+        {
+            "title": "enabling advanced codeql",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[INJIMOB-2109] - create component and sequence diagram for Inji Wallet",
+            "author": "swatigoel"
+        },
+        {
+            "title": "[INJIMOB-956] Formatting code with editor config rules.",
+            "author": "balachandarg-tw"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        }
+    ]
+}

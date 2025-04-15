@@ -1,0 +1,53 @@
+{
+    "repository": "mosip/captcha",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #51 from mosip/Prafulrakhade-patch-2\n\n[DSD-6825] platform 1.2.1.0-beta-1 release"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update install.sh\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #50 from mosip/releas-branch\n\n[DSD-6825] platform 1.2.1.0-beta-1 release"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "Updated chart versions, image and tag for release changes\n\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #48 from mosip/releas-branch\n\n[DSD-6825] platform 1.2.1.0-beta-1 release"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-37901: captcha-release",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "MOSIP-37901: captch exclude to nexus",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar"
+        }
+    ],
+    "issues": [
+        {
+            "title": "MOSIP-37901: captcha-release",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "MOSIP-37901: captch exclude to nexus",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar"
+        }
+    ]
+}

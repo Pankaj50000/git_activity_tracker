@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/id-repository",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-6971] ARC 1.2.0.2 release changes to master"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[DSD-6971] ARC-platform 1.2.0.2 Release (#1145)\n\n* Updated chart versions, image and tag for release changes\r\n\r\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\r\n\r\n* [DSD-6971] ARC 1.2.0.2 release\r\n\r\n---------\r\n\r\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: techno-467 <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1144)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "Added snapshots (#1142)\n\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "MOSIP-36288 (#1137)\n\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[MOSIP-33020]Taking the latest changes from release 1.3.x to develop",
+            "author": "aranaravi"
+        },
+        {
+            "title": "updating to custom codeql",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "MOSIP-39585 - Updated the apitest commons version",
+            "author": "mohanachandran-s"
+        },
+        {
+            "title": "MOSIP-39414 added indexes",
+            "author": "kameshsr"
+        },
+        {
+            "title": "Added verified_attributes document",
+            "author": "ase-101"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[MOSIP-33020]Taking the latest changes from release 1.3.x to develop",
+            "author": "aranaravi"
+        },
+        {
+            "title": "updating to custom codeql",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "MOSIP-39585 - Updated the apitest commons version",
+            "author": "mohanachandran-s"
+        },
+        {
+            "title": "MOSIP-39414 added indexes",
+            "author": "kameshsr"
+        },
+        {
+            "title": "Added verified_attributes document",
+            "author": "ase-101"
+        }
+    ]
+}

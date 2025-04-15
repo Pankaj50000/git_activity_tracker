@@ -1,0 +1,519 @@
+{
+    "repository": "mosip/inji-verify",
+    "commits": [
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #193 from Prafulrakhade/release-0.10.x\n\n[DSD-6411] inji-verify 0.10.0 release changes",
+            "date": "2024-10-10T05:58:05Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6411] inji-verify 0.10.0 release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-10-10T05:42:46Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6411] inji-verify 0.10.0 release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-10-10T05:35:40Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #189 from anup-nehe/release-0.10.x\n\nupdated basetest",
+            "date": "2024-10-07T11:10:46Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/release-0.10.x' into release-0.10.x",
+            "date": "2024-10-07T11:05:20Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-10-07T11:02:36Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #186 from anup-nehe/release-0.10.x\n\nupdated pom and readme",
+            "date": "2024-10-07T08:26:19Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-10-07T08:23:07Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-10-07T08:19:23Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/release-0.10.x' into release-0.10.x",
+            "date": "2024-10-07T08:16:03Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "updated pom and readme\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-10-07T08:15:30Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #184 from anup-nehe/release-0.10.x\n\nupdated readme file",
+            "date": "2024-10-07T07:55:41Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/release-0.10.x' into release-0.10.x",
+            "date": "2024-10-07T07:09:23Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "updated readme file\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-10-07T07:08:54Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #178 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613] removed OVP_CLIENT_ID from env",
+            "date": "2024-09-27T07:13:43Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] removed OVP_CLIENT_ID from env\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-27T07:11:24Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #177 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613] encoding clientId and redirectUrl",
+            "date": "2024-09-27T05:39:19Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] encoding clientId and redirectUrl\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-27T05:33:08Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #176 from mosip/MOSIP-INJIVER-613-WASM\n\n[INJVER-644] - update PixelPass and update license",
+            "date": "2024-09-26T11:59:07Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #175 from tw-mosip/MOSIP-INJIVER-613-WASM\n\n[INJVER-644] - update PixelPass and update license",
+            "date": "2024-09-26T11:39:42Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJVER-644] - update PixelPass and update license\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-26T11:22:55Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #172 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613]: fix scan qr code issue with bytes",
+            "date": "2024-09-25T09:30:24Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613]: fix scan qr code issue with bytes\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-25T09:28:02Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #171 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613]: fix ovp flow issue",
+            "date": "2024-09-25T09:16:19Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613]: fix ovp flow issue\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-25T09:13:06Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #170 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613]: fix ovp flow issue",
+            "date": "2024-09-25T08:46:26Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613]: fix ovp flow issue\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-25T08:43:54Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #169 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613]: fix env config issue",
+            "date": "2024-09-25T08:18:50Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613]: fix env config issue\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-25T08:16:06Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #165 from mosip/MOSIP-INJIVER-613-WASM\n\n[INJIVER-613] integrating ZXing cpp library for upload and scan qr code",
+            "date": "2024-09-25T07:36:11Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #168 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613] fix sonar analysis failed issue",
+            "date": "2024-09-25T07:26:16Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] fix sonar analysis failed issue\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-25T07:23:06Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #167 from srikanth716/injiver-422-offline-alignment-issue\n\n[INJIVER-422] fix: offline alignment issue",
+            "date": "2024-09-25T06:38:06Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #166 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613] fix sonar analysis failed issue",
+            "date": "2024-09-25T06:35:34Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] fix sonar analysis failed issue\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-25T06:32:19Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #164 from tw-mosip/MOSIP-INJIVER-613-WASM\n\n[INJIVER-644] - Latest PixelPass integration to support old Surnbird VC QR codes",
+            "date": "2024-09-25T05:58:09Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #163 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613] removing the unwanted console logs",
+            "date": "2024-09-25T03:24:06Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1982] - add local gitignore\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-25T03:22:26Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1982] - Support old sunbird QR also with PixelPass update\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-25T03:20:23Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] removing the unwanted console logs\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-24T10:53:55Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #162 from srikanth716/injiver-zing-wasm-library",
+            "date": "2024-09-24T08:33:45Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] fix ovp flow issue on redirect\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-24T08:27:26Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #161 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613] fix: pdf qrcode upload issue with zing wasm library",
+            "date": "2024-09-24T03:26:05Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] fix: pdf qrcode upload issue with zing wasm library\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-23T15:12:03Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #160 from srikanth716/injiver-zing-wasm-library\n\n[INJIVER-613] implement zing wasm library",
+            "date": "2024-09-23T04:19:55Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] fix fullscreen styling issue\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-20T15:40:27Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-613] implement zing wasm library\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-20T15:32:07Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #159 from anup-nehe/release-0.10.x\n\nadded readme document",
+            "date": "2024-09-20T05:27:20Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/release-0.10.x' into release-0.10.x",
+            "date": "2024-09-20T04:38:16Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "added readme file\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-09-20T04:37:48Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIVER-422] fix: offline alignment issue\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-19T07:34:17Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #157 from anup-nehe/release-0.10.x\n\nINJIVER-606 sync code with develop",
+            "date": "2024-09-18T11:41:03Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "INJIVER-606\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-09-18T11:31:44Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "Injiver 612 mobile homepage button redirect issue (#154)",
+            "date": "2024-09-10T12:26:42Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-612] fix: Mobile Homepage Button Redirects to Connection Failure Page in Desktop View (#152)\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-10T06:45:52Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-601] fix:Back button from scan page is bringing the upload ovp last event (#146)\n\n* [INJIVER-601] fix:Back button from scan page is bringing the last event from upload\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-601] remove condition to navigate\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-601] remove param deletion\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-10T06:24:48Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-611] fix:Unable to upload capital extension QR codes (#153)\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-09-10T05:40:54Z"
+        },
+        {
+            "author": "Sasikumar Ganesan",
+            "message": "Merge pull request #151 from Infosys/release-0.10.x",
+            "date": "2024-09-06T06:09:48Z"
+        },
+        {
+            "author": "Hitesh Jain",
+            "message": "[INJIVER-609]\nUpdated package-lock.json\n\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>",
+            "date": "2024-09-06T05:56:34Z"
+        },
+        {
+            "author": "Hitesh Jain",
+            "message": "[INJIVER-609]\n\nBumped up version of pixel pass to 0.2.1\n\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>",
+            "date": "2024-09-06T05:52:36Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-607] fix: IOS alignment on scan (#149)",
+            "date": "2024-09-05T14:05:42Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-601] reverting the changes  (#145)",
+            "date": "2024-09-02T10:48:19Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-601] Back button from scan page is bringing the last event from upload (#144)",
+            "date": "2024-09-02T10:21:07Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-601] Back button from scan page is bringing the last event from upload (#143)\n\n* INJIVER-406 Add patches for Verification sdk\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-406 Updated the node version to 18 in the Dockerfile\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-406 Copy patch files to the docker\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-418 Check for the internet connection after selecting a file - Upload flow\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* Fix package versions to a specific version\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* MOSIP-34141 (#115)\r\n\r\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* MOSIP-34140 inji-verify browser stack integration (#117)\r\n\r\n* MOSIP-34140\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-34140\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-444 Added 2 sections for Developer setup and Demo in README.md file\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-444 Added document contents section\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-444 Added Troubleshoot section\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-444 Added Docker desktop link for download\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Added logic to read the redirect to the url if the flow is OVP in the qr data\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Verify VC from vp_token once redirected back to the Inji Verify\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Update logic of redirecting in ovp after reading qr\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Pass client id\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Read client id from env\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Read ovp qr header from env\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Pass env via docker compose\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Added dependencies to use effect hook in OvpRedirect component\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Added error handling for the ovp flow\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Fix issue with showing the error message\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-391 Added url decoding for presentation_submission\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* INJIVER-390 Add text wrapping if the value of a field is large in vc (#119)\r\n\r\n* INJIVER-390 Add text wrapping if the value of a field is large in vc\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\n* INJIVER-390 Fix build issues\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [DSD-5765]- updated pom.xml  (#123)\r\n\r\n* MOSIP-34140\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n* MOSIP-34140\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n* updated pom.xml\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n* resolve conflicts\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-445] (#126)\r\n\r\nadded user facing error code and messages as per inji verify response\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-445]: error handeling text update (#127)\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* handeling durian changes from inji web\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-127] chore: Update QR code scanning and upload libraries\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-127] removed unknown dependency\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-444]: update readme file and added fictious assets\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-444]: Organized fictitious assets by placing them in the  directory\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-444]: updated readme with available tags,release branches and active branches\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-127] fix: useEffect has a missing dependency\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-600] fix: error message popup when camera disabled\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-602] fix: scan pages alignment and error popup\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-601] fix:Back button from scan page is bringing the last event from upload\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\nCo-authored-by: Shiva <shivakumar@beehyv.com>\r\nCo-authored-by: maheswaras <maheswara.s@cyberpwn.com>\r\nCo-authored-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\nCo-authored-by: Shiva <81953913+shiva-beehyv@users.noreply.github.com>\r\nCo-authored-by: Hitesh C <jainhitesh9998@gmail.com>",
+            "date": "2024-09-02T09:16:40Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-127] Error handling for permission denied (#141)\n\n* [INJIVER-127] fix: useEffect missing dependency issue\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-127] fix: error handling for camera permission denied\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-127] fix: update comparing error message of camera request denied\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-08-29T04:33:19Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-127] fix: useEffect missing dependency issue (#140)",
+            "date": "2024-08-28T07:38:56Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-127] Update QR code scanning and upload libraries (#137)\n\n* handeling durian changes from inji web\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-127] chore: Update QR code scanning and upload libraries\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-127] removed unknown dependency\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-444]: update readme file and added fictious assets\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-444]: Organized fictitious assets by placing them in the  directory\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIVER-444]: updated readme with available tags,release branches and active branches\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-08-28T06:14:19Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "handeling durian changes from inji web (#135)\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-08-26T09:16:21Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIVER-445]: error handeling text update (#127)",
+            "date": "2024-07-31T06:38:29Z"
+        },
+        {
+            "author": "Hitesh C",
+            "message": "[INJIVER-445] (#126)\n\nadded user facing error code and messages as per inji verify response\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>",
+            "date": "2024-07-31T05:15:10Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "[DSD-5765]- updated pom.xml  (#123)\n\n* MOSIP-34140\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n* MOSIP-34140\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n* updated pom.xml\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n* resolve conflicts\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-25T06:58:00Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-390 Add text wrapping if the value of a field is large in vc (#119)\n\n* INJIVER-390 Add text wrapping if the value of a field is large in vc\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>\r\n\r\n* INJIVER-390 Fix build issues\r\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-25T03:34:08Z"
+        },
+        {
+            "author": "Challarao",
+            "message": "Merge pull request #122 from shiva-beehyv/injiver-391-ovp\n\nInjiver 391 Added error handling for the ovp flow",
+            "date": "2024-07-19T11:00:35Z"
+        },
+        {
+            "author": "Challarao",
+            "message": "Merge pull request #121 from shiva-beehyv/injiver-444-update-readme-for-docker-compose\n\nInjiver 444 update readme for docker compose",
+            "date": "2024-07-19T11:00:27Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Added url decoding for presentation_submission\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-19T09:07:52Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "Merge branch 'develop' into injiver-444-update-readme-for-docker-compose",
+            "date": "2024-07-19T08:51:54Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-444 Added Docker desktop link for download\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-19T08:46:54Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-444 Added Troubleshoot section\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-19T08:26:42Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-444 Added document contents section\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-19T07:57:17Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-444 Added 2 sections for Developer setup and Demo in README.md file\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-19T07:44:35Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Fix issue with showing the error message\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-19T06:00:02Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Added error handling for the ovp flow\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-18T11:03:28Z"
+        },
+        {
+            "author": "Challarao",
+            "message": "Merge pull request #120 from shiva-beehyv/injiver-391-ovp\n\nINJIVER-391 Fix build issue",
+            "date": "2024-07-16T12:39:05Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Added dependencies to use effect hook in OvpRedirect component\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-16T12:21:56Z"
+        },
+        {
+            "author": "Challarao",
+            "message": "Merge pull request #118 from shiva-beehyv/injiver-391-ovp\n\nINJIVER-391 OVP Flow implementation",
+            "date": "2024-07-16T12:05:02Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Pass env via docker compose\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-16T11:40:46Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Read ovp qr header from env\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-16T07:24:03Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Read client id from env\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-15T13:50:53Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "MOSIP-34140 inji-verify browser stack integration (#117)\n\n* MOSIP-34140\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-34140\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-15T13:13:24Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Pass client id\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-15T13:07:14Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Update logic of redirecting in ovp after reading qr\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-14T15:46:06Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Verify VC from vp_token once redirected back to the Inji Verify\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-14T15:37:26Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-391 Added logic to read the redirect to the url if the flow is OVP in the qr data\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-14T11:06:27Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "MOSIP-34141 (#115)\n\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n* MOSIP-34141\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-07-11T11:37:18Z"
+        },
+        {
+            "author": "Challarao",
+            "message": "Merge pull request #111 from shiva-beehyv/fix-package-versions-1\n\nFix package versions to a specific version",
+            "date": "2024-07-04T13:20:53Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "Fix package versions to a specific version\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-04T13:08:56Z"
+        },
+        {
+            "author": "Challarao",
+            "message": "Merge pull request #108 from shiva-beehyv/injiver-418-upload-feature-not-working-ios-devices\n\nINJIVER-418 Check for the internet connection after selecting a file - Upload flow",
+            "date": "2024-07-04T10:21:41Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-418 Check for the internet connection after selecting a file - Upload flow\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-04T10:00:18Z"
+        },
+        {
+            "author": "Challarao",
+            "message": "Merge pull request #106 from shiva-beehyv/injiver-406-apply-patch-to-verification-sdk\n\nINJIVER-406 Add patches for Verification sdk",
+            "date": "2024-07-03T09:20:21Z"
+        },
+        {
+            "author": "Shiva",
+            "message": "INJIVER-406 Copy patch files to the docker\nSigned-off-by: Shiva <shivakumar@beehyv.com>",
+            "date": "2024-07-03T09:15:58Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Develop",
+            "author": "srikanth716",
+            "date": "2025-02-05T13:40:24Z"
+        },
+        {
+            "title": "Bump undici from 5.28.4 to 5.28.5 in /inji-verify",
+            "author": "dependabot[bot]",
+            "date": "2025-01-22T00:05:53Z"
+        }
+    ],
+    "issues": [],
+    "reviews": []
+}

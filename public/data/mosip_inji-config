@@ -1,0 +1,45 @@
+{
+    "repository": "mosip/inji-config",
+    "commits": [
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] update the language (#668)\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB-2538]: add openid4vp client id validation to inji default properties (#716)\n\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[DSD-7103] Updated datashare link to be http instead of https as it i\u2026 (#704)\n\n* [DSD-7103] Updated datashare link to be http instead of https as it is internal service\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n* [DSD-7103] Updated datashare get lik\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-1086]: update release changes into credential template (#445)\n\n* [INJIWEB-1086]: update release changes into credential template\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-961]: add response_uris for verifiers\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-961]: update readme for response_uris\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #675 from likhitharl/patch-16\n\nUpdate certify-postgres-landregistry.properties"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Injiweb1246 templates",
+            "author": "Gurpreet41082"
+        },
+        {
+            "title": "[INJICERT-248] add simplified utf-8 encoded issuer config",
+            "author": "vharsh"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Injiweb1246 templates",
+            "author": "Gurpreet41082"
+        },
+        {
+            "title": "[INJICERT-248] add simplified utf-8 encoded issuer config",
+            "author": "vharsh"
+        }
+    ]
+}

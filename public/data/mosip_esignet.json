@@ -1,0 +1,641 @@
+{
+    "repository": "mosip/esignet",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-6947] esignet 1.5.0 release",
+            "date": "2025-01-22T14:27:54Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1134 from shubham17998/release-1.5.x\n\n[DSD-6947] Updated chart verisons and branch",
+            "date": "2025-01-22T12:57:31Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "Updated init_values.yaml\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>",
+            "date": "2025-01-22T11:34:47Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6947] Updated init_values.yaml\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>",
+            "date": "2025-01-22T10:58:13Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6947] Updated init_db.sh\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>",
+            "date": "2025-01-22T10:51:13Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1132 from Prafulrakhade/release-1.5.x\n\n[DSD-6947] eSignet 1.5.0 release",
+            "date": "2025-01-22T10:15:19Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6947] eSignet 1.5.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-22T08:21:10Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6947] eSignet 1.5.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-22T08:16:01Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-6947] eSignet 1.5.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-22T08:02:58Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1130 from mosip/releas-branch\n\n[DSD-6947] esignet 1.5.0 release changes",
+            "date": "2025-01-22T06:31:04Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6947] esignet 1.5.0 release changes\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2025-01-22T06:16:34Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6947] esignet 1.5.0 release changes\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2025-01-22T06:15:58Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "Updated Pom versions for release changes\n\nSigned-off-by: GitHub <noreply@github.com>",
+            "date": "2025-01-22T05:52:08Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1118 from Prafulrakhade/release-1.5.x\n\n[MOSIP-38705] & [MOSIP-38705] added installation script for esignet-w\u2026",
+            "date": "2025-01-17T12:55:30Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "Merge remote-tracking branch 'origin/release-1.5.x' into release-1.5.x",
+            "date": "2025-01-17T10:08:39Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-38705] & [MOSIP-38705] added installation script for esignet-with-plugins and for esignet.\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-17T10:08:20Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[MOSIP-38705] & [MOSIP-38705] added installation script for esignet-with-plugins and for esignet.\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2025-01-17T10:07:18Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[MOSIP-38705] & [MOSIP-38705] added installation script for esignet-with-plugins and for esignet.\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-17T10:03:22Z"
+        },
+        {
+            "author": "praful-technoforte",
+            "message": "[MOSIP-38703],[MOSIP-38704] & [MOSIP-38707] updated push-trigger.yml \u2026 (#1103)\n\n* [MOSIP-38703],[MOSIP-38704] & [MOSIP-38707] updated push-trigger.yml to Continue docker build only if the SNAPSHOT is present in parent pom otherwise skip\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [MOSIP-38705] & [38705] added installation script for esignet-with-plugins and for esignet.\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [MOSIP-38705] & [38705] added installation script for esignet-with-plugins and for esignet.\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [MOSIP-38705] & [38705] added installation script for esignet-with-plugins and for esignet.\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\nCo-authored-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-16T04:29:32Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1086 from VSIVAKALYAN/release-1.5.x\n\n[MOSIP-38555] Removing apitestrig from Sonar analysis for release branch",
+            "date": "2025-01-07T09:52:09Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[MOSIP-38555] Removing apitestrig from Sonar analysis for release branch\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2025-01-07T04:53:23Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1077 from shubham17998/release-1.5.x\n\n[DSD-6742] Updated init_values.yaml",
+            "date": "2024-12-24T09:47:10Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6742] Updated init_values.yaml\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>",
+            "date": "2024-12-24T05:48:52Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1071 from ase-101/release-1.5.x\n\nDocker container failing to find libpkcs11-proxy.so",
+            "date": "2024-12-23T04:26:06Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Update Dockerfile\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-12-20T14:07:41Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1068 from shubham17998/release-1.5.x\n\n[DSD-6742] Updated esignet-global-cm.yaml.sample",
+            "date": "2024-12-20T13:47:44Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6742] Updated esignet-global-cm.yaml.sample\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>",
+            "date": "2024-12-20T13:30:17Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6742] Updated Install script for istio (#1063)\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-12-20T07:08:16Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[MOSIP-36849]updated README.md (#1055)\n\n* [MOSIP-36849]updated README.md\r\n\r\nSigned-off-by: techno-376 <rakshitham38@gmail.com>\r\n\r\n* Update README.md\r\n\r\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: techno-376 <rakshitham38@gmail.com>\r\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2024-12-18T08:35:19Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36485 | Updated the commons released version in pom.xml (#1056)\n\n* MOSIP-36485\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n* MOSIP-36485\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n* MOSIP-36485\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-18T07:23:15Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update Dockerfile (#1057)\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2024-12-18T06:57:16Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1053 from Rakshitha650/patch-2\n\n[MOSIP-36849]Updated README.md",
+            "date": "2024-12-17T13:42:03Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "Update README.md\n\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2024-12-17T13:04:12Z"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "message": "[DSD-6888]Update push-trigger.yml reverting changes for sonar test (#1052)\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>",
+            "date": "2024-12-17T10:46:25Z"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "message": "[DSD-6888]Update push-trigger.yml to check results for release. (#1051)\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>",
+            "date": "2024-12-17T05:11:23Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1050 from mosip/ase-101-patch-4\n\nES-842 Update esignet-openapi.yaml",
+            "date": "2024-12-16T11:25:19Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-842 Update esignet-openapi.yaml\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-12-16T09:22:08Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Updated postman collection & docker compose (#1048)\n\n* Updated postman collection & docker compose\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Updated postman collection & docker compose\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-12-13T07:46:18Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1043 from shubham17998/release-1.5.x\n\n[DSD-6742] updated README",
+            "date": "2024-12-12T12:44:55Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-842 (#1046)\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-12-12T10:27:53Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6742] updated README\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-12-12T08:27:46Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1041 from shubham17998/release-1.5.x\n\n[DSD-6742] removed unwanted Env variables in values.yaml",
+            "date": "2024-12-11T18:20:04Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6742] removed unwanted Env variables in values.yaml\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-12-11T16:06:09Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1039 from shubham17998/release-1.5.x\n\n[DSD-6742] Updated Install scripts and README",
+            "date": "2024-12-11T14:40:55Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6742] Updated Env variables in values.yaml\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-12-11T14:12:10Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6742] Updated apitestrig README\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-12-11T11:12:41Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6742] Updated install.sh replaced global cm as esignet-global\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>",
+            "date": "2024-12-11T10:59:29Z"
+        },
+        {
+            "author": "shubham_G",
+            "message": "[DSD-6742] Updated values.yaml\n\nSigned-off-by: shubham_G <shubhamgawali.sag@gmail.com>",
+            "date": "2024-12-11T10:51:17Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-1856 updated Readme file as per review comments (#1023)\n\n* ES-1856\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* ES-1856\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* ES-1856\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Updated branch name\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-12-10T16:13:30Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36485 | changes validation message (#1031)\n\n* MOSIP-36485\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n* MOSIP-36485\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-06T05:22:57Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36485 (#1028)\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-05T14:07:11Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1025 from nandhu-kumar/release-1.5.x\n\nMOSIP-36485 | ES-1987 | updated the validation for IDA plugin and removed VCI test cases from esignet",
+            "date": "2024-12-05T05:29:36Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "ES-1987\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-04T15:21:35Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36485\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-04T15:16:10Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36485\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-04T14:15:45Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1020 from VSIVAKALYAN/release-1.5.x\n\n[MOSIP-37815] Passing Unique Config with NS",
+            "date": "2024-11-29T18:24:47Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1022 from shubham17998/release-1.5.x\n\n[DSD-6742] updated/restructured install scripts for fixes",
+            "date": "2024-11-29T13:58:58Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6742] updated/restructured install scripts for fixes\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-11-29T11:33:26Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[MOSIP-37815] Added Unique Config as User input (#1017)\n\n* [MOSIP-37815] Added Unique Config as Userinput\r\n\r\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\r\n\r\n* [MOSIP-37815] Fixed Chart lint Failure\r\n\r\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\r\n\r\n* [MOSIP-37815] Updated as per requirement\r\n\r\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\r\n\r\n* [MOSIP-37815] Updated values.yaml\r\n\r\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\r\n\r\n* [MOSIP-37815] Tested Working as expected\r\n\r\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\r\n\r\n* [MOSIP-37815]\r\n\r\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>",
+            "date": "2024-11-29T05:52:26Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1019 from mohanachandran-s/patch-2\n\nMOSIP-37793 - Updated the Readme file",
+            "date": "2024-11-29T06:48:51Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-37793 - Updated the Readme file\n\nSigned-off-by: Mohanachandran S <165888272+mohanachandran-s@users.noreply.github.com>",
+            "date": "2024-11-28T04:11:35Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #997 from bhumi46/release-1.5.x\n\n[MOSIP-37447] restructured postgres",
+            "date": "2024-11-27T11:05:58Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-25T10:14:43Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-20T13:56:04Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-20T06:37:37Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-19T13:01:57Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-19T12:33:17Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-1929 (#1007)\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-11-18T15:02:05Z"
+        },
+        {
+            "author": "Gk",
+            "message": "[ES-1553] Hidden the language dropdown in the claim-details screen. (#1005)\n\nSigned-off-by: GurukiranP <talk2gurukiran@gmail.com>",
+            "date": "2024-11-18T09:15:56Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1004 from abhishek8shankar/release-1.5.x\n\n[DSD-6445] Updated install.sh for opting plugings",
+            "date": "2024-11-15T13:03:49Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #998 from nandhu-kumar/release-1.5.x\n\nMOSIP-37214 | Updated README file & sync changes from develop branch",
+            "date": "2024-11-15T05:34:36Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-15T03:26:36Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] added nfs helm  changes for apitestrig\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-14T17:23:29Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-14T11:11:06Z"
+        },
+        {
+            "author": "Abhi",
+            "message": "[DSD-6445] Updated install.sh for opting plugings\n\nSigned-off-by: Abhi <abhishek.shankarcs@gmail.com>",
+            "date": "2024-11-14T10:10:18Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/release-1.5.x' into release-1.5.x",
+            "date": "2024-11-14T08:26:54Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1002 from mohanachandran-s/patch-2\n\nMOSIP-37476 - updated the docker file for jdk version",
+            "date": "2024-11-14T08:08:23Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-14T08:01:25Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-14T07:11:36Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-37476 - updated the docker file for jdk version\n\nSigned-off-by: Mohanachandran S <165888272+mohanachandran-s@users.noreply.github.com>",
+            "date": "2024-11-14T06:38:32Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-14T05:28:52Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-13T17:16:09Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-13T11:04:36Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-13T10:07:15Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/release-1.5.x' into release-1.5.x",
+            "date": "2024-11-13T09:00:59Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-13T09:00:42Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-13T08:25:10Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-13T07:53:08Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-13T07:50:34Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-37447] restructured postgres\n\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-11-13T07:41:46Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #996 from nandhu-kumar/release-1.5.x\n\nMOSIP-37214 | Syncing changes from develop to Release 1.5.x",
+            "date": "2024-11-13T06:22:10Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214 | Syncing changes from develop to Release 1.5.x\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-12T08:15:18Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #994 from nandhu-kumar/release-1.5.x\n\nMOSIP-37214 | Syncing changes from develop to Release 1.5.x",
+            "date": "2024-11-11T11:28:16Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-11T09:42:36Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/release-1.5.x' into release-1.5.x",
+            "date": "2024-11-11T09:32:54Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-11T09:32:37Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #989 from nandhu-kumar/release-1.5.x\n\nMOSIP-37214 | 1.5.0 Release pom changes",
+            "date": "2024-11-06T13:11:10Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37214\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-06T12:28:52Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #985 from ase-101/release-1.5.x\n\nES-842",
+            "date": "2024-11-06T06:05:39Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-842\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-11-03T19:29:09Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[MOSIP-39232] and [ES-2180] fix the deployment issues for esignet",
+            "author": "Prafulrakhade",
+            "date": "2025-02-06T14:05:03Z"
+        },
+        {
+            "title": "[MOSIP-39232] and [ES-2180] fix the deployment issues for esignet",
+            "author": "Prafulrakhade",
+            "date": "2025-02-06T13:36:46Z"
+        },
+        {
+            "title": "[ES-1915] Documentation of prefix and postfix feature config.",
+            "author": "gk-4VII",
+            "date": "2025-02-06T11:12:18Z"
+        },
+        {
+            "title": "[MOSIP-35637] added sqaush layers",
+            "author": "Rakshithb1",
+            "date": "2025-02-05T13:15:57Z"
+        },
+        {
+            "title": "[PER-208]: eSignet Mosip IDA script and ReadMe file",
+            "author": "nihallakshmankonchady",
+            "date": "2025-02-04T10:47:18Z"
+        },
+        {
+            "title": "MOSIP-37901: esignet-services-release",
+            "author": "nagendra0721",
+            "date": "2025-01-31T07:06:45Z"
+        },
+        {
+            "title": "[MOSIP-39115]Updated README.md",
+            "author": "Rakshitha650",
+            "date": "2025-01-28T07:49:44Z"
+        },
+        {
+            "title": "[ES-2164] Added support for user info response type",
+            "author": "pvsaidurga",
+            "date": "2025-01-27T06:13:23Z"
+        },
+        {
+            "title": "[ES-2161] added client additionalConfig in oauth response",
+            "author": "sacrana0",
+            "date": "2025-01-23T12:38:15Z"
+        },
+        {
+            "title": "adding unique identifier",
+            "author": "Famuda1234",
+            "date": "2024-11-08T10:12:21Z"
+        },
+        {
+            "title": "Bump http-proxy-middleware from 2.0.6 to 2.0.7 in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-10-26T03:12:17Z"
+        },
+        {
+            "title": "Bump cookie and express in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-10-13T14:07:32Z"
+        },
+        {
+            "title": "Bump rollup from 2.79.1 to 2.79.2 in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-09-28T00:03:21Z"
+        },
+        {
+            "title": "Bump path-to-regexp and express in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-09-24T00:07:57Z"
+        },
+        {
+            "title": "[MOSIP-35421] Added values.yaml file for esignet apitestrig.",
+            "author": "Mohanraj209",
+            "date": "2024-09-19T05:55:50Z"
+        },
+        {
+            "title": "Bump send and express in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-09-19T04:28:57Z"
+        },
+        {
+            "title": "Bump serve-static and express in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-09-19T04:10:56Z"
+        },
+        {
+            "title": "Bump body-parser and express in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-09-16T16:05:33Z"
+        },
+        {
+            "title": "Bump micromatch from 4.0.5 to 4.0.8 in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-09-02T22:42:22Z"
+        },
+        {
+            "title": "Bump webpack from 5.88.2 to 5.94.0 in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-08-30T21:10:48Z"
+        },
+        {
+            "title": "Bump axios from 1.4.0 to 1.7.3 in /oidc-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-08-12T22:01:29Z"
+        },
+        {
+            "title": "Scenario scripts for eSignet password and OTP based authentication.",
+            "author": "nihallakshmankonchady",
+            "date": "2024-06-04T10:18:13Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "What are we trying to achieve here with postman ? Can some body please explain ?",
+            "author": "kumar241982",
+            "date": "2024-05-13T07:50:49Z"
+        },
+        {
+            "title": "E-signet Docker-compose up command errors",
+            "author": "kumar241982",
+            "date": "2024-05-09T00:52:40Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "ase-101",
+            "comment": "No comment provided",
+            "date": "2025-01-27T11:15:16Z"
+        },
+        {
+            "author": "mohanachandran-s",
+            "comment": "No comment provided",
+            "date": "2024-11-08T11:29:10Z"
+        }
+    ]
+}

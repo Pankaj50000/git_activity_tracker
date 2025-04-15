@@ -1,0 +1,656 @@
+{
+    "repository": "mosip/documentation",
+    "commits": [
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-948: \"Moved API test commons release section according to releases main page\"",
+            "date": "2025-02-06T09:02:37Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-946: \"Updated release notes with proper date format\"",
+            "date": "2025-02-03T14:12:00Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-945: \"Added Changes in RP config guide \"",
+            "date": "2025-02-03T12:17:25Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-942: \"Added a new header under Roadmap 2025 page\"",
+            "date": "2025-02-03T11:13:02Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-944: \"New updated content  for release v0.9.1\"",
+            "date": "2025-02-03T11:04:42Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-943: \"Fixed broken links and added new content for overview under v0.9.1\"",
+            "date": "2025-02-03T10:53:28Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-940: \"Added test report link under v0.9.1 release\"",
+            "date": "2025-02-03T10:45:45Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-939: \"Formatting and spell check in v0.9.1 release\"",
+            "date": "2025-01-31T16:58:53Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-938: \"Updated repo links for v0.9.1\"",
+            "date": "2025-01-31T16:32:37Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-937: \"Added Test Report to Resident services v0.9.1\"",
+            "date": "2025-01-31T13:52:30Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-936: \"Added Draft test report for RP v0.9.1\"",
+            "date": "2025-01-31T12:43:22Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-910: \"Adding draft release notes for RP 0.9.1\"",
+            "date": "2025-01-31T12:33:43Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-935: No subject",
+            "date": "2025-01-31T07:14:01Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-934: No subject",
+            "date": "2025-01-31T07:12:03Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-933: \"Added new updated links to video in admin portal collab guide\"",
+            "date": "2025-01-30T14:51:09Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-932: \"Broken link fix under admin portal collab guide\"",
+            "date": "2025-01-30T14:48:48Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-931: \"Formatting and heading check in Admin portal user guide\"",
+            "date": "2025-01-30T14:42:25Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Merge pull request #517 from swahsek/1.2.0\n\nSigned-off-by: Keshaw Singh <ks@keshaws.com>",
+            "date": "2025-01-30T11:04:10Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Signed-off-by: Keshaw Singh <ks@keshaws.com>\nKeycloak introduction and Keycloak's role in MOSIP",
+            "date": "2025-01-30T10:55:16Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-930: \"Grammar and spell check under admin portal collab guide\"",
+            "date": "2025-01-30T10:49:15Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-929: \"Spell check in admin portal collab guide\"",
+            "date": "2025-01-30T10:46:08Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-928: No subject",
+            "date": "2025-01-30T10:44:25Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-927: \"new content for Admin portal collab guide\"",
+            "date": "2025-01-30T10:42:01Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Merge pull request #516 from vibha-gondkar/1.2.0\n\nMOSIP-37011",
+            "date": "2025-01-30T10:24:01Z"
+        },
+        {
+            "author": "vibha-gondkar",
+            "message": "MOSIP-37011\n\n\"Added LinkedIn, copy, and YouTube icons\"\n\nSigned-off-by: vibha-gondkar <vibha.sg@technoforte.co.in>",
+            "date": "2025-01-30T10:21:59Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-926: No subject",
+            "date": "2025-01-30T10:06:46Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-925: No subject",
+            "date": "2025-01-30T10:04:21Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-924: No subject",
+            "date": "2025-01-30T10:02:42Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-923: No subject",
+            "date": "2025-01-30T09:58:12Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-922: No subject",
+            "date": "2025-01-30T09:55:21Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-921: No subject",
+            "date": "2025-01-30T09:30:37Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-920: No subject",
+            "date": "2025-01-30T09:28:48Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-919: No subject",
+            "date": "2025-01-30T09:25:58Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-918: No subject",
+            "date": "2025-01-30T09:24:02Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-917: No subject",
+            "date": "2025-01-30T09:23:02Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-915: No subject",
+            "date": "2025-01-30T09:11:54Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-916: Partner Policy definition, how it is structured and used",
+            "date": "2025-01-30T09:03:33Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Merge pull request #515 from swahsek/1.2.0\n\nSigned-off-by: Keshaw Singh <ks@keshaws.com>",
+            "date": "2025-01-30T08:57:57Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Signed-off-by: Keshaw Singh <ks@keshaws.com>\n\nMOSIP Partner Policy definition, how it is structured and used",
+            "date": "2025-01-30T08:47:58Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-914: \"Header formatting check in Admin portal user guide\"",
+            "date": "2025-01-29T15:48:56Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-912: \"Spell check and formattimg in Admin Portal user Guide\"",
+            "date": "2025-01-29T13:07:00Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-913: \"Updated release date for API test commons v1.3.1\"",
+            "date": "2025-01-29T12:58:26Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-911: \"Spell check in Release v1.3.1\"",
+            "date": "2025-01-24T16:27:46Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-909: \"Page check and broekn links for API test commons\"",
+            "date": "2025-01-24T16:21:26Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-905: No subject",
+            "date": "2025-01-24T16:16:55Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-908: \"Spell check for v1.3.1\"",
+            "date": "2025-01-24T16:14:15Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-907: \"Updated Draft release notes for API test commons v1.3.1\"",
+            "date": "2025-01-24T16:06:20Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-906: Roadmap - 2025",
+            "date": "2025-01-24T07:02:26Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-903: Roadmap - 2025 PMS and Automation",
+            "date": "2025-01-21T11:27:07Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-902: \"Grammar check and headings updated under Architecture section\"",
+            "date": "2025-01-21T10:07:29Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-901: \"Grammar check\"",
+            "date": "2025-01-21T09:49:43Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-900: \"Heading changes under the Architecture section\"",
+            "date": "2025-01-21T09:43:32Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-898: Roadmap 2025.",
+            "date": "2025-01-21T08:16:23Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-899: \"Spell check in the Architecture Section\"",
+            "date": "2025-01-21T06:07:54Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-897: \"Adding new functional Architechture diagram under overview\"",
+            "date": "2025-01-21T06:03:17Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-896: \"Added Java 21 migration guide link to 1.2.1.0-beta.1 release notes\"",
+            "date": "2025-01-17T16:22:05Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-880: \"Added Java migration 21 guide\"",
+            "date": "2025-01-17T16:17:11Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-895: \"Grammar correction\"",
+            "date": "2025-01-10T08:51:06Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-894: \"Spell Check for release 1.2.0.2\"",
+            "date": "2025-01-10T08:50:03Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-893: \"Added Github link to XSL file for release 1.2.0.2\"",
+            "date": "2025-01-10T08:44:37Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-892: \"Spell check on release 1.2.0.2\"",
+            "date": "2025-01-10T07:06:03Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-891: \"Spell check on 1.2.0.2 release\"",
+            "date": "2025-01-10T07:02:01Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-890: \"Added Test report for 1.2.0.2 release\"",
+            "date": "2025-01-10T06:59:08Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-889: \"Spell check and grammar in 1.2.0.2 release\"",
+            "date": "2025-01-10T05:18:30Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-888: \"Updated tags for 1.2.0.2 repositories released\"",
+            "date": "2025-01-08T11:01:11Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-887: \"Spell check and broken links for 1.2.0.2 release\"",
+            "date": "2025-01-08T10:50:53Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-886: \"Adding 1.2.0.2 release notes\"",
+            "date": "2025-01-08T10:24:27Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-885: No subject",
+            "date": "2025-01-08T10:11:14Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Merge pull request #505 from vibha-gondkar/1.2.0\n\nMOSIP-37011",
+            "date": "2025-01-08T06:52:41Z"
+        },
+        {
+            "author": "vibha-gondkar",
+            "message": "MOSIP-37011\n\n\"Adding new collab template logo\"\n\nSigned-off-by: vibha-gondkar <vibha.sg@technoforte.co.in>",
+            "date": "2025-01-08T06:26:06Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-884: MOSIP Roadmap 2025",
+            "date": "2024-12-24T13:56:24Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-883: No subject",
+            "date": "2024-12-24T13:48:30Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-882: Roadmap - 2025",
+            "date": "2024-12-24T13:33:25Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-881: MOSIP Roadmap 2025",
+            "date": "2024-12-24T12:44:50Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-879: MOSIP Roadmap 2025",
+            "date": "2024-12-24T06:53:11Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-878: Mosip Roadmap 2025",
+            "date": "2024-12-24T05:27:19Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-877: MOSIP Roadmap 2025",
+            "date": "2024-12-24T04:55:22Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-876: No subject",
+            "date": "2024-12-24T04:10:17Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-874: MOSIP Raodmap 2025",
+            "date": "2024-12-23T13:13:01Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-873: Mosip Roadmap 2025",
+            "date": "2024-12-23T12:15:08Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-872: No subject",
+            "date": "2024-12-23T11:46:52Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-871: MOSIP Roadmap 2025",
+            "date": "2024-12-23T10:10:33Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-868: Roadmap 2025 - Module coloumn removed",
+            "date": "2024-12-23T09:24:32Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-870: \"Deleted duplicate page for API section\"",
+            "date": "2024-12-23T06:54:29Z"
+        },
+        {
+            "author": "vibha.sg",
+            "message": "GITBOOK-869: \"Deleted duplicate page of docs 1.1.5\"",
+            "date": "2024-12-23T06:52:50Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-867: Roadmap -",
+            "date": "2024-12-23T04:31:09Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-866: No subject",
+            "date": "2024-12-22T15:41:03Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-864: No subject",
+            "date": "2024-12-22T15:36:53Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-861: No subject",
+            "date": "2024-12-22T04:09:09Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-860: Roadmap 2025",
+            "date": "2024-12-22T04:01:30Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-859: Roadmap 2025",
+            "date": "2024-12-22T03:31:06Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-858: No subject",
+            "date": "2024-12-22T03:25:19Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-857: Roadmap 2025",
+            "date": "2024-12-22T03:17:56Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-856: No subject",
+            "date": "2024-12-19T14:10:40Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-855: No subject",
+            "date": "2024-12-19T13:29:30Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "GITBOOK-854: No subject",
+            "date": "2024-12-19T13:26:48Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Merge pull request #493 from swahsek/1.2.0\n\nSigned-off-by Keshaw Singh <ks@keshaws.com>",
+            "date": "2024-12-19T13:08:05Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Signed-off-by Keshaw Singh ks@keshaws.com",
+            "date": "2024-12-19T13:03:53Z"
+        },
+        {
+            "author": "Keshaw Singh",
+            "message": "Signed-off-by Keshaw Singh <ks@keshaws.com>",
+            "date": "2024-12-19T13:01:20Z"
+        },
+        {
+            "author": "Resham Chugani",
+            "message": "GITBOOK-853: No subject",
+            "date": "2024-12-19T08:46:20Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Fix readme",
+            "author": "JeanKouss",
+            "date": "2025-02-04T07:56:09Z"
+        },
+        {
+            "title": "[Injimob - 2367] add details about openid4vp online sharing feature in docs",
+            "author": "PuBHARGAVI",
+            "date": "2025-01-09T09:27:56Z"
+        },
+        {
+            "title": "[MOSIP-34573] Update rke and istio version",
+            "author": "Rakshithb1",
+            "date": "2024-07-26T07:03:58Z"
+        },
+        {
+            "title": "Revert \"[MOSIP-29677,MOSIP-29676]Update registration-client-user-guide.md\"",
+            "author": "Balakuntalam",
+            "date": "2024-04-16T13:51:48Z"
+        },
+        {
+            "title": "1.1.5",
+            "author": "Balakuntalam",
+            "date": "2024-03-28T05:53:23Z"
+        },
+        {
+            "title": "Updated git branch setup on-prem-installation-guidelines.md",
+            "author": "abnandan17",
+            "date": "2024-03-06T07:51:47Z"
+        },
+        {
+            "title": "Added the version folder \"v1.3.0\"",
+            "author": "yashmsonkusare",
+            "date": "2024-03-06T06:47:58Z"
+        },
+        {
+            "title": "Update release-notes-1.2.0.1.md",
+            "author": "Balakuntalam",
+            "date": "2024-02-29T14:12:43Z"
+        },
+        {
+            "title": "Update collab-android-reg-client.md",
+            "author": "Balakuntalam",
+            "date": "2024-02-28T11:51:17Z"
+        },
+        {
+            "title": "Update release-notes-1.2.0.1.md",
+            "author": "Balakuntalam",
+            "date": "2024-02-27T08:43:14Z"
+        },
+        {
+            "title": "Update release-notes-1.2.0.1.md",
+            "author": "Balakuntalam",
+            "date": "2024-02-27T04:28:00Z"
+        },
+        {
+            "title": "Update roadmap-2024-2025.md",
+            "author": "Balakuntalam",
+            "date": "2024-02-15T04:16:20Z"
+        },
+        {
+            "title": "Updated the faulty directory name",
+            "author": "tKarthikT",
+            "date": "2024-02-09T11:29:38Z"
+        },
+        {
+            "title": "Update roadmap-2024-2025.md",
+            "author": "Balakuntalam",
+            "date": "2024-02-01T06:24:53Z"
+        },
+        {
+            "title": "Update abis-api.md",
+            "author": "Balakuntalam",
+            "date": "2024-01-24T12:29:37Z"
+        },
+        {
+            "title": "Update test-murali.md",
+            "author": "Balakuntalam",
+            "date": "2024-01-17T11:27:53Z"
+        },
+        {
+            "title": "[MOSIP-30259] Create blog-securing-access-to-MOSIP-k8-clister.md",
+            "author": "ckm007",
+            "date": "2023-12-18T14:26:37Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Privacy policy URL on cookie banner is invalid",
+            "author": "gnittala",
+            "date": "2025-02-05T00:12:21Z"
+        },
+        {
+            "title": "Countries/agencies implemented",
+            "author": "jjjjotaefe",
+            "date": "2024-11-06T15:19:26Z"
+        },
+        {
+            "title": "case-sensitive paths on a case-insensitive filesystem",
+            "author": "pjwalstrom",
+            "date": "2024-09-12T10:57:16Z"
+        },
+        {
+            "title": "Biometric Type Definition in BDB info",
+            "author": "jayonline9",
+            "date": "2020-05-20T05:25:59Z"
+        },
+        {
+            "title": "Opt Out Framework",
+            "author": "rmehta",
+            "date": "2020-01-20T07:30:51Z"
+        },
+        {
+            "title": "Consent Framework",
+            "author": "rmehta",
+            "date": "2020-01-20T07:28:49Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-01-13T06:16:47Z"
+        },
+        {
+            "author": "PuBHARGAVI",
+            "comment": "No comment provided",
+            "date": "2025-01-15T09:19:07Z"
+        },
+        {
+            "author": "sanchi-singh24",
+            "comment": "No comment provided",
+            "date": "2025-02-06T11:14:58Z"
+        },
+        {
+            "author": "PuBHARGAVI",
+            "comment": "No comment provided",
+            "date": "2025-02-06T11:23:24Z"
+        },
+        {
+            "author": "ckm007",
+            "comment": "No comment provided",
+            "date": "2024-03-12T09:26:08Z"
+        },
+        {
+            "author": "SwatiPeriwal",
+            "comment": "merging changes",
+            "date": "2024-02-27T09:38:25Z"
+        }
+    ]
+}

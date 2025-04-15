@@ -1,0 +1,1131 @@
+{
+    "repository": "mosip/inji-wallet",
+    "commits": [
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #1778 from tw-mosip/injimob-2878-master\n\n[INJIMOB-2878] add custom workflow for ios build",
+            "date": "2025-02-05T06:17:14Z"
+        },
+        {
+            "author": "Abhishek Paul",
+            "message": "[INJIMOB-2878] add custom workflow for ios build\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2025-02-05T05:02:36Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1695 from Prafulrakhade/release-0.14.x\n\n[DSD-6453] inji-wallet 0.14.0 release",
+            "date": "2024-11-22T15:00:54Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6453] inji-wallet 0.14.0 release\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2024-11-22T14:26:47Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-2368] update tuvali, pixelpass, inji-vci-client version (#1689)\n\n- tuvali -> 0.5.0 (tag)\r\n- pixelpass -> 0.2.0 (tag)\r\n- inji-vci-client -> release-0.1.x (branch)\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\nCo-authored-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-11-19T03:56:02Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-2368]: update the readme (#1686)\n\n* [INJIMOB-2368]: update the readme\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-2368]: update the readme with build and deployment steps\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-11-18T07:05:27Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-2191] change theme to mesh gradient (#1665)\n\n* [INJIMOB-2191] change theme to mesh gradient (#1652)\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-2191] change asset name (#1653)\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-2191] change logo to new theme (#1654)\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-2191] change ios logo format- uncheck alpha (#1655)\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-2191] update about inji section  url (#1656)\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-2232] fix gradient buttons and add gradient backdrop\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-11-05T10:23:44Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "updated pom (#1648)\n\n* updated the id\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated pom\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-10-21T05:57:11Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[DSD-6453] update readme (#1649)\n\n* [DSD-6453] update readme\r\n\r\n- update tools version & env data in PreRequisites section\r\n- link Inji Wallet docs for build and deployment section\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n* [DSD-6453] update readme with node version 16\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>",
+            "date": "2024-10-17T13:33:38Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-2073] change wellknown api from /.well-known to /well-known-proxy (#1630)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-09-26T17:58:58Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-2051] fix Vc background not getting rendered (#1626)\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-09-25T09:48:07Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "updated the id (#1621)\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-09-20T10:57:16Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "updated the id (#1611)\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-09-13T09:30:07Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1970] update android dependencies (#1605)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-09-10T05:14:23Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1955] modify android artifacts version (#1596)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-09-02T11:57:01Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1955] fix error text for network request timed out (#1593)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-08-30T09:11:22Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-1820]: fix logic of sending correct issuer for isMosip vc check in kebab menu (#1591)\n\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-08-30T06:57:35Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1854] modify error messages for wellknown api call failure (#1588)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-08-30T04:54:29Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB-1422]: fix camera view widening (#1589)\n\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>",
+            "date": "2024-08-29T12:19:46Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1836] fix vc activation success banner not shown (#1587)\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-08-27T09:27:31Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-1814]: handle error scenarios on empty credentialType list (#1586)\n\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-08-27T04:46:32Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-1820 & 1858]: update logic to have share with selfie opton and Vc activation only for Mosip VC (#1585)\n\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-08-27T04:43:59Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-1816]: update logic to sent all errorMessage of issuer to UI (#1581)\n\n* [INJIMOB-1816]: update logic to sent all errorMessage of issuer to UI\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-1816] update error text for wellknown fetch error\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\nCo-authored-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-08-23T13:33:25Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1850] fix fallback issuer vc not rendering (#1582)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-08-23T07:40:35Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1583 from Mohanraj209/develop\n\n[DSD-6004] Updated browserstack-web.yml to push artifacts to s3 bucket.",
+            "date": "2024-08-23T05:07:40Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[DSD-6004] Updated browserstack-web.yml to push artifacts to s3 bucket.\n\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>",
+            "date": "2024-08-22T11:31:03Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "INJIMOB 1781: bump up target sdk version to 34 (#1580)\n\n* [INJIMOB-1729]: update data push endpoint of telemetry\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-1781]: bump up target sdk version to 34\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-1781]: update residentmobileapp to v1/mimoto\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-08-16T06:05:09Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "MOSIP-35204 automation fixes for sprint 33 (#1578)\n\n* MOSIP-35204\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-08-14T09:52:11Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-1729]: update data push endpoint of telemetry (#1579)\n\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-08-14T04:56:26Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1093] add id in credential type object (#1577)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-08-08T11:50:21Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1093] refactor authoriztion config (#1576)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-08-02T12:45:09Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB-1782]: Sprint-33 release (#1575)\n\n* [INJIMOB-1782]: change app version to 0.14.0 and liveness default off\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1782]: change app version to 0.14.0 and liveness default off\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>",
+            "date": "2024-08-02T12:17:47Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIMOB-76]: download ID button text correction (#1570)\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-07-29T12:07:56Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1093] draft13 changes (#1566)\n\n* [INJIMOB-1093] integrate wellknown api, download and display vc based on wellknown response\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n[INJIMOB-1093] change in wellknown endpoint and refactor\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1093] update version of vci-client\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-07-29T11:24:04Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIMOB-1574]: fix scroll issue in issuers screen (#1571)\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-07-29T10:59:46Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1093] update android dependency version (#1572)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-07-29T10:58:28Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #1569 from anup-nehe/develop",
+            "date": "2024-07-26T12:30:53Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "reslove conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-26T10:29:56Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-26T10:27:51Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-26T10:00:40Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-07-26T08:22:41Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "INJIMOB-1336\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-26T08:22:21Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #1568 from tw-mosip/inji-1492-alignment-issue-tour-guide",
+            "date": "2024-07-25T15:54:00Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge branch 'develop' of https://github.com/anup-nehe/inji into develop",
+            "date": "2024-07-25T11:50:52Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-07-25T11:50:27Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "fix for ios sunbirdTestcases\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-25T11:49:18Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIMOB-1492]: assign magic number to copilot height\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-07-25T11:09:53Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #1567 from tw-mosip/INJIMOB-1666\n\n[INJIMOB-1666] - use /v1/mimoto for mimoto apis.",
+            "date": "2024-07-25T07:28:37Z"
+        },
+        {
+            "author": "srikanth716",
+            "message": "[INJIMOB-1492]: fix alignment issue in inji tour guide\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-07-22T10:20:04Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "[INJIMOB-1666] - use /v1/mimoto for mimoto apis.\n\nSigned-off-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-07-19T07:20:55Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #1564 from tw-mosip/injimob-797-vc-verification-on-restore\n\n[INJIMOB-797]: VC Verification on restore",
+            "date": "2024-07-17T15:26:22Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-797]: update logic to fix Vc deletion issue of multiple backed up VCs\n\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\n\n Author:    Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-07-17T14:06:00Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "Merge branch 'mosip:develop' into develop",
+            "date": "2024-07-16T05:32:06Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "updated device for ios (#1563)\n\n* MOSIP-31350 MOSIP-31348\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated automation-trigger\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\n\r\n* fix Automation bug\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove for ios\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated device\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>",
+            "date": "2024-07-16T05:30:17Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "reslove conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-16T05:07:01Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-07-16T05:02:59Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "updated device\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-16T05:02:37Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB-1603]: Fix camera blank screen issue (#1560)\n\n* [INJIMOB-1603]: fix camera blank screen issue\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1603]: fix camera blank screen issue\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1603]: fix camera blank screen issue\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>",
+            "date": "2024-07-15T07:27:37Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "fix automation side bug (#1559)\n\n* MOSIP-31350 MOSIP-31348\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated automation-trigger\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\n\r\n* fix Automation bug\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove for ios\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>",
+            "date": "2024-07-12T05:23:07Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "reslove for ios\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-12T04:42:40Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge branch 'develop' of https://github.com/anup-nehe/inji into develop",
+            "date": "2024-07-12T02:13:54Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflict\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-12T02:11:54Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "fix Automation bug\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-12T02:05:38Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "Develop (#1558)\n\n* MOSIP-31350 MOSIP-31348\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated automation-trigger\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>",
+            "date": "2024-07-11T09:39:26Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "Update pom.xml\n\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>",
+            "date": "2024-07-11T09:10:14Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-891] Integrate tuvali native modules (kotlin and swift) (#1555)\n\n* [INJIMOB-891]: add a wrapper for tuvali to use native artifacts\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-891]: add a wrapper for tuvali in ios to consume ios native artifact\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-891]: add tuvali native dependency\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-891]: use function available in constant for platform check\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-891]: update the Podfile.lock file\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-891] add native ios tuvali in inji\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-891] add missing RN files\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-891] package.resolved changes\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-891] refactor changes\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-891]: bring back some lost changes related to version details of tuvali\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-891]: rename setup file to index file\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\nCo-authored-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-07-10T12:12:41Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "updated automation trigger (#1556)\n\n* MOSIP-31350 MOSIP-31348\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated automation-trigger\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-10T11:44:50Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-10T10:05:14Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-10T10:02:20Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "updated automation-trigger\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-10T07:26:26Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB-1597]: toggle off liveness (#1553)\n\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>",
+            "date": "2024-07-09T14:55:58Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "MOSIP-31350  MOSIP-31348   Picking otp from smtp (#1550)\n\n* MOSIP-31350 MOSIP-31348\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-09T09:39:22Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #1551 from mosip/qa-develop\n\nSync qa-develop with develop",
+            "date": "2024-07-09T04:14:09Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "reslove conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-05T04:38:01Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflict\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-04T03:45:07Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-07-04T03:38:15Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "MOSIP-31350 MOSIP-31348\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-07-04T03:37:06Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "MOSIP-34114 migrating to java 21  (#1549)\n\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* incorprated changes\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* INJIMOB-924 MOSIP-31927\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31874\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conlifcts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updating to unblock deveops\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32267 MOSIP-32204\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32204\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32580\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32580 MOSIP-32641\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32580\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32641\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* Update MoreOptionsPage.java\r\n\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\n\r\n* changes for sprint 27\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* INJIMOB-1406 INJIMOB-1407\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* androidConfig And IosConfig changes\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-33500 INJIMOB-1457\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-33500\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* INJIMOB-1457\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* Update iosConfig.yml\r\n\r\nUpdate iosConfig.yml\r\n\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\n\r\n* change in ios config\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated regression xml\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated accessiblity for inji tour\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-34114\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>",
+            "date": "2024-07-01T11:58:59Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1491] change in vc item machine logging actions (#1543)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-07-01T05:54:52Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1552] change qr ecc and add quiet zone (#1546)\n\n* [INJIMOB-1552] change qr ecc and add quiet zone\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1552] revert .pbxproj for distribution\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-29T06:55:36Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "Injimob 1403 error message downloading esignet vc (#1540)\n\n* [INJIMOB-1503]: fix tour guide buttons misalignment in IOS\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n* [INJIMOB-1403]: fix error banner message on failed downloading vc from esignet\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-06-29T06:55:13Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1552] update vci-client library version in android (#1545)\n\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-06-29T03:31:43Z"
+        },
+        {
+            "author": "PoojaBabusing",
+            "message": "[injimob-1531] remove the message which generate txt files while doing share QR (#1534)\n\nSigned-off-by: PoojaBabusingh <poojababusingh09@gmail.com>\r\nCo-authored-by: PoojaBabusingh <poojababusingh09@gmail.com>",
+            "date": "2024-06-27T03:56:36Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB] dynamically change profile name based on app flavor (#1529)\n\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>",
+            "date": "2024-06-26T06:31:13Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIMOB-1503]: fix tour guide buttons misalignment in IOS (#1530)\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-06-26T06:30:47Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB 797]:  Verify restored VCs (#1521)\n\n* [INJIMOB-797]: verify the VCs during backup restoration\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-797]: remove console statement\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-06-26T06:29:56Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[DSD-5562] (#1532)\n\n* [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>\r\n\r\n* [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>\r\n\r\n* [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: bhumi46 <thisisbn46@gmail.com>",
+            "date": "2024-06-25T13:38:13Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[DSD-5562] (#1524)\n\n* [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n* Update automation_trigger.sh [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n* Update automation_trigger.sh [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n* Update ui-automation.yml [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>",
+            "date": "2024-06-24T10:58:16Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[DSD-5562] (#1523)\n\n* [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n* Update automation_trigger.sh [DSD-5562]\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>",
+            "date": "2024-06-20T13:05:24Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #1518 from tw-mosip/INJIMOB-1258-help-icon-translation\n\n[INJIMOB-1258]: Translations updated for Backup and Restore screen.",
+            "date": "2024-06-20T07:17:41Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #1520 from anup-nehe/qa-develop\n\nsync with develop",
+            "date": "2024-06-19T15:23:13Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "resolve conflicts\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-06-19T14:37:24Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "sync code\n\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>",
+            "date": "2024-06-19T14:33:17Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #1519 from tw-mosip/release-0.14.x\n\n[INJIMOB-1505] - Sprint 30 Release",
+            "date": "2024-06-19T13:12:25Z"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/qa-develop' into qa-develop",
+            "date": "2024-06-19T12:42:05Z"
+        },
+        {
+            "author": "BalachandarG",
+            "message": "[INJIMOB-1258]: Translations updated for Backup and Restore screen.\n\nSigned-off-by: BalachandarG <balachandar.g@thoughtworks.com>",
+            "date": "2024-06-19T09:43:45Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #1516 from mosip/qa-develop\n\nReverse Sync qa-develop to develop",
+            "date": "2024-06-18T11:20:41Z"
+        },
+        {
+            "author": "anup-nehe",
+            "message": "chnage in ios config (#1513)\n\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflict\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* incorprated changes\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* INJIMOB-924 MOSIP-31927\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31874\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-31384\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conlifcts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updating to unblock deveops\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32267 MOSIP-32204\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32204\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32580\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32580 MOSIP-32641\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32580\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-32641\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* reslove conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* Update MoreOptionsPage.java\r\n\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\n\r\n* changes for sprint 27\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* resolve conflicts\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* INJIMOB-1406 INJIMOB-1407\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* androidConfig And IosConfig changes\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-33500 INJIMOB-1457\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* MOSIP-33500\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* INJIMOB-1457\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* Update iosConfig.yml\r\n\r\nUpdate iosConfig.yml\r\n\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>\r\n\r\n* change in ios config\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n* updated regression xml\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Anup Nehe <anup.nehe@technoforte.co.in>\r\nSigned-off-by: anup-nehe <117707464+anup-nehe@users.noreply.github.com>",
+            "date": "2024-06-17T04:57:30Z"
+        },
+        {
+            "author": "PoojaBabusing",
+            "message": "[injimob-1432] increase the data Backedup size upto 3 decimal points (#1514)\n\nSigned-off-by: Pooja Babusingh <68894211+PoojaBabusingh@users.noreply.github.com>\r\nCo-authored-by: Pooja Babusingh <68894211+PoojaBabusingh@users.noreply.github.com>",
+            "date": "2024-06-13T05:39:07Z"
+        },
+        {
+            "author": "Srikanth Kola",
+            "message": "[INJIMOB-1242]: fix face verification banner toaster for normal sharing (#1489)\n\nSigned-off-by: srikanth716 <srikanthsri7447@gmail.com>",
+            "date": "2024-06-13T04:53:23Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-39578  optimize  code",
+            "author": "anup-nehe",
+            "date": "2025-02-05T02:42:32Z"
+        },
+        {
+            "title": "enabling advanced codeql",
+            "author": "rajapandi1234",
+            "date": "2025-01-15T20:01:57Z"
+        },
+        {
+            "title": "[INJIMOB-2109] - create component and sequence diagram for Inji Wallet",
+            "author": "swatigoel",
+            "date": "2024-10-07T10:35:15Z"
+        },
+        {
+            "title": "[INJIMOB-956] Formatting code with editor config rules.",
+            "author": "balachandarg-tw",
+            "date": "2024-10-04T06:51:47Z"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-09-19T09:50:15Z"
+        },
+        {
+            "title": "[Injimob 1540] enhancements for liveness detection in face verification flow",
+            "author": "PuBHARGAVI",
+            "date": "2024-07-15T08:22:42Z"
+        },
+        {
+            "title": "[INJIMOB-1194]: render the QR code component from VC credential subject if present",
+            "author": "Alka1703",
+            "date": "2024-05-09T12:10:12Z"
+        },
+        {
+            "title": "[INJIMOB-50]: Fix wrong Otp message of VC activation",
+            "author": "abhip2565",
+            "date": "2024-04-29T07:57:18Z"
+        },
+        {
+            "title": "[INJI-597] integrate sonar",
+            "author": "KiruthikaJeyashankar",
+            "date": "2024-01-16T06:32:18Z"
+        },
+        {
+            "title": "chore(deps): bump @sideway/formula from 3.0.0 to 3.0.1",
+            "author": "dependabot[bot]",
+            "date": "2023-02-09T02:04:42Z"
+        },
+        {
+            "title": "chore(deps): bump http-cache-semantics from 4.1.0 to 4.1.1",
+            "author": "dependabot[bot]",
+            "date": "2023-02-04T07:26:20Z"
+        },
+        {
+            "title": "chore(deps): bump ua-parser-js from 0.7.31 to 0.7.33",
+            "author": "dependabot[bot]",
+            "date": "2023-01-27T10:48:07Z"
+        },
+        {
+            "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2",
+            "author": "dependabot[bot]",
+            "date": "2022-12-08T13:39:33Z"
+        },
+        {
+            "title": "chore(deps): bump loader-utils from 1.4.0 to 1.4.2",
+            "author": "dependabot[bot]",
+            "date": "2022-11-16T10:37:48Z"
+        },
+        {
+            "title": "chore(deps): bump @xmldom/xmldom from 0.7.5 to 0.7.8",
+            "author": "dependabot[bot]",
+            "date": "2022-11-01T18:50:14Z"
+        },
+        {
+            "title": "Bump terser from 4.8.0 to 4.8.1",
+            "author": "dependabot[bot]",
+            "date": "2022-07-21T22:10:57Z"
+        },
+        {
+            "title": "Bump simple-plist from 1.3.0 to 1.3.1",
+            "author": "dependabot[bot]",
+            "date": "2022-06-02T02:48:14Z"
+        },
+        {
+            "title": "Bump eventsource from 1.1.0 to 1.1.1",
+            "author": "dependabot[bot]",
+            "date": "2022-06-01T22:41:25Z"
+        },
+        {
+            "title": "Bump minimist from 1.2.5 to 1.2.6",
+            "author": "dependabot[bot]",
+            "date": "2022-04-18T16:31:06Z"
+        },
+        {
+            "title": "Bump follow-redirects from 1.14.5 to 1.14.9",
+            "author": "dependabot[bot]",
+            "date": "2022-02-25T13:03:39Z"
+        },
+        {
+            "title": "Bump url-parse from 1.5.3 to 1.5.10",
+            "author": "dependabot[bot]",
+            "date": "2022-02-25T13:03:38Z"
+        },
+        {
+            "title": "Bump shelljs from 0.8.4 to 0.8.5",
+            "author": "dependabot[bot]",
+            "date": "2022-02-25T13:03:36Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "frontend/android branch not available but readme state that",
+            "author": "sanjay95",
+            "date": "2024-01-23T08:08:38Z"
+        },
+        {
+            "title": "React Native setup for Verifier App",
+            "author": "tilak-puli",
+            "date": "2023-04-17T12:13:37Z"
+        },
+        {
+            "title": "[Android]Add exception handling for missing files in Tuvali",
+            "author": "tilak-puli",
+            "date": "2023-04-03T07:26:15Z"
+        },
+        {
+            "title": "MobileId Documentation task list for release",
+            "author": "Sujithbn",
+            "date": "2023-04-03T05:30:45Z"
+        },
+        {
+            "title": "Verify Inji build on windows machine",
+            "author": "krishnakumar4a4",
+            "date": "2023-03-30T06:46:27Z"
+        },
+        {
+            "title": "Display Error code when Tuvali transfer fails",
+            "author": "tilak-puli",
+            "date": "2023-03-30T05:41:32Z"
+        },
+        {
+            "title": "UI changes for VC, Profile and settings screen",
+            "author": "Sujithbn",
+            "date": "2023-03-28T13:46:32Z"
+        },
+        {
+            "title": "kebab popup menu on the home screen",
+            "author": "Sujithbn",
+            "date": "2023-03-28T13:42:33Z"
+        },
+        {
+            "title": "Reset the State machines(Request and Scan) when User changes screen ",
+            "author": "tilak-puli",
+            "date": "2023-03-22T05:37:00Z"
+        },
+        {
+            "title": "Check and Request BLE Permissions on Verifier Request Screen",
+            "author": "tilak-puli",
+            "date": "2023-03-21T09:36:12Z"
+        },
+        {
+            "title": "[Observation] VC label's plural version is generated by adding 's' character to the end of the vc label ",
+            "author": "tilak-puli",
+            "date": "2023-03-15T09:52:17Z"
+        },
+        {
+            "title": "[Observation] Vc Label text is only available in English.",
+            "author": "tilak-puli",
+            "date": "2023-03-15T09:51:37Z"
+        },
+        {
+            "title": "Deviation of local filename.string.json from en.json for English translation",
+            "author": "tilak-puli",
+            "date": "2023-03-15T09:49:17Z"
+        },
+        {
+            "title": "What is backend of inji app, can we run backend at local ?",
+            "author": "sanjay95",
+            "date": "2023-03-09T05:49:57Z"
+        },
+        {
+            "title": "[Observation] On consent screen, activate button is not visible if there is exactly one VC to share",
+            "author": "krishnakumar4a4",
+            "date": "2023-03-09T04:10:30Z"
+        },
+        {
+            "title": "Handle database or diskfull error ",
+            "author": "ravikp",
+            "date": "2023-03-08T07:10:56Z"
+        },
+        {
+            "title": "Optimisation of Save VC flow",
+            "author": "tilak-puli",
+            "date": "2023-03-06T12:49:06Z"
+        },
+        {
+            "title": "Adding the timer based QR code",
+            "author": "nayakrounak",
+            "date": "2023-03-02T20:14:54Z"
+        },
+        {
+            "title": "Changing profile section to settings",
+            "author": "nayakrounak",
+            "date": "2023-03-02T17:48:19Z"
+        },
+        {
+            "title": "Avoid the need for location permission for devices Android 12 and above",
+            "author": "krishnakumar4a4",
+            "date": "2023-02-23T10:06:05Z"
+        },
+        {
+            "title": "Improve logging on IOS Wallet",
+            "author": "krishnakumar4a4",
+            "date": "2023-02-21T09:18:45Z"
+        },
+        {
+            "title": "IOS sdk integration with Irisscan ",
+            "author": "MonobikashDas",
+            "date": "2023-02-10T12:56:30Z"
+        },
+        {
+            "title": " Throwing generic error messages from MIMOTO and handiling that in INJI",
+            "author": "Sujithbn",
+            "date": "2023-02-10T10:50:59Z"
+        },
+        {
+            "title": "Real world testing of BLE data transfer rates",
+            "author": "ravikp",
+            "date": "2023-02-03T10:07:18Z"
+        },
+        {
+            "title": "UI: Download VC screen UI refactor",
+            "author": "Sujithbn",
+            "date": "2023-02-02T14:03:10Z"
+        },
+        {
+            "title": "Publishing the IOS Inji app in Playstore ",
+            "author": "Sujithbn",
+            "date": "2023-01-25T10:31:57Z"
+        },
+        {
+            "title": "Publishing the Inji android app in Playstore ",
+            "author": "Sujithbn",
+            "date": "2023-01-25T10:30:49Z"
+        },
+        {
+            "title": "UI: Scan screen",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:36:01Z"
+        },
+        {
+            "title": "UI: Create popup menu in home screen (kebab )",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:33:19Z"
+        },
+        {
+            "title": "UI: Add VC screens ",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:29:12Z"
+        },
+        {
+            "title": "UI: Home Screen changes ",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:27:02Z"
+        },
+        {
+            "title": "UI:Auth screens (only css and alignment changes) ",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:25:08Z"
+        },
+        {
+            "title": "UI:Choose language screen: move existing language feature ",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:11:44Z"
+        },
+        {
+            "title": "UI:Intro slider screens : 3 introduction screens ( check with Nadeem for the images).",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:06:42Z"
+        },
+        {
+            "title": " UI: Splash logo screen",
+            "author": "Sujithbn",
+            "date": "2023-01-24T05:03:39Z"
+        },
+        {
+            "title": "Reduce BLE service discovery time",
+            "author": "Alka1703",
+            "date": "2023-01-20T17:43:10Z"
+        },
+        {
+            "title": "Implement compression as a feature flag in Tuvali",
+            "author": "ravikp",
+            "date": "2023-01-20T05:33:40Z"
+        },
+        {
+            "title": "Implement error detection for data payload in BLE transfer using CRC-16",
+            "author": "ravikp",
+            "date": "2023-01-17T05:50:49Z"
+        },
+        {
+            "title": "Handle gracefully location permission rejections by the user",
+            "author": "ravikp",
+            "date": "2023-01-16T15:53:47Z"
+        },
+        {
+            "title": "Regenerate 'new' QR code after BLE advertisement stops on the verifier side",
+            "author": "ravikp",
+            "date": "2023-01-12T13:12:07Z"
+        },
+        {
+            "title": "Show 'transfer not supported' message when device's bluetooth version is below v4.2 with only BLE transport being enabled",
+            "author": "ravikp",
+            "date": "2023-01-12T12:28:19Z"
+        },
+        {
+            "title": "Support Google nearby for the phones as a fallback when the device is below BLE 4.2v",
+            "author": "ravikp",
+            "date": "2023-01-12T12:11:41Z"
+        },
+        {
+            "title": "Show the name of the verifier requesting in the QR code in the wallet's screen for BLE transport",
+            "author": "ravikp",
+            "date": "2023-01-12T12:07:53Z"
+        },
+        {
+            "title": "Document BLE design and technical specification",
+            "author": "ravikp",
+            "date": "2023-01-12T10:35:01Z"
+        },
+        {
+            "title": " Implement verifiable presentation request and verifiable presentation response over Smart share",
+            "author": "ravikp",
+            "date": "2023-01-12T10:30:11Z"
+        },
+        {
+            "title": "Implement verifiable presentation request and verifiable presentation response over BLE",
+            "author": "ravikp",
+            "date": "2023-01-12T10:29:40Z"
+        },
+        {
+            "title": "Implement dynamic MTU negotiation on BLE",
+            "author": "ravikp",
+            "date": "2023-01-12T10:27:21Z"
+        },
+        {
+            "title": "Hide online/offline on the verifier on BLE protocol",
+            "author": "ravikp",
+            "date": "2023-01-12T10:26:16Z"
+        },
+        {
+            "title": "Hide QR generation for BLE on iOS till iOS supports verifier",
+            "author": "ravikp",
+            "date": "2023-01-12T10:24:11Z"
+        },
+        {
+            "title": "Implement iOS wallet over BLE to transfer verifiable credential to android verifier",
+            "author": "ravikp",
+            "date": "2023-01-12T10:21:11Z"
+        },
+        {
+            "title": "Export state change events to Metro via log handlers",
+            "author": "ravikp",
+            "date": "2023-01-12T10:19:43Z"
+        },
+        {
+            "title": "Cleanup tuvali repository to remove non application files and directories",
+            "author": "ravikp",
+            "date": "2023-01-12T10:16:35Z"
+        },
+        {
+            "title": "Implement iOS verifier to request for a verifiable credential",
+            "author": "ravikp",
+            "date": "2023-01-12T10:14:45Z"
+        },
+        {
+            "title": "Implement build time feature toggle between BLE vs google nearby",
+            "author": "ravikp",
+            "date": "2023-01-12T10:13:54Z"
+        },
+        {
+            "title": "Implement runtime feature to toggle between BLE vs google nearby",
+            "author": "ravikp",
+            "date": "2023-01-12T10:13:13Z"
+        },
+        {
+            "title": "Inji: HTTP requests should not be present. (HSTS must be implemented)",
+            "author": "Sujithbn",
+            "date": "2022-12-23T06:17:48Z"
+        },
+        {
+            "title": "Inji: System keeps sending requests for failed UINs and congests the network",
+            "author": "Sujithbn",
+            "date": "2022-12-23T06:12:21Z"
+        },
+        {
+            "title": "Inji: Issues in Androidmanifest.xml file",
+            "author": "Sujithbn",
+            "date": "2022-12-23T06:10:08Z"
+        },
+        {
+            "title": "Inji: Log shows address to keystore",
+            "author": "Sujithbn",
+            "date": "2022-12-23T06:07:04Z"
+        },
+        {
+            "title": "Verifier app - requirement draft",
+            "author": "rakhimosip",
+            "date": "2022-12-20T14:35:38Z"
+        },
+        {
+            "title": "Create a standard QR code spec for sharing flow",
+            "author": "rakhimosip",
+            "date": "2022-12-20T09:13:05Z"
+        },
+        {
+            "title": "The 'Name' option inside Profile section needs to be revisited",
+            "author": "rakhimosip",
+            "date": "2022-12-16T13:27:14Z"
+        },
+        {
+            "title": "BLE Transfer story - Draft",
+            "author": "rakhimosip",
+            "date": "2022-12-14T13:51:10Z"
+        },
+        {
+            "title": "UI cleanup as per the latest wireframes for all the screens that you have developed",
+            "author": "Sujithbn",
+            "date": "2022-12-08T11:12:06Z"
+        },
+        {
+            "title": "QR login UI cleanup as per the latest wireframes for all the screens",
+            "author": "Sujithbn",
+            "date": "2022-12-08T11:11:10Z"
+        },
+        {
+            "title": "Wallet Binding UI cleanup as per the latest wireframes for all the screens",
+            "author": "Sujithbn",
+            "date": "2022-12-08T11:09:14Z"
+        },
+        {
+            "title": "QR Code Login end to end integration",
+            "author": "Sujithbn",
+            "date": "2022-12-08T11:03:53Z"
+        },
+        {
+            "title": "Wallet binding end to end integration",
+            "author": "Sujithbn",
+            "date": "2022-12-08T11:00:33Z"
+        },
+        {
+            "title": "BLE integration task",
+            "author": "Sujithbn",
+            "date": "2022-12-07T14:02:44Z"
+        },
+        {
+            "title": "Ability to share credentials using BLE protocol - Android <-> Android",
+            "author": "rakhimosip",
+            "date": "2022-12-07T13:43:03Z"
+        },
+        {
+            "title": "inji \"face matching sdk\" pending work",
+            "author": "MonobikashDas",
+            "date": "2022-12-06T08:54:30Z"
+        },
+        {
+            "title": "Security Vulnerability in sonar analysis of Mimoto",
+            "author": "Sujithbn",
+            "date": "2022-12-02T09:20:23Z"
+        },
+        {
+            "title": "Add QR login entry in the audit page",
+            "author": "Sujithbn",
+            "date": "2022-11-30T13:12:04Z"
+        },
+        {
+            "title": "Build the consent page using claims and scope stored in context. handle accept and deny scenarios",
+            "author": "MonobikashDas",
+            "date": "2022-11-29T05:45:27Z"
+        },
+        {
+            "title": "Do local face-auth or OTP or other auth based on auth factors stored in context",
+            "author": "MonobikashDas",
+            "date": "2022-11-29T05:41:45Z"
+        },
+        {
+            "title": "Display list of VCs that are bound for selection",
+            "author": "MonobikashDas",
+            "date": "2022-11-29T05:20:01Z"
+        },
+        {
+            "title": "Display the check domain warning screen and Add the success message",
+            "author": "MonobikashDas",
+            "date": "2022-11-29T05:14:48Z"
+        },
+        {
+            "title": "Store and handle response of link-transaction API -> linktransaction id, auth factors, claims and scope",
+            "author": "MonobikashDas",
+            "date": "2022-11-29T05:13:10Z"
+        },
+        {
+            "title": "Create a new QR code scanner screen",
+            "author": "MonobikashDas",
+            "date": "2022-11-29T05:11:09Z"
+        },
+        {
+            "title": "Create state machine QR login model",
+            "author": "MonobikashDas",
+            "date": "2022-11-29T05:07:24Z"
+        },
+        {
+            "title": "Make VID the default selection in the ID type selection",
+            "author": "rakhimosip",
+            "date": "2022-11-25T16:13:18Z"
+        },
+        {
+            "title": "Create new state machine for binding credential flow",
+            "author": "Sujithbn",
+            "date": "2022-11-23T13:44:32Z"
+        },
+        {
+            "title": "Create new /wallet-binding api:  add encrypted wallet binding, expiry in response.",
+            "author": "Sujithbn",
+            "date": "2022-11-22T10:24:15Z"
+        },
+        {
+            "title": "Create an API for binding-otp",
+            "author": "Sujithbn",
+            "date": "2022-11-22T10:23:07Z"
+        },
+        {
+            "title": "Decrypting wallet binding id and updating vcs: updating vcs with wallet binding id and private key reference ",
+            "author": "Sujithbn",
+            "date": "2022-11-22T09:25:06Z"
+        },
+        {
+            "title": "Decrypting wallet binding id and updating vcs. - Decryption and private key fetching logic",
+            "author": "Sujithbn",
+            "date": "2022-11-22T09:16:53Z"
+        },
+        {
+            "title": "Add new screens to select credential for binding and bind credentials - new screens: Changes to send public key + 4otp in new /binding-credential-request api",
+            "author": "Sujithbn",
+            "date": "2022-11-22T09:15:49Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-10-13T13:53:27Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T04:39:39Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T05:08:07Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T05:08:29Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T05:12:11Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T05:17:33Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T05:18:22Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T06:06:18Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-10-17T06:06:27Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-10-17T09:51:38Z"
+        },
+        {
+            "author": "sree96",
+            "comment": "No comment provided",
+            "date": "2024-07-25T17:25:59Z"
+        },
+        {
+            "author": "sree96",
+            "comment": "Plz provide inputs for the comment",
+            "date": "2024-07-25T17:31:55Z"
+        },
+        {
+            "author": "PuBHARGAVI",
+            "comment": "No comment provided",
+            "date": "2024-07-30T11:00:22Z"
+        },
+        {
+            "author": "sree96",
+            "comment": "No comment provided",
+            "date": "2024-05-22T04:34:37Z"
+        },
+        {
+            "author": "Alka1703",
+            "comment": "No comment provided",
+            "date": "2024-04-30T10:55:51Z"
+        }
+    ]
+}

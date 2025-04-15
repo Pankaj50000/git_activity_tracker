@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/mosip-ref-impl",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "1.2.0.1 release changes"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1007 from Prafulrakhade/release-1.2.0.x\n\n[DSD-5498] release changes"
+        },
+        {
+            "author": "techno-467",
+            "message": "release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update push-trigger.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-5498] release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[MOSIP-30443] changed the service git properties name",
+            "author": "ckm007"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar"
+        },
+        {
+            "title": "[MOSIP-23218] Updated Pom.xml versions.",
+            "author": "Mohanraj209"
+        },
+        {
+            "title": "Bump json-smart from 2.2.1 to 2.4.9 in /pre-registration-booking-service",
+            "author": "dependabot[bot]"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[MOSIP-30443] changed the service git properties name",
+            "author": "ckm007"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar"
+        },
+        {
+            "title": "[MOSIP-23218] Updated Pom.xml versions.",
+            "author": "Mohanraj209"
+        },
+        {
+            "title": "Bump json-smart from 2.2.1 to 2.4.9 in /pre-registration-booking-service",
+            "author": "dependabot[bot]"
+        }
+    ]
+}

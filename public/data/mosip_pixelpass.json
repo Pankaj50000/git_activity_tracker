@@ -1,0 +1,289 @@
+{
+    "repository": "mosip/pixelpass",
+    "commits": [
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIVER-720] - add gradle tasks ans steps to generate and include javadoc and sourcesets (#81)\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-10-10T02:40:09Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6411] injiverify 0.10.0 release changes (#80)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-10-09T11:13:20Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIVER-718] - update readme (#78)\n\n* [INJIVER-718] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-718] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-10-08T13:00:16Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "JAVA version downgrade to 17 (#69)\n\n* [INJIVER-644] - update API with its own functionality only and throw proper errors\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [NOJIRA] - java21 to java17 for wallet support\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-27T06:48:49Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIVER-644] - Added extra API to support binary QR data decoding for Sunbird QR codes (#68)\n\n* [INJIVER-644] - rename binary decode API\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - add binary decode API\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update API with its own functionality only and throw proper errors\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIVER-644] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-26T11:05:47Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #67 from vijay151096/develop\n\n[INJIMOB-1742] : introduce license name as Input",
+            "date": "2024-09-26T10:26:10Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIMOB-1742] : introduce license name as Input \n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-26T09:46:11Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1742] change license to MPL-2.0 (#66)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-09-26T04:56:21Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1982] - updating PixelPass decode API to accept the data as byte array (#62)\n\n* [INJIMOB-1982] - add old sunbird-rc qr support for kotlin and java\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - update PixelPass decode to receive data as UInt8ByteArray\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - bump up version\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - update readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - update license\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-24T13:44:39Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Injimob 1982 support for old sunbird qr code (#58)\n\n* [INJIMOB-1982] - update example app compose version\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - add zip lib to toml\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - add old sunbird-rc qr support for kotlin and java\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - reformatted test file\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - bump up kotlin and jar version\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-23T14:03:05Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1972] - bump up js lib version (#59)\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-19T18:51:38Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Injimob 1982 support for old sunbird qr code (#57)\n\n* [INJIMOB-1982] - fix packages\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1982] - added support for old sunbird vc QR codes\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-09-10T07:03:02Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-1742]: update license to MPL from MIT (#56)\n\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-09-09T08:43:00Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1970] add dependency node in publish-artifact (#49)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-09-05T04:54:09Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[DSD-5825] - update publish artifact (#47)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-08-01T05:55:20Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1634] -  Java 21 update and optional CBOR in JSON mapping (#43)\n\n* [INJIMOB-1634] - add optional CBOR support for claim mapping\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1634] - update docs and refactor\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1634] - add optional CBOR for mapping in kotlin\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1634] - update to java 21 and update kotlin\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1634] - jar version update\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1634] - update artifact version and change variable name\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-07-25T11:04:19Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "Injimob 1506 claim 169 impl (#39)\n\n* [INJIMOB-1506] add CWT Encode claim 169\r\n\r\nCo-authored-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1506] -  add cwt encode and decode with cbor-web\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB-1506] - update to only do mapping of json and CBOR encoding/decoding\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB - 1445] CBOR encoding in JS and Kotlin (#38)\r\n\r\n* [INJIMOB-1445] - add CBOR encode support in JS\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB-1445] -  add cbor encoding logic in kotlin\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB-1445] - add cross platform tests for JS\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB-1445] refactor console log to console error\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1506] add CWT Encode claim 169\r\n\r\nCo-authored-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1506]: Update readme\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1506]: refactor and update tests\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1506]: update readme\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n* [INJIMOB-1506] - json map cbor implementation for kotlin\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1506] - update kotlin readme\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1506] - add missing CBOR encode logic\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1506] - remove cose-js unused dependency\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1506] - reformat code\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1506] - refactor code\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nSigned-off-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-07-03T07:05:54Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1554] change version to 0.2.0 for release (#40)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-29T12:06:16Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB - 1445] CBOR encoding in JS and Kotlin (#38)\n\n* [INJIMOB-1445] - add CBOR encode support in JS\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB-1445] -  add cbor encoding logic in kotlin\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB-1445] - add cross platform tests for JS\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <109274996+adityankannan-tw@users.noreply.github.com>\r\n\r\n* [INJIMOB-1445] refactor console log to console error\r\n\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>",
+            "date": "2024-06-20T09:42:02Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1493] change yaml file script (#36)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-18T07:58:01Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1493] change yaml file name (#34)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-18T06:25:10Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1493] change jar snapshot version naming (#33)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-18T05:28:00Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1493] change jar snapshot version (#32)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-17T12:18:07Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1493] override generatepom task (#31)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-17T10:49:56Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1493] add jar publish (#30)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-06-17T09:48:55Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJI-1302]: change gradle version to 8.5 (#29)\n\n* [INJIMOB-1302]: change gradle version to 8.5\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: change agp version to 8.3.0\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-05-24T08:04:44Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1302] : java version changes to 11 (#28)\n\n* [INJIMOB-1302]: downgrade java version to 11\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: change snapshot version to 1.2\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-05-24T05:52:29Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1302]: add generateqrdata api (#26)\n\n* [INJIMOB-1302]: downgrade java version to 17\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: downgrade minSdk to 23\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: change publish version to 1.1\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: add generateQRData api\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: update readme\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: Refactor pixelpass.kt\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: Refactor pixelpass.kt\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: remove unwanted .idea files\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: remove unwanted files\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: modified git ignore\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-05-23T07:49:27Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1302]: change publish version to 1.1 (#25)\n\n* [INJIMOB-1302]: downgrade java version to 17\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: downgrade minSdk to 23\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: change publish version to 1.1\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-05-22T07:08:16Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": " [INJIMOB-1302]: downgrade minSdk to 23 (#24)\n\n* [INJIMOB-1302]: downgrade java version to 17\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1302]: downgrade minSdk to 23\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-05-21T14:48:52Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1302]: downgrade java version to 17 (#23)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-05-21T09:03:36Z"
+        },
+        {
+            "author": "Ayushi Dey",
+            "message": "[INJIMOB-1302] workflow for aar publishing (#15)\n\n* INJIMOB-1302: upgrade java version to 20\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\n\r\n* INJIMOB-1302: gradle jar upload\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\n\r\n* INJIMOB-1302: added publish to workflow changes\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\n\r\n* INJIMOB-1302: added publish workflow\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\n\r\n* INJIMOB-1302: removed keys and workflow from root directory\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\n\r\n* [INJIMOB-1302] add gradle wrapper for pixelpass\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] move publishing configuration to separate gradle file\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] modify inputs of android-publish workflow\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] remove unused event listeners / conditions\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] add PR trigger to test workflow\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] move workflows to root .github folder\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] fix ANDROID_SERVICE_LOCATION input in publish workflow\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1302] remove PR trigger added for testing android publish\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\nCo-authored-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-05-16T16:28:07Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Example app and ESM support (#21)\n\n* Example app\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* update sample app and use non ESM\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* update reademe to run sample app\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* update reademe to run sample app\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* add some styles\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* remove alert and add text error message\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* readme update with proper link\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* sending version also back\r\n\r\n* sending version also back\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* add version detail to downloaded file name\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* readme update\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* update example app and revert pixelpas api\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* update version\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-05-16T13:25:21Z"
+        },
+        {
+            "author": "Ayushi Dey",
+            "message": "[INJIMOB 1302] java upgrade and gradle jar (#12)\n\n* INJIMOB-1302: upgrade java version to 20\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\n\r\n* INJIMOB-1302: gradle jar upload\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Ayushi Dey <ayushirakshitdey@gmail.com>",
+            "date": "2024-05-07T13:31:45Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "API updates and chores (#10)\n\n* [INJIMOB-1080] kotlin pixelpass (#7)\r\n\r\n* [INJIMOB-1080] - add kotlin module basic\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update kotlin pixelpass APIs accoring to the js base\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update pixelpass package name\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update sample app to decode\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update documentation\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update api to be consistent and add CBOR decode support\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update docs\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update docs\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1080] - update docs\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1225] PixelPass chores (#8)\r\n\r\n* [INJIMOB-1225] - add missing CBOR decode tests\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1225] - update default ecc to L\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1225] - update JS api names and test accordingly\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1225] - add error and exceptions tests and docs\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1225] - move dev dependency properly\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1225] - bump up version\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1225] - update kotlin sample app\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\nCo-authored-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-05-02T05:42:48Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1080] kotlin pixelpass (#7) (#9)\n\n* [INJIMOB-1080] - add kotlin module basic\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update kotlin pixelpass APIs accoring to the js base\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update pixelpass package name\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update sample app to decode\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update documentation\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update api to be consistent and add CBOR decode support\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update docs\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update docs\r\n\r\n\r\n\r\n* [INJIMOB-1080] - update docs\r\n\r\n\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-24T11:32:05Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1076]: pixelpass swift (#4) (#8)\n\n* Initial commit\r\n[INJIMOB-1076]: Resolve conflicts\r\n\r\n\r\n\r\n* [INJIMOB-1076]:Add files for swift artifact and example qr app\r\n\r\n\r\n\r\n* [INJIMOB-1076]:Delete Readme\r\n\r\n\r\n\r\n* [INJIMOB-1076]:Add License file\r\n\r\n\r\n\r\n* [INJIMOB-1076]: Rename License file\r\n\r\n\r\n\r\n* Refactor pixelpass library and example app\r\n\r\n\r\n\r\n* [INJIMOB-1076] Add Readme\r\n\r\n\r\n\r\n* [INJIMOB-1076] Rename  Readme\r\n\r\n\r\n\r\n* [INJIMOB-1076] Refactor  PixelPass\r\n\r\n\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\nCo-authored-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-04-24T10:39:44Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1184] - CBOR decode support for pixelpass (#7)\n\n* [INJIMOB-932] - use base45-web\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - PixelPass JS CBOR decode support (#3)\r\n\r\n* [INJIMOB-1184] - add CBOR decode functionality\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - indentation and styling of code\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - update patch version\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - add CBOR decode functionality\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - update cbor to cbor-web\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-22T07:54:41Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "PixelPass JS changes (#6)\n\n* [INJIMOB-932] - use base45-web\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - PixelPass JS CBOR decode support (#3)\r\n\r\n* [INJIMOB-1184] - add CBOR decode functionality\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - indentation and styling of code\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-1184] - update patch version\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-18T05:15:06Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-932] - use base45-web (#5)\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-12T12:54:09Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-932] - use base45-web (#4)\n\n* [INJIMOB-932] - use base45-web\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n* [INJIMOB-932] - add repo details\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-12T12:42:21Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #3 from tw-mosip/develop\n\nINJIMOB-1074 - Add npm details and api name change.",
+            "date": "2024-04-11T11:09:42Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge branch 'develop' into develop\n\nSigned-off-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-04-11T11:06:43Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1074] - change api name\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-11T10:51:32Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1074] - add npm link\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-11T10:39:11Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Update package.json\n\n[INJIMOB-1074] - update library name and version\n\nSigned-off-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-04-11T10:22:49Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #2 from tw-mosip/develop\n\n[INJIMOB-1074] - add js module and workflow",
+            "date": "2024-04-11T10:02:36Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "[INJIMOB-1074] - add js module and workflow\n\nSigned-off-by: Sreenadh S <32409698+sree96@users.noreply.github.com>",
+            "date": "2024-04-11T09:58:23Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Initial commit",
+            "date": "2024-04-11T07:01:18Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.6.0 release",
+            "author": "vishwa-vyom",
+            "date": "2025-02-05T07:35:04Z"
+        },
+        {
+            "title": "Bump path-to-regexp and express in /js/example",
+            "author": "dependabot[bot]",
+            "date": "2024-10-10T06:40:17Z"
+        },
+        {
+            "title": "Bump cookie and express in /js/example",
+            "author": "dependabot[bot]",
+            "date": "2024-10-10T06:40:16Z"
+        },
+        {
+            "title": "Bump send and express in /js/example",
+            "author": "dependabot[bot]",
+            "date": "2024-09-27T07:45:52Z"
+        },
+        {
+            "title": "Bump serve-static and express in /js/example",
+            "author": "dependabot[bot]",
+            "date": "2024-09-27T06:59:29Z"
+        },
+        {
+            "title": "Bump body-parser and express in /js/example",
+            "author": "dependabot[bot]",
+            "date": "2024-09-21T21:46:28Z"
+        },
+        {
+            "title": "Bump braces from 3.0.2 to 3.0.3 in /js",
+            "author": "dependabot[bot]",
+            "date": "2024-08-01T06:36:39Z"
+        }
+    ],
+    "issues": [],
+    "reviews": []
+}

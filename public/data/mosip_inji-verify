@@ -1,0 +1,45 @@
+{
+    "repository": "mosip/inji-verify",
+    "commits": [
+        {
+            "author": "Swati Goel",
+            "message": "Merge pull request #193 from Prafulrakhade/release-0.10.x\n\n[DSD-6411] inji-verify 0.10.0 release changes"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-6411] inji-verify 0.10.0 release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6411] inji-verify 0.10.0 release changes\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #189 from anup-nehe/release-0.10.x\n\nupdated basetest"
+        },
+        {
+            "author": "Anup Nehe",
+            "message": "Merge remote-tracking branch 'upstream/release-0.10.x' into release-0.10.x"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Develop",
+            "author": "srikanth716"
+        },
+        {
+            "title": "Bump undici from 5.28.4 to 5.28.5 in /inji-verify",
+            "author": "dependabot[bot]"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Develop",
+            "author": "srikanth716"
+        },
+        {
+            "title": "Bump undici from 5.28.4 to 5.28.5 in /inji-verify",
+            "author": "dependabot[bot]"
+        }
+    ]
+}

@@ -1,0 +1,1016 @@
+{
+    "repository": "mosip/mosip-config",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #7945 from kameshsr/patch-287703\n\nMOSIP-39180 Corrected default value",
+            "date": "2025-01-28T10:45:20Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Corrected default value\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2025-01-28T08:34:52Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #7916 from kameshsr/patch-927713\n\nMOSIP-39180 Removed unused property",
+            "date": "2025-01-28T06:30:29Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Reverted to default value\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-28T06:08:52Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Reverted defalut value\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-28T05:03:59Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Corrected config\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-27T11:23:15Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Corrected config\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-27T11:10:12Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 reverted to default property\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-24T12:19:02Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Remove unused property\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-23T13:09:38Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39180 Removed unused property\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2025-01-23T11:35:39Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39045 corrected vid policy (#7891)\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2025-01-20T10:31:45Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39045 Removed optional language (#7890)\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2025-01-20T07:42:14Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-6149] Update id-repository-default.properties (#7888)\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2025-01-20T05:10:50Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-7064] Update id-authentication-default.properties (#7884)\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2025-01-17T09:46:14Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-7064] Update id-authentication-default.properties (#7883)\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2025-01-17T09:39:01Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-39010 Move resident releated config changes to release branch (#7882)\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-17T06:58:13Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7876 from maheswaras/release-1.2.3.1\n\n[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of\u2026",
+            "date": "2025-01-16T17:05:42Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of mosip-config repo\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2025-01-16T17:03:34Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7875 from maheswaras/release-1.2.3.1\n\n[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of\u2026",
+            "date": "2025-01-16T16:14:53Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of mosip-config repo\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2025-01-16T16:10:57Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7874 from maheswaras/release-1.2.3.1\n\n[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of mosip-config repo",
+            "date": "2025-01-16T16:00:15Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "\u001b[200~[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of mosip-config repo~\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2025-01-16T15:55:53Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7865 from maheswaras/release-1.2.3.1\n\n[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of mosip-config repo",
+            "date": "2025-01-16T10:24:25Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "[MOSIP-39004] cleanup testdata changes from release-1.2.3.1 branch of mosip-config repo\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2025-01-16T10:19:11Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "reverting to default configs\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2025-01-16T07:50:13Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Merge pull request #7783 from VSIVAKALYAN/release-1.2.3.x\n\n[DSD-6916] Added testrig client in kernel & idrepo def properties",
+            "date": "2024-12-20T06:30:31Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-6916] Update id-repository-default.properties\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2024-12-20T06:26:31Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-6916] Update kernel-default.properties\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2024-12-20T06:24:24Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7782 from mosip/maheswaras-patch-80\n\nUpdate application-default.properties",
+            "date": "2024-12-20T05:25:59Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update application-default.properties\n\nUpdated min lang required field:\r\nmosip.min-languages.count=2\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-12-20T05:25:24Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Update id-repository-default.properties\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-12-19T12:45:45Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7775 from mosip/maheswaras-patch-79\n\nUpdate identity-mapping.json",
+            "date": "2024-12-19T07:17:14Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update identity-mapping.json\n\nUpdated fileds as per IDSchema\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-12-19T07:16:22Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7773 from mosip/maheswaras-patch-77\n\nUpdate application-default.properties",
+            "date": "2024-12-19T06:57:30Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update application-default.properties\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-12-19T06:56:50Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #7772 from mosip/maheswaras-patch-76\n\nUpdate kernel-default.properties",
+            "date": "2024-12-19T06:49:52Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update kernel-default.properties\n\nUpdated email notification properties\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-12-19T06:48:46Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update esignet-default.properties\n\nAdded VID for regEx\n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-18T10:23:15Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update esignet-default.properties\n\nUpdated regex for UIN\n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-18T08:42:13Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Merge pull request #7768 from mosip/ckesiraju-patch-19\n\nUpdate esignet-default.properties",
+            "date": "2024-12-18T07:48:26Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update esignet-default.properties\n\nUpdated username length and added regex for UIN \n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-18T07:47:16Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update identity-mapping.json\n\nUpdated mapping info for phonenumbers\n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-18T07:22:01Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update esignet-default.properties\n\nUpdated regex for username\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-12-18T06:53:14Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Merge pull request #7767 from mosip/ckesiraju-patch-18\n\nUpdate esignet-default.properties",
+            "date": "2024-12-18T06:16:58Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update esignet-default.properties\n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-18T06:14:42Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update esignet-default.properties\n\nUpdated regex for username\n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-18T05:49:00Z"
+        },
+        {
+            "author": "n-chandrasekhar",
+            "message": "Update registration-processor-default.properties\n\nUpdated mosip.regproc.abis.handler.biometric-modalities-segments-mapping-for-age-group\n\nSigned-off-by: n-chandrasekhar <92979786+n-chandrasekhar@users.noreply.github.com>",
+            "date": "2024-12-17T12:01:38Z"
+        },
+        {
+            "author": "n-chandrasekhar",
+            "message": "Update registration-processor-default.properties\n\nRemoved Iris modality from mosip.regproc.abis.handler.biometric-modalities-segments-mapping-for-age-group\n\nSigned-off-by: n-chandrasekhar <92979786+n-chandrasekhar@users.noreply.github.com>",
+            "date": "2024-12-17T11:37:56Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update registration-default.properties\n\nRemoved IRIS bioattributes from momosip.registration.operator.onboarding.bioattributes\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-12-17T11:25:27Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-6876] Added application-new.properties (#7759)\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2024-12-16T07:53:34Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-6876] Added Config file: partner-management-new.properties (#7758)\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2024-12-16T07:40:06Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "Merge pull request #7756 from VSIVAKALYAN/release-1.2.3.x\n\n[DSD-6876] Update websub-service.toml",
+            "date": "2024-12-16T05:27:55Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-6876] Update websub-service.toml\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2024-12-16T05:22:58Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update registration-default.properties\n\nAdded handles for nrcId, email, phone\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-12-13T12:25:48Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update id-repository-default.properties\n\nAdded handle regex for phone,email and nrcId\n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-13T12:23:20Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Update id-authentication-default.properties\n\nAdded nrcID and phone, email as handles\n\nSigned-off-by: ckesiraju <94882008+ckesiraju@users.noreply.github.com>",
+            "date": "2024-12-13T12:20:04Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Merge pull request #7732 from dhanendra06/mosip-12\n\nMOSIP-36288",
+            "date": "2024-12-12T07:42:19Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "MOSIP-36288\n\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>",
+            "date": "2024-10-07T12:16:21Z"
+        },
+        {
+            "author": "n-chandrasekhar",
+            "message": "Merge pull request #7012 from Khuddusshariff0022/patch-18\n\nUpdate registration-processor-default.properties",
+            "date": "2024-08-08T11:08:39Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "Update registration-processor-default.properties\n\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-08-08T11:06:39Z"
+        },
+        {
+            "author": "khuddus shariff",
+            "message": "[MOSIP-34112] adding manual adjudication stage to update camel route (#7000)\n\n* [MOSIP-34112] adding condition for manual adjudication stage\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n* [MOSIP-34112] adding condition for manual adjudication stage\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: khuddus shariff <khuddusshariff0022@gmail.com>",
+            "date": "2024-08-07T13:08:26Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Merge pull request #6691 from swethan1718/patch-36\n\nUpdate identity-mapping.json",
+            "date": "2024-07-05T06:07:50Z"
+        },
+        {
+            "author": "swethan1718",
+            "message": "Update identity-mapping.json\n\nSigned-off-by: swethan1718 <113496801+swethan1718@users.noreply.github.com>",
+            "date": "2024-07-05T06:00:39Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-5498 Update esignet-default.properties\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-06-19T14:08:19Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-5498 Update esignet-default.properties\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-06-19T14:07:11Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "DSD-5498 Update esignet-default.properties\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-06-19T14:00:11Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "DSD-5498 Update signup-default.properties\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-06-19T13:59:20Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #6519 from Prafulrakhade/pla-1.2.0.1\n\n[DSD-5498] chanegs to master",
+            "date": "2024-06-19T08:30:35Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #6491 from Prafulrakhade/pla-1.2.0.1\n\n[DSD-5498] revert back pkcs12 changes from esignet-default.properties\u2026",
+            "date": "2024-06-18T08:18:01Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-5498] revert back pkcs12 changes from esignet-default.properties, id-authentication-default.properties and kernel-default.properties",
+            "date": "2024-06-17T13:00:11Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #1 from Prafulrakhade/master\n\nreverted back pkcs12 changs",
+            "date": "2024-06-17T11:48:40Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-5498] revert back pkcs12 changes from esignet-default.properties, id-authentication-default.properties and kernel-default.properties",
+            "date": "2024-06-17T10:46:24Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-5498] revert back pkcs12 changes from esignet-default.properties, id-authentication-default.properties and kernel-default.properties",
+            "date": "2024-06-17T10:43:06Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "Merge pull request #6257 from syedsalman3753/pla-1.2.0.1\n\n[DSD-4578] Updated esignet-default.properties for PKCS12",
+            "date": "2024-05-24T18:19:46Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-4578] Updated esignet-default.properties for PKCS12\n\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-05-24T18:18:46Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "Merge pull request #6256 from syedsalman3753/pla-1.2.0.1\n\n[DSD-4578] Updated id-authentication-default.properties for PKCS12",
+            "date": "2024-05-24T17:34:26Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-4578] Updated id-authentication-default.properties for PKCS12\n\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-05-24T17:34:03Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "Merge pull request #6255 from syedsalman3753/pla-1.2.0.1\n\n[DSD-4578] Updated id-authentication-default.properties for PKCS12",
+            "date": "2024-05-24T17:19:07Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-4578] Updated id-authentication-default.properties for PKCS12\n\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-05-24T17:18:24Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "Merge pull request #6253 from syedsalman3753/pla-1.2.0.1\n\n[DSD-4578] Updated kernel-default.properties for PKCS12",
+            "date": "2024-05-24T12:46:16Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-4578] Updated kernel-default.properties for PKCS12\n\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-05-24T12:45:05Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[ES-952]Update esignet-default.properties (#6117)\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-05-15T05:29:50Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "Merge pull request #6102 from abhishek8shankar/pla-1.2.0.1\n\n[DSD-5255] Update esignet-default.properties",
+            "date": "2024-05-14T06:25:46Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "message": "[DSD-5255] Update esignet-default.properties\n\nSigned-off-by: abhishek8shankar <127825992+abhishek8shankar@users.noreply.github.com>",
+            "date": "2024-05-14T06:23:01Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "Merge pull request #6098 from abhishek8shankar/pla-1.2.0.1\n\n[DSD-5255] Update esignet-default.properties",
+            "date": "2024-05-14T05:03:27Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "message": "[DSD-5255] Update esignet-default.properties\n\nSigned-off-by: abhishek8shankar <127825992+abhishek8shankar@users.noreply.github.com>",
+            "date": "2024-05-14T05:01:26Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-5240] Update mimoto-default.properties (#6082)\n\n* [DSD-5240] Update mimoto-default.properties\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update mimoto-issuers-config.json\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-10T15:46:32Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-5240] Updated mimoto-default.properties\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-10T15:35:56Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-5240] Update mimoto-default.properties (#6081)\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-10T15:19:03Z"
+        },
+        {
+            "author": "n-chandrasekhar",
+            "message": "Merge pull request #6060 from swethan1718/patch-26\n\nUpdate mosip-vid-policy.json",
+            "date": "2024-05-09T14:08:27Z"
+        },
+        {
+            "author": "swethan1718",
+            "message": "Update mosip-vid-policy.json\n\nReverted the changes\n\nSigned-off-by: swethan1718 <113496801+swethan1718@users.noreply.github.com>",
+            "date": "2024-05-09T14:05:59Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Merge pull request #6052 from swethan1718/patch-25\n\nUpdate mosip-vid-policy.json",
+            "date": "2024-05-09T12:30:08Z"
+        },
+        {
+            "author": "swethan1718",
+            "message": "Update mosip-vid-policy.json\n\nUpdated line 15,16 and 18 for testing purpose\n\nSigned-off-by: swethan1718 <113496801+swethan1718@users.noreply.github.com>",
+            "date": "2024-05-09T11:46:17Z"
+        },
+        {
+            "author": "n-chandrasekhar",
+            "message": "Merge pull request #6044 from swethan1718/patch-24\n\nUpdate identity-mapping.json",
+            "date": "2024-05-09T07:54:19Z"
+        },
+        {
+            "author": "swethan1718",
+            "message": "Update identity-mapping.json\n\nReverting back the changes\n\nSigned-off-by: swethan1718 <113496801+swethan1718@users.noreply.github.com>",
+            "date": "2024-05-09T07:53:02Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #6036 from swethan1718/patch-23\n\nUpdate identity-mapping.json",
+            "date": "2024-05-09T04:45:32Z"
+        },
+        {
+            "author": "swethan1718",
+            "message": "Update identity-mapping.json\n\nRemoved DOB and Gender attribute for testing \n\nSigned-off-by: swethan1718 <113496801+swethan1718@users.noreply.github.com>",
+            "date": "2024-05-08T12:09:07Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #6033 from swethan1718/patch-22\n\nUpdate identity-mapping.json",
+            "date": "2024-05-08T09:41:41Z"
+        },
+        {
+            "author": "swethan1718",
+            "message": "Update identity-mapping.json\n\nUpdated count limit to zero for testing \n\nSigned-off-by: swethan1718 <113496801+swethan1718@users.noreply.github.com>",
+            "date": "2024-05-08T08:37:00Z"
+        },
+        {
+            "author": "likhitharl",
+            "message": "Merge pull request #6027 from swethan1718/patch-21\n\nUpdate identity-mapping.json",
+            "date": "2024-05-08T06:54:59Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-39581 added missing property",
+            "author": "kameshsr",
+            "date": "2025-02-06T14:27:08Z"
+        },
+        {
+            "title": "Update application-lts.properties",
+            "author": "hteshome2016",
+            "date": "2025-02-06T08:07:11Z"
+        },
+        {
+            "title": "Update application-default.properties",
+            "author": "hteshome2016",
+            "date": "2025-02-06T07:50:11Z"
+        },
+        {
+            "title": "[MOSIP-33020]Removing debug config as per review comments",
+            "author": "aranaravi",
+            "date": "2025-02-05T12:14:53Z"
+        },
+        {
+            "title": "MOSIP-35135 - enable captcha in pre-registration",
+            "author": "ymahtat-dev",
+            "date": "2025-01-28T12:34:18Z"
+        },
+        {
+            "title": "enable tech5 omnimatchSdk",
+            "author": "kiragiakash",
+            "date": "2025-01-23T15:24:40Z"
+        },
+        {
+            "title": "Update README.md",
+            "author": "ckm007",
+            "date": "2025-01-15T14:13:03Z"
+        },
+        {
+            "title": "Update application-default.properties",
+            "author": "swethan1718",
+            "date": "2025-01-08T05:24:26Z"
+        },
+        {
+            "title": "Update partner-management-default.properties",
+            "author": "swethan1718",
+            "date": "2024-12-20T12:33:24Z"
+        },
+        {
+            "title": "Update identity-mapping.json",
+            "author": "maheswaras",
+            "date": "2024-12-19T07:08:10Z"
+        },
+        {
+            "title": "Update mock-abis-mz.properties",
+            "author": "kishorekumar2710",
+            "date": "2024-12-12T08:42:49Z"
+        },
+        {
+            "title": "Update esignet-default.properties",
+            "author": "kaifk468",
+            "date": "2024-12-11T09:40:48Z"
+        },
+        {
+            "title": "[DSD-6787] added signup ui config, it automatically take redirect url",
+            "author": "zesu22",
+            "date": "2024-12-05T11:22:00Z"
+        },
+        {
+            "title": "Update esignet-default.properties",
+            "author": "Balaji-pujari02",
+            "date": "2024-12-02T10:51:32Z"
+        },
+        {
+            "title": "DSD-6762",
+            "author": "ase-101",
+            "date": "2024-11-30T17:47:18Z"
+        },
+        {
+            "title": "add role - caCertPath",
+            "author": "nagendra0721",
+            "date": "2024-11-29T09:42:55Z"
+        },
+        {
+            "title": "Update identity-mapping.json",
+            "author": "maheswaras",
+            "date": "2024-11-27T07:42:21Z"
+        },
+        {
+            "title": "remove overriding cache type",
+            "author": "vharsh",
+            "date": "2024-11-14T07:41:24Z"
+        },
+        {
+            "title": "adding image-compressor property file",
+            "author": "Malleshdappu",
+            "date": "2024-11-14T03:35:57Z"
+        },
+        {
+            "title": "Image compressor",
+            "author": "Malleshdappu",
+            "date": "2024-11-14T03:28:18Z"
+        },
+        {
+            "title": "Update mock-abis-mz.properties",
+            "author": "kishorekumar2710",
+            "date": "2024-10-28T11:27:46Z"
+        },
+        {
+            "title": "Update registration-default.properties",
+            "author": "maheswaras",
+            "date": "2024-10-16T05:26:59Z"
+        },
+        {
+            "title": "Update id-repository-default.properties",
+            "author": "GSPrakash2662",
+            "date": "2024-09-25T11:48:17Z"
+        },
+        {
+            "title": "Update mock-abis-default.properties",
+            "author": "n-chandrasekhar",
+            "date": "2024-08-27T07:02:36Z"
+        },
+        {
+            "title": "Update pre-registration-default.properties",
+            "author": "ckesiraju",
+            "date": "2024-08-26T11:05:10Z"
+        },
+        {
+            "title": "Camdgc qa1",
+            "author": "ase-101",
+            "date": "2024-08-25T12:49:42Z"
+        },
+        {
+            "title": "[ADDED] release 1.4.1 properties to develop default, mock & insurance",
+            "author": "zesu22",
+            "date": "2024-07-24T12:29:15Z"
+        },
+        {
+            "title": "[ADDED] release 1.4.1 properties to qa-inji default, mock & insurance",
+            "author": "zesu22",
+            "date": "2024-07-24T09:01:05Z"
+        },
+        {
+            "title": "errorCode in kba field details",
+            "author": "zesu22",
+            "date": "2024-07-23T19:33:17Z"
+        },
+        {
+            "title": "[DSD-5674]Update certify-mosipid.properties",
+            "author": "Rakshitha650",
+            "date": "2024-07-05T11:16:47Z"
+        },
+        {
+            "title": "Testing GrantType Drop Down",
+            "author": "Deepikag2024",
+            "date": "2024-07-01T05:43:02Z"
+        },
+        {
+            "title": "[DSD-5479]",
+            "author": "balaji-alluru",
+            "date": "2024-06-28T17:05:22Z"
+        },
+        {
+            "title": "Create captcha-default.properties",
+            "author": "yashmsonkusare",
+            "date": "2024-06-20T13:27:21Z"
+        },
+        {
+            "title": "updated kafka profile",
+            "author": "Malleshdappu",
+            "date": "2024-06-13T16:01:21Z"
+        },
+        {
+            "title": "[MOSIP-32155] change sunbird urls to point dev registry",
+            "author": "challabeehyv",
+            "date": "2024-06-07T15:29:54Z"
+        },
+        {
+            "title": "Update esignet-default.properties",
+            "author": "balaji-alluru",
+            "date": "2024-06-07T12:03:24Z"
+        },
+        {
+            "title": "[ES-940]Update esignet-insurance.properties",
+            "author": "balaji-alluru",
+            "date": "2024-06-07T11:53:07Z"
+        },
+        {
+            "title": "[DSD-5424] inji certify properties for qa environment",
+            "author": "challabeehyv",
+            "date": "2024-06-05T09:03:33Z"
+        },
+        {
+            "title": "Update esignet-insurance.properties",
+            "author": "maheswaras",
+            "date": "2024-05-21T09:59:56Z"
+        },
+        {
+            "title": "Update esignet-insurance.properties",
+            "author": "maheswaras",
+            "date": "2024-05-21T09:01:56Z"
+        },
+        {
+            "title": "Added sunbird config in for UI",
+            "author": "kaifk468",
+            "date": "2024-05-13T14:46:14Z"
+        },
+        {
+            "title": "Updated data-share2-mz.properties",
+            "author": "Malleshdappu",
+            "date": "2024-05-08T07:04:10Z"
+        },
+        {
+            "title": "[ES-922] Update signup-default.properties",
+            "author": "gk-4VII",
+            "date": "2024-05-07T11:36:33Z"
+        },
+        {
+            "title": "Update application-default.properties",
+            "author": "maheswaras",
+            "date": "2024-05-03T16:56:28Z"
+        },
+        {
+            "title": "Update application-default.properties",
+            "author": "maheswaras",
+            "date": "2024-05-03T16:50:52Z"
+        },
+        {
+            "title": "Update application-default.properties",
+            "author": "maheswaras",
+            "date": "2024-05-03T16:47:18Z"
+        },
+        {
+            "title": "Update registration-processor-default.properties",
+            "author": "likhitharl",
+            "date": "2024-05-03T10:47:10Z"
+        },
+        {
+            "title": "Tfgov",
+            "author": "gaganamadival",
+            "date": "2024-04-25T13:10:53Z"
+        },
+        {
+            "title": "Update identity-mapping.json",
+            "author": "kavyainfystrat",
+            "date": "2024-04-18T12:46:40Z"
+        },
+        {
+            "title": "MOSIP-27209 and MOSIP-20644 config changes",
+            "author": "sowmya695",
+            "date": "2024-04-03T12:56:55Z"
+        },
+        {
+            "title": "[Mosip-31365] adding configs for Idrepo Discard Draft",
+            "author": "Khuddusshariff0022",
+            "date": "2024-04-03T12:52:01Z"
+        },
+        {
+            "title": "[ES-759] Updated esignet-default logs",
+            "author": "balaji-alluru",
+            "date": "2024-03-28T06:00:18Z"
+        },
+        {
+            "title": "VCI: Fixed contexts json according to openid vci and mosipvercred",
+            "author": "lalithkota",
+            "date": "2024-03-15T11:45:39Z"
+        },
+        {
+            "title": "Add MIN MAX length for Phone number",
+            "author": "rathanak-0080",
+            "date": "2024-03-13T09:05:44Z"
+        },
+        {
+            "title": "Update compliance-toolkit-default.properties",
+            "author": "mayuradesh",
+            "date": "2024-03-06T13:05:30Z"
+        },
+        {
+            "title": "Removed PreferredLang from unencrypted attribute list",
+            "author": "ase-101",
+            "date": "2024-02-28T03:32:40Z"
+        },
+        {
+            "title": "updated auth secret",
+            "author": "Malleshdappu",
+            "date": "2024-02-26T13:23:49Z"
+        },
+        {
+            "title": "[ES-496] Created new partner for insurance usecase",
+            "author": "vishwa-vyom",
+            "date": "2024-02-26T13:16:33Z"
+        },
+        {
+            "title": "Update amr-acr-mapping.json",
+            "author": "Mahesh-Binayak",
+            "date": "2024-02-26T11:04:46Z"
+        },
+        {
+            "title": "Update identity-mapping.json",
+            "author": "Balaji-pujari02",
+            "date": "2024-02-14T11:16:09Z"
+        },
+        {
+            "title": "MOSIP-31611 : Update partner-management-default.properties",
+            "author": "GOKULRAJ136",
+            "date": "2024-02-14T07:41:11Z"
+        },
+        {
+            "title": "Qa release",
+            "author": "ckesiraju",
+            "date": "2024-02-12T14:17:23Z"
+        },
+        {
+            "title": "Update in esignet-default.properties  change the logo name to mosip-l\u2026",
+            "author": "kaifk468",
+            "date": "2024-02-05T06:19:26Z"
+        },
+        {
+            "title": "[MOSIP-31071] Update pre-registration-default.properties",
+            "author": "aihamh",
+            "date": "2024-01-12T08:59:08Z"
+        },
+        {
+            "title": "enabled vc verification for digitalcard",
+            "author": "dhanendra06",
+            "date": "2024-01-05T12:37:21Z"
+        },
+        {
+            "title": "Revert \"[MOSIP_29862] adding properties to trim the white present in demograp\u2026\"",
+            "author": "vishwa-vyom",
+            "date": "2024-01-02T08:50:11Z"
+        },
+        {
+            "title": "[Mosip-29862] adding properties to trim the white spaces.",
+            "author": "Khuddusshariff0022",
+            "date": "2024-01-02T08:26:04Z"
+        },
+        {
+            "title": "MarkAsDemodedupeSuccess Property enabled",
+            "author": "rajashreesaste",
+            "date": "2023-12-28T13:23:28Z"
+        },
+        {
+            "title": "ES-604",
+            "author": "panharith-0118",
+            "date": "2023-12-25T09:27:52Z"
+        },
+        {
+            "title": "MOSIP-30394:Updated admin-default.properties",
+            "author": "yashmsonkusare",
+            "date": "2023-11-23T12:42:37Z"
+        },
+        {
+            "title": "change the OTP freeze Time",
+            "author": "vishvanij",
+            "date": "2023-11-20T12:21:23Z"
+        },
+        {
+            "title": "Update kernel-default.properties",
+            "author": "Balaji-pujari02",
+            "date": "2023-11-09T06:22:33Z"
+        },
+        {
+            "title": "MOSIP-30114-make-config-changes-and-give-the-latest-changes-of-resident-service-to-qa-inji",
+            "author": "RitikJain4108",
+            "date": "2023-11-02T12:49:55Z"
+        },
+        {
+            "title": "[MOSIP-29608]Update application-default.properties",
+            "author": "balaji-alluru",
+            "date": "2023-10-19T04:26:35Z"
+        },
+        {
+            "title": "Mosip 29287 corrected cloud config for biosdk service",
+            "author": "loganathan-sekaran",
+            "date": "2023-10-12T14:39:02Z"
+        },
+        {
+            "title": "[MOSIP-29461] Update pre-registration-demographic.json",
+            "author": "aihamh",
+            "date": "2023-10-06T08:52:23Z"
+        },
+        {
+            "title": "MOSIP-28116 : location rule changes",
+            "author": "MonobikashDas",
+            "date": "2023-09-26T12:21:46Z"
+        },
+        {
+            "title": "Update id-authentication-default.properties",
+            "author": "ckm007",
+            "date": "2023-09-15T10:23:18Z"
+        },
+        {
+            "title": "[MOSIP-29262]Update partner-management-default.properties",
+            "author": "balaji-alluru",
+            "date": "2023-09-13T10:19:01Z"
+        },
+        {
+            "title": "added correction as top priority",
+            "author": "MonobikashDas",
+            "date": "2023-08-11T10:06:44Z"
+        },
+        {
+            "title": "Updated to latest CTK properties",
+            "author": "mayuradesh",
+            "date": "2023-08-08T07:27:22Z"
+        },
+        {
+            "title": "added address type in JSON-LD context",
+            "author": "MonobikashDas",
+            "date": "2023-08-01T09:46:01Z"
+        },
+        {
+            "title": "Update esignet-default.properties",
+            "author": "anshulv1401",
+            "date": "2023-07-31T07:30:49Z"
+        },
+        {
+            "title": "Update pms-migration-utility-default.properties",
+            "author": "balaji-alluru",
+            "date": "2023-07-20T12:56:58Z"
+        },
+        {
+            "title": "[MOSIP-28491]Update kernel-default.properties",
+            "author": "Rakshitha650",
+            "date": "2023-07-20T06:34:46Z"
+        },
+        {
+            "title": "Update pms-migration-utility-default.properties",
+            "author": "balaji-alluru",
+            "date": "2023-06-28T13:00:01Z"
+        },
+        {
+            "title": "Update esignet-dev.properties",
+            "author": "anshulv1401",
+            "date": "2023-06-19T05:51:56Z"
+        },
+        {
+            "title": "Create partner-migration-mz.properties",
+            "author": "balaji-alluru",
+            "date": "2023-06-08T13:56:15Z"
+        },
+        {
+            "title": "Added ida-partner.cer",
+            "author": "loganathan-sekaran",
+            "date": "2023-05-17T11:48:39Z"
+        },
+        {
+            "title": "added two properties related to 27004",
+            "author": "AkshayChouguleac1",
+            "date": "2023-05-10T04:51:16Z"
+        },
+        {
+            "title": "MOSIP-25643 : Update misp-policy-schema.json",
+            "author": "balaji-alluru",
+            "date": "2023-03-28T09:18:07Z"
+        },
+        {
+            "title": "updated property url and added max page size property",
+            "author": "RitikJain4108",
+            "date": "2023-02-07T10:43:07Z"
+        },
+        {
+            "title": "added idrepo create identity merge flag property",
+            "author": "Shubhamjwl",
+            "date": "2023-01-20T08:27:58Z"
+        },
+        {
+            "title": "Properties changes based on Collab environment",
+            "author": "Nambirajanr",
+            "date": "2023-01-20T03:06:26Z"
+        },
+        {
+            "title": "Update resident-default.properties ",
+            "author": "Neha2365",
+            "date": "2022-10-21T09:19:14Z"
+        },
+        {
+            "title": "MOSIP-22705",
+            "author": "NagarjunaKuchi",
+            "date": "2022-10-17T01:42:56Z"
+        },
+        {
+            "title": "MOSIP-23611-prop-to-disable-cred-retrigger",
+            "author": "loganathan-sekaran",
+            "date": "2022-08-18T16:15:03Z"
+        },
+        {
+            "title": "mosip.admin.applicant-details.max.login.count=20",
+            "author": "Yashavant1629",
+            "date": "2022-07-20T09:26:07Z"
+        },
+        {
+            "title": "Added global properties",
+            "author": "HimajaDhanyamraju2",
+            "date": "2022-04-05T06:43:23Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Backup resolv file",
+            "author": "paredescedric3",
+            "date": "2023-10-03T11:23:43Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "maheswaras",
+            "comment": "No comment provided",
+            "date": "2025-01-15T14:14:24Z"
+        }
+    ]
+}

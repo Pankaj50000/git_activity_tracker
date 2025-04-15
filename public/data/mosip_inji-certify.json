@@ -1,0 +1,656 @@
+{
+    "repository": "mosip/inji-certify",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "DSD-7203 inji certify 0.10.1 release changes to master",
+            "date": "2025-02-03T14:49:09Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#209)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2025-02-03T14:25:46Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[DSD-7203] inji-certify 0.10.1 release (#208)\n\n* Updated Pom version and Chart version for post-release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* [DSD-7203] Update docker-compose.yaml\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-7203] Updated values.yaml\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-7203] Update install.sh\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n* DSD-7203 inji certify 0.10.1 release\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2025-02-03T14:22:25Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[DSD-7203] use the non SNAPSHOT plugin JARs (#207)",
+            "date": "2025-02-03T13:29:18Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom version and Chart version for post-release changes (#205)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2025-01-31T04:59:23Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "[DSD-7171]Update values.yaml (#204)\n\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2025-01-30T13:17:19Z"
+        },
+        {
+            "author": "Abhishek S",
+            "message": "[DSD-7171] Inji-certify 0.10.0 release (#203)\n\nSigned-off-by: Abhishek S <127825992+abhishek8shankar@users.noreply.github.com>",
+            "date": "2025-01-30T11:18:54Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #201 from Prafulrakhade/release-0.10.x\n\n[DSD-7171] inji certify 0.10.0 release",
+            "date": "2025-01-30T10:54:22Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-7171] inji certify 0.10.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-30T10:53:19Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-7171] inji certify 0.10.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-30T09:19:21Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-7171] inji certify 0.10.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-30T09:16:53Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-39143 - Removed password field from mock add identity hbs file. (#199)",
+            "date": "2025-01-29T10:37:25Z"
+        },
+        {
+            "author": "Hitesh Jain",
+            "message": "Openapi review comments (#195)\n\n* Openapi review comments\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [Release Changes]\r\nUpdated openapi docs\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [release changes] updated openapi docs\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [Swagger changes]\r\n\r\nadded additional examples\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [Openapi changes] updated scope\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [Updated README]\r\n\r\nadded rendering template workflow in readme\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [Restructured readme]\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [cleanup]\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* [removed unnecessary headers]\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n* removed unnecessary content\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2025-01-29T06:40:10Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "INJICERT-681 - moving the testcases to known issues (#198)\n\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2025-01-29T06:20:11Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-39247 - Updated Readme file (#194)",
+            "date": "2025-01-27T15:14:24Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #193 from abhishek8shankar/release-0.10.x\n\n[MOSIP-39240] Updated install.sh and values.yaml to use config-server",
+            "date": "2025-01-27T09:56:34Z"
+        },
+        {
+            "author": "Abhishek S",
+            "message": "[MOSIP-39240] Updated values.yaml to use config-server \n\nSigned-off-by: Abhishek S <127825992+abhishek8shankar@users.noreply.github.com>",
+            "date": "2025-01-27T09:40:10Z"
+        },
+        {
+            "author": "Abhishek S",
+            "message": "[MOSIP-39240] Updated install.sh to use config-server \n\nSigned-off-by: Abhishek S <127825992+abhishek8shankar@users.noreply.github.com>",
+            "date": "2025-01-27T09:39:14Z"
+        },
+        {
+            "author": "Hitesh Jain",
+            "message": "[DSD-6891] remove sonar report for apitest rig (#192)\n\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2025-01-27T06:18:18Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-39143 - Sync latest changes from develop branch as part of new commons release changes (#185)\n\n* MOSIP-39143\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\n\n* MOSIP-39143\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\n\n* MOSIP-39143\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\n\n---------\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2025-01-23T04:07:53Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] update the SQL scripts and troubleshooting guide (#184)\n\n* [INJICERT-657] update the SQL scripts and troubleshooting guide\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n* [INJICERT-657] add sample UIN and OTP for local docker compose setup\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n* [INJICERT-657] add keymanager policies to rollback script\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n* [INJICERT-657] remove key_policy_defs from 0.9.1 version of Certify\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n* [INJICERT-657] add license header for upgrade & rollback scripts\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n---------\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2025-01-22T03:57:34Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] use keymanager 1.3.0-SNAPSHOT for release (#183)\n\n* [INJICERT-657] use keymanager 1.3.0-SNAPSHOT for release\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n* [INJICERT-657] add ca_cert_store table for keymanager\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n---------\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2025-01-21T01:37:28Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJICERT-853] update issuer property (#182)",
+            "date": "2025-01-20T12:43:23Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-495] changes for svg template config (#180)\n\nSigned-off-by: Harsh <thevharsh@gmail.com>",
+            "date": "2025-01-17T05:25:54Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] update docs and issuer name (#176)\n\n* [INJICERT-657] update docs and issuer name\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n* [INJICERT-657] update mock mdl configurations\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\n\n---------\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2025-01-16T11:05:05Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] add OpenAPI YAML & diagrams (#173)\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2025-01-09T04:05:21Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-331] Added unit tests for validators and certify issuance service (#165)\n\n* [INJICERT-331] Added unit tests for validators and certify issuance service\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\n\n* Added proof generator and issuance services test cases\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\n\n* Added few more test for filter and services\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\n\n---------\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2025-01-09T03:29:09Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Added reference link for postgres-plugin doc (#172)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2025-01-09T03:24:21Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-642] add docs for using Inji Certify locally (#169)\n\n* [INJICERT-642] add dev & integrator docs\r\n\r\nTopics:\r\n* add plugin docs\r\n* add local development & setup guide\r\n* add docs for hosting a DID document\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-642] reorganize docs\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-642] update UINs to match collab setup data\r\n\r\nSigned-off-by: Harsh <thevharsh@gmail.com>\r\n\r\n* [INJICERT-642] update farmer logo and readme\r\n\r\nSigned-off-by: Harsh <thevharsh@gmail.com>\r\n\r\n* [INJICERT-642] remove redundant docs\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-642] update mDoc docs\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-642] remove mDoc secret generation script\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Harsh <thevharsh@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2025-01-08T06:18:22Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "[INJICERT-789]: Changes done to pass on the holder id into the VC template and docker compose pointed to collab (#168)\n\nSigned-off-by: Vishwa <visu.vs1@gmail.com>\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\nCo-authored-by: Hitesh Jain <jainhitesh9998@gmail.com>",
+            "date": "2025-01-03T11:43:03Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] change eSignet URLs to collab (#167)\n\nSigned-off-by: Harsh <thevharsh@gmail.com>",
+            "date": "2025-01-03T09:28:02Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "[INJICERT-789]: Added a new wellknown endpoint for did.json and simplified the docker compose file (#166)\n\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2025-01-02T05:46:29Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] fixup duplicate hashing for RSA (#164)\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-20T06:21:53Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJICERT-695] add docker-compose setup for MDL (#163)\n\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-19T10:05:30Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] update SQL template scripts & fix VC key bug (#162)\n\nSigned-off-by: Harsh <thevharsh@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-19T07:54:18Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Revert \"[INJICERT-657] Added some deployment changes (#158)\" (#161)\n\nThis reverts commit 443262e5256ee628f576973fc81f1ec666a1dec1.\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-19T07:20:32Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Added condition for rsa and ed key generation (#159)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-19T05:23:58Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Added some deployment changes (#158)\n\n* [INJICERT-657] Added some deployment changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* [INJICERT-657] Change in extraEnvVars yaml value\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-18T12:49:17Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] add validFrom if missing from plugin (#157)",
+            "date": "2024-12-18T12:05:32Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJICERT-695] add mock mdoc VCI postman collection (#153)\n\n* [INJICERT-695] add mock mdoc VCI postman collection\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n* [INJICERT-695] modify property name of mdoc issuer key certificate\r\n\r\n    mosip.certify.mock.vciplugin.issuer.key-cert changed to mosip.certify.mock.vciplugin.mdoc.issuer-key-cert\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-18T06:42:29Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Added a fix to keep issuer metedata value fixed (#156)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-18T05:09:02Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] pass keyID from CertifyIssuanceImpl (#155)\n\n* [INJICERT-657] pass keyID from CertifyIssuanceImpl\r\n\r\nOther changes:\r\n\r\n* more renames, changes to scripts & SQL files\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] use local CSV file for docker compose demo\r\n\r\nSigned-off-by: Harsh <thevharsh@gmail.com>\r\n\r\n* [INJICERT-657] remove & rename files\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] add optional expiry of VC in template\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] move packages around\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Harsh <thevharsh@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-17T19:44:02Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #154 from Infosys/review-changes\n\n[INJICERT-657] Added review changed related to rendering template names and docker",
+            "date": "2024-12-17T16:51:27Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Added review changed related to rendering template names and docker\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-12-17T13:59:57Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Added latest to vd11 and vd12 conversion methods (#152)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-17T12:59:56Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] rename Svg -> SVG and other minor changes (#149)\n\n* [INJICERT-657] rename Svg -> SVG and other minor changes\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] make mass renames, update DB\r\n\r\nChanges:\r\n* svg_template DB becomes template_registry & it's ID column becomes a\r\n  String from UUID type\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] move proofgenerator package\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* Docker and script code changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* [INJICERT-657] rename Certify keys in KeyManager\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] rename Certify keys in KeyManager\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] move VCFormatter & VCSigner to certify-service\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] make Velocity template cacheable\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nCo-authored-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-17T12:56:32Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #151 from nandhu-kumar/release-0.10.x\n\nMOSIP-38340 | Sync injicertify develop and release-0.10x branch",
+            "date": "2024-12-13T15:48:16Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-38340\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-13T13:51:56Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-38340\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-12-13T13:49:19Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Moving changes corresponding to config to release-branch (#148)\n\n* [INJICERT-499] added config docs for postgres dp plugin\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added upgrade sql scripts\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed template name\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed template name\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Change in some configs w.r.t. data provider plugin\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-12T07:12:01Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #144 from nandhu-kumar/develop\n\nMOSIP-37942 | Updated delete query file name",
+            "date": "2024-11-29T09:34:13Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-11-29T08:11:49Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37942\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-29T08:11:39Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #142 from mohanachandran-s/patch-2\n\nMOSIP-37793 - Updated the Readme file",
+            "date": "2024-11-29T06:45:49Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #143 from nandhu-kumar/develop\n\nMOSIP-37807 | added default values",
+            "date": "2024-11-28T10:50:39Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-11-28T08:12:44Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37807\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-28T08:12:36Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-37793 - Updated the Readme file\n\nSigned-off-by: Mohanachandran S <165888272+mohanachandran-s@users.noreply.github.com>",
+            "date": "2024-11-27T11:14:26Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-434] add condition for Object and other non-standard types (#139)\n\n* NOTE: This assumes that every such object has a custom toString()\r\n  method.\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-11-27T07:53:34Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #141 from nandhu-kumar/develop\n\nMOSIP-37807 | Done changes to accomodate configmaps props",
+            "date": "2024-11-27T07:47:19Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37807\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-27T07:19:33Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #140 from nandhu-kumar/develop\n\nMOSIP-37807 | Make Inji-Certify API test rig configurable to execute on particular usecase",
+            "date": "2024-11-25T14:53:47Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37807\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-25T12:46:37Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-11-25T10:35:26Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37807\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-25T10:35:14Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #138 from nandhu-kumar/develop\n\nMOSIP-37606 | fixed failures",
+            "date": "2024-11-21T03:42:30Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-11-20T12:08:53Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37606\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-20T12:08:44Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-434] add id field for making mimoto & inji verify work (#137)\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-11-20T04:41:39Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #136 from mohanachandran-s/develop\n\nMOSIP-37498 - Renamed apitest folder to api-test",
+            "date": "2024-11-19T06:33:16Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-37498 - Renamed apitest folder to api-test\n\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2024-11-19T05:20:48Z"
+        },
+        {
+            "author": "Hitesh Jain",
+            "message": "[INJICERT-567] (#134)\n\n* [INJICERT-567]\r\nLocal InjiStack Docker-compose setup\r\n\r\nSigned-off-by: Hitesh C <jainhitesh9998@gmail.com>\r\n\r\n* [INJICERT-456]\r\nUpdated Readme to reflect references to relevent docs\r\n\r\nSigned-off-by: Hitesh C <jainhitesh9998@gmail.com>\r\n\r\n* [INJICERT-456]\r\n\r\nUpdated mimoto url in docker-compose\r\n\r\nSigned-off-by: Hitesh C <jainhitesh9998@gmail.com>\r\n\r\n* Update docker-compose/docker-compose-injistack/config/certify-mock-identity.properties\r\n\r\nCo-authored-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Hitesh C <jainhitesh9998@gmail.com>\r\nSigned-off-by: Hitesh Jain <jainhitesh9998@gmail.com>\r\nCo-authored-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-11-19T04:50:48Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-37498 - Renamed apitest folder to api-test\n\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2024-11-19T04:40:22Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-434] add optional id field (#135)\n\nAs per the published VC DM 1.1 spec, the ID field must be a URI but\r\nother first party implementations require ID field to be present for\r\nsome other functions, hence this feature is being added temporarily.\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-11-19T03:29:58Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #96 from likhitharl/develop\n\nINJICERT-213- Negative testcases",
+            "date": "2024-11-15T12:52:35Z"
+        },
+        {
+            "author": "Likhitha R L",
+            "message": "Merge branch 'develop' of https://github.com/likhitharl/inji-certify into develop",
+            "date": "2024-11-15T12:02:34Z"
+        },
+        {
+            "author": "Likhitha R L",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-11-15T12:01:43Z"
+        },
+        {
+            "author": "likhitharl",
+            "message": "Merge branch 'mosip:develop' into develop",
+            "date": "2024-11-15T11:59:28Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-434] add feature flag for SVGtemplate for VC DM 2.0 (#130)",
+            "date": "2024-11-15T04:35:08Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #129 from mohanachandran-s/patch-1\n\nMOSIP-37476 - updated the docker file for jdk version",
+            "date": "2024-11-14T08:09:21Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-37476 - updated the docker file for jdk version\n\nSigned-off-by: Mohanachandran S <165888272+mohanachandran-s@users.noreply.github.com>",
+            "date": "2024-11-14T06:35:49Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-585] refactor VC Sign algo impl & add Ed25519Signature2020 (#128)\n\n* [INJICERT-585] refactor VC Sign algo impl & add Ed25519Signature2020\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-585] rename proof interface impl\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-585] re-organize packages & make obj singleton\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-585] refactor proof signing\r\n\r\nmove SignatureServiceX calls to ProofStrategy\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-585] bump up keymanager version\r\n\r\n* add support for Ed25519-2020 signing to keymanager\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-585] remove unused class\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-11-13T14:42:38Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-434] compute svg template multibase&sha256 per spec (#125)\n\n* [INJICERT-434] compute svg template multibase&sha256 per spec\r\n\r\nref: https://w3c-ccg.github.io/vc-render-method/#svgrenderingtemplate\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-434] only fetch SVG template if VC 2.0 is requested\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-11-08T13:03:45Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #126 from nandhu-kumar/develop\n\nMOSIP-37137 | changed package name",
+            "date": "2024-11-05T10:41:57Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1578] update  es256k and ed support proof verification (#123)\n\n* [INJIMOB-1578] updste  es256k and ed support proof verification\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n* [INJIMOB-1578] add unit tests for validate function\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2024-11-05T09:51:56Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-11-05T07:55:21Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37137 | changed package name\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-05T07:55:12Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1862] remove unused config property (#113)\n\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>",
+            "date": "2024-11-05T05:34:39Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #124 from nandhu-kumar/develop\n\nMOSIP-37137 | changed package name",
+            "date": "2024-11-05T05:25:15Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37137\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-04T11:44:39Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37137\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-04T11:26:46Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-545] add support for Ed25519Signature2018 algo (#115)\n\n* [INJICERT-545] add support for Ed25519Signature2018 algo\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-545] fix algorithm config for keymanager\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-545] add missing BASE key_policy required for Ed25519 generation\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-11-04T03:38:15Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "add Postman collection for Mock use case (#121)\n\n- Mock VCIssuance & Mock DataProvider usecase both have the same API.\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-11-04T03:16:33Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-499] Changed hashmap to JsonObject for mock data plugin (#117)\n\n* [INJICERT-495] Added template exception for handling invalid id exceptions for template\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added tests for svg template controller\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* [INJICERT-499] Changed hashmap to json object for mock data plugin\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Local changes revert and removed old code\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-11-04T03:13:56Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #111 from Rakshithb1/develop\n\n[MOSIP-35892] Updated helm charts to add range",
+            "date": "2024-10-28T07:58:27Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #116 from nandhu-kumar/develop\n\nMOSIP-36505 | Split the Testng report into pre-requisite and functional test rig- core",
+            "date": "2024-10-23T07:51:14Z"
+        },
+        {
+            "author": "Likhitha R L",
+            "message": "INJICERT-213\n\nSigned-off-by: Likhitha R L <likhitha.rl@technoforte.co.in>",
+            "date": "2024-10-23T06:19:10Z"
+        },
+        {
+            "author": "Likhitha R L",
+            "message": "INJICERT-213\n\nSigned-off-by: Likhitha R L <likhitha.rl@technoforte.co.in>",
+            "date": "2024-10-23T06:09:04Z"
+        },
+        {
+            "author": "Likhitha R L",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-10-23T06:02:54Z"
+        },
+        {
+            "author": "Likhitha R L",
+            "message": "INJICERT-213\n\nSigned-off-by: Likhitha R L <likhitha.rl@technoforte.co.in>",
+            "date": "2024-10-23T06:02:26Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "mosip-39006- mosipid usecase Negative testcases",
+            "author": "likhitharl",
+            "date": "2025-02-06T13:15:35Z"
+        },
+        {
+            "title": "[INJICERT-248] move well known out of properties file to JSON",
+            "author": "vharsh",
+            "date": "2025-01-31T05:26:39Z"
+        },
+        {
+            "title": "[INJICERT-331] Added null check test for credential in vc signer",
+            "author": "Piyush7034",
+            "date": "2025-01-09T09:05:45Z"
+        },
+        {
+            "title": "[MOSIP-37071] updating vulnerable libraries",
+            "author": "rajapandi1234",
+            "date": "2024-11-05T09:57:49Z"
+        },
+        {
+            "title": "Update push-trigger.yml",
+            "author": "rajapandi1234",
+            "date": "2024-10-24T05:10:26Z"
+        },
+        {
+            "title": "Bump org.bitbucket.b_c:jose4j from 0.6.5 to 0.9.4",
+            "author": "dependabot[bot]",
+            "date": "2024-08-22T07:30:57Z"
+        },
+        {
+            "title": "[INJICERT-248] Simplify configuration of the well-known config (#49)",
+            "author": "vharsh",
+            "date": "2024-08-08T14:12:06Z"
+        },
+        {
+            "title": "Update README.md",
+            "author": "likhitharl",
+            "date": "2024-06-11T08:54:23Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[C4GT Community]: Implementation of a Revocation Feature in Inji Certify for Verifiable Credentials",
+            "author": "sanchi-singh24",
+            "date": "2025-01-22T22:48:24Z"
+        },
+        {
+            "title": "Container exiting on docter-compose setup",
+            "author": "shivankar-p",
+            "date": "2024-10-30T10:20:59Z"
+        },
+        {
+            "title": "Steps to create private key from OIDC client ",
+            "author": "abdurrahmaan12",
+            "date": "2024-10-01T07:22:43Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "KiruthikaJeyashankar",
+            "comment": "No comment provided",
+            "date": "2025-02-03T14:49:41Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2025-02-04T04:47:30Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2025-02-05T11:10:44Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2024-11-13T05:30:09Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-08-12T07:17:32Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2024-08-12T09:01:54Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2024-08-12T09:09:29Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2024-08-12T09:10:55Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2024-08-12T09:58:04Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2024-08-13T08:30:42Z"
+        },
+        {
+            "author": "vharsh",
+            "comment": "No comment provided",
+            "date": "2024-08-13T09:12:09Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-08-14T06:26:44Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-08-14T06:31:12Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-08-14T06:39:22Z"
+        },
+        {
+            "author": "challabeehyv",
+            "comment": "No comment provided",
+            "date": "2024-06-11T09:09:41Z"
+        },
+        {
+            "author": "likhitharl",
+            "comment": "No comment provided",
+            "date": "2024-06-11T09:46:39Z"
+        },
+        {
+            "author": "challabeehyv",
+            "comment": "No comment provided",
+            "date": "2024-06-11T09:55:39Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "No comment provided",
+            "date": "2024-06-11T15:46:09Z"
+        }
+    ]
+}

@@ -1,0 +1,520 @@
+{
+    "repository": "mosip/partner-management-portal",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#267)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-04-04T14:43:27Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #266 from dhanendra06/patch-4\n\nUpdate pom version for pmp-ui",
+            "date": "2024-04-01T09:57:44Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "Update pom.xml\n\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>",
+            "date": "2024-04-01T09:52:18Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Corrected the file name and fixed build failure of material keyboard module (#265)\n\nSigned-off-by: Aravindhan Alagesan <aravindh2090@gmail.com>",
+            "date": "2024-04-01T07:39:25Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #261 from jayesh12234/release-1.2.0.1\n\nMOSIP-32098",
+            "date": "2024-03-26T12:40:01Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-32098\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-03-26T12:31:06Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #259 from GOKULRAJ136/patch-7\n\nMOSIP-32095 : Added id for policy group values",
+            "date": "2024-03-26T10:16:57Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #258 from jayesh12234/release-1.2.0.1\n\nMOSIP-32098",
+            "date": "2024-03-26T10:10:33Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "Update dialog.component.html\n\nSigned-off-by: Gokulraj C <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-03-26T10:09:50Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-32098\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-03-26T10:04:06Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #252 from GOKULRAJ136/release-new\n\nMOSIP-32060 : Added id for policy group values",
+            "date": "2024-03-21T09:38:49Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "added id for policy group values\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-03-21T08:12:44Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #251 from balaji-alluru/patch-1\n\n[MOSIP-26354]Update mater-data-common-body.component.ts",
+            "date": "2024-03-20T13:42:10Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "Update mater-data-common-body.component.ts\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-03-20T13:26:03Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #246 from GOKULRAJ136/pmp-release\n\nRevert \"MOSIP-26354 : PMP UI: All active policies should be display in Policy group dropdown\"",
+            "date": "2024-03-15T04:42:53Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Revert \"MOSIP-26354 : PMP UI: All active policies should be display in Policy group dropdown\"\n\nThis reverts commit 035e48639ba20bd32007758816ace396dcb6dc10.\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-03-14T14:09:19Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#234)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T16:02:09Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "[MOSIP-31766] Updated pom version for pmp-ui (#233)\n\n* [MOSIP-31766] Updated pom version for pmp-ui\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>\r\n\r\n* Updated pom version\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>",
+            "date": "2024-03-05T11:11:40Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #228 from GOKULRAJ136/patch-3\n\nMOSIP-23977 : Added maxLength validations",
+            "date": "2024-02-21T09:35:06Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "Update sbi-detail.json\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-21T07:39:30Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "Update sbi-detail.json\n\nSigned-off-by: Gokulraj C <110164849+GOKULRAJ136@users.noreply.github.com>\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-21T07:38:36Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #214 from GOKULRAJ136/pmp-release2\n\nMOSIP-29247 : PMP UI: All active partners should be displayed in \"Partner Name\" dropdown for partner policy mapping",
+            "date": "2024-02-13T11:10:21Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #216 from GOKULRAJ136/pmp-release3\n\nMOSIP-23977 : PMS UI: Need proper UI level validations for length limit as per DB",
+            "date": "2024-02-13T11:09:24Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #213 from GOKULRAJ136/pmp-release\n\nMOSIP-27422 : PMP UI: All active policies should be display in Policy group dropdown",
+            "date": "2024-02-13T11:08:41Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #226 from GOKULRAJ136/patch-id\n\nMOSIP-31562, MOSIP-31565, MOSIP-31586, MOSIP-31587 : Added id for the components",
+            "date": "2024-02-13T11:06:44Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "added id for the components\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-13T10:39:37Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #224 from jayesh12234/release-1.2.0.1\n\nMOSIP-31551",
+            "date": "2024-02-12T12:27:40Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-31551\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-02-12T11:34:26Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #220 from syedsalman3753/release-1.2.0.1\n\n[MOSIP-31031] Added method to fetch docker hash ID",
+            "date": "2024-02-12T05:20:33Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #221 from GOKULRAJ136/patch-1\n\nMOSIP-31310, MOSIP-31318, MOSIP-31369 : Added id for the dialog components",
+            "date": "2024-02-08T13:47:50Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "added id for the dialog components \n\nSigned-off-by: Gokulraj C <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-08T13:19:12Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-31031] Added method to fetch docker hash ID\n\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-01-30T14:33:49Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #219 from syedsalman3753/DSD-4498\n\n[DSD-4498] Updated push-trigger.yml to build pmptest",
+            "date": "2024-02-08T11:24:33Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[DSD-4498] Updated push-trigger.yml to build pmptest\n\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-02-08T11:11:51Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #217 from jayesh12234/release-1.2.0.1\n\nMOSIP-31497",
+            "date": "2024-02-08T08:42:46Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-31497\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-02-07T08:00:30Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-31497\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-02-07T06:25:01Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Adding maxLength validations\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-06T05:09:30Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Added search option in partner name\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-05T11:14:20Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "MOSIP-26354 : PMP UI: All active policies should be display in Policy group dropdown\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-05T11:07:41Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "config changes\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-02-05T07:05:28Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #208 from GOKULRAJ136/patch-release\n\nMOSIP-31310 : Added id for the dialog components",
+            "date": "2024-01-29T12:17:52Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "added id for the dialog components\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-01-29T12:01:52Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #206 from GOKULRAJ136/patch-release\n\nMOSIP-23088 : Added AUTH_ERROR_CODE for authorization security purposes",
+            "date": "2024-01-25T07:16:14Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "MOSIP-23088 : Added AUTH_ERROR_CODE for authorization security purposes\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-01-08T05:40:04Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #205 from GOKULRAJ136/patch-release\n\nMOSIP-17034",
+            "date": "2024-01-25T05:08:03Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "MOSIP-17034\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-03-13T21:18:33Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #193 from GOKULRAJ136/release-1.2.0.1\n\nMOSIP-22042: Updated the error messages in i18n files",
+            "date": "2024-01-05T09:42:18Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #194 from GOKULRAJ136/relase-home\n\nMOSIP-29877 : Added search option in policy group, In pmp ui home page",
+            "date": "2024-01-05T09:41:54Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #195 from GOKULRAJ136/release-cert\n\nMOSIP-29846, MOSIP-29847, MOSIP-29863, MOSIP-29864, MOSIP-29865, MOSIP-29866, MOSIP-30050, MOSIP-30051, MOSIP-30289, MOSIP-30290: Updated the partner domain & change the upload file format in upload ca certificate",
+            "date": "2024-01-05T09:41:17Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": " Updated the partner domain & change the upload file format in upload ca certificate\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-10-20T12:49:53Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "MOSIP-22042: Updated the error messages in i18n files\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-10-20T11:19:00Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "\"Enabled AutoComplete in Policy Group\"\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-10-20T12:41:41Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "MOSIP-22042: Updated the error messages in i18n files\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-10-20T11:19:00Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "MOSIP-22042: Updated the error messages in i18n files\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-10-20T11:19:00Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #148 from Rakshithb1/release-1.2.0.1\n\n[DSD-3108]Updated README.md",
+            "date": "2023-08-01T16:45:41Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[DSD-3108]Updated README.md\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-08-01T15:59:19Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #91 from Mahesh-Binayak/1.2.0.1\n\nMade changes to node version.",
+            "date": "2023-06-22T06:11:22Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #142 from mosip/ckm007-patch-1\n\nUpdate README.md",
+            "date": "2023-06-21T14:25:07Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-21T12:30:46Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20028] added action for tagging",
+            "date": "2022-07-18T06:13:05Z"
+        },
+        {
+            "author": "Nagarjuna K",
+            "message": "Merge pull request #107 from balaji-alluru/release-1.2.0.1\n\nMOSIP-21007 : Updated logout service",
+            "date": "2022-06-10T09:42:50Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "MOSIP-21007 : Updated logout service",
+            "date": "2022-06-10T09:37:40Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #106 from syedsalman3753/patch-1\n\nUpdate push_trigger.yml",
+            "date": "2022-06-08T10:27:56Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "Update push_trigger.yml",
+            "date": "2022-06-08T10:21:10Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #94 from mosip/develop\n\nRemoved the cookie state set from UI",
+            "date": "2022-04-01T05:57:09Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #93 from aranaravi/develop\n\nSending the state in queryaram",
+            "date": "2022-03-31T12:46:32Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Sending the state in queryaram",
+            "date": "2022-03-31T12:45:23Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #92 from aranaravi/develop\n\nSending the state in queryaram",
+            "date": "2022-03-31T12:31:03Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Sending the state in queryaram",
+            "date": "2022-03-31T12:29:53Z"
+        },
+        {
+            "author": "Mahesh.Binayak",
+            "message": "Made changes to node version.",
+            "date": "2022-03-17T12:23:57Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #89 from aranaravi/develop\n\nlanguage code not sent after policy group mapping is fixed",
+            "date": "2022-03-17T05:24:23Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "language code not sent after policygroup mapping is fixed",
+            "date": "2022-03-17T05:22:54Z"
+        },
+        {
+            "author": "Nagarjuna K",
+            "message": "Update push_trigger.yml\n\nAdded 1.2.* to push trigger",
+            "date": "2022-03-14T12:02:01Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #88 from aranaravi/develop\n\nchanges related to ftm page and partner policy mapping reject option \u2026",
+            "date": "2022-03-08T08:06:00Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "changes related to ftm page and partner policy mapping reject option disabled",
+            "date": "2022-03-08T07:50:24Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #87 from aranaravi/develop\n\nRemoved hardcoded language code",
+            "date": "2022-03-07T07:08:42Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Removed hardcoded language code",
+            "date": "2022-03-07T07:07:14Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #85 from aranaravi/develop\n\nChanges related to sprint",
+            "date": "2022-03-02T05:24:05Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Changes related to sprint",
+            "date": "2022-03-02T05:12:55Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #69 from aranaravi/develop\n\nSending the langCode for usernotification during the partner registra\u2026",
+            "date": "2022-01-11T06:52:24Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Sending the langCode for usernotification during the partner registration",
+            "date": "2022-01-11T06:49:01Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #68 from syed-salman-technoforte/develop\n\nadded new gpg keys",
+            "date": "2022-01-10T06:17:16Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "added new gpg keys",
+            "date": "2022-01-10T05:36:39Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #66 from aranaravi/develop\n\nRemoved the hardcoded language code",
+            "date": "2022-01-07T12:19:06Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Removed the hardcoded language code",
+            "date": "2022-01-07T12:12:05Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #64 from aranaravi/develop\n\nAdded new icon and modified the logic for partner admin action",
+            "date": "2022-01-07T10:07:13Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Added new icon and modified the logic for partner admin action",
+            "date": "2022-01-07T10:05:27Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #63 from aranaravi/develop\n\nFixed label in sbi page and label not pointing based on logged in lan\u2026",
+            "date": "2022-01-06T11:47:07Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Fixed label in sbi page and label not pointing based on logged in language is fixed",
+            "date": "2022-01-06T11:41:19Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #62 from aranaravi/develop\n\nSending the policygroupname along with policyid",
+            "date": "2022-01-06T09:17:59Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Sending the policygroupname along with policyid",
+            "date": "2022-01-06T09:16:19Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #61 from aranaravi/develop\n\nModified the partner policy mapping page  and device details",
+            "date": "2022-01-04T12:27:48Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Modified the partner policy mapping page  and device details",
+            "date": "2022-01-04T12:21:51Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #60 from aranaravi/develop\n\nAdding cancel button on the confirmation popip upon manage policy",
+            "date": "2021-12-23T09:45:32Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Adding cancel button on the confirmation popip upon manage policy",
+            "date": "2021-12-23T09:38:26Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #57 from aranaravi/develop\n\nMessage related changes and permission issue fixed",
+            "date": "2021-12-21T06:34:29Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Message related changes and permission issue fixed",
+            "date": "2021-12-21T06:31:17Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #56 from aranaravi/develop\n\nChanges related menubar permission and scrollbar for pagination",
+            "date": "2021-12-20T04:22:03Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Changes related menubar permission and scrollbar for pagination",
+            "date": "2021-12-20T04:20:04Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-36036: Refactored & Rectified the Code Duplication in UI.",
+            "author": "Anil-kumar-Majji",
+            "date": "2025-02-04T06:38:10Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Obscured API Key",
+            "author": "andrew-musoke",
+            "date": "2022-06-25T18:40:11Z"
+        }
+    ],
+    "reviews": []
+}

@@ -1,0 +1,114 @@
+{
+    "repository": "mosip/mosip",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #7 from mosip/gsasikumar-patch-1\n\nFixing the links",
+            "date": "2024-08-26T06:42:55Z"
+        },
+        {
+            "author": "Sasikumar Ganesan",
+            "message": "Fixing the links\n\nSigned-off-by: Sasikumar Ganesan <gsasikumar@gmail.com>",
+            "date": "2024-08-26T06:27:31Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Corrected the MOSIP youtube channel link\n\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-08-23T16:32:05Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Corrected the community contributation link to point to 1.2.0 docs (#6)\n\n* Corrected the community contribution link to point to 1.2.0 docs\r\n\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>\r\n\r\n* Corrected latest release details\r\n\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-08-23T16:24:47Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #2 from SwatiPeriwal/master\n\nUpdated Release content",
+            "date": "2022-04-13T01:35:38Z"
+        },
+        {
+            "author": "hosurkrishnan",
+            "message": "Update README.md\n\nRemoved group.io and added Discourse URL",
+            "date": "2022-03-24T14:43:28Z"
+        },
+        {
+            "author": "SwatiPeriwal",
+            "message": "Update README.md",
+            "date": "2022-03-02T07:02:09Z"
+        },
+        {
+            "author": "SwatiPeriwal",
+            "message": "updated the release info",
+            "date": "2022-03-02T06:21:47Z"
+        },
+        {
+            "author": "hosurkrishnan",
+            "message": "Update README.md",
+            "date": "2020-11-01T10:34:30Z"
+        },
+        {
+            "author": "hosurkrishnan",
+            "message": "Update README.md",
+            "date": "2020-11-01T10:33:56Z"
+        },
+        {
+            "author": "hosurkrishnan",
+            "message": "Update README.md",
+            "date": "2020-11-01T10:30:06Z"
+        },
+        {
+            "author": "Puneet Joshi",
+            "message": "Update README.md",
+            "date": "2020-10-10T07:10:13Z"
+        },
+        {
+            "author": "Puneet Joshi",
+            "message": "Update README.md",
+            "date": "2020-08-28T05:03:57Z"
+        },
+        {
+            "author": "hosurkrishnan",
+            "message": "Update README.md",
+            "date": "2020-08-27T17:02:17Z"
+        },
+        {
+            "author": "Puneet Joshi",
+            "message": "Update README.md",
+            "date": "2020-08-27T15:39:22Z"
+        },
+        {
+            "author": "Puneet Joshi",
+            "message": "Update README.md",
+            "date": "2020-08-27T15:37:24Z"
+        },
+        {
+            "author": "Puneet Joshi",
+            "message": "Update README.md",
+            "date": "2020-08-27T06:32:34Z"
+        },
+        {
+            "author": "hosurkrishnan",
+            "message": "Update README.md",
+            "date": "2020-08-27T06:02:24Z"
+        },
+        {
+            "author": "hosurkrishnan",
+            "message": "Initial commit",
+            "date": "2020-08-27T05:50:14Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Changes on MOSIP GitHub homepage",
+            "author": "rohitrrai",
+            "date": "2024-08-29T08:04:19Z"
+        },
+        {
+            "title": "Update README.md",
+            "author": "doczkal",
+            "date": "2021-05-14T09:19:17Z"
+        }
+    ],
+    "issues": [],
+    "reviews": []
+}

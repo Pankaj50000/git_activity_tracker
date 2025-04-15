@@ -1,0 +1,540 @@
+{
+    "repository": "mosip/resident-services",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-7170] resident portal 0.9.1 release changes",
+            "date": "2025-01-31T13:10:31Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated chart versions, image and tag for release changes (#1406)\n\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2025-01-31T09:08:30Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1405)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2025-01-31T08:56:04Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-34244 Fixed get pending draft api (#1386)\n\n* MOSIP-34244 Fixed get pending draft api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-34244 Added unit test case\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-34244 Added unit test case\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2025-01-13T11:45:58Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-38488 corrected version (#1376)\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-12-20T04:29:28Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Mosip 37784 Added template cache (#1361)\n\n* MOSIP-37784 Added cache\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-37784 Added cache\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-37784 correcte test case\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-37784 corrected test case\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-11-26T13:16:10Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-37784 Fixed name issue (#1360)\n\n* MOSIP-37784 Fixed name issue\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-37784 Fixed name issue\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-37784 Fixed test case failure\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-37784 Fixed claims issue\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-11-25T08:19:22Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-35260 Update snapshot to last release version (#1359)\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2024-11-22T07:53:49Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1355 from kameshsr/MOSIP-35260-release1\n\nMosip-35260 Fixed claims issue",
+            "date": "2024-11-11T10:49:41Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-35260 Fixed test case failure\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-11-07T08:17:20Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-35260 Fixed test case failure\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-11-07T07:30:23Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-35260 Fixed claims issue\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-11-06T12:20:11Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-35260 Added debug log\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-11-06T12:03:54Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1328 from kameshsr/RCF-990\n\nRCF-990 Fixed handles issue",
+            "date": "2024-09-20T06:16:03Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "RCF-990 Fixed handles issue\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-09-19T10:08:59Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[MOSIP-34233] (#1297)\n\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-18T12:05:47Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1293 from ckm007/release-1.2.1.x\n\n[MOSIP-34233]",
+            "date": "2024-07-18T07:27:01Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-34233] added helm lint and publish workflow\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-17T17:28:27Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-34233] updated helm chart version for resident service installation\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-17T17:27:37Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-34233] correct helm chart version for resident service\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-17T17:23:01Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1258 from Prafulrakhade/release-1.2.1.x\n\n[MOSIP-33380] added helm and install script for resident-services",
+            "date": "2024-05-30T04:17:54Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-33380] added helm and install script for resident-services\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T13:15:13Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-33380] added helm and install script for resident-services\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T12:36:09Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-33380] added helm and install script for resident-services\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T12:28:47Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-33380] added helm and install script for resident-services\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T12:00:02Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#1255)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update README.md\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update README.md\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update README.md\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-23T10:07:54Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-33164 Added api docs (#1254)\n\n* MOSIP-32642 Fixed sonar bug\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-33164 Added api docs\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-05-22T13:44:42Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1253 from mosip/LoganathanSekar7627-patch-4\n\nUpdate links in readme",
+            "date": "2024-05-22T13:16:47Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Updated Badge\n\nSigned-off-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>",
+            "date": "2024-05-22T13:05:29Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Update links\n\nSigned-off-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>",
+            "date": "2024-05-22T05:14:08Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-32642 Fixed sonar bug (#1243)\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-25T11:32:14Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-32403 Added upgrade and rollback files (#1240)\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-23T12:16:02Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-29473 Remove all from dynamic field endpoint (#1239)\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-23T09:19:19Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-32403 Move develop code to release 121x (#1236)\n\n* MOSIP-32403 Move develop code to release 121x\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32403 Corrected version\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32403 Corrected version\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-17T15:18:57Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1217 from Mohanraj209/release-1.2.0.1\n\n[MOSIP-31951] Updated upgrade.sh",
+            "date": "2024-03-19T08:54:07Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-31951] Updated upgrade.sh\n\nSigned-off-by: Mohan E <mohanraj1715@gmail.com>",
+            "date": "2024-03-19T08:34:14Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-31951] Updated 1.1.5.5_to_1.2.0.1-B1_upgrade.sql (#1207)\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-03-13T13:49:20Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1206)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T10:31:21Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1204 from kameshsr/MOSIP-31769\n\nMOSIP-31769 MOSIP-31759 Updated pom version to 1.2.0.1-SNAPSHOT",
+            "date": "2024-02-28T04:27:50Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-31766 Updated ossrh snapshot url in push-trigger.yml file\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-02-27T11:48:57Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-31759 Rename upgrade script\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-02-27T10:28:42Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-31769 Added db script\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-02-27T08:40:06Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-31769 Updated pom version to 1.2.0.1-SNAPSHOT\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-02-27T08:24:25Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[MOSIP-23833] restructered upgrade scripts (#914)\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-31T06:30:38Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[MOSIP-31202] updated sql file names (#1195)\n\n* Rename 1.2.0.1-B2_to_1.2.0.1_rollback.sql to 1.2.0.1-B2_to_1.2.0.1-B3_rollback.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Rename 1.2.0.1-B2_to_1.2.0.1_upgrade.sql to 1.2.0.1-B2_to_1.2.0.1-B3_upgrade.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-17T12:55:28Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-31109 Fixed error code for generate vid old api (#1193)\n\n* MOSIP-31109 Fixed error code for generate vid old api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-31109 Fixed error code for generate vid old api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-01-16T06:27:35Z"
+        },
+        {
+            "author": "Rakshith B",
+            "message": "[MOSIP-29961] removed paths from  db-test.yml (#1189)\n\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2024-01-02T12:18:33Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] updated pom version (#1187)\n\n* [DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] pom version updated\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-21T12:55:27Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#1184)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-12-21T12:08:56Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file (#1181)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-21T12:07:51Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-29918] addd db-test.yml and updated resident_grievance_ticket.sql  (#1160)\n\n* [MOSIP-29918] added db-test.yml\r\n\r\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>\r\n\r\n* [MOSIP-29918] updated resident_grievance_ticket.sql\r\n\r\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>",
+            "date": "2023-11-24T11:18:06Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-29621 Fixed Credential status API issue. (#1114)\n\n* MOSIP-28514 Fixed junit failure.\r\n\r\n* MOSIP-29621 Fixed Credential status API issue.\r\n\r\n* MOSIP-29621 Fixed Credential status API issue.\r\n\r\n* MOSIP-29621 Fixed Credential status API issue.",
+            "date": "2023-09-29T06:00:35Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[MOSIP-29164] Added Secrets to release 1201 branch. (#1108)\n\n* [MOSIP-29164] Added Secrets to release 1201 branch. \r\n\r\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>\r\n\r\n* [MOSIP-29164] Added secrets to release 1201 branch.\r\n\r\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2023-09-24T12:02:10Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[MOSIP-29164] Added Reusable Workflow to release 1201 branch. (#1100)",
+            "date": "2023-09-21T12:25:19Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[MOSIP-28484] Added error handling for deploy.sh script (#1059)\n\nCo-authored-by: akilalakshmanan <Akila.L@iiitb.ac.in>",
+            "date": "2023-08-22T03:30:04Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-28241] Added docker build in push_trigger.yml file (#1004)\n\n* [28241] Added docker build in push_trigger.yml file\r\n\r\n* [MOSIP-28241] Added docker build in push_trigger.yml file",
+            "date": "2023-07-31T04:30:52Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-28514 Fixed junit failure. (#1028)",
+            "date": "2023-07-28T06:23:21Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Fixed missing schema name in upgrade sql. (#1014)\n\n* Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\r\n\r\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>\r\n\r\n* Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2023-07-17T08:52:45Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql (#1013)\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2023-07-17T08:38:14Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Fixed alternatePhoneNo camel case issue in upgrade sql. (#1012)\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2023-07-17T08:04:54Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-23518] Update upgrade.sh (#1010)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-17T05:46:43Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-23518] (#1009)\n\n* Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n* Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n* [MOSIP-23518] added new resident db changes\r\n\r\n* [MOSIP-23518] added db user password\r\n\r\n---------\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-17T03:40:37Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Mosip-28232 Added upgrade and rollback sql files. (#1001)\n\n* Mosip-28232 Added upgrade and rollback sql files.\r\n\r\n* MOSIP-28154 Added upgrade.properties and upgrade.sh\r\n\r\n* MOSIP-28154 Removed un necessary files.",
+            "date": "2023-07-12T12:04:02Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-28092 Added upgrade sql file and updated pom. (#995)\n\n* MOSIP-28092 Added upgrade sql file and updated pom.\r\n\r\n* MOSIP-28092 Added upgrade sql file and updated pom.",
+            "date": "2023-07-07T11:48:32Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-23218] Updated Pom.xml versions. (#978)",
+            "date": "2023-06-21T14:12:01Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md (#976)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-21T10:30:28Z"
+        },
+        {
+            "author": "RitikJain4108",
+            "message": "removed pre-reg dependency (#877)\n\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>",
+            "date": "2023-04-14T14:51:08Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-2478] corrected pom versio (#876)",
+            "date": "2023-04-14T13:33:23Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-2478] updated pom version (#875)",
+            "date": "2023-04-14T13:17:00Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[DSD-2478] pom version changes (#874)",
+            "date": "2023-04-14T12:59:42Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Release changes (#873)\n\n* Release Bot Pre-release changes\r\n\r\n* Update README.md\r\n\r\n---------\r\n\r\nCo-authored-by: Mohanraj209 <Mohanraj209@users.noreply.github.com>\r\nCo-authored-by: Mohan E <mohanraj1715@gmail.com>",
+            "date": "2023-04-14T12:42:27Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Release changes (#872)\n\n* Release Bot Pre-release changes\r\n\r\n* Update README.md\r\n\r\n---------\r\n\r\nCo-authored-by: Mohanraj209 <Mohanraj209@users.noreply.github.com>\r\nCo-authored-by: Mohan E <mohanraj1715@gmail.com>",
+            "date": "2023-04-14T11:35:41Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Move 1201b2 to release1201 (#843)\n\n* Mosip 21674 api to get aid status 1 (#370)\r\n\r\n* Fix junit test\r\n\r\n* Added APIs to send otp and get aid status\r\n\r\n* Test fix\r\n\r\n* Added scope based auth for apis (#371)\r\n\r\n* Added scope based auth for apis\r\n\r\n* Test fix\r\n\r\n* Test fix\r\n\r\n* Test fix\r\n\r\n* Test fix\r\n\r\n* Ignoring failing tests temporarily\r\n\r\n* [MOSIP-21170] Added entry to resident txn table and updated test cases (#373)\r\n\r\n* [MOSIP-21170] updated test cases\r\n\r\n* [MOSIP-21170] Updated test cases\r\n\r\n* [MOSIP-21170] updated test cases\r\n\r\n* [MOSIP-21170] updated test cases\r\n\r\n* Mosip:20406 Added junit for callback controller. (#369)\r\n\r\n* fixed one sonar reliability bug (#374)\r\n\r\n* fixed one sonar reliability bug\r\n\r\n* added some test cases for proxy service classes\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Fix to conditionally set face in identity attributes (#375)\r\n\r\n* Fix fetch vid issue 2 (#376)\r\n\r\n* Fix to conditionally set face in identity attributes\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Code coverage and fixes (#378)\r\n\r\n* fixed one sonar reliability bug\r\n\r\n* added some test cases for proxy service classes\r\n\r\n* added junit test cases\r\n\r\n* added junit test cases\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Fix validate token response issue (#379)\r\n\r\n* Fix to conditionally set face in identity attributes\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Fixed validate token response issue\r\n\r\n* Fix validate token response issue 2 (#380)\r\n\r\n* Fix to conditionally set face in identity attributes\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Using resttemplate with ssl verify for plain rest client\r\n\r\n* Fixed validate token response issue\r\n\r\n* Fix null check\r\n\r\n* MOSIP-22272 Add option to get UIN/VID in the auth lock/ unlock request. (#381)\r\n\r\n* MOSIP-22272 Add option to get UIN/VID in the auth lock/ unlock request.\r\n\r\n* MOSIP-22272 Add option to get UIN/VID in the auth lock/ unlock request.\r\n\r\n* MOSIP-22271 Added hash of individualId+partner in database.\r\n\r\n* MOSIP-22271 Changed name of auth-type-lock to auth-type-status.\r\n\r\n* MOSIP-22352 Fixed Invalid channel verification status implementation. (#377)\r\n\r\n* MOSIP-22271 Fixed test case failure. (#383)\r\n\r\n* Handling 401 on get userinfo (#384)\r\n\r\n* MOSIP-22271 Added specific time period to get auth history. (#382)\r\n\r\n* MOSIP-22271 Added specific time period to get auth history.\r\n\r\n* MOSIP-22271 Added ResidentTransactionType enum.\r\n\r\n* MOSIP-22271 Removed transaction id from auth type status.\r\n\r\n* MOSIP-22271 Fixed vid creation exception.\r\n\r\n* MOSIP-22271 Added correct type code in resident transaction table.\r\n\r\n* MOSIP-22271 Added LocalDateTime formatter in fromDateTime and toDateTime.\r\n\r\n* MOSIP-22271 Added junit for pagefetch negative value.\r\n\r\n* MOSIP-22271 Added junit for invalid idType.\r\n\r\n* MOSIP-22271 Added junit for apiresource access exception.\r\n\r\n* MOSIP-22382 - Add ida token validation to revoke vid api (#386)\r\n\r\n* Added validation to check vid to revoke belongs to the individual id in the req/session\r\n\r\n* Test fix\r\n\r\n* Add ida token validation to revoke vid api (#387)\r\n\r\n* Added validation to check vid to revoke belongs to the individual id in the req/session\r\n\r\n* Test fix\r\n\r\n* Added missing dto file\r\n\r\n* Added author\r\n\r\n* MOSIP-20457 View history of service request. (#388)\r\n\r\n* MOSIP-20457 Added columns in resident_transaction.sql.\r\n\r\n* MOSIP-20457 Added support for service history.\r\n\r\n* MOSIP-20457 Added findByToken in repository class.\r\n\r\n* MOSIP-20457 Implemented getServiceHistory method.\r\n\r\n* MOSIP-20457 validated Resident Service type.\r\n\r\n* MOSIP-20457 Corrected Documentation.\r\n\r\n* MOSIP-20457 Added author name for new class.\r\n\r\n* MOSIP-20457 Added Junit for getServiceHistory class.\r\n\r\n* MOSIP-20419 Added /get/service/request/update api.\r\n\r\n* MOSIP-20419 Added /get/service/request/update api.\r\n\r\n* [MOSIP-22140] Updated input vid status to be case insensitive (#392)\r\n\r\n* [MOSIP-22430] updated upload doc to decode the request (#393)\r\n\r\n* [MOSIP-22430] updated upload doc to decode the request\r\n\r\n* [MOSIP-22430] updated test cases\r\n\r\n* MOSIP-20457 Fixed sonar bugs. (#389)\r\n\r\n* MOSIP-20457 Fixed sonar bugs.\r\n\r\n* MOSIP-20457 Fixed sonar bug in EncryptorUtil.\r\n\r\n* MOSIP-20457 Fixed sonar bug in EncryptorUtil.\r\n\r\n* MOSIP-20457 Added PacketEncryptionFailureException.\r\n\r\n* MOSIP-20457 Corrected Encryt exception in utility.\r\n\r\n* Fixed sonar bugs.\r\n\r\n* Update IdSchemaUtil.java\r\n\r\n* MOSIP-20457 Added Junit for BaseWebSubInitializer. (#390)\r\n\r\n* MOSIP-20457 Added Junit for BaseWebSubInitializer.\r\n\r\n* MOSIP-20457 Added Junit for BaseWebSubInitializer.\r\n\r\n* MOSIP-20457 Added Junit for BaseWebSubInitializer.\r\n\r\n* Added test cases\r\n\r\n* Added test cases\r\n\r\n* Modified the code for Sonar Code Coverage#22443 (#396)\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\n\r\n* added scope in get partner api and junits for identity controller (#400)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* added junit for audit controller and fixed minor bug (#401)\r\n\r\n* added scope in get partner api and junits for identity controller\r\n\r\n* added junit for audit-log api and fixed minor bug\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22380 Added request id to Db and improved Code coverage. (#398)\r\n\r\n* MOSIP-22380 Added request id to Db\r\n\r\n* MOSIP-22380  Added testGetServiceHistorySuccess\r\n\r\n* MOSIP-22380  Added testGetServiceRequestUpdateSuccess\r\n\r\n* MOSIP-22380  Corrected variable name to camel case.\r\n\r\n* MOSIP-22380  Added ResidentServiceGetServiceRequestUpdateTest\r\n\r\n* MOSIP-22380  Added ResidentServiceGetServiceRequestUpdateTest\r\n\r\n* MOSIP-22380  Improved Junit of AuthTransactionCallBackServiceImpl.java\r\n\r\n* MOSIP-20419 - Added junit for WebSubUpdateAuthTypeServiceTest.\r\n\r\n* MOSIP-20419 - Added junit for WebSubUpdateAuthTypeServiceTest.\r\n\r\n* MOSIP-20419 - Added junit for Get Service History.\r\n\r\n* MOSIP-20419 - Added junit for testGetServiceRequestPrintCheck.\r\n\r\n* MOSIP-20419 - Improved code coverage for auth lock service.\r\n\r\n* MOSIP-20419 - Improved code coverage for Get Service History.\r\n\r\n* MOSIP-20419 - Improved code coverage for Get Service History.\r\n\r\n* MOSIP-20419 - Improved code coverage for PartnerServiceImpl.java.\r\n\r\n* Fixed 1 sonar bug. (#402)\r\n\r\n* Code chanegs for refactoring scope validator (#403)\r\n\r\n* MOSIP-20419 Added /check-status/aid api. (#397)\r\n\r\n* MOSIP:20419 Added /check-status/aid api.\r\n\r\n* MOSIP-20419 - Corrected name.\r\n\r\n* MOSIP-20419 - Corrected name.\r\n\r\nCo-authored-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>\r\n\r\n* Mosip 21392 api create a mock api implementation for payment provider to check if payment is made to throw http error if not (#406)\r\n\r\n* resolved compilation error\r\n\r\n* created mock api controller\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* [MOSIP-22267] api to invoke credential for customized format (#399)\r\n\r\n* [MOSIP-22267] api to invoke credential for customized format\r\n\r\n* [MOSIP-22267] updated request structure to cred service\r\n\r\n* [MOSIP-22267] added non null check\r\n\r\n* [MOSIP-22267] added non null check\r\n\r\n* [MOSIP-22267] updated controller and test case\r\n\r\n* added api for ordering a physical card with junit test cases (#407)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Audit log fixes (#408)\r\n\r\n* Code chanegs for refactoring scope validator\r\n\r\n* Corrections to audit logs\r\n\r\n* minor change in api path (#409)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Audit log fixes (#410)\r\n\r\n* Code chanegs for refactoring scope validator\r\n\r\n* Corrections to audit logs\r\n\r\n* Removed /authTransaction api and Auth transaction table. (#405)\r\n\r\n* Removed /authTransaction api\r\n\r\n* Removed authTransaction table.\r\n\r\nCo-authored-by: Loganathan Sekar <loganathan.sekar@mindtree.com>\r\n\r\n* MOSIP-22275 Added API to download UIN card. (#404)\r\n\r\n* MOSIP-22275 Added MockApiController\r\n\r\n* MOSIP:22275- Added MockController\r\n\r\n* MOSIP:22275- Removed un-necessary api name.\r\n\r\n* MOSIP:22275- Removed un-necessary changes in ResidentCredentialServiceImpl\r\n\r\n* MOSIP:22275- Removed un-necessary changes in ResidentCredentialServiceImpl\r\n\r\n* MOSIP:22275- added /download card api.\r\n\r\n* MOSIP:22275- Added download card url for available status.\r\n\r\n* MOSIP:22275- Fixed test case failure.\r\n\r\n* Text fix\r\n\r\nCo-authored-by: Loganathan Sekar <loganathan.sekar@mindtree.com>\r\n\r\n* corrected some event ids (#412)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Added mock in properties. (#411)\r\n\r\n* Added mock in properties.\r\n\r\n* changed AUTH_TYPE_LOCK_FAILURE error code to IDVID_NOT_MATCH_TO_SESSION\r\n\r\n* MOSIP-22443 Improved code coverage. (#413)\r\n\r\n* MOSIP-22443 Improved code coverage of RequestValidator\r\n\r\n* MOSIP-22443 Added validateIndividualId\r\n\r\n* MOSIP-22443 Added testValidateServiceHistoryRequestDateCheck\r\n\r\n* Develop (#414)\r\n\r\n* Modified the code for Sonar Code Coverage#22443\r\n\r\n* Modified the code for SONAR code coverage for the ticket#22443\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\n\r\n* MOSIP-22443 Added mock in sonar exclusion. (#415)\r\n\r\n* corrected endpoints in api (#420)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22620 Added API /document/{document-id} (#416)\r\n\r\n* MOSIP-22620 Added api /document/{document-id}\r\n\r\n* MOSIP-22620 Added unit test case for get document by doc id.\r\n\r\n* Modified the code for fixing he sonar bugs for tkt#22640 -sonar bugs (#421)\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\n\r\n* MOSIP-22621 Added api to delete document by document id. (#422)\r\n\r\n* Modified the code for fixing the sonar bugs for tkt#22640 sonar bugs (#424)\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\n\r\n* MOSIP-22443 Improved code coverage. (#425)\r\n\r\n* MOSIP-22443 Added testUpdateUinDemographics\r\n\r\n* MOSIP-22443 Added test class for auth lock status.\r\n\r\n* MOSIP-22443 Added test class for download card controller.\r\n\r\n* MOSIP-22443 Added testTryRegisterTopicEvent.\r\n\r\n* MOSIP-22443 Added testInitSubsription.\r\n\r\n* MOSIP-22443 Added testTryRegisterTopicEvent.\r\n\r\n* MOSIP-22443 Added testAuthTransactionSubcription.\r\n\r\n* MOSIP-22443 Improved Code Coverage. (#427)\r\n\r\n* MOSIP-22443 Added testValidateAuthLockOrUnlockRequestV2.\r\n\r\n* MOSIP-22443 Added testValidateAuthLockOrUnlockRequestV2EmptyAuthType.\r\n\r\n* MOSIP-22443 Added testValidateAuthLockOrUnlockRequestV2EmptyAuthTypeV2.\r\n\r\n* MOSIP-22443 Added testValidateAuthLockOrUnlockRequestSuccess\r\n\r\n* MOSIP-22443 Added testValidateEuinRequestSuccess\r\n\r\n* MOSIP-22443 Added testEmailValidator\r\n\r\n* MOSIP-22443 Added testValidateAuthHistoryRequestSuccess\r\n\r\n* MOSIP-22443 Improved code coverage of request validator.\r\n\r\n* MOSIP-22443 Improved code coverage of request validator.\r\n\r\n* Mosip 22642 corrections required in api end points or response request body (#429)\r\n\r\n* corrected endpoints in api\r\n\r\n* exception error code & message fixed...\r\n\r\n* fixed one test case\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22443 Improved code coverage . (#428)\r\n\r\n* MOSIP-22443 Improved code coverage of ResidentConfigServiceImpl.\r\n\r\n* MOSIP-22443 Corrected control type value.\r\n\r\n* MOSIP-22443 Improved code coverage of IdentityService.\r\n\r\n* Fixed Sonar Bug. (#430)\r\n\r\n* MOSIP-22889 Added columns in Resident_transaction. (#432)\r\n\r\n* MOSIP-22889 Added columns in Resident_transaction.\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Update ResidentTransactionEntity.java\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Update ResidentTransactionEntity.java\r\n\r\n* Updated the attributes\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Updated entity class\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Update resident_transaction.sql\r\n\r\n* Update resident_transaction.sql\r\n\r\nCo-authored-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>\r\n\r\n* Removed individual id from auth lock api (#433)\r\n\r\n* fixed vulnearable bug (#431)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22272 Refactor code. (#435)\r\n\r\n* MOSIP-23018-fixed unlock for seconds validation (#437)\r\n\r\n* MOSIP-23018-fixed unlock for seconds validation\r\n\r\n* Test fix\r\n\r\n* Test fix\r\n\r\n* created api to get the templates from masterdata (#436)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Fix txn save issue in auth lock api 1 (#439)\r\n\r\n* Disable insert into table\r\n\r\n* Disable insert into table\r\n\r\n* Temp fix for db store issue (#440)\r\n\r\n* MOSIP-22272 Added event_id as primary key.  (#441)\r\n\r\n* Added event_id as primary key.\r\n\r\n* Added event_id as primary key.\r\n\r\n* fix to authTypes validation (#442)\r\n\r\n* Update AuthTransactionCallbackServiceTest.java (#443)\r\n\r\n* error code fixes (#446)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22878  Updated existing getServiceHistory API. (#444)\r\n\r\n* MOSIP-22878 Added Sub-type in get service history api.\r\n\r\n* Mosip-22878 queried pinnedstatus to top in getServiceHistory Api.\r\n\r\n* Mosip-22878 Updated getServiceHistory API.\r\n\r\n* Mosip-22878 Fixed test case failure.\r\n\r\n* Mosip-22878 Added logic of find by token without service type.\r\n\r\n* Mosip-22878 Added requestTypeCode in /service-history API.\r\n\r\n* Mosip-22878 Added Request type .\r\n\r\n* Mosip-22878 Added pageDto in response .\r\n\r\n* Mosip-22878 Added pageDto in response .\r\n\r\n* Mosip-22878 Added page details in response .\r\n\r\n* Mosip-22878 Added author to new classes.\r\n\r\n* Mosip-22878 return empty map instead of null.\r\n\r\n* Mosip-22878 remove un-necessary comments.\r\n\r\n* Mosip-22878 Refactor code.\r\n\r\n* Mosip 22642 corrections required in api end points or response request body (#445)\r\n\r\n* added authentication to audit api and made some corrections\r\n\r\n* changed event id, name, type to auditEvent id,name,type\r\n\r\n* fixed junit test cases\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-21376 Update existing api checkAIDStatus (#449)\r\n\r\n* Mosip-21376 Added check event status api.\r\n\r\n* MOSIP-21376 Added proper error code and validation.\r\n\r\n* MOSIP-21376 Implemented service class of check event status.\r\n\r\n* MOSIP-21376 Fixed test case failure.\r\n\r\n* MOSIP-21376 Fixed test case failure.\r\n\r\n* MOSIP-21376 Added ResidentServiceGetEventStatusTest.\r\n\r\n* MOSIP-21376 Added TemplateUtilTest.\r\n\r\n* MOSIP-21376 Fixed code as per review comments.\r\n\r\n* MOSIP-21376 Added containsStatus method to EventStatusFailure.\r\n\r\n* MOSIP-21376 Fix Test case Failure for EventStatusFailure.\r\n\r\n* MOSIP-21376 Fix Test case Failure for TemplateUtilTest.\r\n\r\n* MOSIP-21376 Added correct values.\r\n\r\n* MOSIP-21376 Added @author in new class.\r\n\r\n* MOSIP-21376 Changed code as per review.\r\n\r\n* MOSIP-21376 Fixed sonar bugs. (#451)\r\n\r\n* [MOSIP-23063] Added proxy for idrepo identity update count api (#450)\r\n\r\n* [MOSIP-23063] Added proxy for idrepo identity update count api\r\n\r\n* [MOSIP-23063] Updated test cases\r\n\r\n* Revert \"[MOSIP-23063] Added proxy for idrepo identity update count api (#450)\" (#452)\r\n\r\nThis reverts commit 7187f8b838360230eedc2131c0d4a9b6f8dcb4c1.\r\n\r\n* added status_code for each features and made fix in ResidentTransactionEntity... (#453)\r\n\r\n* added status_code for each features and made fix in ResidentTransactionEntity\r\n\r\n* fix build failure\r\n\r\n* updated dependency version\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* 22878 update existing api /service-history. (#455)\r\n\r\n* MOSIP-22878 Implemented search and status Filter.\r\n\r\n* MOSIP-22878 Fixed unit test case Failure.\r\n\r\n* MOSIP-22878 Added Junit for service-history api.\r\n\r\n* MOSIP-22878 Added Junit for service-history api.\r\n\r\n* MOSIP-22878 Fixed pagination issue. (#461)\r\n\r\n* MOSIP-22878 Fixed test case failure. (#462)\r\n\r\n* MOSIP-22878 Fixed pagination issue.\r\n\r\n* MOSIP-22878 Fixed test case failure.\r\n\r\n* MOSIP-22878 Fixed pagination issue. (#463)\r\n\r\n* [MOSIP-23063] Added proxy for idrepo identity update count api (#457)\r\n\r\n* [MOSIP-23063] Added proxy for idrepo identity update count api\r\n\r\n* [MOSIP-23063] Updated test cases\r\n\r\n* [MOSIP-23063] updated test cases\r\n\r\n* MOSIP-22897 added user_action table. (#464)\r\n\r\n* Mosip 22854 tech story add entries to the resident transaction table for the required apis (#465)\r\n\r\n* added status_code for each features and made fix in ResidentTransactionEntity\r\n\r\n* fix build failure\r\n\r\n* updated dependency version\r\n\r\n* create entities to add entries in db for various features\r\n\r\n* fixed ida token issue\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22878 Fixed pagination issue. (#466)\r\n\r\n* MOSIP-22878 Fixed pagination issue.\r\n\r\n* MOSIP-22878 Fixed pagination issue\r\n\r\n* Created the API 22892,22899,22893,22898 (#467)\r\n\r\n* Created API for the following  story number --22892,22899,22893,22898\r\n\r\n* property added in Junit property file\r\n\r\nCo-authored-by: M1092365 <M1092365@MT-DPQ7NM3>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Quick fixes (#468)\r\n\r\n* fixes in auth type and auth sub type\r\n\r\n* fixed auth-lock-unlock-issue\r\n\r\n* fixed test case\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* PreAuthorization added (#471)\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* fixes in authCallBack service (#470)\r\n\r\n* fixes in auth type and auth sub type\r\n\r\n* fixed auth-lock-unlock-issue\r\n\r\n* fixed test case\r\n\r\n* fixed auth-callback entries\r\n\r\n* fixed test failure\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* fix dsl automation failures. (#473)\r\n\r\n* fix dsl automation failures.\r\n\r\n* changed code as per review comment.\r\n\r\n* Fix test case failure. (#476)\r\n\r\n* Fix test case failure. (#477)\r\n\r\n* fix auth status (#472)\r\n\r\n* fix auth status\r\n\r\n* Optimized code.\r\n\r\n* Fix auth status (#478)\r\n\r\n* fix auth status\r\n\r\n* Optimized code.\r\n\r\n* Fixed test case failures.\r\n\r\n* auth-lock-unlock api dsl failure fixed by making auth-types case insensitive (#479)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Dsl failure fixes (#480)\r\n\r\n* auth-lock-unlock api dsl failure fixed by making auth-types case insensitive\r\n\r\n* minor fix\r\n\r\n* fixed authType issue for both apis\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 22890 (#481)\r\n\r\n* [MOSIP-22890] Added credential batch job changes\r\n\r\n* [MOSIP-22890] Batch Job: Added Job to update status and notify\r\n\r\n* [MOSIP-22890] Added batch job to track and update resident transactions\r\n\r\n* Update CredentialUpdateStatus.java\r\n\r\n* Update NotificationTemplateCode.java\r\n\r\n* Test fix\r\n\r\nCo-authored-by: Manoj SP <Manoj.SP@mindtree.com>\r\n\r\n* Mosip 22890 (#482)\r\n\r\n* [MOSIP-22890] Added credential batch job changes\r\n\r\n* [MOSIP-22890] Batch Job: Added Job to update status and notify\r\n\r\n* [MOSIP-22890] Added batch job to track and update resident transactions\r\n\r\n* Update CredentialUpdateStatus.java\r\n\r\n* Update NotificationTemplateCode.java\r\n\r\n* Test fix\r\n\r\n* Fixes\r\n\r\nCo-authored-by: Manoj SP <Manoj.SP@mindtree.com>\r\n\r\n* Mosip 23857 update uin issue (#485)\r\n\r\n* [MOSIP-22890] Added credential batch job changes\r\n\r\n* [MOSIP-22890] Batch Job: Added Job to update status and notify\r\n\r\n* [MOSIP-22890] Added batch job to track and update resident transactions\r\n\r\n* Update CredentialUpdateStatus.java\r\n\r\n* Update NotificationTemplateCode.java\r\n\r\n* Test fix\r\n\r\n* Fixes\r\n\r\n* Skipping getDocuments for existing apis\r\n\r\nCo-authored-by: Manoj SP <Manoj.SP@mindtree.com>\r\n\r\n* MOSIP-22900 Added pinstatus and unpinstatus api. (#484)\r\n\r\n* Quick fixes (#474)\r\n\r\n* fixes in auth type and auth sub type\r\n\r\n* fixed auth-lock-unlock-issue\r\n\r\n* fixed test case\r\n\r\n* fixed auth-callback entries\r\n\r\n* fixed test failure\r\n\r\n* added pre-authorise and some other fixes\r\n\r\n* fixed test failure\r\n\r\n* change in api url\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* fixed build failure (#486)\r\n\r\n* fixes in auth type and auth sub type\r\n\r\n* fixed auth-lock-unlock-issue\r\n\r\n* fixed test case\r\n\r\n* fixed auth-callback entries\r\n\r\n* fixed test failure\r\n\r\n* added pre-authorise and some other fixes\r\n\r\n* fixed test failure\r\n\r\n* change in api url\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22868 Added Acknowledgement api. (#483)\r\n\r\n* Mosip-22868 Added AcknowledgementController.\r\n\r\n* Mosip-22868 Added AcknowledgementService.\r\n\r\n* Mosip-22868 Added AcknowledgementService.\r\n\r\n* Mosip-22868 Added RequestType.java .\r\n\r\n* MOSIP-22868 Added ack controller.\r\n\r\n* MOSIP-22868 Return pdf\r\n\r\n* MOSIP-22868 Return pdf\r\n\r\n* Added auth scopes.\r\n\r\n* Added request type property.\r\n\r\n* Added all property for ack.\r\n\r\n* MOSIP-22868 Added AcknowledgmentControllerTest.\r\n\r\n* MOSIP-22868 Added junit test case.\r\n\r\n* MOSIP-22868 Added junit test case.\r\n\r\n* MOSIP-22868 Added junit test case.\r\n\r\n* MOSIP-22868 Added junit test case.\r\n\r\n* MOSIP-22868 Added junit test case.\r\n\r\n* MOSIP-22900 Added pinstatus and unpinstatus api.\r\n\r\n* MOSIP-22868 Refactor code.\r\n\r\n* MOSIP-22868 Refactor code.\r\n\r\n* MOSIP-23043-API: Share Credential API to accept purpose attribute and (#475)\r\n\r\n* MOSIP-23043-API: Share Credential API to accept purpose attribute and\r\nput it in resident transaction entry\r\n\r\n* MOSIP-22640-Sonar Bugs\r\n\r\n* MOSIP-23043 API: Share Credential API to accept purpose attribute and\r\nput it in resident transaction entry\r\n\r\n* MOSIP-23043 API: Share Credential API to accept purpose attribute and\r\nput it in resident transaction entry\r\n\r\n* MOSIP-23043 API: Share Credential API to accept purpose attribute and\r\nput it in resident transaction entry\r\n\r\n* Minor correction\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\nCo-authored-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>\r\n\r\n* 23547 retrivevid (#487)\r\n\r\n* External griveance added\r\n\r\n* Griveance Page added\r\n\r\n* Bug fix\r\n\r\n* Bug Fixed\r\n\r\nCo-authored-by: M1092365 <M1092365@MT-DPQ7NM3>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* 23547 retrivevid (#488)\r\n\r\n* External griveance added\r\n\r\n* Griveance Page added\r\n\r\n* Bug fix\r\n\r\n* Bug Fixed\r\n\r\n* consent column added\r\n\r\nCo-authored-by: M1092365 <M1092365@MT-DPQ7NM3>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Update NotificationService.java (#490)\r\n\r\n* MOSIP-22855 MOSIP-21151 MOSIP-23445 MOSIP-23443 MOSIP-22900 MOSIP-22878 MOSIP-22621 MOSIP-21170 (#489)\r\n\r\n* MOSIP-22855 Added Transliteration API.\r\n\r\n* MOSIP-21151 Fixed Upload and Download documents api.\r\n\r\n* MOSIP-23445 Added get document by document id and version.\r\n\r\n* MOSIP-21151 Added get document by transactionID id and version.\r\n\r\n* MOSIP-21151 Added validation and unit test for get document by transactionId.\r\n\r\n* MOSIP-21147 Fixed upload document API.\r\n\r\n* MOSIP-23443 Added proper error code to get document api.\r\n\r\n* MOSIP-23443 Corrected error message in get document by doc id.\r\n\r\n* MOSIP-22900 MOSIP-22878 Added pinned Status in service history api response.\r\n\r\n* MOSIP-22621 Fixed api delete document based on document id.\r\n\r\n* MOSIP-21170 Changed response of update-uin.\r\n\r\n* MOSIP-21170 Added @author to new class.\r\n\r\n* Mosip 22874 check email sms messages (#492)\r\n\r\n* created methods to get template type code from properties\r\n\r\n* updated notification service\r\n\r\n* added notification in order card service\r\n\r\n* updated notification for update uin\r\n\r\n* updated notification for auth type lock unlock and websub\r\n\r\n* updated notification for generate and revoke vid\r\n\r\n* updated notification of share credential and download personalised card\r\n\r\n* fixed junit test case failures\r\n\r\n* updated email notification data to multiform data\r\n\r\n* updated template date and time pattern\r\n\r\n* updated test properties\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Consent attribute added for Physical card , share credential and Update UIN API (23507) (#491)\r\n\r\n* External griveance added\r\n\r\n* Griveance Page added\r\n\r\n* Bug fix\r\n\r\n* Bug Fixed\r\n\r\n* consent column added\r\n\r\n* Consent attribute added\r\n\r\n* JUNIT Bug fix\r\n\r\n* Bug fixed\r\n\r\n* null check in consent\r\n\r\n* Changes in ResidentServiceImpl\r\n\r\n* Fixed  formatting\r\n\r\nCo-authored-by: M1092365 <M1092365@MT-DPQ7NM3>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Consent fix (#493)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Consent fix (#494)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Consent fix (#495)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\n* Changes in update-uin API\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Mosip 22857 add api to download different UI schema types (#496)\r\n\r\n* [MOSIP-22890] Added credential batch job changes\r\n\r\n* [MOSIP-22890] Batch Job: Added Job to update status and notify\r\n\r\n* [MOSIP-22890] Added batch job to track and update resident transactions\r\n\r\n* Update CredentialUpdateStatus.java\r\n\r\n* Update NotificationTemplateCode.java\r\n\r\n* Test fix\r\n\r\n* Fixes\r\n\r\n* Skipping getDocuments for existing apis\r\n\r\n* Support to download ui-schema for different types\r\n\r\n* Added caching of ui schema, made config apis as authenticated\r\n\r\n* Test fixes\r\n\r\nCo-authored-by: Manoj SP <Manoj.SP@mindtree.com>\r\n\r\n* Mosip 22857 add api to download different UI schema types 1 (#497)\r\n\r\n* [MOSIP-22890] Added credential batch job changes\r\n\r\n* [MOSIP-22890] Batch Job: Added Job to update status and notify\r\n\r\n* [MOSIP-22890] Added batch job to track and update resident transactions\r\n\r\n* Update CredentialUpdateStatus.java\r\n\r\n* Update NotificationTemplateCode.java\r\n\r\n* Test fix\r\n\r\n* Fixes\r\n\r\n* Skipping getDocuments for existing apis\r\n\r\n* Support to download ui-schema for different types\r\n\r\n* Added caching of ui schema, made config apis as authenticated\r\n\r\n* Test fixes\r\n\r\n* Added missing file\r\n\r\nCo-authored-by: Manoj SP <Manoj.SP@mindtree.com>\r\n\r\n* MOSIP-22861 Added new api /contact-details/send-otp and validate. (#498)\r\n\r\n* MOSIP-22861 Created API /contact-details/send-otp\r\n\r\n* MOSIP-22861 Created API /contact-details/update-data\r\n\r\n* MOSIP-22861 Added validation in request.\r\n\r\n* MOSIP-22861 Added author to newly created classes.\r\n\r\n* MOSIP-22861 Fixed Lgtm analysis error.\r\n\r\n* MOSIP-22861 Removed transaction id. (#499)\r\n\r\n* MOSIP-22861 Created API /contact-details/send-otp\r\n\r\n* MOSIP-22861 Created API /contact-details/update-data\r\n\r\n* MOSIP-22861 Added validation in request.\r\n\r\n* MOSIP-22861 Added author to newly created classes.\r\n\r\n* MOSIP-22861 Fixed Lgtm analysis error.\r\n\r\n* MOSIP-22861 Removed transaction id.\r\n\r\n* corrected end point and response structure (#500)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 23215 corrections required in api end points or response request body 2 (#501)\r\n\r\n* corrected end point and response structure\r\n\r\n* removed duplicate code\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 23215 corrections required in api end points or response request body 2 (#502)\r\n\r\n* corrected end point and response structure\r\n\r\n* removed duplicate code\r\n\r\n* changed response body\r\n\r\n* fixed rollback jpa transaction error\r\n\r\n* fixed the response structure\r\n\r\n* added javadoc and author\r\n\r\n* added javadoc\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Consent fix (#505)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\n* Changes in update-uin API\r\n\r\n* revoke vid Api changes -22463\r\n\r\n* error code changed\r\n\r\n* Junit test fix\r\n\r\n* JUNIT test fix\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Mosip 21170 correct update uin response 1 (#506)\r\n\r\n* Changes to update uin request structure-avoid base64encode\r\n\r\n* Test fix\r\n\r\n* Fixes to logic\r\n\r\n* Mosip 23215 corrections required in api end points or response request body 2 (#504)\r\n\r\n* corrected end point and response structure\r\n\r\n* removed duplicate code\r\n\r\n* changed response body\r\n\r\n* fixed rollback jpa transaction error\r\n\r\n* fixed the response structure\r\n\r\n* added javadoc and author\r\n\r\n* added javadoc\r\n\r\n* quick fix\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 23215 corrections required in api end points or response request body 2 (#507)\r\n\r\n* corrected end point and response structure\r\n\r\n* removed duplicate code\r\n\r\n* changed response body\r\n\r\n* fixed rollback jpa transaction error\r\n\r\n* fixed the response structure\r\n\r\n* added javadoc and author\r\n\r\n* added javadoc\r\n\r\n* quick fix\r\n\r\n* changed purpose to description in response body\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-23769 Removed publish and subscription in callback controller. (#509)\r\n\r\n* Mosip 23215 corrections required in api end points or response request body 2 (#510)\r\n\r\n* corrected end point and response structure\r\n\r\n* removed duplicate code\r\n\r\n* changed response body\r\n\r\n* fixed rollback jpa transaction error\r\n\r\n* fixed the response structure\r\n\r\n* added javadoc and author\r\n\r\n* added javadoc\r\n\r\n* quick fix\r\n\r\n* changed purpose to description in response body\r\n\r\n* fixed the update count proxy api\r\n\r\n* updated the response\r\n\r\n* fixed the response body\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Develop (#512)\r\n\r\n* MOSIP-22865 Add API to download the View History Tables as a PDF\r\n\r\n* MOSIP-22865 modify the code as per the review comments for service\r\nhistory download\r\n\r\n* MOSIP-22865 Add API to download the View History Tables as a PDF\r\n\r\n* MOSIP-22865 modify the code for fixing the LGTM issues\r\n\r\n* Update ResidentController.java\r\n\r\n* Update ResidentController.java\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\n\r\n* MOSIP-23769 Fixed auth type websub issue. (#513)\r\n\r\n* Resolved the MOSIP ticket - 22141 (#514)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\n* Changes in update-uin API\r\n\r\n* revoke vid Api changes -22463\r\n\r\n* error code changed\r\n\r\n* Junit test fix\r\n\r\n* JUNIT test fix\r\n\r\n* Resolved the ticket 22141\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* added br tag for line breaks (#515)\r\n\r\n* added br tag for line breaks\r\n\r\n* updated line breaks - 23967\r\n\r\n* updated br in a constant\r\n\r\n* Mosip 23756 tech story extend the log in end point behaviour to store the last login details to the resident user action table (#517)\r\n\r\n* added aspect class\r\n\r\n* updated the ddl scripts\r\n\r\n* stored details in db\r\n\r\n* updated constants and created mock method\r\n\r\n* updated entity class\r\n\r\n* updated the scripts\r\n\r\n* created contructor for entity\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Bug Fixed  for ticket  MOSIP-24240 & 24239 (#518)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\n* Changes in update-uin API\r\n\r\n* revoke vid Api changes -22463\r\n\r\n* error code changed\r\n\r\n* Junit test fix\r\n\r\n* JUNIT test fix\r\n\r\n* Resolved the ticket 22141\r\n\r\n* Bug fixed\r\n\r\n* changes in ResidentUserRepo\r\n\r\n* method name changed\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Mosip 24273 create a proxy api from masterdata to fill the gender value for a given language (#519)\r\n\r\n* created api for gender types\r\n\r\n* added junit test cases\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 23756 tech story extend the log in end point behaviour to store the last login details to the resident user action table (#520)\r\n\r\n* added aspect class\r\n\r\n* updated the ddl scripts\r\n\r\n* stored details in db\r\n\r\n* updated constants and created mock method\r\n\r\n* updated entity class\r\n\r\n* updated the scripts\r\n\r\n* created contructor for entity\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22890 Batch Job Status Update (#521)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\n* Changes in update-uin API\r\n\r\n* revoke vid Api changes -22463\r\n\r\n* error code changed\r\n\r\n* Junit test fix\r\n\r\n* JUNIT test fix\r\n\r\n* Resolved the ticket 22141\r\n\r\n* Bug fixed\r\n\r\n* changes in ResidentUserRepo\r\n\r\n* method name changed\r\n\r\n* Batchjob task done\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Mosip 23756 tech story extend the log in end point behaviour to store the last login details to the resident user action table (#522)\r\n\r\n* added aspect class\r\n\r\n* updated the ddl scripts\r\n\r\n* stored details in db\r\n\r\n* updated constants and created mock method\r\n\r\n* updated entity class\r\n\r\n* updated the scripts\r\n\r\n* created contructor for entity\r\n\r\n* updated aspect class with log\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22871 API: Add API to convert the List of registration centers\r\nrequest as a downloadable PDF\r\n\r\n* MOSIP-22871 API: Add API to convert the List of registration centers\r\nrequest as a downloadable PDF\r\n\r\n* fixed the response for new UIN\r\n\r\n* removed requestId and metadata from response body\r\n\r\n* Mosip 23756 tech story extend the log in end point behaviour to store the last login details to the resident user action table (#530)\r\n\r\n* added aspect class\r\n\r\n* updated the ddl scripts\r\n\r\n* stored details in db\r\n\r\n* updated constants and created mock method\r\n\r\n* updated entity class\r\n\r\n* updated the scripts\r\n\r\n* created contructor for entity\r\n\r\n* updated aspect class with log\r\n\r\n* added junit test cases\r\n\r\n* minor fixes in aop class\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-23509 Added Api to download card using eventId. (#526)\r\n\r\n* MOSIP-23509 Added download-card/eventId api.\r\n\r\n* MOSIP-23509 Api to download UIN card using eventId.\r\n\r\n* MOSIP-23509 Added EventEnum constant.\r\n\r\n* MOSIP-23509 Junit test case for download card API.\r\n\r\n* MOSIP-23509 Fixed junit test case failure.\r\n\r\n* MOSIP-22275 Removed un-used imports.\r\n\r\n* MOSIP-22275 Changed code as per review comments.\r\n\r\n* MOSIP-22275 Changed code as per review comments.\r\n\r\n* MOSIP-22275 Changed code as per review comments.\r\n\r\n* MOSIP-22275 Added api to download card using uin/vid/aid. (#531)\r\n\r\n* MOSIP-22275 Added api /download-card.\r\n\r\n* MOSIP-22275 Added junit for api /download-card.\r\n\r\n* MOSIP-22275 Added junit for service class of download-card.\r\n\r\n* MOSIP-22275 Removed un-necessary variables.\r\n\r\n* MOSIP-22275 Added j-unit for download card service test.\r\n\r\n* MOSIP-22275 Added author and javadoc for downloadcard api.\r\n\r\n* MOSIP-22866 Updated naming convention of ack api. (#533)\r\n\r\n* MOSIP-22866 Updated naming convention of ack api.\r\n\r\n* MOSIP-22866 Fixed Junit failure.\r\n\r\n* MOSIP-22275 Fixed update-uin api. (#532)\r\n\r\n* MOSIP-22275 Fixed update-uin api.\r\n\r\n* update-uin fix.\r\n\r\n* Fixed update-uin api.\r\n\r\n* Fixed update-uin api.\r\n\r\n* Removed un-necessary exception thrown.\r\n\r\n* Mosip 24268 the service type is incorrect in response body the description should be in logged in language (#529)\r\n\r\n* fixed the response and take description from templates\r\n\r\n* updated request type and serevice type\r\n\r\n* removed duplicate entity stored in db\r\n\r\n* removed duplicate enum\r\n\r\n* fixed according to review comments\r\n\r\n* added All as a service type\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22851 Changes in identity info API (#528)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\n* Changes in update-uin API\r\n\r\n* revoke vid Api changes -22463\r\n\r\n* error code changed\r\n\r\n* Junit test fix\r\n\r\n* JUNIT test fix\r\n\r\n* Resolved the ticket 22141\r\n\r\n* Bug fixed\r\n\r\n* changes in ResidentUserRepo\r\n\r\n* method name changed\r\n\r\n* Batchjob task done\r\n\r\n* Changes in Update identity info api MOSIP-22851\r\n\r\n* Added photo scope in identity info API\r\n\r\n* Changes resolved\r\n\r\n* Update IdentityServiceImpl.java\r\n\r\n* Method removed\r\n\r\n* Changes in Junit\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Mosip 24268 the service type is incorrect in response body the description should be in logged in language (#534)\r\n\r\n* fixed the response and take description from templates\r\n\r\n* updated request type and serevice type\r\n\r\n* removed duplicate entity stored in db\r\n\r\n* removed duplicate enum\r\n\r\n* fixed according to review comments\r\n\r\n* added All as a service type\r\n\r\n* passed request summary\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* fixed jpa rollback exception (#535)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22463 Bug fixed for ticket  (#536)\r\n\r\n* Update the consent part\r\n\r\n* Quick fix\r\n\r\n* Bug fix\r\n\r\n* Changes in update-uin API\r\n\r\n* revoke vid Api changes -22463\r\n\r\n* error code changed\r\n\r\n* Junit test fix\r\n\r\n* JUNIT test fix\r\n\r\n* Resolved the ticket 22141\r\n\r\n* Bug fixed\r\n\r\n* changes in ResidentUserRepo\r\n\r\n* method name changed\r\n\r\n* Batchjob task done\r\n\r\n* Changes in Update identity info api MOSIP-22851\r\n\r\n* Added photo scope in identity info API\r\n\r\n* Changes resolved\r\n\r\n* Update IdentityServiceImpl.java\r\n\r\n* Method removed\r\n\r\n* Changes in Junit\r\n\r\n* Bug fixed for ticket 22463\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* MOSIP-22275 Fixed download-card api otp generation failure. (#537)\r\n\r\n* MOSIP-22275 Fixed download-card api otp generation failure.\r\n\r\n* MOSIP-22275 Fixed download-card api otp generation failure.\r\n\r\n* MOSIP-22275 Fixed unit test case failure.\r\n\r\n* MOSIP-22275 Changed code as per review comments.\r\n\r\n* Mosip 21376 api create check aid status api that gets the details of status for a given aid and return the status (#538)\r\n\r\n* description based on langcode\r\n\r\n* added id and version in response\r\n\r\n* fixed junit test case failures\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22380 Remove un-necessary Api /get-service-request update (#540)\r\n\r\n* Update ProxyMasterdataController.java\r\n\r\nMOSIP-22871 modified the code as per the review comments\r\n\r\n* MOSIP-22871 modified the code as per the review comments\r\n\r\n* MOSIP-22871 modified the code as per the review comments\r\n\r\n* Update EventEnum.java\r\n\r\n* MOSIP-23838 Added idToken in claims. (#503)\r\n\r\n* MOSIP-23838 Added idToken in claims.\r\n\r\n* Revert \"MOSIP-23838 Added idToken in claims.\"\r\n\r\nThis reverts commit 237e04ae13d3c424c6a247e11f7c3054ad2fa385.\r\n\r\n* MOSIP-23838 Added idToken in IdentityServiceImpl.\r\n\r\n* Revert \"MOSIP-23838 Added idToken in IdentityServiceImpl.\"\r\n\r\nThis reverts commit 26a6bcad6380fac0a44b0943e9f4f97deef3df02.\r\n\r\n* MOSIP-23838 Added getClaimFromIdToken in IdentityServiceImpl.\r\n\r\n* Revert \"MOSIP-23838 Added getClaimFromIdToken in IdentityServiceImpl.\"\r\n\r\nThis reverts commit 871dd24267393cc8d5150d7f062aa031017d14ca.\r\n\r\n* MOSIP-23838 Added getClaimFromIdToken in IdentityServiceImpl.\r\n\r\n* MOSIP-23769 Added claim IDA_TOKEN_CLAIM_NAME\r\n\r\n* MOSIP-23769 Removed unused methods.\r\n\r\n* MOSIP-23838 Added getResidentIdToken method.\r\n\r\n* MOSIP-23838 decrypted payload.\r\n\r\n* MOSIP-23838 Added decryptToken method.\r\n\r\n* MOSIP-23838 Added decrypt logic in getUserInfo method.\r\n\r\n* MOSIP-23838 Fixed Junit test case failure.\r\n\r\n* MOSIP-23838 Remove un-necessary line.\r\n\r\n* MOSIP-23838 Remove un-necessary line.\r\n\r\n* MOSIP-22275 Fixed response of getRidByIndividualId. (#541)\r\n\r\n* MOSIP-21399 Fix Auth Transaction web sub issue. (#539)\r\n\r\n* MOSIP-21399 Fix Auth Transaction web sub issue.\r\n\r\n* MOSIP-21399 Fix Auth Transaction web sub issue.\r\n\r\n* MOSIP-21399 Fix Auth Transaction web sub issue.\r\n\r\n* MOSIP-21399 Fixed null pointer exception in websub callback.\r\n\r\n* MOSIP-21399 Fixed null pointer exception in websub callback.\r\n\r\n* MOSIP-21399 Fixed null pointer exception in websub callback.\r\n\r\n* MOSIP-22275 MOSIP-24557 Fixed download card api. (#542)\r\n\r\n* MOSIP-24557 Added signature to pdf.\r\n\r\n* MOSIP-22275 Fixed download card api.\r\n\r\n* MOSIP-24557 Added signature to pdf.\r\n\r\n* MOSIP-24557 Added signature to pdf to utility.\r\n\r\n* MOSIP-24557 Fixed test case.\r\n\r\n* MOSIP-23838 Removed extra slash. (#543)\r\n\r\n* MOSIP-21399 Fixed authcallback websub issue. (#544)\r\n\r\n* MOSIP-24557 Added sign to pdf. (#545)\r\n\r\n* MOSIP-22275 Fixed error code in download pdf api. (#547)\r\n\r\n* MOSIP-22275 Fixed error code in download pdf api.\r\n\r\n* MOSIP-22275 Fixed error code in download pdf api.\r\n\r\n* MOSIP-22275 Fixed error code in download pdf api.\r\n\r\n* MOSIP-22275 Fixed error code in download pdf api.\r\n\r\n* MOSIP-22275 Fixed error code in download pdf api.\r\n\r\n* Mosip 21376 api create check aid status api that gets the details of status for a given aid and return the status (#546)\r\n\r\n* description based on langcode\r\n\r\n* added id and version in response\r\n\r\n* fixed junit test case failures\r\n\r\n* get vid type for revoke vid\r\n\r\n* added bifunction for send & validate otp\r\n\r\n* fetched details from db and pass to map\r\n\r\n* add and retrieve partner details\r\n\r\n* fixed response of partner api\r\n\r\n* get summary from template api\r\n\r\n* fixed junit test cases\r\n\r\n* added auth mode in db\r\n\r\n* fixed the mock method to real method\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Changes done in batch job (#549)\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* MOSIP-23978 Added /download/personalized-card card api (#548)\r\n\r\n* MOSIP-23978 Added api /download/card/html2pdf.\r\n\r\n* MOSIP-23978 Added sign pdf logic.\r\n\r\n* MOSIP-23978 Added exception e in exception thrown.\r\n\r\n* MOSIP-23978 Added service class for download personalized card api.\r\n\r\n* MOSIP-23978 Fixed un-necessary mockito stubbing.\r\n\r\n* MOSIP-23978 Resolved merge conflict.\r\n\r\n* MOSIP-23978 Fixed naming convention.\r\n\r\n* MOSIP-23978 Fixed naming convention.\r\n\r\n* MOSIP-23978 Fixed naming convention.\r\n\r\n* MOSIP-23978 Fixed naming convention.\r\n\r\n* MOSIP-23978 Refactor code.\r\n\r\n* MOSIP-23978 Refactor code.\r\n\r\n* MOSIP-23978 Refactor code.\r\n\r\n* MOSIP-23978 Refactor code.\r\n\r\n* MOSIP-23978 Refactor code.\r\n\r\n* MOSIP-23978 Refactor code.\r\n\r\n* MOSIP-23978 Refactor code.\r\n\r\n* Mosip 23041 mock api create mock api for print partners order physical card api that is that will return response parameters for the payment made by the resident (#552)\r\n\r\n* added mock api for print partner order page\r\n\r\n* fixed the redirection of api\r\n\r\n* removed unused imports\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Fix channel verification status api. (#553)\r\n\r\n* Fixed verification status api.\r\n\r\n* Fixed verification status api.\r\n\r\n* Removed VERIFY_PHONE_EMAIL Request type.\r\n\r\n* Fixed channel verification api.\r\n\r\n* Fixed channel verification api.\r\n\r\n* Fixed channel verification api.\r\n\r\n* Fixed channel verification api.\r\n\r\n* Service history fixes (#554)\r\n\r\n* fixed the template exception issue\r\n\r\n* fixed optional issue\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-23838 Removed pre-authorize for NA scopes. (#555)\r\n\r\n* MOSIP-23838 Added card.manage scope in post Personalized card api. (#556)\r\n\r\n* MOSIP-23043 changes done for request body (#557)\r\n\r\n* fixed the template exception issue\r\n\r\n* fixed optional issue\r\n\r\n* MOSIP-23043 changes done in request body\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Service history fixes (#558)\r\n\r\n* fixed the template exception issue\r\n\r\n* fixed optional issue\r\n\r\n* MOSIP-23043 changes done in request body\r\n\r\n* fixed code to fetch old ida token\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22869 MOSIP-22894 Added /request-card api. (#559)\r\n\r\n* MOSIP-22869 Added request-card/vid api.\r\n\r\n* MOSIP-22869 Added request-card/vid api.\r\n\r\n* MOSIP-22894 added error code in check order status api.\r\n\r\n* MOSIP-22869 Fixed entry in table for vid card.\r\n\r\n* MOSIP-22869 Added author and java docs.\r\n\r\n* service history fix. (#560)\r\n\r\n* service history fix.\r\n\r\n* service history fix.\r\n\r\n* MOSIP-23019 Physical card order redirect (#551)\r\n\r\n* MOSIP-23019 ordercard redirect url done\r\n\r\n* MOSIP-23019 ordercard redirect test case url done\r\n\r\n* MOSIP-23019 junit fixed\r\n\r\n* Changes in order card and redirect URL is done\r\n\r\n* Fix Junit and residenterror code changed\r\n\r\n* Exception handle\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Service history fixes (#561)\r\n\r\n* fixed the template exception issue\r\n\r\n* fixed optional issue\r\n\r\n* MOSIP-23043 changes done in request body\r\n\r\n* fixed code to fetch old ida token\r\n\r\n* added default request type\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-22871-API: Add API to convert the List of registration centers\r\nrequest as a downloadable PDF\r\n\r\n* MOSIP-22871-API: Add API to convert the List of registration centers\r\nrequest as a downloadable PDF\r\n\r\n* MOSIP-23978 Fixed encoding error in html conversion. (#563)\r\n\r\n* service history fix.\r\n\r\n* service history fix.\r\n\r\n* MOSIP-23978 Fixed encoding error in html conversion.\r\n\r\n* MOSIP-22888 ticket done (#562)\r\n\r\n* MOSIP-23019 ordercard redirect url done\r\n\r\n* MOSIP-23019 ordercard redirect test case url done\r\n\r\n* MOSIP-23019 junit fixed\r\n\r\n* Changes in order card and redirect URL is done\r\n\r\n* Fix Junit and residenterror code changed\r\n\r\n* Exception handle\r\n\r\n* MOSIP-22888 ticket done\r\n\r\n* chnages done  to get idatoken\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* MOSIP-23838 Added photo in get identity attributes. (#564)\r\n\r\n* service history fix.\r\n\r\n* service history fix.\r\n\r\n* MOSIP-23978 Fixed encoding error in html conversion.\r\n\r\n* MOSIP-23838 Added photo in get identity attributes.\r\n\r\n* MOSIP-23838 Fixed test case failure.\r\n\r\n* MOSIP-23838 Fixed test case failure.\r\n\r\n* MOSIP-23838 Fixed test case failure.\r\n\r\n* MOSIP-23838 Removed un used variables.\r\n\r\n* MOSIP-21376 Added applicantName\r\n\r\n* MOSIP-21376 Added applicantName\r\n\r\n* MOSIP-21376 Added applicantName\r\n\r\n* MOSIP-22870 API: Add API to convert the List of supporting documents\r\nrequest as a downloadable PDF\r\n\r\n* MOSIP-23978 Fixed vid card download. (#566)\r\n\r\n* MOSIP-23978 Fixed vid card download.\r\n\r\n* MOSIP-23978 Fixed vid card download.\r\n\r\n* Mosip 24687 tech story formatting logic needs to be updated in name and address formatter (#567)\r\n\r\n* fixed formatting of sharable attributes\r\n\r\n* Update ResidentConfigServiceImpl.java\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 23838 fix for idp integration (#565)\r\n\r\n* Fix for idp integration\r\n\r\n* Fix to decode the payload\r\n\r\n* Minor Refactoring\r\n\r\n* Updated error message\r\n\r\n* Removed flag to get ida token from userinfo\r\n\r\n* inserted 16 digit random eventId. (#568)\r\n\r\n* inserted 16 digit random eventId.\r\n\r\n* Fixed test case failure.\r\n\r\n* Refactor name\r\n\r\n* MOSIP-22443 Improved code coverage. (#569)\r\n\r\n* MOSIP-22443 Improved code coverage.\r\n\r\n* MOSIP-22443 Improved code coverage.\r\n\r\n* Refactor name\r\n\r\n* MOSIP-22443 Improved sonar coverage.\r\n\r\n* MOSIP-22443 Added author.\r\n\r\n* MOSIP-22443 MOSIP-24493 Added ProxyOtpServiceImpllTest (#570)\r\n\r\n* MOSIP-22443 Added ProxyOtpServiceImpllTest\r\n\r\n* MOSIP-22443 Added APi resource exception test\r\n\r\n* MOSIP-24493 Added status comment in db.\r\n\r\n* fixed naming convention of transactionID. (#571)\r\n\r\n* [MOSIP-24670] Made Corrections in API endpoints response/request body (#572)\r\n\r\n* MOSIP-22443 Added Junit for downloadPersonalizedCard test. (#573)\r\n\r\n* MOSIP-22443 Added Junit for downloadPersonalizedCard test.\r\n\r\n* Fixed test case Failure.\r\n\r\n* Improved code coverage.\r\n\r\n* revert the test cases (#575)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-24870- Added signature in supporting docs and reg center. (#574)\r\n\r\n* MOSIP-24870- Added signature in supporting docs and reg center.\r\n\r\n* MOSIP-24870- Corrected naming convention of pdf file.\r\n\r\n* MOSIP-24870- Fixed test case failure.\r\n\r\n* MOSIP-24870- Added optimized pdf file.\r\n\r\n* MOSIP-24870- Added optimized pdf file.\r\n\r\n* MOSIP-24884 Fixed vid download card issue. (#576)\r\n\r\n* Revert version change (#578)\r\n\r\n* revert the test cases\r\n\r\n* added track service url\r\n\r\n* added test cases for partner management\r\n\r\n* added new method for validate request for new apis\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-24884 Fixed get card api. (#579)\r\n\r\n* MOSIP-24884 Fixed get card api.\r\n\r\n* MOSIP-24884 Fixed test case failure.\r\n\r\n* MOSIP-24884 Code refactor.\r\n\r\n* MOSIP-24884 Fixed get card failure. (#580)\r\n\r\n* MOSIP-24884 Fixed get card failure.\r\n\r\n* MOSIP-24884 Fixed get card failure.\r\n\r\n* MOSIP-24884 Fixed get card failure.\r\n\r\n* MOSIP-24884 Fixed get card failure.\r\n\r\n* MOSIP-24860 Updated the  event read status (#581)\r\n\r\n* MOSIP-23019 ordercard redirect url done\r\n\r\n* MOSIP-23019 ordercard redirect test case url done\r\n\r\n* MOSIP-23019 junit fixed\r\n\r\n* Changes in order card and redirect URL is done\r\n\r\n* Fix Junit and residenterror code changed\r\n\r\n* Exception handle\r\n\r\n* MOSIP-22888 ticket done\r\n\r\n* chnages done  to get idatoken\r\n\r\n* MOSIP-24860 Update event read status is done\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* added error for invalid user (#583)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-24763 Fixed send otp failure. (#577)\r\n\r\n* MOSIP-24763 Fixed send otp failure.\r\n\r\n* MOSIP-24763 Fixed send otp failure.\r\n\r\n* MOSIP-24763 Fixed send otp failure.\r\n\r\n* MOSIP-24763 Fixed test case failure.\r\n\r\n* MOSIP-24763 Fixed error code message.\r\n\r\n* MOSIP-24875 Notification count changes done (#585)\r\n\r\n* MOSIP-23019 ordercard redirect url done\r\n\r\n* MOSIP-23019 ordercard redirect test case url done\r\n\r\n* MOSIP-23019 junit fixed\r\n\r\n* Changes in order card and redirect URL is done\r\n\r\n* Fix Junit and residenterror code changed\r\n\r\n* Exception handle\r\n\r\n* MOSIP-22888 ticket done\r\n\r\n* chnages done  to get idatoken\r\n\r\n* MOSIP-24860 Update event read status is done\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* [MOSIP-24670] Updated API correction id and version (#584)\r\n\r\n* MOSIP-24939 Improved code coverage of DownloadCardServiceTest. (#586)\r\n\r\n* MOSIP-24939 Improved code coverage of DownloadCardServiceTest\r\n\r\n* MOSIP-24939 Removed un-necessary mockito stubbing.\r\n\r\n* MOSIP-24939 Improved code coverage of getUserInfo.\r\n\r\n* MOSIP-24939 Improved code coverage of Notification of resident.\r\n\r\n* MOSIP-24939 Improved code coverage of ResidentServiceImpl.\r\n\r\n* MOSIP-22871 add digital signatures for registration centers and (#582)\r\n\r\n* MOSIP-22871 add digital signatures for registration centers and\r\nsupporting docs\r\n\r\n* Update DownLoadMasterDataController.java\r\n\r\n* Update DownLoadMasterDataServiceImpl.java\r\n\r\n* MOSIP-22871 modified the code asper review comments\r\n\r\n* MOSIP-24884 Fixed update-uin api. (#587)\r\n\r\n* MOSIP-24939 Improved code coverage of getConfig in ResidentServiceImpl.\r\n\r\n* MOSIP-24939 Improved code coverage of getConfig in ResidentServiceImpl.\r\n\r\n* MOSIP-24939 Improved code coverage of getConfig in ResidentServiceImpl.\r\n\r\n* MOSIP-24939 Fixed update-uin api.\r\n\r\n* MOSIP-24939 Added constant in place of string.\r\n\r\n* MOSIP-24939 Improved code coverage of TemplateUtilTest. (#589)\r\n\r\n* [MOSIP-24670] Updated API body correction (#588)\r\n\r\n* [MOSIP-24670] Updated API correction id and version\r\n\r\n* [MOSIP-24670] Updated API body correction\r\n\r\n* Updated API correction\r\n\r\n* MOSIP-22443 Improved code coverage. (#591)\r\n\r\n* MOSIP-24939 Improved code coverage of Batch job.\r\n\r\n* MOSIP-24939 Improved code coverage of Download master data.\r\n\r\n* MOSIP-24939 Improved code coverage of Resident service.\r\n\r\n* MOSIP-24939 Improved code coverage of Request\r\nvalidator\r\n\r\n* MOSIP-24939 Improved code coverage of Request\r\nvalidator\r\n\r\n* MOSIP-24939 Improved code coverage of Request\r\nvalidator\r\n\r\n* MOSIP-24939 Removed repeated try catch block.\r\n\r\n* MOSIP-24939 Added empty check for invalid transactionId.\r\n\r\n* MOSIP-24939 Moved RunnableException to new package.\r\n\r\n* MOSIP-24939 Refactor code.\r\n\r\n* Profile api fix (#594)\r\n\r\n* [MOSIP-22640] Fixed Sonar Bugs (#593)\r\n\r\n* [MOSIP-24670] Updated API correction id and version\r\n\r\n* [MOSIP-24670] Updated API body correction\r\n\r\n* [MOSIP-22640] Fixed Sonar Bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* updated review code\r\n\r\n* Resident UI integration issues (#595)\r\n\r\n* Profile api fix\r\n\r\n* Fix for in-progress status filter\r\n\r\n* test\r\n\r\n* Test fix\r\n\r\n* Resident UI integration issues (#597)\r\n\r\n* Profile api fix\r\n\r\n* Fix for in-progress status filter\r\n\r\n* test\r\n\r\n* Test fix\r\n\r\n* Fix for photo not returning issue in identity info\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#598)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-25005 bug fixed in batch job (#600)\r\n\r\n* MOSIP-23019 ordercard redirect url done\r\n\r\n* MOSIP-23019 ordercard redirect test case url done\r\n\r\n* MOSIP-23019 junit fixed\r\n\r\n* Changes in order card and redirect URL is done\r\n\r\n* Fix Junit and residenterror code changed\r\n\r\n* Exception handle\r\n\r\n* MOSIP-22888 ticket done\r\n\r\n* chnages done  to get idatoken\r\n\r\n* MOSIP-24860 Update event read status is done\r\n\r\n* MOSIP-25005 Batch job bug fixed\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* MOSIP-24939 Improved code coverage. (#599)\r\n\r\n* MOSIP-24939 Improved code coverage of download master data controller.\r\n\r\n* MOSIP-24939 Improved code coverage of proxy otp controller.\r\n\r\n* MOSIP-24939 Improved code coverage of download card controller.\r\n\r\n* MOSIP-24939 Improved code coverage of request vid card.\r\n\r\n* [MOSIP-22640] Fixed sonar bugs (#601)\r\n\r\n* [MOSIP-24670] Updated API correction id and version\r\n\r\n* [MOSIP-24670] Updated API body correction\r\n\r\n* [MOSIP-22640] Fixed Sonar Bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* updated review code\r\n\r\n* [MOSIP-22640] Fixed sonar bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* MOSIP-24939 Improved code coverage. (#603)\r\n\r\n* MOSIP-24939 Improved code coverage of request utility.\r\n\r\n* MOSIP-24939 Improved code coverage of utility.\r\n\r\n* MOSIP-25514 Fixed null pointer exception in event enum. (#648)\r\n\r\n* MOSIP-25514 Fixed build failure. (#649)\r\n\r\n* MOSIP-25514 Fixed null pointer exception in event enum.\r\n\r\n* MOSIP-25514 Fixed build failure.\r\n\r\n* MOSIP-25514 imported correct package in main class.\r\n\r\n* Merge develop 2 1201b2 4 (#651)\r\n\r\n* [MOSIP-22639] Resolved security hotspots in code (#605)\r\n\r\n* [MOSIP-24670] Updated API correction id and version\r\n\r\n* [MOSIP-24670] Updated API body correction\r\n\r\n* [MOSIP-22640] Fixed Sonar Bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* updated review code\r\n\r\n* [MOSIP-22640] Fixed sonar bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* [MOSIP-22639] Resolved security hotspots in code\r\n\r\n* MOSIP-24939 Improved code coverage. (#604)\r\n\r\n* MOSIP-24939 Improved code coverage of utility.\r\n\r\n* MOSIP-24939 Changed hard coded value from properties.\r\n\r\n* MOSIP-24939 Improved code coverage of RequestValidator\r\n\r\n* MOSIP-24939 Fixed test case failure.\r\n\r\n* MOSIP-24939 Changed code as per review comment.\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#606)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\n* added eventid and status in response\r\n\r\n* added eventId in response header for download eventid api\r\n\r\n* fixed service history pdf file name\r\n\r\n* added eventid in response of download card api\r\n\r\n* convert eventId to constant\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-24939 Improved code coverage of validator class. (#607)\r\n\r\n* MOSIP-24939 Improved code coverage of Document validator.\r\n\r\n* MOSIP-24939 Improved code coverage of Request validator.\r\n\r\n* MOSIP-24939 Improved code coverage of Request validator.\r\n\r\n* MOSIP-24939 Improved code coverage of Request validator.\r\n\r\n* MOSIP-24939 Improved code coverage of Request validator.\r\n\r\n* MOSIP-24939 Improved code coverage of Request validator.\r\n\r\n* Fixed service history issue. (#609)\r\n\r\n* [MOSIP-24630] Fixed Security Vulnerability in code (#608)\r\n\r\n* [MOSIP-24670] Updated API correction id and version\r\n\r\n* [MOSIP-24670] Updated API body correction\r\n\r\n* [MOSIP-22640] Fixed Sonar Bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* updated review code\r\n\r\n* [MOSIP-22640] Fixed sonar bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* [MOSIP-22639] Resolved security hotspots in code\r\n\r\n* [MOSIP-24630] Fixed Security Vulnerability in code\r\n\r\n* added error for isValidUrl method\r\n\r\n* renamed vaildateURL method\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* email and phone added in profile info (#610)\r\n\r\n* email and phone added in profile info\r\n\r\n* validation added when claim is not available\r\n\r\n* Changes done in identityservice\r\n\r\n* log added\r\n\r\n* sysout removed\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* identity/info API method changed to get photo (#611)\r\n\r\n* email and phone added in profile info\r\n\r\n* validation added when claim is not available\r\n\r\n* Changes done in identityservice\r\n\r\n* log added\r\n\r\n* sysout removed\r\n\r\n* method changed\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* added masked VID  (#612)\r\n\r\n* email and phone added in profile info\r\n\r\n* validation added when claim is not available\r\n\r\n* Changes done in identityservice\r\n\r\n* log added\r\n\r\n* sysout removed\r\n\r\n* method changed\r\n\r\n* Added masked VID\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#613)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\n* added eventid and status in response\r\n\r\n* added eventId in response header for download eventid api\r\n\r\n* fixed service history pdf file name\r\n\r\n* added eventid in response of download card api\r\n\r\n* convert eventId to constant\r\n\r\n* added eventId for error scenarios\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#614)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\n* added eventid and status in response\r\n\r\n* added eventId in response header for download eventid api\r\n\r\n* fixed service history pdf file name\r\n\r\n* added eventid in response of download card api\r\n\r\n* convert eventId to constant\r\n\r\n* added eventId for error scenarios\r\n\r\n* fixed reliability bug\r\n\r\n* fixed response of share credential API\r\n\r\n* fixed test failure\r\n\r\n* updated response for auth lock unlock API\r\n\r\n* covered code for one method\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-25310 MOSIP-24730 MOSIP-25312 MOSIP-24731 Added grievance api (#615)\r\n\r\n* Fixed service history issue.\r\n\r\n* MOSIP-25310 Added resident_grievance_ticket.sql\r\n\r\n* MOSIP-25310 Added hasAttachment column to grievance table.\r\n\r\n* MOSIP-25310 Added hasAttachment column to grievance table.\r\n\r\n* MOSIP-25310 Added hasAttachment column to grievance table.\r\n\r\n* MOSIP-25310 Added service class of GrievanceController\r\n\r\n* MOSIP-25310 Added entity and repository class of grievance table.\r\n\r\n* MOSIP-25310 Added status in resident entity.\r\n\r\n* MOSIP-25310 Fixed test case failure.\r\n\r\n* MOSIP-25310 Get default name from profile.\r\n\r\n* MOSIP-25310 Added card format to vid card.\r\n\r\n* MOSIP-25310 made message max length configurable.\r\n\r\n* MOSIP-25307 Created API  to get DocumentType from masterdata (#617)\r\n\r\n* MOSIP-25307 Created API  to get DocumentType from masterdata\r\n\r\n* JUNIT added for document API\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* MOSIP-24784 Fixed download card api. (#619)\r\n\r\n* Fixed service history issue.\r\n\r\n* MOSIP-24784 Fixed download card api.\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#618)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\n* added eventid and status in response\r\n\r\n* added eventId in response header for download eventid api\r\n\r\n* fixed service history pdf file name\r\n\r\n* added eventid in response of download card api\r\n\r\n* convert eventId to constant\r\n\r\n* added eventId for error scenarios\r\n\r\n* fixed reliability bug\r\n\r\n* fixed response of share credential API\r\n\r\n* fixed test failure\r\n\r\n* updated response for auth lock unlock API\r\n\r\n* covered code for one method\r\n\r\n* updated response of request vid card\r\n\r\n* updated response of validate otp API\r\n\r\n* created contant for NA\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#620)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\n* added eventid and status in response\r\n\r\n* added eventId in response header for download eventid api\r\n\r\n* fixed service history pdf file name\r\n\r\n* added eventid in response of download card api\r\n\r\n* convert eventId to constant\r\n\r\n* added eventId for error scenarios\r\n\r\n* fixed reliability bug\r\n\r\n* fixed response of share credential API\r\n\r\n* fixed test failure\r\n\r\n* updated response for auth lock unlock API\r\n\r\n* covered code for one method\r\n\r\n* updated response of request vid card\r\n\r\n* updated response of validate otp API\r\n\r\n* created contant for NA\r\n\r\n* updated response of generate and revoke vid\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* Mosip 25307 api create the following proxy ap is from masterdata (#621)\r\n\r\n* MOSIP-25307 Created API  to get DocumentType from masterdata\r\n\r\n* JUNIT added for document API\r\n\r\n* MOSIP-25307 done\r\n\r\n* Changes done\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* MOSIP-22046 change input LocalDateTime to LocalDate. (#622)\r\n\r\n* Fixed service history issue.\r\n\r\n* MOSIP-22046 change input LocalDateTime to LocalDate.\r\n\r\n* MOSIP-22046 Refactor code.\r\n\r\n* MOSIP-22046 Fixed test case failure.\r\n\r\n* MOSIP-22046 Covered edge case of fromDate.\r\n\r\n* MOSIP-22046 corrected query param for service history api. (#623)\r\n\r\n* Fixed service history issue.\r\n\r\n* MOSIP-22046 change input LocalDateTime to LocalDate.\r\n\r\n* MOSIP-22046 Refactor code.\r\n\r\n* MOSIP-22046 Fixed test case failure.\r\n\r\n* MOSIP-22046 Covered edge case of fromDate.\r\n\r\n* MOSIP-22046 corrected query param for service history api.\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#625)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\n* added eventid and status in response\r\n\r\n* added eventId in response header for download eventid api\r\n\r\n* fixed service history pdf file name\r\n\r\n* added eventid in response of download card api\r\n\r\n* convert eventId to constant\r\n\r\n* added eventId for error scenarios\r\n\r\n* fixed reliability bug\r\n\r\n* fixed response of share credential API\r\n\r\n* fixed test failure\r\n\r\n* updated response for auth lock unlock API\r\n\r\n* covered code for one method\r\n\r\n* updated response of request vid card\r\n\r\n* updated response of validate otp API\r\n\r\n* created contant for NA\r\n\r\n* updated response of generate and revoke vid\r\n\r\n* updated response of update data API and made entry to db\r\n\r\n* set phone email id in status comment\r\n\r\n* add phone/email in status comment\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* MOSIP-21674 Added custom response for download card api. (#624)\r\n\r\n* Fixed service history issue.\r\n\r\n* MOSIP-21674 Added getRidStatus method in utility.\r\n\r\n* MOSIP-21674 Added junit for GrievanceServiceImpl.\r\n\r\n* Revert \"MOSIP-21674 Added junit for GrievanceServiceImpl.\"\r\n\r\nThis reverts commit a23e63350c411204694f9fd0d7b3322ad953793d.\r\n\r\n* MOSIP-21674 Added junit for GrievanceServiceImpl.\r\n\r\n* MOSIP-21674 Fixed getRidStatus Utilities.\r\n\r\n* MOSIP-21674 Added custom response.\r\n\r\n* MOSIP-21674 Fixed service history.\r\n\r\n* MOSIP-21674 Added junit for RequestValidatorTest\r\n\r\n* MOSIP-21674 Added junit for RequestValidatorTest\r\n\r\n* MOSIP-21674 Added junit for GrievanceServiceImpl\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Added junit for NotificationServiceTest\r\n\r\n* MOSIP-21674 Removed un-necessary enums.\r\n\r\n* MOSIP-21674 Refactor code.\r\n\r\n* MOSIP-21674 Refactor code.\r\n\r\n* MOSIP-21674 Refactor code.\r\n\r\n* Mosip 24879 add event id in the response of the below stories (#627)\r\n\r\n* added error for invalid user\r\n\r\n* added status in 2 apis\r\n\r\n* changed response of auth-lock-unlock api\r\n\r\n* updated response of validate otp\r\n\r\n* added eventid and status in response\r\n\r\n* added eventId in response header for download eventid api\r\n\r\n* fixed service history pdf file name\r\n\r\n* added eventid in response of download card api\r\n\r\n* convert eventId to constant\r\n\r\n* added eventId for error scenarios\r\n\r\n* fixed reliability bug\r\n\r\n* fixed response of share credential API\r\n\r\n* fixed test failure\r\n\r\n* updated response for auth lock unlock API\r\n\r\n* covered code for one method\r\n\r\n* updated response of request vid card\r\n\r\n* updated response of validate otp API\r\n\r\n* created contant for NA\r\n\r\n* updated response of generate and revoke vid\r\n\r\n* updated response of update data API and made entry to db\r\n\r\n* set phone email id in status comment\r\n\r\n* add phone/email in status comment\r\n\r\n* updated the response of update my uin API\r\n\r\n* added else statement\r\n\r\n* added else exception\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\n\r\n* [MOSIP-24670] Made corrections in id and version (#626)\r\n\r\n* [MOSIP-24670] Updated API correction id and version\r\n\r\n* [MOSIP-24670] Updated API body correction\r\n\r\n* [MOSIP-22640] Fixed Sonar Bugs\r\n\r\n* updated PR\r\n\r\n* updated PR\r\n\r\n* updated review code\r\n\r\n* [MOSIP-22640\u2026",
+            "date": "2023-04-05T14:36:03Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #516 from ckm007/release-1.2.0.1\n\n[MOSIP-24254] reverted pom version",
+            "date": "2022-10-10T11:25:49Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-24254] reverted pom version",
+            "date": "2022-10-10T11:24:37Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #508 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-09-30T02:37:30Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2022-09-30T02:35:58Z"
+        },
+        {
+            "author": "pramod444",
+            "message": "Release Bot Pre-release changes",
+            "date": "2022-09-29T10:35:30Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Revert \"Fixed IndividualId validation for vid generation (#454)\" (#456)\n\nThis reverts commit 8ba022ce4244460b5c3d9909b450e89001f7ffda.",
+            "date": "2022-08-09T12:03:00Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Fixed IndividualId validation for vid generation (#454)",
+            "date": "2022-08-05T14:35:45Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Mosip 23266 fix vid type validation (#447)\n\n* Removed vid type validation\r\n\r\n* Fixed tests",
+            "date": "2022-07-29T13:56:20Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20028] added action for tagging",
+            "date": "2022-07-18T05:03:04Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #350 from syed-salman-technoforte/release-1.2.0.1\n\n[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-20T00:39:45Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-19T10:45:27Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "Merge pull request #339 from mosip/ckm007-patch-1\n\n[MOSIP-20020] Update release_changes.yml",
+            "date": "2022-05-12T10:30:14Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20020] Update release_changes.yml",
+            "date": "2022-05-12T10:29:33Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #290 from vishwa-vyom/issue/MOSIP-14447\n\nMOSIP-14447 : Error handling change to give clear error message in th\u2026",
+            "date": "2022-03-29T06:41:14Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "MOSIP-14447 : Error handling change to give clear error message in the API response",
+            "date": "2022-03-28T14:19:41Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #288 from vishwa-vyom/issue/MOSIP-14447\n\nMOSIP-14447 : Validation added to check if the UIN inside the demographics json and individual id are matching",
+            "date": "2022-03-28T08:57:34Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "MOSIP-14447 : Validation added to check if the UIN inside the demographics json and individual id are matching",
+            "date": "2022-03-27T11:48:02Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "MOSIP-14447 : ResidentServiceResUpdateTestunit test case changed to avoid spy usage and unwanted public methods",
+            "date": "2022-03-27T10:29:45Z"
+        },
+        {
+            "author": "Loganathan Sekar",
+            "message": "Merge develop to 1.2.0.1 1 (#285)\n\n* Mosip 19917 fix resident uin update develop (#279)\r\n\r\n* Fixed current datetime logic, as existing one wont gaurentee ISO format\r\n\r\n* Corrected pom version\r\n\r\n* Fix datetime logic\r\n\r\n* Mosip 19916 fix loading phon/email attrib based on mapping json (#283)\r\n\r\n* Fix to use configured attrib mapping for phone and email\r\n\r\n* Fix merge issues\r\n\r\n* Removed unwanted req attrib\r\n\r\n* Corrected pom dependency",
+            "date": "2022-03-21T15:05:35Z"
+        },
+        {
+            "author": "Abubacker Siddik",
+            "message": "Mosip 20537/ida env (#275)\n\n* Update release changes in the develop branch\r\n\r\n* Update the snapshot version\r\n\r\n* Update the snapshot version\r\n\r\n* Update release url to snapshot url\r\n\r\n* Update ida env value to pass the auth",
+            "date": "2022-03-08T12:06:18Z"
+        },
+        {
+            "author": "Abubacker Siddik",
+            "message": "Merge release 1.2.0 to develop branch (#272)\n\n* Update release changes in the develop branch\r\n\r\n* Update the snapshot version\r\n\r\n* Update the snapshot version\r\n\r\n* Update release url to snapshot url",
+            "date": "2022-02-15T12:29:09Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #268 from kameshsr/develop\n\nResident service swagger-ui issue fixed.",
+            "date": "2022-02-14T14:18:59Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Resident service swagger-ui issue fixed.",
+            "date": "2022-02-11T11:03:52Z"
+        },
+        {
+            "author": "Puneet Joshi",
+            "message": "Merge pull request #263 from abuabdul/release/develop-tag\n\nRemove design folder",
+            "date": "2022-02-03T11:35:10Z"
+        },
+        {
+            "author": "Abubacker Siddik A",
+            "message": "Remove design folder",
+            "date": "2022-02-03T10:47:42Z"
+        },
+        {
+            "author": "Sasikumar Ganesan",
+            "message": "Merge pull request #253 from abuabdul/MOSIP-18244/develop-code-coverage",
+            "date": "2022-01-28T11:19:53Z"
+        },
+        {
+            "author": "Abubacker Siddik A",
+            "message": "MOSIP-18244: Add machine and public key manager tests",
+            "date": "2022-01-28T10:08:11Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Bump commons-io:commons-io from 2.11.0 to 2.14.0 in /resident/resident-service",
+            "author": "dependabot[bot]",
+            "date": "2025-01-31T13:11:40Z"
+        },
+        {
+            "title": "[MOSIP-36830]-Adding Trivy scan to analyse Docker image vulnerabilities.",
+            "author": "rajapandi1234",
+            "date": "2024-10-23T05:59:05Z"
+        },
+        {
+            "title": "Bump org.bitbucket.b_c:jose4j from 0.9.3 to 0.9.4 in /resident/resident-service",
+            "author": "dependabot[bot]",
+            "date": "2024-05-30T12:49:59Z"
+        },
+        {
+            "title": "Bump com.nimbusds:nimbus-jose-jwt from 9.31 to 9.37.2 in /resident/resident-service",
+            "author": "dependabot[bot]",
+            "date": "2024-05-30T12:49:59Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[BUG] API docs link is broken",
+            "author": "peterhippocarter",
+            "date": "2024-03-22T13:55:03Z"
+        },
+        {
+            "title": "Labels: duplicate, invalid and wontfix added to every PR",
+            "author": "peterhippocarter",
+            "date": "2024-03-22T13:54:15Z"
+        }
+    ],
+    "reviews": []
+}

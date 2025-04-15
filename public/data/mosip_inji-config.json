@@ -1,0 +1,480 @@
+{
+    "repository": "mosip/inji-config",
+    "commits": [
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] update the language (#668)\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2025-02-03T05:34:27Z"
+        },
+        {
+            "author": "adityankannan-tw",
+            "message": "[INJIMOB-2538]: add openid4vp client id validation to inji default properties (#716)\n\nSigned-off-by: adityankannan-tw <adityan410pm@gmail.com>\r\nCo-authored-by: adityankannan-tw <adityan410pm@gmail.com>",
+            "date": "2025-01-27T10:10:16Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[DSD-7103] Updated datashare link to be http instead of https as it i\u2026 (#704)\n\n* [DSD-7103] Updated datashare link to be http instead of https as it is internal service\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n* [DSD-7103] Updated datashare get lik\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-23T09:55:19Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-1086]: update release changes into credential template (#445)\n\n* [INJIWEB-1086]: update release changes into credential template\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-961]: add response_uris for verifiers\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-961]: update readme for response_uris\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-11-11T09:55:40Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #675 from likhitharl/patch-16\n\nUpdate certify-postgres-landregistry.properties",
+            "date": "2025-01-09T10:19:51Z"
+        },
+        {
+            "author": "likhitharl",
+            "message": "Update certify-postgres-landregistry.properties\n\nReverted changes \r\nmosip.certify.data-provider-plugin.issuer.vc-sign-algo=Ed25519Signature2020\n\nSigned-off-by: likhitharl <91238496+likhitharl@users.noreply.github.com>",
+            "date": "2025-01-09T10:16:38Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #671 from likhitharl/patch-15\n\nUpdate certify-postgres-landregistry.properties",
+            "date": "2025-01-08T04:19:33Z"
+        },
+        {
+            "author": "likhitharl",
+            "message": "Update certify-postgres-landregistry.properties\n\nUpdated \r\nmosip.certify.data-provider-plugin.issuer.vc-sign-algo=Ed25519Signature2018\n\nSigned-off-by: likhitharl <91238496+likhitharl@users.noreply.github.com>",
+            "date": "2025-01-08T04:17:08Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #662 from abhishek8shankar/patch-1\n\n[DSD-6924] Updated certify-mock-mdl.properties",
+            "date": "2024-12-23T11:47:53Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-2549] modify env name for mdoc keycert (#663)\n\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>",
+            "date": "2024-12-23T10:48:34Z"
+        },
+        {
+            "author": "Abhishek S",
+            "message": "[DSD-6924] Updated certify-mock-mdl.properties\n\nSigned-off-by: Abhishek S <127825992+abhishek8shankar@users.noreply.github.com>",
+            "date": "2024-12-23T09:17:15Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #661 from Infosys/sunbird-issuer-id\n\n[INJICERT-657] Changed sunbird insurance issuer id",
+            "date": "2024-12-20T11:41:55Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Changed sunbird insurance issuer id\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-12-20T11:37:26Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Changed identity url for mockid and mosipid (#659)\n\n* [INJICERT-657] update DID config for landregistry VC\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] update redis config for qainji1\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] Added identity urls for mock and mosipid\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nCo-authored-by: Harsh Vardhan <harsh59v@gmail.com>\r\nCo-authored-by: Vishwa <visu.vs1@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-20T10:49:46Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #658 from vharsh/sunbird_released\n\n[INJICERT-657] add qa1 sunbird props",
+            "date": "2024-12-20T10:47:47Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] add qa1 sunbird props\n\nsunbird is from released ENV\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-12-20T10:46:14Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "fix redis connection issue with certify pods (#652)\n\n* fix redis connection issue with certify pods\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n* modify redis host to avoid harcoded host\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-20T09:47:59Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Update certify-mosipid-identity.properties (#651)\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-12-20T07:30:18Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] changed registry urls for insurance properties (#649)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-19T11:56:18Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] add dev1 landregistry cache config (#638)\n\n* [INJICERT-657] add dev1 landregistry cache config\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] add keymanager softhsm pin\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] fixup usecase specific softHSM pin\r\n\r\nOther changes:\r\n* move the cache config to certify-default\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] use conditional config to get hostname\r\n\r\n* add https:// prefix for url\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERT-657] rename mockid -> mock\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-19T08:50:39Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #645 from vharsh/fix_did\n\n[INJICERT-657] update DID URL",
+            "date": "2024-12-19T05:28:36Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-657] update DID URL\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-12-19T05:15:59Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Revert \"[INJICERT-657] Commented hsm keystore config with appropriate comment\u2026\" (#643)\n\nThis reverts commit 6f4a6663296ea096065f7b61fd22302f081aab5f.\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-18T17:26:36Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Changed cp1 to landregistry (#642)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-18T14:09:28Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Commented hsm keystore config with appropriate comment (#641)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-18T12:40:53Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJICERT-695] add Mock mdoc MDL config (#635)\n\n* [INJICERT-695] add Mock mdoc MDL config\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n* [INJICERT-695] remove unused props as per mock-mdl usecase\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n* [INJICERT-695] update mdoc mock properties config\r\n\r\nchanges include modifying\r\n- mosip.certify.issuer to mosip.certify.plugin-mode\r\n- mosip.certify.mock.vciplugin.issuer.key-cert to mosip.certify.mock.vciplugin.mdoc.issuer-key-cert\r\n- placeholder mosip.certify.mock.vciplugin.issuer.cert to mosip.certify.mock.vciplugin.mdoc.issuer-key-cert\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n* [INJICERT-695] modify value of mdoc issuer keycert\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>",
+            "date": "2024-12-18T06:50:32Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Changed certify.issuer config to plugin-mode config (#637)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-17T16:25:39Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #634 from Infosys/remove-mdoc\n\n[INJICERT-657] Remove mdoc/mdl related changes from release",
+            "date": "2024-12-17T07:04:23Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Removed mdoc/mdl changes from mock-identity properties\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-12-17T05:30:40Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "[INJICERT-657] Moving certify related configurations to release branch (#606)\n\n* [INJICERT-657] Moving certify configurations to release branch\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changes to address review comments\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changes to address review comments\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2024-12-16T14:58:28Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #463 from maheswaras/patch-12\n\nUpdate data-share-standalone.properties",
+            "date": "2024-11-18T04:37:18Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update data-share-standalone.properties\n\nUpdated transactionsAllowed as 0\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-11-18T04:36:40Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #341 from maheswaras/patch-1\n\nUpdate mimoto-issuers-config.json",
+            "date": "2024-10-01T05:02:02Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update mimoto-issuers-config.json\n\nUpdated qr_code_type change to OnlineSharing\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-10-01T05:00:56Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #340 from maheswaras/release-0.3.x\n\nUpdate mimoto-issuers-config.json",
+            "date": "2024-10-01T04:22:04Z"
+        },
+        {
+            "author": "maheswaras",
+            "message": "Update mimoto-issuers-config.json\n\nUpdated qr_type to EmbeddedVC for all the issuers\n\nSigned-off-by: maheswaras <maheswara.s@cyberpwn.com>",
+            "date": "2024-10-01T04:17:57Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #339 from tw-mosip/release-0.3.x\n\n[INJIWEB-866] : Update mimoto-default.properties for datashare get url pattern",
+            "date": "2024-09-30T10:06:00Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : Update mimoto-default.properties\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-30T10:04:39Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #338 from tw-mosip/release-0.3.x\n\n[INJIWEB-866] : Update data-share-standalone.properties",
+            "date": "2024-09-30T09:42:43Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : Update data-share-standalone.properties\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-30T09:41:32Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "Merge branch 'mosip:release-0.3.x' into release-0.3.x",
+            "date": "2024-09-30T09:40:50Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : remove spring cloud url and label property (#336)\n\n* [INJIWEB-866] : rename datashare-default to datashare-inji-default.properties\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-866] : remove spring cloud url and label property\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-30T07:44:36Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : remove spring cloud url and label property\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-30T07:43:14Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : rename datashare-default to datashare-inji-default.properties (#335)\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-30T03:00:06Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : rename datashare-default to datashare-inji-default.properties\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-29T15:45:54Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : corrected the verifier url property (#327)\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-26T08:58:54Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #326 from tw-mosip/release-0.3.x-4\n\n[INJIWEB-866] : corrected the xsd  url property",
+            "date": "2024-09-26T08:25:02Z"
+        },
+        {
+            "author": "Vijay",
+            "message": "[INJIWEB-866] : corrected the xsd  url property\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-26T08:23:54Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #325 from tw-mosip/release-0.3.x-4\n\n[INJIWEB-866] : corrected the xsd  url property",
+            "date": "2024-09-26T07:56:00Z"
+        },
+        {
+            "author": "Vijay",
+            "message": "[INJIWEB-866] : corrected the xsd  url property\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-26T07:54:02Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #324 from tw-mosip/release-0.3.x-3\n\n[INJIWEB-866] : corrected config server properties",
+            "date": "2024-09-26T07:03:36Z"
+        },
+        {
+            "author": "Vijay",
+            "message": "[INJIWEB-866] : corrected config server properties\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-26T06:44:42Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : corrected config server properties (#323)\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-26T06:35:59Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : adding the properties for injiweb release (#321)\n\n* [INJIWEB-866] : adding the properties for injiweb release\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-866] : modify .well-known to wellknown_endpoint in config and update the verifieres list placeholders.\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-866] : modify .well-known to wellknown_endpoint in config and update the verifieres list placeholders.\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-26T05:43:51Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #191 from gopalaswin/patch-37\n\nUpdate certify-mosipid-identity.properties",
+            "date": "2024-09-03T13:55:32Z"
+        },
+        {
+            "author": "gopalaswin",
+            "message": "Update certify-mosipid-identity.properties\n\nreverting the changes \n\nSigned-off-by: gopalaswin <167510433+gopalaswin@users.noreply.github.com>",
+            "date": "2024-09-03T13:53:48Z"
+        },
+        {
+            "author": "ckesiraju",
+            "message": "Merge pull request #186 from gopalaswin/patch-29\n\nUpdate certify-mosipid-identity.properties",
+            "date": "2024-09-03T13:04:04Z"
+        },
+        {
+            "author": "gopalaswin",
+            "message": "Update certify-mosipid-identity.properties\n\nfor testing purposes I remove v11 and v12 changes \n\nSigned-off-by: gopalaswin <167510433+gopalaswin@users.noreply.github.com>",
+            "date": "2024-09-03T12:48:28Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6020] inji-certify 0.9.0 release changes to master",
+            "date": "2024-08-22T07:24:33Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-320] point qa-inji setup to the configured sunbird instance (#108)\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-08-05T06:42:36Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[DSD-5595] update signer & schema DID to match develop (#99)",
+            "date": "2024-08-01T11:52:35Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-299] add Sunbird's credential contexts (#97)\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-08-01T03:31:16Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERTIFY] add injicertify config files for release (#86)\n\n* [INJICERTIFY] add injicertify config files for release\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n* [INJICERTIFY] use public URL for VC verification\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-07-29T12:06:34Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-5825] inji-mob 0.13.0 release changes to master",
+            "date": "2024-07-26T13:07:46Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-5811] Updated mimoto-default.properties (#75)\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-07-24T04:52:10Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-5811] Updated mimoto-default.properties (#74)\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-07-24T04:39:55Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "Merge pull request #66 from tw-mosip/release-0.1.x\n\n[INJIMOB-1665] - remove unused property",
+            "date": "2024-07-18T06:07:20Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "[INJIMOB-1665] - remove unused property\n\nSigned-off-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-07-18T04:19:37Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "Merge pull request #53 from tw-mosip/release-0.1.x\n\n[DSD-5701] - update inji default properties",
+            "date": "2024-07-11T09:01:58Z"
+        },
+        {
+            "author": "Swati Goel",
+            "message": "[DSD-5701] - update inji default properties\n\nSigned-off-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-07-11T08:59:34Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5632]: Inji Config Retagging with Certify Properties Removed. (#31)\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-07-01T13:27:14Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598]: Update inji-default.properties for facesdk limit\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-27T07:54:18Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598] : Update mimoto-default.properties for actuators\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-27T07:53:43Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598] : update faceSDK Model\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-27T06:55:33Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "Update mimoto-default.properties\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T08:11:06Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598]: Update mimoto-default.properties\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T08:06:14Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598] : Update mimoto-default.properties for branch reference\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T07:54:53Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #17 from tw-mosip/qa\n\n[DSD-5598]: add Mimoto and Inji Default properties for inji-config",
+            "date": "2024-06-26T07:20:16Z"
+        },
+        {
+            "author": "Vijay",
+            "message": "[DSD-5598]: add Mimoto and Inji Default properties for inji-config\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T07:15:51Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "Merge branch 'mosip:qa' into qa",
+            "date": "2024-06-26T06:37:57Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598]: update mimoto-issuers-config.json (#15)\n\n* [DSD-5598]: update mimoto-issuers-config.json\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [DSD-5598]: Update version from certify issuer\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [DSD-5598]: Update version from certify issuer\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T05:00:59Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598]: Update version from certify issuer\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T04:47:42Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598]: Update version from certify issuer\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T04:45:29Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[DSD-5598]: update mimoto-issuers-config.json\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-26T04:44:13Z"
+        },
+        {
+            "author": "Sreenadh S",
+            "message": "Merge pull request #13 from tw-mosip/qa\n\n[DSD-5598]: add Mimoto and Inji Default properties for inji-config",
+            "date": "2024-06-26T04:41:56Z"
+        },
+        {
+            "author": "Vijay",
+            "message": "[DSD-5598]: add Mimoto and Inji Default properties for inji-config\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-06-25T12:52:23Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #2 from vharsh/develop_changes\n\nImport Certify configs for develop",
+            "date": "2024-06-20T09:30:44Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-273] make versions v11 -> vd11 & v12 -> vd12\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-06-20T05:46:48Z"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[INJICERT-272] import config from develop mosip-config\n\ncommit taken: 2d014b39dad74e0fd5aa3b86d65be49434b6c902\n\nSigned-off-by: Harsh Vardhan <harsh59v@gmail.com>",
+            "date": "2024-06-20T05:30:10Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Initial commit",
+            "date": "2024-06-19T09:32:53Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Injiweb1246 templates",
+            "author": "Gurpreet41082",
+            "date": "2025-02-06T10:06:10Z"
+        },
+        {
+            "title": "[INJICERT-248] add simplified utf-8 encoded issuer config",
+            "author": "vharsh",
+            "date": "2024-10-16T15:53:13Z"
+        }
+    ],
+    "issues": [],
+    "reviews": [
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-02-06T11:07:14Z"
+        },
+        {
+            "author": "swatigoel",
+            "comment": "No comment provided",
+            "date": "2025-02-06T11:43:15Z"
+        }
+    ]
+}

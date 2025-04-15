@@ -1,0 +1,550 @@
+{
+    "repository": "mosip/admin-ui",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "1.2.0.1 release changes",
+            "date": "2025-01-13T10:35:19Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#288)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-05T12:21:14Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "[MOSIP-31766] & [MOSIP-31899] Updated pom version for admin-ui (#287)\n\n* Updated pom version for admin-ui\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>\r\n\r\n* updated pom version\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>",
+            "date": "2024-03-05T11:34:02Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #276 from jayesh12234/release-1.2.0.1\n\nMOSIP-31550",
+            "date": "2024-02-12T10:04:23Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-31550\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-02-12T07:34:29Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #274 from syedsalman3753/release-1.2.0.1\n\n[MOSIP-31031] Added method to fetch docker hash ID",
+            "date": "2024-02-12T05:21:03Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-31031] Added method to fetch docker hash ID\n\nSigned-off-by: syed salman <syedsalman3753@gmail.com>",
+            "date": "2024-02-08T01:14:54Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #273 from jayesh12234/release-1.2.0.1\n\nMOSIP-31484",
+            "date": "2024-02-08T11:04:20Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-31484\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-02-08T10:51:19Z"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-31484\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-02-06T08:28:25Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #268 from balaji-alluru/release1-1.2.0.1\n\n[MOSIP-31353, MOSIP-31374]Update create.component.ts",
+            "date": "2024-02-01T13:32:22Z"
+        },
+        {
+            "author": "Balaji Alluru",
+            "message": "[MOSIP-31353]Update create.component.ts\n\nSigned-off-by: Balaji Alluru <74903654+balaji-alluru@users.noreply.github.com>",
+            "date": "2024-02-01T11:10:39Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[DSD-4285] (#262)\n\nSigned-off-by: bhumi46 <111699703+bhumi46@users.noreply.github.com>",
+            "date": "2024-01-22T13:43:04Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #240 from GOKULRAJ136/patch-2\n\nMOSIP-30449 : Added Required Fields & Changed the Upload File Format",
+            "date": "2024-01-09T10:15:24Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #237 from GOKULRAJ136/patch-1\n\nMOSIP-23752 : Added required field for location details",
+            "date": "2024-01-09T09:59:32Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'release-1.2.0.1' into patch-2\n\nSigned-off-by: Aravindhan Alagesan <aravindh2090@gmail.com>",
+            "date": "2024-01-09T09:59:21Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #254 from GOKULRAJ136/sonar-1.2.0.1\n\nMOSIP-25193 : Resolve Reliability Bugs on Admin-UI",
+            "date": "2024-01-09T09:58:31Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #259 from GOKULRAJ136/patch-5\n\nUpdated push-trigger.yml",
+            "date": "2024-01-08T15:00:27Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "Update push-trigger.yml\n\nSigned-off-by: Gokulraj C <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-01-08T11:09:24Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'release-1.2.0.1' into patch-2",
+            "date": "2024-01-05T09:40:21Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'release-1.2.0.1' into sonar-1.2.0.1",
+            "date": "2023-12-22T07:09:22Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Removed Data Table\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-12-14T10:59:57Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Resolve Reliability Bugs on Admin-UI\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-12-13T06:29:08Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "MOSIP-30449 : Added Required Fields & Changed the Upload File Format\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-11-29T05:27:16Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "Update create.component.html\n\nremoved line spaces\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-11-27T07:05:08Z"
+        },
+        {
+            "author": "Gokulraj C",
+            "message": "MOSIP-23752 : Added required field for location details\n\nSigned-off-by: Gokulraj C <110164849+GOKULRAJ136@users.noreply.github.com>\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2023-11-27T07:03:21Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-29162] Updated workflows as per reusable workflow format (#220)\n\n* [MOSIP-29162] Updated workflows as per reusable workflow format\r\n\r\n[MOSIP-25631]\r\n\r\n* Update push-trigger.yml\r\n\r\n---------\r\n\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>\r\nCo-authored-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-09-22T03:02:01Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-28488] Update README.md (#205)\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-07-17T12:30:52Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md (#184)\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-21T14:06:55Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #149 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-09-30T03:01:15Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2022-09-30T02:54:17Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "Updated Pom versions for release changes",
+            "date": "2022-09-29T10:41:09Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20028] added action for tagging",
+            "date": "2022-07-18T05:08:40Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Merge pull request #142 from balaji-alluru/1.2.0.1\n\nMOSIP-21836 : Updated data-storage service file to fetch language independent fields irrespective of language",
+            "date": "2022-06-20T13:53:07Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "MOSIP-21836 : Updated data-storage service file",
+            "date": "2022-06-14T06:34:29Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #138 from balaji-alluru/1.2.0.1\n\nMOSIP-21585 : Updated URL for document-catergory-type-mapping",
+            "date": "2022-06-07T05:35:39Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "MOSIP-21007: Updated Logout Service",
+            "date": "2022-06-07T05:12:13Z"
+        },
+        {
+            "author": "Balaji",
+            "message": "MOSIP-21585 : Updated URL for document-catergory-type-mapping",
+            "date": "2022-06-02T10:23:35Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #133 from syed-salman-technoforte/1.2.0.1\n\n[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-20T00:40:59Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-19T10:49:06Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #119 from mosip/develop\n\nChanges related to event id in bulk upload and packet upload",
+            "date": "2022-04-06T08:54:06Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #118 from aranaravi/develop\n\nChanges related to event id in bulk upload and packet upload",
+            "date": "2022-04-06T08:30:44Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Changes related to event id in bulk upload and packet upload",
+            "date": "2022-04-06T08:28:27Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "No zone assigned to user has been fixed",
+            "date": "2022-04-06T07:56:12Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #117 from mosip/develop\n\nMissing event captured for packet upload and bulk upload page",
+            "date": "2022-04-01T05:58:11Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #116 from aranaravi/develop\n\nMissing event captured for packet upload and bulk upload page",
+            "date": "2022-03-31T07:12:21Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Missing event captured for packet upload and bulk upload page",
+            "date": "2022-03-31T07:09:13Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #115 from mosip/develop\n\nDevelop",
+            "date": "2022-03-22T06:45:14Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #114 from mosip/1.2.0.1\n\n1.2.0.1",
+            "date": "2022-03-22T04:10:01Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #113 from Shilpa-Manjunath/bug1.2\n\nMosip 19841 Event Id captured of bulkupload feature is in-correct",
+            "date": "2022-03-22T04:07:33Z"
+        },
+        {
+            "author": "Shilpa M",
+            "message": "Mosip 19841 Event Id captured of bulkupload feature is in-correct",
+            "date": "2022-03-18T13:16:46Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #112 from aranaravi/1.2.0.1\n\nAdding a state param in the queryparam to resolve issue in v3",
+            "date": "2022-03-18T13:01:05Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Adding a state param in the queryparam to resolve issue in v3",
+            "date": "2022-03-18T12:59:56Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #111 from aranaravi/develop\n\nDevelop",
+            "date": "2022-03-18T12:53:04Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Fixes related to sprint 4",
+            "date": "2022-03-18T12:50:49Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Merge pull request #110 from Mahesh-Binayak/develop\n\nmade changes in node version",
+            "date": "2022-03-17T12:02:08Z"
+        },
+        {
+            "author": "Mahesh.Binayak",
+            "message": "made changes in node verison",
+            "date": "2022-03-17T11:55:10Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Update push_trigger.yml\n\nCreated separate job for sonar.",
+            "date": "2022-03-16T10:26:42Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #107 from mosip/revert-106-deve\n\nRevert \"Mosip 19841 Event Id captured of bulkupload feature is in-correct\"",
+            "date": "2022-03-16T09:54:45Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Revert \"Mosip 19841 Event Id captured of bulkupload feature is in-correct\"",
+            "date": "2022-03-16T09:54:11Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #106 from Shilpa-Manjunath/deve\n\nMosip 19841 Event Id captured of bulkupload feature is in-correct",
+            "date": "2022-03-16T07:17:09Z"
+        },
+        {
+            "author": "Shilpa M",
+            "message": "Mosip 19841 Event Id captured of bulkupload feature is in-correct",
+            "date": "2022-03-16T07:12:28Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'develop' of https://github.com/mosip/admin-ui into develop",
+            "date": "2022-03-16T04:51:32Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #105 from aranaravi/develop\n\nModified the filter values api call based on config and handled 503",
+            "date": "2022-03-15T07:50:11Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'develop' of https://github.com/mosip/admin-ui into develop",
+            "date": "2022-03-15T07:47:45Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Modified the filtervalues api call based on config and handled 503",
+            "date": "2022-03-15T07:47:07Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #104 from Shilpa-Manjunath/deve\n\nMosip 19966 Audit logs are getting listed but event is incorrect.",
+            "date": "2022-03-14T11:41:03Z"
+        },
+        {
+            "author": "Shilpa M",
+            "message": "Mosip 19966 Audit logs are getting listed but event is incorrect.",
+            "date": "2022-03-14T11:30:47Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #102 from neeharikatech/1.2.0-rc2\n\nMOSIP-20211",
+            "date": "2022-03-11T07:15:47Z"
+        },
+        {
+            "author": "Neeharika Garg",
+            "message": "MOSIP-20211",
+            "date": "2022-03-11T06:09:15Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #101 from aranaravi/develop\n\nremoved the hardcoded url and moved to config file",
+            "date": "2022-03-11T04:23:41Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "removed the hardcoded url and moved to config file",
+            "date": "2022-03-10T03:58:39Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #100 from aranaravi/develop\n\nDynamic field name and description became readonly on the create itself has been removed",
+            "date": "2022-03-08T09:17:16Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Dynamic field name and description became readonly on the create itself has been removed",
+            "date": "2022-03-08T09:14:55Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #99 from aranaravi/develop\n\nChanges related to server side lookahead for filtervalues and packet \u2026",
+            "date": "2022-03-07T12:02:09Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'develop' of https://github.com/mosip/admin-ui into develop",
+            "date": "2022-03-07T12:01:02Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Changes related to server side lookahead for filtervalues and packet status invalid message display fixes",
+            "date": "2022-03-07T12:00:06Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #96 from aranaravi/develop\n\nDevelop",
+            "date": "2022-03-02T05:08:49Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Changes related to table sorting, event id and getting pagination filter configuration",
+            "date": "2022-03-02T05:06:46Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'develop' of https://github.com/mosip/admin-ui into develop",
+            "date": "2022-02-22T05:04:35Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #93 from aranaravi/develop\n\nDevelop",
+            "date": "2022-02-21T10:36:10Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'develop' of https://github.com/mosip/admin-ui into develop",
+            "date": "2022-02-21T10:35:02Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Based on the latest changes in data to display the text as html converted textarea to div",
+            "date": "2022-02-21T10:34:25Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #91 from aranaravi/develop\n\nFixes related 1.2.0.1 sprint tickets",
+            "date": "2022-02-18T05:53:31Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge branch 'develop' of https://github.com/mosip/admin-ui into develop",
+            "date": "2022-02-18T05:50:16Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Fixes related 1.2.0.1 sprint tickets",
+            "date": "2022-02-18T05:49:40Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #90 from dhanendra06/mosip-16\n\nMOSIP-19934",
+            "date": "2022-02-16T06:31:30Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "MOSIP-19934",
+            "date": "2022-02-16T06:27:14Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "MOSIP-19934",
+            "date": "2022-02-16T06:24:25Z"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #89 from mosip/release-1.2.0\n\nRelease 1.2.0",
+            "date": "2022-02-15T04:36:37Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #85 from mosip/ckm007-patch-2\n\nUpdate README.md",
+            "date": "2022-02-09T13:52:25Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2022-02-09T13:52:04Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #80 from mosip/ckm007-patch-1\n\n[MOSIP-19883] updated workflow",
+            "date": "2022-02-08T06:17:33Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-19883] updated workflow",
+            "date": "2022-02-08T06:17:24Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #79 from mosip/ckm007-patch-1\n\n[MOSIP-1985] updating pom",
+            "date": "2022-02-07T17:17:15Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-1985] updating pom",
+            "date": "2022-02-07T17:16:25Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-19910] updated badges",
+            "date": "2022-02-06T18:45:54Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "MOSIP-19885 updated Pom",
+            "date": "2022-02-06T18:41:43Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #78 from mosip/ckm007-patch-1\n\n[MOSIP-19885] updated pom for plugins and info",
+            "date": "2022-02-06T18:16:23Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-19885] updated pom for plugins and info",
+            "date": "2022-02-06T18:16:11Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-09-19T10:44:47Z"
+        },
+        {
+            "title": "Bump socket.io-parser and karma in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-07-22T23:45:45Z"
+        },
+        {
+            "title": "Bump braces, @angular-devkit/build-angular, @angular/compiler-cli and karma in /admin-ui",
+            "author": "dependabot[bot]",
+            "date": "2024-06-12T17:22:57Z"
+        },
+        {
+            "title": "[MOSIP-30186]Updated role accessibility settings",
+            "author": "balaji-alluru",
+            "date": "2023-11-06T05:30:57Z"
+        }
+    ],
+    "issues": [],
+    "reviews": [
+        {
+            "author": "ase-101",
+            "comment": "No comment provided",
+            "date": "2023-11-06T14:25:47Z"
+        },
+        {
+            "author": "ase-101",
+            "comment": "No comment provided",
+            "date": "2024-01-24T06:01:49Z"
+        },
+        {
+            "author": "aranaravi",
+            "comment": "No comment provided",
+            "date": "2024-01-25T11:06:58Z"
+        },
+        {
+            "author": "aranaravi",
+            "comment": "No comment provided",
+            "date": "2024-03-22T11:44:09Z"
+        }
+    ]
+}

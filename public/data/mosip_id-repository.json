@@ -1,0 +1,715 @@
+{
+    "repository": "mosip/id-repository",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-6971] ARC 1.2.0.2 release changes to master",
+            "date": "2025-01-09T05:16:01Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[DSD-6971] ARC-platform 1.2.0.2 Release (#1145)\n\n* Updated chart versions, image and tag for release changes\r\n\r\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\r\n\r\n* [DSD-6971] ARC 1.2.0.2 release\r\n\r\n---------\r\n\r\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-07T15:03:28Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1144)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2025-01-07T14:00:09Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "Added snapshots (#1142)\n\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>",
+            "date": "2025-01-07T13:26:35Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "MOSIP-36288 (#1137)\n\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>",
+            "date": "2024-12-06T09:48:43Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1105 from dhanendra06/mosip-180\n\nMOSIP-36288",
+            "date": "2024-10-07T11:01:43Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "MOSIP-36288\n\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>",
+            "date": "2024-07-29T17:39:58Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1014 from mosip/MOSIP-33412-release-1.2.1.x\n\nMosip 33412 release 1.2.1.x",
+            "date": "2024-07-12T05:22:35Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-34323] corrected chart lint issues\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-12T05:07:20Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-34323] corrected chart lint issues\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-12T04:58:18Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-34323] corrected chart details\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-12T04:42:39Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-33412] updated helm and publish workflow\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-10T11:33:50Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-33412] updated helm charts versions\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-10T11:12:39Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-33412] updated helm charts\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-10T10:40:12Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-33412] added idrepo helm chart\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-07-10T10:20:35Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update push-trigger.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-06-13T13:21:14Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #973 from Prafulrakhade/release-1.2.1.x\n\n[MOSIP-33380] added helm and install script for id-repository",
+            "date": "2024-05-29T17:01:01Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-33380] added helm and install script for id-repository\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T12:40:25Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #971 from Prafulrakhade/release-1.2.1.x\n\n[MOSIP-33380] added helm and install script for id-repository",
+            "date": "2024-05-29T10:32:39Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update chart-lint-publish.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-29T10:06:42Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update chart-lint-publish.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-29T09:37:06Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-33380] added helm and install script for id-repository\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T08:33:02Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #969 from Prafulrakhade/release-1.2.1.x\n\n[MOSIP-33380] added helm for id-repository",
+            "date": "2024-05-29T07:56:12Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update chart-lint-publish.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-29T07:37:38Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-33380] added helm and install script for id-repository\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T06:33:34Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-33380] added helm and install script for id-repository\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-29T06:30:07Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update README.md\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-29T04:54:04Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-33380] added helm for id-repository\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-05-28T13:39:39Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#960)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update README.md\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-05-23T08:37:34Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #959 from Neha2365/patch-3\n\nUpdate README.md",
+            "date": "2024-05-22T12:43:38Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "Update README.md\n\nSigned-off-by: Neha2365 <110969715+Neha2365@users.noreply.github.com>",
+            "date": "2024-05-22T11:54:39Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "updated the db script (#957)\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-05-22T08:20:37Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-31589 Added otp subtype (#954)\n\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>",
+            "date": "2024-05-10T08:20:28Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-32302 Move resident related code changes to release branch (#942)\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>",
+            "date": "2024-04-30T06:47:08Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #938 from Prafulrakhade/release-1.2.1.x\n\n[DSD-5055] Updated push-trigger.yml",
+            "date": "2024-04-17T12:20:24Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-5055] Updated push-trigger.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-04-17T11:56:22Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "Mosip-32302 Move develop resident service releated code changes to release 121x (#935)\n\n* Changes done in pom xml for release\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Changes done in pom xml for release\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-30222 clone-1201-avoid-receiving-of-proof-documents-from-idvid-response (#888)\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-29499 added partial index to credential-transaction-table (#889)\r\n\r\n* MOSIP-29499 added partial index to credential-transaction-table\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\n\r\n* MOSIP-29499 partial index query added in db upgrade script\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* updated vc provider for bestTwoFinger (#893)\r\n\r\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* added validation on authtype (#896)\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Sonarcloud analysis in ID-Repo (#898)\r\n\r\nSigned-off-by: Jaya Sai Krishna <138590923+JayaSaiKrishna11@users.noreply.github.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-31766 Changed the dependent version dependency\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* [MOSIP-22441] Added get update count api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* [MOSIP-22441] fixed immutable map update for update count tracking\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* [MOSIP-22441] fixed immutable map update for update count tracking\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* [MOSIP-22441] added auth role for get rid and get update count api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* [MOSIP-22441] updated get rid path variable\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* [MOSIP-22441] moved identity update policy to identity-mapping.json\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-21385 formatting and masking (#688)\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Mosip 21385 formatting (#689)\r\n\r\n* MOSIP-21385 formatting and masking\r\n\r\n* MOSIP-21385 formatting and masking\r\n\r\n* MOSIP-21385 formatting and masking\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Develop (#690)\r\n\r\n* MOSIP-21385 formatting and masking\r\n\r\n* MOSIP-21385 formatting and masking\r\n\r\n* MOSIP-21385 formatting and masking\r\n\r\n* MOSIP-21385-formatting and masking\r\n\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Changes done for ticket 22441 (#705)\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* resolved the MOSIP ticket 22141 (#711)\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Update VidServiceImpl.java (#715)\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* modified the code for fixing the NPE issue (#729)\r\n\r\n* modified the code for fixing the NPE issue\r\n\r\n* Update AuditHelper.java\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Removed Masked VID  (#747)\r\n\r\n* resolved the MOSIP ticket 22141\r\n\r\n* bug fixed\r\n\r\n* Removed Masked VID\r\n\r\n* Resolved merge conflict\r\n\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* updated the API endpoint and response attribute (#750)\r\n\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* [MOSIP-24670] Made correctons in api body #12th task (#751)\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-23945 : resttemplate issue resolved\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Updated as per review comment\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-30419 Fixed update count Issue (#842)\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-30420 Fixed update identity issue (#843)\r\n\r\n* MOSIP-30419 Fixed update count Issue\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-30420 Fixed update identity issue\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-30420 Added debug log to debug update count issue (#845)\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-30419 Removed update count for update draft (#846)\r\n\r\n* MOSIP-30419 Removed update count for update draft\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-30419 Refactored code\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Added api get draft uin\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32258 Added junit test case for /draft/uin new api (#930)\r\n\r\n* MOSIP-32258 Added junit test case for /draft/uin new api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32258 Added junit test case for /draft/uin new api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Added api get draft uin\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Updated version\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Revert \"MOSIP-32302 Added api get draft uin\"\r\n\r\nThis reverts commit f3ee72a217bc314c606fbc41c7091d30e315934e.\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-31759 Added script file and renamed file\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-31759 Added script file and renamed file\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* Updated Pom versions for release changes (#921)\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\n\r\n* MOSIP-32302 Updated version\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Updated version\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Changed code as per review comments\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fix test case failure\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Added handles\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Reverted handles releated changes\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Reverted handles releated changes\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Removed unnecessary code\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Removed unnecessary code\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Removed unnecessary code\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Fixed merge conflict\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Reverted release code\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-32302 Removed ignore\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nSigned-off-by: Jaya Sai Krishna <138590923+JayaSaiKrishna11@users.noreply.github.com>\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: kameshsr <47484458+kameshsr@users.noreply.github.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha2365 <110969715+Neha2365@users.noreply.github.com>\r\nCo-authored-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>\r\nCo-authored-by: RitikJain4108 <99730411+RitikJain4108@users.noreply.github.com>\r\nCo-authored-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: JayaSaiKrishna11 <138590923+JayaSaiKrishna11@users.noreply.github.com>\r\nCo-authored-by: Manoj SP <Manoj.SP@mindtree.com>\r\nCo-authored-by: ramadeviidupulapati <95401231+ramadeviidupulapati@users.noreply.github.com>\r\nCo-authored-by: M1063027 <M1063027@C1ML45695.mindtree.com>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\nCo-authored-by: Ritik Jain <M1074108@mindtree.com>\r\nCo-authored-by: Aiham Hasan <89243555+aihamh@users.noreply.github.com>\r\nCo-authored-by: Loganathan Sekar <42532387+LoganathanSekar7627@users.noreply.github.com>\r\nCo-authored-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-04-17T08:09:54Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#921)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-04T07:05:53Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #919 from Neha2365/release-local-branch\n\nMOSIP-31759 updated the db release script",
+            "date": "2024-02-28T07:07:11Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "MOSIP-31759 Added script file and renamed file\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-02-28T06:11:11Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "Merge branch 'release-1.2.0.1' of https://github.com/mosip/id-repository into release-local-branch",
+            "date": "2024-02-28T06:07:24Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "MOSIP-31759 Added script file and renamed file\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-02-28T06:07:17Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #918 from Neha2365/release-local-branch\n\nMOSIP-31766 Updated pom version to 1.2.0.1-SNAPSHOT",
+            "date": "2024-02-28T04:28:33Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "MOSIP-31766 Changed the dependent version dependency\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-02-27T10:39:35Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "Merge branch 'release-1.2.0.1' of https://github.com/mosip/id-repository into release-local-branch",
+            "date": "2024-02-27T10:29:34Z"
+        },
+        {
+            "author": "JayaSaiKrishna11",
+            "message": "Sonarcloud analysis in ID-Repo (#898)\n\nSigned-off-by: Jaya Sai Krishna <138590923+JayaSaiKrishna11@users.noreply.github.com>",
+            "date": "2024-02-13T12:17:38Z"
+        },
+        {
+            "author": "RitikJain4108",
+            "message": "added validation on authtype (#896)\n\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>",
+            "date": "2024-02-01T13:29:53Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "updated vc provider for bestTwoFinger (#893)\n\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>",
+            "date": "2024-01-24T11:58:11Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "MOSIP-29499 added partial index to credential-transaction-table (#889)\n\n* MOSIP-29499 added partial index to credential-transaction-table\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\n\r\n* MOSIP-29499 partial index query added in db upgrade script\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-01-23T13:04:25Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "MOSIP-30222 clone-1201-avoid-receiving-of-proof-documents-from-idvid-response (#888)\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-01-23T12:45:27Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#892)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-23T10:31:48Z"
+        },
+        {
+            "author": "RitikJain4108",
+            "message": "MOSIP-31247-move-changes-of-id-repo-from-develop-to-release-1201 (#890)\n\n* ES-422 changes done in id-repo add and update API\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* ES-422 Remove sysout\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Changes done according to review comment\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Changes done  to type cast V2 dto\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* ES-422 Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* added validator\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* removed credential v2 API\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-421\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* updated script\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-421\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed testcases\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Added db release scripts\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* ES-421 fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Review comments fixes\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* MOSIP-22905 added websub changes\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed build failure\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* MOSIP-30992 changes done\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-571 removed generatePin method\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-571 added test cases\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* removed version from script\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* fixed reliability bugs in sonar\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* changes done\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\nCo-authored-by: ase-101 <sunkadaeanusha@gmail.com>\r\nCo-authored-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: 61074108 <61074108@5CD12778H4>",
+            "date": "2024-01-23T06:11:52Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "cache-the-salt-tables-in-vid-service-to-improve-performance (#887)\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-01-23T05:56:11Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "Data mismatch issue fixed in release branch (#886)\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-01-23T05:56:01Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "Merge branch 'release-1.2.0.1' of https://github.com/mosip/id-repository into release-local-branch",
+            "date": "2024-01-22T12:01:35Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "MOSIP-31244 Changes done in pom xml for release (#885)\n\n* Changes done in pom xml for release\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\n\r\n* Changes done in pom xml for release\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-01-22T10:22:38Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "Changes done in pom xml for release\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-01-22T09:17:20Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "Changes done in pom xml for release\n\nSigned-off-by: Neha Farheen <neha.61092365@ltimindtree.com>",
+            "date": "2024-01-22T07:05:42Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[MOSIP-31202] updated sql file names (#883)\n\n* Rename 1.2.0.1-B1_to_1.2.0.1_rollback.sql to 1.2.0.1-B1_to_1.2.0.1-B2_rollback.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Rename 1.2.0.1-B1_to_1.2.0.1_upgrade.sql to 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Rename 1.2.0.1-B1_to_1.2.0.1_rollback.sql to 1.2.0.1-B1_to_1.2.0.1-B2_rollback.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Rename 1.2.0.1-B1_to_1.2.0.1_upgrade.sql to 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Rename 1.2.0.1-B1_to_1.2.0.1_rollback.sql to 1.2.0.1-B1_to_1.2.0.1-B2_rollback.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Rename 1.2.0.1-B1_to_1.2.0.1_upgrade.sql to 1.2.0.1-B1_to_1.2.0.1-B2_upgrade.sql\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>\r\nCo-authored-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2024-01-17T13:11:56Z"
+        },
+        {
+            "author": "RitikJain4108",
+            "message": "MOSIP-31184-clone-id-repo-cambodia-changes-from-develop-to-release-1201 (#880)\n\n* ES-422 changes done in id-repo add and update API\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* ES-422 Remove sysout\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Changes done according to review comment\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Changes done  to type cast V2 dto\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* ES-422 Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* added validator\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* removed credential v2 API\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-421\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* updated script\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-421\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed testcases\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Added db release scripts\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* ES-421 fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Review comments fixes\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* MOSIP-22905 added websub changes\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed build failure\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* MOSIP-30992 changes done\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-571 removed generatePin method\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-571 added test cases\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* removed version from script\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* fixed reliability bugs in sonar\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\nCo-authored-by: ase-101 <sunkadaeanusha@gmail.com>\r\nCo-authored-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: 61074108 <61074108@5CD12778H4>",
+            "date": "2024-01-17T10:22:18Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "MOSIP-25356 (#881)\n\n* Added authorize role (#764)\r\n\r\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>\r\n\r\n* resolved merge conflict\r\n\r\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: dhanendra06 <dhanendra.tech@gmail.com>",
+            "date": "2024-01-17T08:27:05Z"
+        },
+        {
+            "author": "RitikJain4108",
+            "message": "MOSIP-31081 Move changes from develop to release-1201 (#876)\n\n* ES-422 changes done in id-repo add and update API\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* ES-422 Remove sysout\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Changes done according to review comment\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* Changes done  to type cast V2 dto\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\n\r\n* ES-422 Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* added validator\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* removed credential v2 API\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-421\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* updated script\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-421\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed testcases\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Added db release scripts\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* ES-421 fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Review comments fixes\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* Fixed review comments\r\n\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\n\r\n* MOSIP-22905 added websub changes\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed review comment\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* Fixed build failure\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* MOSIP-30992 changes done\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-571 removed generatePin method\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* ES-571 added test cases\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* updated DB scripts\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n* removed version from script\r\n\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Neha Farheen <m1092365@mindtree.com>\r\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>\r\nSigned-off-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>\r\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>\r\nCo-authored-by: ase-101 <sunkadaeanusha@gmail.com>\r\nCo-authored-by: Ritik Jain (IN74108) <ritik.61074108@ltimindtree.com>",
+            "date": "2024-01-16T13:42:35Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#864)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-12-20T17:29:41Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file (#862)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-20T17:29:27Z"
+        },
+        {
+            "author": "Rakshith B",
+            "message": "[MOSIP-29961] Updated push-trigger.yml (#854)\n\n* [MOSIP-29961] Updated push-trigger.yml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n* [MOSIP-29961] removed paths from  db-test.yml\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshith B <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-12-13T09:57:05Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-29918] added db-test.yml (#841)\n\nSigned-off-by: Rakshithb1 <rakshit.b@technoforte.co.in>",
+            "date": "2023-11-24T11:15:17Z"
+        },
+        {
+            "author": "bhumi46",
+            "message": "[MOSIP-29163] Updated workflows secrets (#824)\n\n* [MOSIP-29163] Updated workflows secrets\r\n\r\n* [MOSIP-29163] Updated workflows secrets",
+            "date": "2023-09-25T14:47:09Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-29146] Updated postgres-init_trigger.yml (#809)",
+            "date": "2023-08-31T11:09:21Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSP-29146] added postgres-init_trigger.yml (#808)",
+            "date": "2023-08-31T10:48:19Z"
+        },
+        {
+            "author": "Neha2365",
+            "message": "Changes done in upgrade script (#807)\n\nCo-authored-by: Neha Farheen <m1092365@mindtree.com>",
+            "date": "2023-08-30T13:45:23Z"
+        },
+        {
+            "author": "Akila Lakshmanan",
+            "message": "[MOSIP-28484] Added error handling for deploy.sh script (#806)\n\nCo-authored-by: akilalakshmanan <Akila.L@iiitb.ac.in>",
+            "date": "2023-08-22T03:29:22Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #803 from Neha2365/MOSIP-28540-id-repo-credential-request-generator-is-failing-in-all-env\n\nMOSIP-28540 Changes done to removed bean creation",
+            "date": "2023-07-20T07:55:48Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "MOSIP-28540 Changes done to removed bean creation",
+            "date": "2023-07-20T07:37:35Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #802 from mosip/ckm007-patch-3\n\n[MOSIP-28226] Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql",
+            "date": "2023-07-17T16:30:36Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-28226] Update 1.1.5.5_to_1.2.0.1-B1_upgrade.sql\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-07-17T16:24:41Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #788 from mosip/ckm007-patch-2\n\n[MOSIP-27996] updated rollback sql",
+            "date": "2023-07-14T17:05:05Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #801 from Neha2365/MOSIP-28226-id-repo-move-all-ddl-statements-directly-into-upgrade\n\nMOSIP-28226 Done all the changes",
+            "date": "2023-07-12T12:53:18Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "MOSIP-28226 Done all the changes",
+            "date": "2023-07-12T12:27:25Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #796 from Neha2365/MOSIP-28226-id-repo-move-all-ddl-statements-directly-into-upgrade\n\nMOSIP-28226 Moved all ddl statements into upgrade file",
+            "date": "2023-07-07T11:47:34Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "Added GRANT statement",
+            "date": "2023-07-07T10:53:04Z"
+        },
+        {
+            "author": "Neha Farheen",
+            "message": "MOSIP-28226 moved all ddl statements",
+            "date": "2023-07-07T06:03:27Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27996] updated rollback sql",
+            "date": "2023-06-15T02:46:48Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #787 from mosip/ckm007-patch-1\n\n[MOSIP-27964] updated upgrade sql's",
+            "date": "2023-06-14T06:51:15Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27964]",
+            "date": "2023-06-13T17:19:10Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-27964] updated upgrade sql's",
+            "date": "2023-06-13T12:02:56Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Mosip 23833 (#783)\n\n* [MOSIP-23833] renamed release scripts\r\n\r\n* [MOSIP-23833] updated release scripts\r\n\r\n* [MOSIP-23833] removed not needed ALter script\r\n\r\n* [MOSIP-23833] removed not needed ALter script\r\n\r\n* [MOSIP-23833] added psql error handling\r\n\r\n* [MOSIP-23422] changes for including patch release\r\n\r\n* [MOSIP-23833] restructered upgrade scripts\r\n\r\n* Update upgrade.properties\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n* Update upgrade.properties\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n* Update upgrade.properties\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-05-15T09:45:49Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "MOSIP-23420 (#744)",
+            "date": "2022-12-12T06:51:31Z"
+        },
+        {
+            "author": "Sowmya Ujjappa Banakar",
+            "message": "MOSIP-24284 unused property removed from test case (#737)",
+            "date": "2022-11-03T05:39:19Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #736 from sowmya695/release-1.2.0.1\n\nMOSIP-24284 Code changes",
+            "date": "2022-11-02T13:52:43Z"
+        },
+        {
+            "author": "M1022006",
+            "message": "MOSIP-24284 changes after testing",
+            "date": "2022-11-02T11:36:46Z"
+        },
+        {
+            "author": "M1022006",
+            "message": "MOSIP-24284 Code changes",
+            "date": "2022-11-02T08:17:02Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #714 from ckm007/release-1.2.0.1\n\n[MOSIP-24254] reverted pom version",
+            "date": "2022-10-10T11:16:33Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[MOSIP-24254] reverted pom version",
+            "date": "2022-10-10T11:03:11Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #704 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-09-29T17:15:13Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2022-09-29T17:09:06Z"
+        },
+        {
+            "author": "pramod444",
+            "message": "Release Bot Pre-release changes",
+            "date": "2022-09-29T09:11:56Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #696 from mahammedtaheer/rel-1.2.0.1\n\nUpdated Ld Signatures Java library version to release version 1.0.0",
+            "date": "2022-09-13T13:29:48Z"
+        },
+        {
+            "author": "Mahammed Taheer",
+            "message": "Updated Ld Signatures Java library version to release version 1.0.0",
+            "date": "2022-09-12T08:45:14Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #684 from kameshsr/release-1.2.0.1\n\nrelease file name changes.",
+            "date": "2022-08-18T13:50:41Z"
+        },
+        {
+            "author": "kameshsr",
+            "message": "release file name changes.",
+            "date": "2022-08-18T13:29:02Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[MOSIP-33020]Taking the latest changes from release 1.3.x to develop",
+            "author": "aranaravi",
+            "date": "2025-02-06T11:44:12Z"
+        },
+        {
+            "title": "updating to custom codeql",
+            "author": "rajapandi1234",
+            "date": "2025-02-06T05:12:16Z"
+        },
+        {
+            "title": "MOSIP-39585 - Updated the apitest commons version",
+            "author": "mohanachandran-s",
+            "date": "2025-02-05T13:23:39Z"
+        },
+        {
+            "title": "MOSIP-39414 added indexes",
+            "author": "kameshsr",
+            "date": "2025-02-04T05:49:35Z"
+        },
+        {
+            "title": "Added verified_attributes document",
+            "author": "ase-101",
+            "date": "2025-01-27T15:37:47Z"
+        },
+        {
+            "title": "MOSIP-38860",
+            "author": "dhanendra06",
+            "date": "2025-01-21T05:19:52Z"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-08-23T05:26:35Z"
+        },
+        {
+            "title": "MOSIP-34953",
+            "author": "dhanendra06",
+            "date": "2024-08-04T11:27:45Z"
+        },
+        {
+            "title": "[MOSIP-32460] Id repo migrate-from-java-11-to-java-21",
+            "author": "Neha2365",
+            "date": "2024-08-01T05:57:58Z"
+        },
+        {
+            "title": "[MOSIP-34323] corrected copy script",
+            "author": "ckm007",
+            "date": "2024-07-12T17:27:56Z"
+        },
+        {
+            "title": "[MOSIP-34323] corrected copy script",
+            "author": "ckm007",
+            "date": "2024-07-12T17:25:02Z"
+        },
+        {
+            "title": "[ES-558] Update handles",
+            "author": "RitikJain4108",
+            "date": "2024-07-02T11:45:17Z"
+        },
+        {
+            "title": "version update",
+            "author": "kushagraag",
+            "date": "2024-06-20T18:08:35Z"
+        },
+        {
+            "title": "removed unused imports and unnecessary code",
+            "author": "RitikJain4108",
+            "date": "2024-02-26T06:44:06Z"
+        },
+        {
+            "title": "MOSIP-30288-clone-develop-validation-required-before-persist-extracted-template-data-in-minio",
+            "author": "RitikJain4108",
+            "date": "2024-01-25T11:07:14Z"
+        },
+        {
+            "title": "MOSIP-30287-clone-1201-validation-required-before-persist-extracted-t\u2026",
+            "author": "Neha2365",
+            "date": "2024-01-22T14:13:25Z"
+        },
+        {
+            "title": "MOSIP-29593 Record status comment for failed status",
+            "author": "Neha2365",
+            "date": "2023-10-03T13:45:25Z"
+        },
+        {
+            "title": "MOSIP-29280 Performance fixes",
+            "author": "Neha2365",
+            "date": "2023-09-07T11:53:16Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.200 to 2.2.220 in /id-repository/id-repository-credentials-feeder",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:51:01Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.200 to 2.2.220 in /id-repository/id-repository-salt-generator",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:48:17Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.197 to 2.2.220 in /id-repository/credential-request-generator",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:44:55Z"
+        },
+        {
+            "title": "Bump h2 from 1.4.197 to 2.2.220 in /id-repository/credential-service",
+            "author": "dependabot[bot]",
+            "date": "2023-07-07T21:44:30Z"
+        },
+        {
+            "title": "Add CodeQL workflow for GitHub code scanning",
+            "author": "lgtm-com[bot]",
+            "date": "2022-12-08T16:43:42Z"
+        },
+        {
+            "title": "Mosip 21385 formatting masking",
+            "author": "ramadeviidupulapati",
+            "date": "2022-10-21T09:21:41Z"
+        },
+        {
+            "title": "modified restUtil for credential-service",
+            "author": "dhanendra06",
+            "date": "2022-10-12T05:08:50Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.3.7 in /id-repository/id-repository-salt-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-10-01T10:28:02Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.3.7 in /id-repository/id-repository-core",
+            "author": "dependabot[bot]",
+            "date": "2022-10-01T10:28:01Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.3.7 in /id-repository/credential-request-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-10-01T10:28:01Z"
+        },
+        {
+            "title": "Bump postgresql from 42.2.2 to 42.3.7 in /id-repository/id-repository-credentials-feeder",
+            "author": "dependabot[bot]",
+            "date": "2022-10-01T10:28:01Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.6.1 in /id-repository/id-repository-credentials-feeder",
+            "author": "dependabot[bot]",
+            "date": "2022-10-01T10:27:19Z"
+        },
+        {
+            "title": "resttemplate issue resolved version modified to p1",
+            "author": "urviljoshi",
+            "date": "2022-09-27T08:04:22Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.6.1 in /id-repository/credential-request-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-07-18T04:15:31Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.6.1 in /id-repository/id-repository-salt-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-07-18T04:15:23Z"
+        },
+        {
+            "title": "Bump jackson-databind from 2.12.0 to 2.12.6.1 in /id-repository/id-repository-core",
+            "author": "dependabot[bot]",
+            "date": "2022-07-18T04:15:22Z"
+        },
+        {
+            "title": "Bump gson from 2.8.4 to 2.8.9 in /id-repository/credential-service",
+            "author": "dependabot[bot]",
+            "date": "2022-05-20T21:57:59Z"
+        },
+        {
+            "title": "Bump gson from 2.8.4 to 2.8.9 in /id-repository/credential-request-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-05-20T21:56:32Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /id-repository/credential-service",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T19:32:05Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /id-repository/id-repository-core",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T19:31:56Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12 in /id-repository/credential-request-generator",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T19:31:55Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-webflux from 2.0.2.RELEASE to 2.5.12 in /id-repository/id-repository-core",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T18:33:35Z"
+        }
+    ],
+    "issues": [],
+    "reviews": [
+        {
+            "author": "lsivanand",
+            "comment": "No comment provided",
+            "date": "2025-02-06T16:25:11Z"
+        }
+    ]
+}

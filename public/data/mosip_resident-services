@@ -1,0 +1,65 @@
+{
+    "repository": "mosip/resident-services",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-7170] resident portal 0.9.1 release changes"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated chart versions, image and tag for release changes (#1406)\n\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <99539100+Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1405)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-34244 Fixed get pending draft api (#1386)\n\n* MOSIP-34244 Fixed get pending draft api\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-34244 Added unit test case\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n* MOSIP-34244 Added unit test case\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>"
+        },
+        {
+            "author": "kameshsr",
+            "message": "MOSIP-38488 corrected version (#1376)\n\nSigned-off-by: kameshsr <kameshsr1338@gmail.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Bump commons-io:commons-io from 2.11.0 to 2.14.0 in /resident/resident-service",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "[MOSIP-36830]-Adding Trivy scan to analyse Docker image vulnerabilities.",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "Bump org.bitbucket.b_c:jose4j from 0.9.3 to 0.9.4 in /resident/resident-service",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump com.nimbusds:nimbus-jose-jwt from 9.31 to 9.37.2 in /resident/resident-service",
+            "author": "dependabot[bot]"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Bump commons-io:commons-io from 2.11.0 to 2.14.0 in /resident/resident-service",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "[MOSIP-36830]-Adding Trivy scan to analyse Docker image vulnerabilities.",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "Bump com.nimbusds:nimbus-jose-jwt from 9.31 to 9.37.2 in /resident/resident-service",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump org.bitbucket.b_c:jose4j from 0.9.3 to 0.9.4 in /resident/resident-service",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "[BUG] API docs link is broken",
+            "author": "peterhippocarter"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/biosdk-services",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "v1.2.0.1 release to master"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#113)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#110)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #109 from JanardhanBS-SyncByte/release-1.2.0.1\n\n[MOSIP31766] changing pom version to 1.2.0.1-B3 to 1.2.0.1-SNAPSHOT"
+        },
+        {
+            "author": "JanardhanBS-SyncByte",
+            "message": "changing pom version to 1.2.0.1-B3 to 1.2.0.1-SNAPSHOT\n\nSigned-off-by: JanardhanBS-SyncByte <janardhan@syncbyte.in>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-37901-develop exclude mosip services",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "MOSIP-37901: biosdk-services",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "Dev pom change",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "[DSD-6825] platform 1.2.1.0-beta-1 release",
+            "author": "ckm007"
+        },
+        {
+            "title": "added trivy-scanner",
+            "author": "Mahesh-Binayak"
+        }
+    ],
+    "issues": [
+        {
+            "title": "MOSIP-37901-develop exclude mosip services",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "MOSIP-37901: biosdk-services",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "Dev pom change",
+            "author": "nagendra0721"
+        },
+        {
+            "title": "[DSD-6825] platform 1.2.1.0-beta-1 release",
+            "author": "ckm007"
+        },
+        {
+            "title": "added trivy-scanner",
+            "author": "Mahesh-Binayak"
+        }
+    ]
+}

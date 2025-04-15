@@ -1,0 +1,591 @@
+{
+    "repository": "mosip/mimoto",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #567 from Prafulrakhade/release-0.15.x\n\n[DSD-7131] injiweb 0.11.0 release",
+            "date": "2025-01-29T06:51:15Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[DSD-7131] injiweb 0.11.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-29T05:41:53Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-7131] injiweb 0.11.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-29T05:39:12Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-7131] injiweb 0.11.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-28T13:43:54Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[DSD-7131] injiweb 0.11.0 release\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-28T13:20:39Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #565 from Prafulrakhade/release-0.15.x\n\n[MOSIP-39276] separated helm and deployment script",
+            "date": "2025-01-28T12:37:59Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update values.yaml\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2025-01-28T12:24:46Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[MOSIP-39276] saperated helm and deployment script\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-28T11:47:59Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "[MOSIP-39276] saperated helm and deployment script\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2025-01-28T11:37:30Z"
+        },
+        {
+            "author": "Abhishek S",
+            "message": "[MOSIP-39107] Updated scripts for mimoto installation under injiweb ns (#562)\n\nSigned-off-by: Abhi <abhishek.shankarcs@gmail.com>",
+            "date": "2025-01-21T12:09:42Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] Corrected documentation (#558)\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-21T05:50:36Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-7079] Updated action/upload artifact version push-trigger.yml (#559)\n\n* [DSD-] Updated action/upload artifact version push-trigger.yml\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n* Updated push-trigger.yml\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2025-01-20T12:40:21Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Merge pull request #557 from tw-mosip/injiweb-1349\n\n[INJIWEB-1349] updated mimoto image in docker file",
+            "date": "2025-01-16T11:35:38Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] updated mimoto image in docker file\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-16T09:42:15Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Merge pull request #556 from tw-mosip/injiweb-1349\n\nInjiweb 1349",
+            "date": "2025-01-16T09:39:05Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] removed endpoint /issuers/{issuer-id}/credentialTypes\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-16T09:19:24Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Merge remote-tracking branch 'upstream/release-0.15.x' into injiweb-1349",
+            "date": "2025-01-16T09:10:55Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[MOSIP-38411] rename main to master (#553)\n\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2025-01-15T08:01:22Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Merge pull request #552 from tw-mosip/injiweb-1359\n\nInjiweb 1359",
+            "date": "2025-01-10T13:56:19Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1359] Updated stoplight documentation\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-10T13:34:27Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1359] Updated stoplight documentation for /verifier and /get-token/{issuer} endpoints\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-10T13:22:50Z"
+        },
+        {
+            "author": "abhip2565",
+            "message": "[INJIMOB-1349] add data-share and minio service as part of docker compose (#550)\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2025-01-10T08:44:07Z"
+        },
+        {
+            "author": "Abhishek Paul",
+            "message": "[INJIMOB-1349] add data-share and minio service as part of docker compose\n\nSigned-off-by: Abhishek Paul <paul.apaul.abhishek.ap@gmail.com>",
+            "date": "2025-01-10T06:33:08Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Merge pull request #547 from tw-mosip/injiweb-1349-mimoto-config\n\nInjiweb 1349 Update readme with uris",
+            "date": "2025-01-10T08:08:51Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Merge pull request #548 from tw-mosip/injiweb-1359\n\n[INJIWEB-1359] Enable origin 3004 of injiweb using cors filter in mimoto",
+            "date": "2025-01-10T07:22:12Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1359] Enable origin 3004 of injiweb using cors filter in mimoto\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-09T07:44:23Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Merge remote-tracking branch 'upstream/release-0.15.x' into injiweb-1349-mimoto-config",
+            "date": "2025-01-09T03:58:44Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] Updated readme to refer to redirect uris\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-09T03:55:12Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Injiweb 1349 mimoto config (#545)\n\n* [INJIWEB-1349] Fixing config value for authorize endpoint in mimoto\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n* [INJIWEB-1349] Fixed urls to point to mimoto\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n* [INJIWEB-1349] Added verifier in the postman collection and fixed printstacktrace sonar warning\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n* [INJIWEB-1349] Fixed review comments\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n* [INJIWEB-1349] Added keystore file\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-08T12:35:54Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] Added keystore file\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-08T09:04:50Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] Fixed review comments\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-08T07:39:55Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] Added verifier in the postman collection and fixed printstacktrace sonar warning\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-08T05:56:48Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] Fixed urls to point to mimoto\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-08T04:51:28Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "[INJIWEB-1349] Fixing config value for authorize endpoint in mimoto\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2025-01-08T03:58:20Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #538 from Prafulrakhade/release-0.15.x\n\n[MOSIP-38397] Upgraded actions/cache version",
+            "date": "2024-12-19T14:15:28Z"
+        },
+        {
+            "author": "Alka Prasad",
+            "message": "[INJIMOB-2468]: add temporary fix to have default value to credential validity for download api (#539)\n\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-12-19T07:27:03Z"
+        },
+        {
+            "author": "techno-467",
+            "message": "[MOSIP-38397] Upgraded actions/cache version\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2024-12-17T08:24:16Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-38392 - Merged apitest from develop with release branch (#536)\n\n* MOSIP-38392 - Merged apitest from develop with release branch\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>\r\n\r\n* MOSIP-38392 - Merged apitest from develop with release branch\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2024-12-16T10:40:59Z"
+        },
+        {
+            "author": "Gurpreet41082",
+            "message": "Fixed config map with correct identation of verify host (#533)\n\nSigned-off-by: Gurpreet41082 <gurpreet.kaur@thoughtworks.com>",
+            "date": "2024-12-12T10:15:08Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-1151]: bypass VC verification for mock issuer (#519)\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-11-20T11:24:38Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #514 from Prafulrakhade/release-0.15.x\n\n[DSD-6676] Update nexus-staging-maven-plugin version",
+            "date": "2024-11-18T14:21:57Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update Dockerfile base image to mosipid/openjdk-21-jre:21.0.4\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2024-11-18T12:50:34Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIMOB-2262]: fix automation error code mismatch  (#511)\n\n* [INJIMOB-2262]: fix automation error code mismatch\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIMOB-2262]: fix automation error code mismatch\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIMOB-2262]: fix automation error code mismatch\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIMOB-2262]: fix automation error code mismatch\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-11-18T12:21:55Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6676] Update nexus-staging-maven-plugin version\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2024-11-18T10:27:33Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-990]: verify ed25519Signature2018 and RSASignature2018 verifiable credential (#507)\n\n* [INJIWEB-990]: verify sunbird vc\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-990]: mock vc\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-990]: modify the responseType for exception\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-990]: remove unwated snippet which is added for testing\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-11-08T06:29:36Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37137 | changed package name (#503)\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-05T10:43:05Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #502 from nandhu-kumar/develop\n\nMOSIP-37137 | changed package name",
+            "date": "2024-11-05T05:25:34Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37137\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-04T11:51:25Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37137\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-04T11:45:18Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-11-04T11:25:30Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-37137\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-11-04T11:25:21Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-2260] revert responseWrapper change with manual setters (#501)\n\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>",
+            "date": "2024-11-04T08:47:05Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #496 from nandhu-kumar/develop\n\nMOSIP-36505 | Split the Testng report into pre-requisite and functional test rig- core",
+            "date": "2024-10-23T07:50:47Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[MOSIP-36196] updated onboarder install scripts (#497)\n\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2024-10-23T04:59:08Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-10-22T12:19:54Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36505\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-10-22T12:19:43Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1862] refactor CredentialIssuerWellknownResponseValidator (#495)\n\n* [INJIMOB-1862] refactor make wellknown validator a component\r\n\r\nOther refactorings include\r\n- replace value.equals(constant) with constant.equals(value) to avoid NullPointerException\r\n- extract constants for VC formats to avoid magic strings\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n* [INJIMOB-1862] replace any with expected param in mocks\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <kiruthikavjshankar@gmail.com>",
+            "date": "2024-10-22T06:38:39Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-910]: update disclaimer for credential expiry times (#494)\n\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-10-17T14:58:10Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "INJIWEB-967 - Updated Automation Tests for Sunbird and eSignet Issues (#493)\n\n* MOSIP-36455 - Merge release 0.14.x branch with develop\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>\r\n\r\n* MOSIP-36455 - Merge release 0.14.x branch with develop\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>\r\n\r\n* INJIWEB-967 - Updated Automation Tests for Sunbird and eSignet Issues\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2024-10-17T13:37:58Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #492 from nandhu-kumar/develop\n\nMOSIP-36505 | Split the Testng report into pre-requisite and functional test",
+            "date": "2024-10-17T12:23:09Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36505 | Split the Testng report into pre-requisite and functional test\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-10-17T10:50:47Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-36505 | Split the Testng report into pre-requisite and functional test\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-10-17T10:16:05Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJWEB-762]&[INJIWEB-910] : update error message for unavailable resource & add credential expiry times disclaimer notes to PDF (#487)\n\n* [INJWEB-762]&[INJIWEB-910] : update error message for unavailable resource & add credential expiry times disclaimer notes to PDF\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJWEB-762]&[INJIWEB-910] : add the credential expiry times disclaimer in the PDF\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-10-16T12:32:31Z"
+        },
+        {
+            "author": "Santhosh",
+            "message": "Add \"uniqueIdentifier\" for mimoto api testrig \"MOSIP-35958\" (#480)\n\n* 35958\r\n\r\nSigned-off-by: santhoshsunder <santhosdss14@gmail.com>\r\n\r\n* MOSIP-35958\r\n\r\nSigned-off-by: santhoshsunder <santhosdss14@gmail.com>\r\n\r\n* MOSIP-35958\r\n\r\nSigned-off-by: santhoshsunder <santhosdss14@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: santhoshsunder <santhosdss14@gmail.com>",
+            "date": "2024-10-16T07:53:55Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-36077 - Added actuator property (#483)\n\nMOSIP-36077 - Added actuator property\r\n\r\nSigned-off-by: Mohanachandran S <165888272+mohanachandran-s@users.noreply.github.com>",
+            "date": "2024-10-10T13:51:40Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-36455 - Merge release 0.14.x branch with develop (#482)\n\n* MOSIP-36455 - Merge release 0.14.x branch with develop\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>\r\n\r\n* MOSIP-36455 - Merge release 0.14.x branch with develop\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2024-10-10T11:45:02Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-700]: secure time bound storage (#475)\n\n* [INJIWEB-700]: secure time bound storage\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-700]: secure time bound storage\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-700]: secure time bound storage- correct param name\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-10-08T09:47:02Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #477 from nandhu-kumar/develop\n\nMOSIP-35404 | Move component specific test code from common to component api test rigs",
+            "date": "2024-10-08T06:53:29Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-10-07T13:47:12Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-35404\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-10-07T13:47:00Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #471 from mohanachandran-s/patch-1\n\nMOSIP-35404 | Move component specific test code from common to component api test rigs",
+            "date": "2024-10-07T12:00:28Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-10-07T10:16:16Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-758] : swagger config & Slf4j Logger update  (#466)\n\n* [INJIWEB-758] : swagger config update\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-758] : swagger config update\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-758] : swagger config update\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-758] : fix failed checks\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-10-07T06:04:19Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-35404 | Move component specific test code from common to component api test rigs\n\nSigned-off-by: Mohanachandran S <165888272+mohanachandran-s@users.noreply.github.com>",
+            "date": "2024-10-04T12:32:09Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-10-03T11:27:36Z"
+        },
+        {
+            "author": "PuBHARGAVI",
+            "message": "[Injimob 812] rename redirect_uri and response_uri to redirect_uris and response_uris (#465)\n\n* [INJIMOB-812]: expose an api to fetch the list of all trusted verifiers\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-812]: add ngrok url as response uri for testing\r\n\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\n\r\n* [INJIMOB-812]: revert the response uri back to inji verify redirect url from ngrok url in trusted verifiers file\r\n\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\n\r\n* [INJIMOB-812]: add unit tests for the trusted verifiers api added\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-812] rename response_uri to response_uris in all places\r\n\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\n\r\n* [INJIMOB-812] rename redirect_uri to redirect_uris in trusted verifiers file\r\n\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\n\r\n* [INJIMOB-812] rename responseUri to responseUris in verifiers controller test\r\n\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\nCo-authored-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-10-03T08:13:01Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-36077 - Restructured the config manager (#468)\n\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2024-10-03T06:27:20Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-866] : Inji Wellknown endpoint change, kernel auth adapter compile time deps & Read Me Updartes (#464)\n\n* [INJIWEB-723] : Stoplight folder Structuring (#442)\r\n\r\n* [INJIWEB-723] : update the folder structure for release 0.14.x\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-723] : openapi spec file renaming\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-723] : enable the sonar analysis\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-866] : ReadMe and Helm related updates\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-866] : latest wellknown update changes\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-866] : fix failing test cases\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\nCo-authored-by: Swati Goel <meet2swati@gmail.com>",
+            "date": "2024-09-30T07:05:10Z"
+        },
+        {
+            "author": "PuBHARGAVI",
+            "message": "[Injimob 812] expose an api to fetch list of trusted verifiers for vp sharing flow (#456)\n\n* [INJIMOB-812]: expose an api to fetch the list of all trusted verifiers\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-812]: add ngrok url as response uri for testing\r\n\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\n\r\n* [INJIMOB-812]: revert the response uri back to inji verify redirect url from ngrok url in trusted verifiers file\r\n\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\n\r\n* [INJIMOB-812]: add unit tests for the trusted verifiers api added\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>\r\nCo-authored-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-09-27T12:21:34Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #462 from mohanachandran-s/develop\n\nMOSIP-35916 - Renamed the apitest folder to api-test",
+            "date": "2024-09-27T12:01:53Z"
+        },
+        {
+            "author": "Mohanachandran S",
+            "message": "MOSIP-35916 - Renamed the apitest folder to api-test\n\nSigned-off-by: Mohanachandran S <mohanachandran.s@technoforte.co.in>",
+            "date": "2024-09-27T09:46:33Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "INJIMOB-1592 (#443)\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-24T04:36:36Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-09-23T12:29:24Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "INJIMOB-1592\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-23T12:29:02Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #439 from nandhu-kumar/develop\n\nMOSIP-35770 | Test rig should be able to skip the test cases which are known failures due to known automation and server side issue(s)",
+            "date": "2024-09-19T05:33:14Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-825] : refactor the utilities bean (#437)\n\n* [INJIWEB-825] : refactor the utilities bean\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-825] : refactor the utilities bean\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-18T09:00:14Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-09-17T10:07:41Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-35770\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-17T10:07:31Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "Update mimoto_openapi_spec.json (#436)\n\nSigned-off-by: Vijay Kumar S <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-17T05:07:08Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-09-11T15:48:22Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-35243 | Added pre-requisite as a parameter in XML file (#431)\n\n* MOSIP-35243\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n* MOSIP-35243\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n* MOSIP-35700 | Modifying the mimoto testrig to adopt context URL through config\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n* MOSIP-35700 | Modifying the mimoto testrig to adopt context URL through config\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-11T11:25:53Z"
+        },
+        {
+            "author": "nihallakshmankonchady",
+            "message": "[PER-104] : Creation of InjiWeb Scripts and ReadMe file (#357)\n\n* Added JMeter script and ReadMe file\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* update script with right number of users\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated script with new transaction name\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Re-arranged the script with Setup and preparation\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated script\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated csv config file name\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated script with Endpoint name\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated ReadMe file\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated the script with respect to reviews\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated the script as per review comments\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated the script and Readme file\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated script and ReadMe file with review comments\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated ReadMe file\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated the ReadMe file for expiry time\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated ReadMe file\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated the runtime file path\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updating sampler names of script\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated the file path info\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated the script as per review comments\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated value numberOfIdentitiesPerThread\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n* Updated Readme file for testdata creation\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Nihal LK <nihal.lk@technoforte.co.in>\r\nCo-authored-by: Nihal LK <nihal.lk@technoforte.co.in>",
+            "date": "2024-09-11T11:10:29Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-35700 | Modifying the mimoto testrig to adopt context URL through config\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-11T10:47:02Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-35700 | Modifying the mimoto testrig to adopt context URL through config\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-11T10:06:34Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-35243\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-10T05:56:00Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "Merge remote-tracking branch 'upstream/develop' into develop",
+            "date": "2024-09-10T05:54:52Z"
+        },
+        {
+            "author": "Nandhukumar",
+            "message": "MOSIP-35243\n\nSigned-off-by: Nandhukumar <nandhukumare@gmail.com>",
+            "date": "2024-09-10T05:52:46Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-424] : vc verification before pdf download with error handling (#423)\n\n* [INJIMOB-1679]: expose an api to verift the VC by consuming Vc-verifier library\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-1679]: update multiple catch block structure\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-1679]: update the vc-verify endpoint to expect VCCredentialResponse instead of String data\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-1679]: refactor all controller tests\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIMOB-1679]: rename ProofTypeNotFoundException to ProofTypeNotSupportedException\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\n\r\n* [INJIWEB-424] : vc verification before pdf download\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : vc verification before pdf download\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : vc verification before pdf download with error handling\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : introduce error in vc verification\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : introduce error testing in vc verification\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : introduce error testing in vc verification\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : introduce error testing in vc verification\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : remove test ignore\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : modifying the utilities Bean\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : modifying the utilities Bean\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-424] : modifying the utilities Bean\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Alka Prasad <prasadalka1998@gmail.com>\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\nCo-authored-by: Alka Prasad <prasadalka1998@gmail.com>",
+            "date": "2024-09-10T04:48:54Z"
+        },
+        {
+            "author": "Vijay Kumar S",
+            "message": "[INJIWEB-759] : Update pixelpass dependency version and kernel Version with StopLight & Postman  (#419)\n\n* [INJIWEB-723] : release version upgrade with postman and stoplight inclusion (#415)\r\n\r\n* [INJIWEB-721] : update snapshot version for release 14.x\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-723] : release version upgrade with postman and stoplight inclusion\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-723] : release version upgrade with postman and stoplight inclusion\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-723] : release version upgrade with postman and stoplight inclusion\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-723] : release version upgrade with postman and stoplight inclusion\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n* [INJIWEB-759C] : update pixel pass library\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vijay <94220135+vijay151096@users.noreply.github.com>",
+            "date": "2024-09-05T15:17:44Z"
+        },
+        {
+            "author": "KiruthikaJeyashankar",
+            "message": "[INJIMOB-1078] add support for wellknown response of mso_mdoc VC format (#410)\n\n* [INJIMOB-1078] add support for wellknown response of mso_mdoc VC format\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1078] use builtin functions for performing equality check and map iteration\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1078] use builtin functions for performing equality check and map iteration\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1078] restructure test in CredentialIssuerWellknownResponseValidatorTest\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n* [INJIMOB-1078] refcator accessing of data\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: KiruthikaJeyashankar <81218987+KiruthikaJeyashankar@users.noreply.github.com>",
+            "date": "2024-09-04T09:20:28Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Injiweb 1246 : changes to support new templates where position of keys needs to be fixed",
+            "author": "Gurpreet41082",
+            "date": "2025-02-06T07:38:04Z"
+        },
+        {
+            "title": "MOSIP-37901: mimoto-release",
+            "author": "nagendra0721",
+            "date": "2025-02-05T09:10:51Z"
+        },
+        {
+            "title": "[MOSIP-35995]added changes for code-coverage.",
+            "author": "Mahesh-Binayak",
+            "date": "2024-09-26T03:53:18Z"
+        },
+        {
+            "title": "[MOSIP-35421] Moved installtion scripts of mimoto apitestrig.",
+            "author": "Mohanraj209",
+            "date": "2024-09-19T06:12:48Z"
+        },
+        {
+            "title": "Bump jose4j from 0.9.2 to 0.9.3",
+            "author": "dependabot[bot]",
+            "date": "2023-04-27T23:54:37Z"
+        },
+        {
+            "title": "Bump json from 20190722 to 20230227",
+            "author": "dependabot[bot]",
+            "date": "2023-04-14T17:59:52Z"
+        },
+        {
+            "title": "Bump itextpdf from 5.5.13 to 5.5.13.3",
+            "author": "dependabot[bot]",
+            "date": "2023-03-27T22:19:49Z"
+        },
+        {
+            "title": "Update pom.xml to update lombok from 1.18.8 to 1.18.22",
+            "author": "sanjay95",
+            "date": "2023-03-21T07:35:48Z"
+        },
+        {
+            "title": "MOSIP-25067: Added Prometheus Related Dependencies",
+            "author": "GOKULRAJ136",
+            "date": "2023-02-07T07:17:28Z"
+        },
+        {
+            "title": "Merge idpass-develop to mosip-develop",
+            "author": "kneckinator",
+            "date": "2022-06-07T13:09:22Z"
+        },
+        {
+            "title": "Bump spring-boot-starter-web from 2.0.2.RELEASE to 2.5.12",
+            "author": "dependabot[bot]",
+            "date": "2022-03-31T20:12:00Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Keycloak.internal.url error",
+            "author": "shivankar-p",
+            "date": "2024-10-27T08:24:25Z"
+        },
+        {
+            "title": "Issues starting `local-build` branch",
+            "author": "atreyasuraj",
+            "date": "2024-06-11T06:24:09Z"
+        },
+        {
+            "title": "operation timeout",
+            "author": "dineshk-wits",
+            "date": "2024-01-08T18:08:22Z"
+        },
+        {
+            "title": "build failure: Fatal error compiling: java.lang.IllegalAccessError: class lombok.javac.apt.LombokProcesso",
+            "author": "sanjay95",
+            "date": "2023-03-21T07:28:22Z"
+        }
+    ],
+    "reviews": [
+        {
+            "author": "ckm007",
+            "comment": "No comment provided",
+            "date": "2024-10-10T14:49:35Z"
+        }
+    ]
+}

@@ -1,0 +1,535 @@
+{
+    "repository": "mosip/captcha",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #51 from mosip/Prafulrakhade-patch-2\n\n[DSD-6825] platform 1.2.1.0-beta-1 release",
+            "date": "2024-12-16T05:19:41Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update install.sh\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2024-12-13T16:21:22Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #50 from mosip/releas-branch\n\n[DSD-6825] platform 1.2.1.0-beta-1 release",
+            "date": "2024-12-13T15:12:18Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "Updated chart versions, image and tag for release changes\n\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",
+            "date": "2024-12-13T15:06:34Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Merge pull request #48 from mosip/releas-branch\n\n[DSD-6825] platform 1.2.1.0-beta-1 release",
+            "date": "2024-12-13T15:04:18Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-6825] platform 1.2.1.0-beta-1 release\n\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>",
+            "date": "2024-12-13T14:59:35Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "Updated Pom versions for release changes\n\nSigned-off-by: GitHub <noreply@github.com>",
+            "date": "2024-12-13T14:55:13Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Merge pull request #47 from Infosys/coverage\n\n[ES-2012] improved code coverage",
+            "date": "2024-12-12T11:36:36Z"
+        },
+        {
+            "author": "Sachin Rana",
+            "message": "changes after review\n\nSigned-off-by: Sachin Rana <sacrana324@gmail.com>",
+            "date": "2024-12-12T11:07:51Z"
+        },
+        {
+            "author": "Sachin Rana",
+            "message": "improved code coverage\n\nSigned-off-by: Sachin Rana <sacrana324@gmail.com>",
+            "date": "2024-12-12T09:11:06Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #45 from mosip/releas-branch\n\n[MOSIP-38103] updated version and image",
+            "date": "2024-12-05T06:53:56Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "Updated chart versions, image and tag for release changes\n\nSigned-off-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",
+            "date": "2024-12-05T06:46:27Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #44 from GOKULRAJ136/new-0.1.x\n\nMOSIP-37256 : Update Readme",
+            "date": "2024-11-29T06:51:07Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "updated config in readme\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-11-29T05:52:55Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Update README.md\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-11-29T05:51:11Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Update README.md\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-11-29T04:17:14Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "MOSIP-37256 : Update Readme\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-11-28T11:48:03Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #41 from Mahesh-Binayak/release-0.1.x\n\n[DSD-5845]Added changes for sonar coverage.",
+            "date": "2024-11-15T09:33:04Z"
+        },
+        {
+            "author": "Mahesh.Binayak",
+            "message": "[DSD-5845]Added changes for sonar coverage.\n\nSigned-off-by: Mahesh.Binayak <Mahesh.Binayak@technoforte.co.in>",
+            "date": "2024-11-15T09:22:33Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #40 from Mahesh-Binayak/patch-1\n\n[DSD-6587]Update pom.xml to allow for coverage",
+            "date": "2024-11-12T12:03:52Z"
+        },
+        {
+            "author": "Mahesh-Binayak",
+            "message": "[DSD-6587]Update pom.xml to allow for coverage\n\nSigned-off-by: Mahesh-Binayak <76687012+Mahesh-Binayak@users.noreply.github.com>",
+            "date": "2024-11-12T11:51:06Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #39 from dhanendra06/patch-1\n\nMOSIP-36412: Update pom.xml",
+            "date": "2024-10-22T11:21:44Z"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "Update pom.xml\n\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>",
+            "date": "2024-10-22T11:16:25Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #38 from mosip/develop\n\nMerge from develop to release-0.1.x",
+            "date": "2024-10-16T17:31:35Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #37 from ase-101/develop\n\nUpdated the readme",
+            "date": "2024-10-16T17:10:23Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Updated the readme\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-16T15:23:12Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #35 from mosip/develop\n\nMerge from develop to release-0.1.x",
+            "date": "2024-10-16T14:55:14Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge branch 'release-0.1.x' into develop\n\nSigned-off-by: Chandra Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2024-10-16T14:49:51Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #36 from mosip/ase-101-patch-2\n\nES-842 Update README.md",
+            "date": "2024-10-16T14:44:54Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-842 Update README.md\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-16T14:42:53Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #34 from ase-101/develop\n\nES-842",
+            "date": "2024-10-16T13:54:52Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "ES-842 changes to support deployment of captcha without config server or artifactory dependency\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-16T13:42:52Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Merge pull request #28 from ckm007/develop\n\n[DSD-6382] updated captcha deployment scripts",
+            "date": "2024-10-15T12:50:37Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #33 from ase-101/develop\n\nES-842 Fixed configuration mapping",
+            "date": "2024-10-14T04:04:31Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Fixed configuration mapping\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-13T19:38:02Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #32 from ase-101/develop\n\nES-842 captcha secrets configuration changed and renamed DTOs",
+            "date": "2024-10-13T04:38:31Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "fixed test case\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-13T03:39:09Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "fixed test case\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-13T03:35:27Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "captcha secrets configuration changed and renamed DTOs\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-13T03:17:14Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #31 from ase-101/develop\n\nPassing profile as unquoted string",
+            "date": "2024-10-11T17:02:49Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Passing profile as unquoted string\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-11T16:30:22Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #30 from ase-101/develop\n\nES-842 Corrected the error code field name",
+            "date": "2024-10-11T14:35:46Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Corrected the error code field name\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-11T12:47:47Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #29 from mosip/ase-101-patch-1\n\nCorrected the captcha secret key name",
+            "date": "2024-10-10T07:34:00Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Update application-default.properties\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-10T07:04:14Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6382] updated captcha deployment scripts\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-10-08T14:53:25Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #26 from ase-101/develop\n\nES-842 Updated the default and local properties file",
+            "date": "2024-10-07T18:22:45Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Updated the default and local properties file\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-10-07T16:14:48Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #22 from mosip/ckm007-patch-1\n\n[DSD-6114] removed unnecesary cm's from values",
+            "date": "2024-08-28T09:54:55Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #23 from mosip/ckm007-patch-2\n\n[DSD-6114] removed unnecesary cm's from values",
+            "date": "2024-08-28T09:54:48Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6114] removed unnecesary cm's from values\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-08-28T09:44:43Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "[DSD-6114] removed unnecesary cm's from values\n\nSigned-off-by: ckm007 <chandrakeshavmishra@gmail.com>",
+            "date": "2024-08-28T09:42:46Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #20 from GOKULRAJ136/doc-21\n\nMOSIP-33010: Updated readme for developer guide java21",
+            "date": "2024-08-13T07:31:42Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Merge pull request #21 from mosip/releas-branch\n\n[MOSIP-34814] updated pom version from 0.9.0-SNAPSHOT to 0.1.0-SNAPSHOT",
+            "date": "2024-08-08T12:37:57Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "Update pom.xml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-08-08T11:53:03Z"
+        },
+        {
+            "author": "Prafulrakhade",
+            "message": "Updated Pom versions for release changes\n\nSigned-off-by: GitHub <noreply@github.com>",
+            "date": "2024-08-08T11:39:56Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Update pom.xml\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-08-08T11:09:06Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "Update README.md \n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-08-08T06:23:03Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "Update README.md\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-08-07T07:17:52Z"
+        },
+        {
+            "author": "GOKULRAJ136",
+            "message": "updated readme for developer guide java21\n\nSigned-off-by: GOKULRAJ136 <110164849+GOKULRAJ136@users.noreply.github.com>",
+            "date": "2024-08-07T07:15:22Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #19 from VSIVAKALYAN/develop\n\n[DSD-5618] Update install.sh",
+            "date": "2024-08-05T16:16:23Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-5618] Update install.sh\n\nSigned-off-by: VSIVAKALYAN <103260988+VSIVAKALYAN@users.noreply.github.com>",
+            "date": "2024-08-05T14:27:04Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #17 from yashmsonkusare/develop\n\nMOSIP-33010:Migration related changes",
+            "date": "2024-06-18T08:11:01Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Update pom.xml\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-06-18T04:56:01Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Migration JAVA21 changes\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-06-13T13:22:00Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Merge remote-tracking branch 'upstream/develop-java21' into develop",
+            "date": "2024-06-13T13:13:32Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #16 from yashmsonkusare/develop-java21\n\nMigration related changes",
+            "date": "2024-06-11T05:54:39Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Migration related changes\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-06-11T05:35:05Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #15 from yashmsonkusare/develop-java21\n\nUpdate Dockerfile",
+            "date": "2024-06-10T06:36:29Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Update Dockerfile\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-06-10T05:59:20Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #14 from Rakshitha650/develop\n\n[DSD-5440]updated the chart-version and updated the path",
+            "date": "2024-06-06T13:13:43Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "Update Chart.yaml\n\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2024-06-06T10:53:40Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "Update README.md\n\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2024-06-06T10:52:18Z"
+        },
+        {
+            "author": "Rakshitha650",
+            "message": "Update chart-lint-publish.yml\n\nSigned-off-by: Rakshitha650 <76676196+Rakshitha650@users.noreply.github.com>",
+            "date": "2024-06-06T10:50:50Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #12 from Mohanraj209/develop\n\n[DSD-3921] Updated deployment scripts for mosip captcha service.",
+            "date": "2024-06-06T08:08:11Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated push-trigger.yml file.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-06T06:36:01Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated push-trigger.yml file.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-06T06:32:15Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated commit plugin in pom.xml file.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-06T06:22:19Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated commit plugin in pom.xml file.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-04T06:28:57Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated commit plugin in pom.xml file.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-04T06:17:22Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated developer plugin in pom.xml file.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-04T06:13:07Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated license in pom.xml file.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-04T06:09:20Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated deployment scripts for mosip captcha service.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-06-04T06:03:05Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #13 from yashmsonkusare/develop-java21\n\nMigration changes in push-trigger.yml",
+            "date": "2024-06-03T07:43:34Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Update push-trigger.ymi\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-05-31T07:10:01Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #11 from yashmsonkusare/develop-java21\n\nMigration changes for captcha",
+            "date": "2024-05-27T10:56:10Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Update push-trigger.yml\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-05-27T05:57:26Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Updated pom\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-05-24T10:33:15Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Updated the pom\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-05-24T08:04:24Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Updated the pom\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-05-23T10:50:06Z"
+        },
+        {
+            "author": "Yash S",
+            "message": "Migration changes for captcha\n\nSigned-off-by: Yash S <119652212+yashmsonkusare@users.noreply.github.com>",
+            "date": "2024-05-21T07:16:41Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "Merge remote-tracking branch 'origin/develop' into develop",
+            "date": "2024-05-07T06:14:56Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Updated deployment scripts for mosip captcha service.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-05-07T06:14:36Z"
+        },
+        {
+            "author": "Mohanraj209",
+            "message": "[DSD-3921] Added deployment scripts for captcha service.\n\nSigned-off-by: Mohanraj209 <mohanraj1715@gmail.com>",
+            "date": "2024-02-08T05:52:40Z"
+        },
+        {
+            "author": "Anusha Sunkada",
+            "message": "Merge pull request #8 from ase-101/develop\n\nDSD-3921",
+            "date": "2024-01-07T16:49:35Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "DSD-3921\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-01-07T16:44:01Z"
+        },
+        {
+            "author": "Anusha Sunkada",
+            "message": "Merge pull request #7 from ase-101/develop\n\nDSD-3921",
+            "date": "2024-01-07T14:54:02Z"
+        },
+        {
+            "author": "ase-101",
+            "message": "DSD-3921\n\nSigned-off-by: ase-101 <sunkadaeanusha@gmail.com>",
+            "date": "2024-01-07T14:48:12Z"
+        },
+        {
+            "author": "Anusha Sunkada",
+            "message": "Merge pull request #6 from VSIVAKALYAN/develop\n\n[DSD-3921] Added maven_build script to develop.",
+            "date": "2023-11-30T13:19:52Z"
+        },
+        {
+            "author": "VSIVAKALYAN",
+            "message": "[DSD-3921] Updated push-trigger yml\n\nSigned-off-by: VSIVAKALYAN <kalyanvellanki321@gmail.com>",
+            "date": "2023-11-30T12:32:36Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-37901: captcha-release",
+            "author": "nagendra0721",
+            "date": "2025-02-06T06:52:15Z"
+        },
+        {
+            "title": "MOSIP-37901: captch exclude to nexus",
+            "author": "nagendra0721",
+            "date": "2025-01-27T12:22:58Z"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar",
+            "date": "2024-03-17T13:12:57Z"
+        }
+    ],
+    "issues": [],
+    "reviews": [
+        {
+            "author": "dhanendra06",
+            "comment": "No comment provided",
+            "date": "2025-02-06T07:12:38Z"
+        },
+        {
+            "author": "syedsalman3753",
+            "comment": "No comment provided",
+            "date": "2024-04-02T11:44:38Z"
+        }
+    ]
+}

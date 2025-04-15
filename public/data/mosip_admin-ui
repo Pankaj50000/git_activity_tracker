@@ -1,0 +1,61 @@
+{
+    "repository": "mosip/admin-ui",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "1.2.0.1 release changes"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#288)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "[MOSIP-31766] & [MOSIP-31899] Updated pom version for admin-ui (#287)\n\n* Updated pom version for admin-ui\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>\r\n\r\n* updated pom version\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #276 from jayesh12234/release-1.2.0.1\n\nMOSIP-31550"
+        },
+        {
+            "author": "Jayesh Kharode",
+            "message": "MOSIP-31550\n\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "Bump socket.io-parser and karma in /admin-ui",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump braces, @angular-devkit/build-angular, @angular/compiler-cli and karma in /admin-ui",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "[MOSIP-30186]Updated role accessibility settings",
+            "author": "balaji-alluru"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "Bump socket.io-parser and karma in /admin-ui",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Bump braces, @angular-devkit/build-angular, @angular/compiler-cli and karma in /admin-ui",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "[MOSIP-30186]Updated role accessibility settings",
+            "author": "balaji-alluru"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/inji-certify",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "DSD-7203 inji certify 0.10.1 release changes to master"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#209)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "[DSD-7203] inji-certify 0.10.1 release (#208)\n\n* Updated Pom version and Chart version for post-release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* [DSD-7203] Update docker-compose.yaml\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-7203] Updated values.yaml\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-7203] Update install.sh\r\n\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\n\r\n* DSD-7203 inji certify 0.10.1 release\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Praful Rakhade <prafulrakhade02@gmail.com>\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <prafulrakhade02@gmail.com>"
+        },
+        {
+            "author": "Harsh Vardhan",
+            "message": "[DSD-7203] use the non SNAPSHOT plugin JARs (#207)"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom version and Chart version for post-release changes (#205)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "mosip-39006- mosipid usecase Negative testcases",
+            "author": "likhitharl"
+        },
+        {
+            "title": "[INJICERT-248] move well known out of properties file to JSON",
+            "author": "vharsh"
+        },
+        {
+            "title": "[INJICERT-331] Added null check test for credential in vc signer",
+            "author": "Piyush7034"
+        },
+        {
+            "title": "[MOSIP-37071] updating vulnerable libraries",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "Update push-trigger.yml",
+            "author": "rajapandi1234"
+        }
+    ],
+    "issues": [
+        {
+            "title": "mosip-39006- mosipid usecase Negative testcases",
+            "author": "likhitharl"
+        },
+        {
+            "title": "[INJICERT-248] move well known out of properties file to JSON",
+            "author": "vharsh"
+        },
+        {
+            "title": "[C4GT Community]: Implementation of a Revocation Feature in Inji Certify for Verifiable Credentials",
+            "author": "sanchi-singh24"
+        },
+        {
+            "title": "[INJICERT-331] Added null check test for credential in vc signer",
+            "author": "Piyush7034"
+        },
+        {
+            "title": "[MOSIP-37071] updating vulnerable libraries",
+            "author": "rajapandi1234"
+        }
+    ]
+}

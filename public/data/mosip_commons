@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/commons",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "v1.2.0.1 changes to master"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#1496)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1495 from HimajaDhanyamraju2/release-1.2.0.1-scripts\n\nMOSIP-31759: Added upgrade scripts"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-31759: Added upgrade scripts\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #1494 from Prafulrakhade/release-1.2.0.1\n\n[MOSIP-31766] Updated ossrh snapshot url in push-trigger.yml file"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[MOSIP-35637] added sqaush layers",
+            "author": "Rakshithb1"
+        },
+        {
+            "title": "[MOSIP-35637]",
+            "author": "Rakshithb1"
+        },
+        {
+            "title": "[MOSIP-39559] Updated configmap-share.yaml",
+            "author": "shubham17998"
+        },
+        {
+            "title": "[MOSIP-36830]-Adding  Trivy scan to analyse Docker image vulnerabilities",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "MOSIP-31617: Sonar Fixes",
+            "author": "HimajaDhanyamraju2"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[MOSIP-35637] added sqaush layers",
+            "author": "Rakshithb1"
+        },
+        {
+            "title": "[MOSIP-35637]",
+            "author": "Rakshithb1"
+        },
+        {
+            "title": "[MOSIP-39559] Updated configmap-share.yaml",
+            "author": "shubham17998"
+        },
+        {
+            "title": "[MOSIP-36830]-Adding  Trivy scan to analyse Docker image vulnerabilities",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "MOSIP-31617: Sonar Fixes",
+            "author": "HimajaDhanyamraju2"
+        }
+    ]
+}

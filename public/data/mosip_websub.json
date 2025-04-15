@@ -1,0 +1,605 @@
+{
+    "repository": "mosip/websub",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "1.2.0.1 release changes",
+            "date": "2025-01-13T12:16:34Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#249)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-03-07T09:09:26Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #248 from HimajaDhanyamraju2/release-1.2.0.1-pomchanges\n\nMOSIP-31766: Changed to SNAPSHOT version",
+            "date": "2024-02-29T05:08:56Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-31766: Changed to SNAPSHOT version\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-29T05:02:59Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#245)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-02-28T12:18:02Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #243 from HimajaDhanyamraju2/release-1.2.0.1_MOSIP-24522\n\nMOSIP-24522: Changed default encryption key value",
+            "date": "2024-02-07T07:40:41Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-24522: Changed default encryption key value\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-07T05:44:31Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #236 from HimajaDhanyamraju2/release-1.2.0.1_MOSIP-24522\n\nMOSIP-24522: HubSecret Encryption and Decryption",
+            "date": "2024-02-06T13:44:56Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-24522: Changed default configuration values\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-06T13:21:26Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-24522: Added missing imports\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-06T13:00:30Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-24522: Added base64-encoding checks\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-06T12:51:51Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-24522: Added base64-encoding checks\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-06T12:50:51Z"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-24522: HubSecret Encryption and Decryption\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-02-02T07:34:59Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #232 from Prafulrakhade/release-1.2.0.1\n\n[DSD-4312] Update push-trigger.yml",
+            "date": "2024-01-24T16:59:45Z"
+        },
+        {
+            "author": "Praful Rakhade",
+            "message": "[DSD-4312] Update push-trigger.yml\n\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2024-01-24T11:18:08Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] updated Ballerina.toml file for upgrade-B4 release (#228)\n\n* [DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* [DSD-3932] updated Ballerina.toml file for upgrade-B4 release\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* [DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-12-26T12:27:45Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#227)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update pom.xml\r\n\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: PRAFUL RAKHADE <99539100+Prafulrakhade@users.noreply.github.com>",
+            "date": "2023-12-25T16:59:05Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[DSD-3932] removed release-changes.yml, tag.yml and updated push-trigger.yml file (#225)\n\nSigned-off-by: techno-467 <prafulrakhade02@gmail.com>",
+            "date": "2023-12-25T16:58:19Z"
+        },
+        {
+            "author": "syed salman",
+            "message": "[MOSIP-29261] Updated workflows as per reusable workflow format (#222)\n\n* [MOSIP-29261] Updated workflows as per reusable workflow format\r\n\r\n[MOSIP-25631]\r\n\r\n* [MOSIP-29261] Updated pom.xml\r\n\r\n[MOSIP-25631]\r\n\r\n* [MOSIP-29261] Updated pom.xml and Ballerina.toml\r\n\r\n[MOSIP-25631]\r\n\r\n---------\r\n\r\nCo-authored-by: syed-salman-technoforte <syed.salman@technoforte.co.in>",
+            "date": "2023-09-26T14:12:27Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[DSD-3108] updated push_trigger.yml (#216)\n\n* [DSD-3108] updated push_trigger.yml\r\n\r\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n* [DSD-3108] Updated CONSOLIDATOR_SERVICE_NAME\r\n\r\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-08-01T16:46:01Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[DSD-3108] added SERVICE_LOCATION (#215)\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-08-01T15:08:47Z"
+        },
+        {
+            "author": "PRAFUL RAKHADE",
+            "message": "[MOSIP-28241] Added build details in Dockerfile and docker build in push_tr\u2026 (#210)\n\n* [28241] Added build details in Dockerfile and docker build in push_trigger.yml file\r\n\r\n* [MOSIP-28241] Added build details in Dockerfile and docker build in push_trigger.yml file",
+            "date": "2023-07-31T04:31:49Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #214 from Rakshithb1/release-1.2.0.1\n\n[MOSIP-28488] update Ballerina.toml",
+            "date": "2023-07-18T06:21:22Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-28488] update Ballerina.toml\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-07-18T06:18:58Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-28488] update Ballerina.toml\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-07-18T06:17:49Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #213 from Rakshithb1/release-1.2.0.1\n\n[MOSIP-28488] Update Ballerina.toml",
+            "date": "2023-07-18T05:52:08Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-28488] Update Ballerina.toml\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-07-18T05:45:48Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-28488] Update Ballerina.toml\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-07-18T05:44:19Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-28488] Update Ballerina.toml\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-07-18T05:43:11Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "MOSIP-28182 : Updated the dependency version (#212)\n\n* MOSIP-28182 : Updated the dependency version\r\n\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>\r\n\r\n* MOSIP-28182 : Update the version to 1.2.0.1-SNAPSHOT\r\n\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2023-07-18T03:46:30Z"
+        },
+        {
+            "author": "Rakshithb1",
+            "message": "[MOSIP-28488] Update push_trigger.yml (#211)\n\nSigned-off-by: Rakshithb1 <79500257+Rakshithb1@users.noreply.github.com>",
+            "date": "2023-07-17T12:30:31Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #208 from Mohanraj209/release-1.2.0.1\n\n[MOSIP-23218] Updated Pom.xml version.",
+            "date": "2023-06-21T14:13:18Z"
+        },
+        {
+            "author": "Mohan E",
+            "message": "[MOSIP-23218] Updated Pom.xml version.",
+            "date": "2023-06-21T13:16:50Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "Merge pull request #207 from mosip/vishwa-vyom-patch-1\n\npush trigger modified to build admin client before hub",
+            "date": "2023-06-21T10:36:51Z"
+        },
+        {
+            "author": "Vishwa",
+            "message": "push trigger modified to build admin client before hub\n\nSigned-off-by: Vishwa <visu.vs1@gmail.com>",
+            "date": "2023-06-21T10:36:33Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #206 from mosip/ckm007-patch-1\n\nUpdate README.md",
+            "date": "2023-06-21T10:04:26Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md\n\nSigned-off-by: Keshav Mishra <chandrakeshavmishra@gmail.com>",
+            "date": "2023-06-21T10:03:25Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #200 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-09-30T03:42:54Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update README.md",
+            "date": "2022-09-30T03:42:34Z"
+        },
+        {
+            "author": "pramod444",
+            "message": "Release Bot Pre-release changes",
+            "date": "2022-09-29T10:56:04Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #197 from urviljoshi/heathcheck-consolidator\n\n503 respstatus added in case of  status as down",
+            "date": "2022-08-19T11:07:09Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "503 respstatus added in case of  status as down",
+            "date": "2022-08-19T10:59:48Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #196 from urviljoshi/heathcheck-consolidator\n\nconsolidator status is assigned from json resp",
+            "date": "2022-08-10T07:28:46Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "consolidator status is assigned from json resp",
+            "date": "2022-08-10T06:15:34Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #194 from urviljoshi/heathcheck-consolidator\n\nMOSIP-23370 MOSIP -23371 Heathcheck consolidator and websub",
+            "date": "2022-08-09T13:07:48Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "modulke name refactored",
+            "date": "2022-08-09T07:30:26Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "review comments implemented",
+            "date": "2022-08-05T10:20:18Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "review comments implemented",
+            "date": "2022-08-05T10:20:15Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "port 9192 exposed from dockerfile",
+            "date": "2022-08-04T13:25:29Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "health check added to both consolidator and hub",
+            "date": "2022-08-04T13:24:04Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "health check added to both consolidator and hub",
+            "date": "2022-08-04T13:23:45Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "MOSIP-23369 checking for metadata topics before starting",
+            "date": "2022-08-04T09:09:53Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #193 from urviljoshi/rel_1.2.0.1\n\nmerge 1.1.5 patch to 1.2.0.1",
+            "date": "2022-07-28T07:34:17Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "version modified",
+            "date": "2022-07-28T06:54:37Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "Merge branch 'rel_1.1.5.3' into rel_1.2.0.1",
+            "date": "2022-07-28T06:53:42Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20028] added action for tagging",
+            "date": "2022-07-18T05:22:02Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #190 from mosip/syed-salman-technoforte-patch-1\n\n[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-20T00:46:33Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "[ MOSIP-20021 ] updated release_changes.yml to update README.md badges",
+            "date": "2022-05-19T11:11:15Z"
+        },
+        {
+            "author": "syed-salman-technoforte",
+            "message": "Merge pull request #189 from mosip/ckm007-patch-1\n\n[MOSIP-20020] Update release_changes.yml",
+            "date": "2022-05-12T10:36:16Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "[MOSIP-20020] Update release_changes.yml",
+            "date": "2022-05-12T10:35:45Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #188 from urviljoshi/sonar-remove\n\nsonar changes removed",
+            "date": "2022-05-11T07:47:37Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "sonar changes removed",
+            "date": "2022-05-11T07:18:27Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update Ballerina.toml",
+            "date": "2022-05-10T13:37:37Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update push_trigger.yml",
+            "date": "2022-05-10T13:13:30Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #186 from mosip/release-branch\n\nRelease changes",
+            "date": "2022-05-10T13:06:11Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Merge pull request #187 from mosip/ckm007-patch-1\n\nUpdate pom.xml",
+            "date": "2022-05-10T13:05:49Z"
+        },
+        {
+            "author": "Keshav Mishra",
+            "message": "Update pom.xml",
+            "date": "2022-05-10T12:47:04Z"
+        },
+        {
+            "author": "ckm007",
+            "message": "Updated Pom versions for release changes",
+            "date": "2022-05-10T12:46:00Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "Merge branch 'develop' into 1.1.5.3",
+            "date": "2022-03-29T07:26:03Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "conflits resolved",
+            "date": "2022-03-29T07:25:34Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #182 from urviljoshi/consol-fix\n\nerror changed to warning",
+            "date": "2022-03-23T10:12:47Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "push trigger modified",
+            "date": "2022-03-23T10:11:23Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "version modified",
+            "date": "2022-03-23T10:09:02Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "push trigger modified",
+            "date": "2022-03-23T10:08:12Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "add error handling in bal file instead of library",
+            "date": "2022-02-28T07:30:46Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #181 from mosip/performence\n\nPerformence to develop",
+            "date": "2022-03-23T08:30:01Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #180 from urviljoshi/build-iss\n\nBuild issue resolved",
+            "date": "2022-03-22T14:35:20Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "build issue resolved",
+            "date": "2022-03-22T14:26:32Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #179 from urviljoshi/build-issue\n\nbuild issue resolved",
+            "date": "2022-03-22T14:27:20Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "build issue resolved",
+            "date": "2022-03-22T14:26:32Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #178 from urviljoshi/build-issue\n\nconsolidator modified",
+            "date": "2022-03-22T14:21:13Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "consolidator modified",
+            "date": "2022-03-22T14:17:44Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #177 from urviljoshi/websub-unsubscribe-upgrade\n\nconsolidator modified",
+            "date": "2022-03-22T14:19:23Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "consolidator modified",
+            "date": "2022-03-22T14:17:44Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "conflits resolved",
+            "date": "2022-03-22T14:05:40Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "Merge branch 'develop' into 1.2.0.1",
+            "date": "2022-03-22T14:03:59Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #169 from urviljoshi/websub-unsubscribe-upgrade\n\nMOSIP-20208 server unsubscription issue updated",
+            "date": "2022-03-22T11:43:34Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "groupname changed to sub id",
+            "date": "2022-03-22T11:40:20Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #175 from urviljoshi/logs-modified-dev\n\nerror logs added",
+            "date": "2022-03-21T09:31:15Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "error logs added",
+            "date": "2022-03-21T09:29:06Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #174 from urviljoshi/branch-version-change\n\nchanges in consolidator and heap size",
+            "date": "2022-03-15T07:59:01Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "hadcoding heap size",
+            "date": "2022-03-15T07:58:24Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #173 from urviljoshi/branch-version-change\n\nchanges in consolidator and heap size",
+            "date": "2022-03-15T07:17:14Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "changes in consolidator and heap size",
+            "date": "2022-03-15T07:16:12Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #172 from urviljoshi/branch-version-change\n\nversion changed for develop",
+            "date": "2022-03-15T05:04:38Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "version changed for develop",
+            "date": "2022-03-15T05:03:46Z"
+        },
+        {
+            "author": "urviljoshi",
+            "message": "server unsubscription issue updated",
+            "date": "2022-02-28T15:12:03Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Update push_trigger.yml",
+            "date": "2022-02-28T12:39:57Z"
+        },
+        {
+            "author": "Mandeep Dhiman",
+            "message": "Update push_trigger.yml",
+            "date": "2022-02-28T12:32:32Z"
+        },
+        {
+            "author": "Urvil Joshi",
+            "message": "Merge pull request #167 from urviljoshi/MOSIP-20298\n\npush trigger modified",
+            "date": "2022-02-28T12:19:14Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "snyk fix: kafka-admin-client/pom.xml to reduce vulnerabilities",
+            "author": "rajapandi1234",
+            "date": "2024-07-09T11:05:11Z"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar",
+            "date": "2024-04-03T19:15:04Z"
+        },
+        {
+            "title": "Bump org.apache.kafka:kafka-clients from 2.8.0 to 2.8.1 in /kafka-admin-client",
+            "author": "dependabot[bot]",
+            "date": "2023-09-05T21:58:36Z"
+        },
+        {
+            "title": "Tf develop",
+            "author": "technoforte",
+            "date": "2023-04-25T10:42:40Z"
+        },
+        {
+            "title": "MOSIP-25069: Added Prometheus related dependencies",
+            "author": "GOKULRAJ136",
+            "date": "2023-02-07T10:09:14Z"
+        },
+        {
+            "title": "MOSIP-25151: Added Prometheus related dependencies",
+            "author": "GOKULRAJ136",
+            "date": "2023-02-07T10:05:23Z"
+        },
+        {
+            "title": "[MOSIP-24301] updated the badge update in release_changes.yml",
+            "author": "Rakshitha650",
+            "date": "2022-11-30T12:08:49Z"
+        },
+        {
+            "title": "[MOSIP-24301] added the badge update in release_changes.yml",
+            "author": "Rakshitha650",
+            "date": "2022-11-30T08:57:29Z"
+        }
+    ],
+    "issues": [],
+    "reviews": [
+        {
+            "author": "syedsalman3753",
+            "comment": "No comment provided",
+            "date": "2024-04-04T07:02:25Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "comment": "No comment provided",
+            "date": "2024-04-04T13:04:07Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "comment": "No comment provided",
+            "date": "2024-04-04T13:04:15Z"
+        },
+        {
+            "author": "syedsalman3753",
+            "comment": "No comment provided",
+            "date": "2024-04-05T08:44:17Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "comment": "No comment provided",
+            "date": "2024-04-05T09:27:10Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "comment": "No comment provided",
+            "date": "2024-04-05T09:27:22Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "comment": "No comment provided",
+            "date": "2024-04-05T09:27:29Z"
+        },
+        {
+            "author": "abhishek8shankar",
+            "comment": "No comment provided",
+            "date": "2024-04-05T09:27:40Z"
+        },
+        {
+            "author": "syedsalman3753",
+            "comment": "No comment provided",
+            "date": "2024-04-05T10:20:04Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "This is a ballerina based application, we need lot more changes to expose prometheus endpoints, just adding dependency is not good enough.",
+            "date": "2023-04-27T09:32:04Z"
+        },
+        {
+            "author": "vishwa-vyom",
+            "comment": "This is a ballerina based application, we need lot more changes to expose prometheus endpoints, but dependency is not good enough.",
+            "date": "2023-04-27T09:31:36Z"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "repository": "mosip/websub",
+    "commits": [
+        {
+            "author": "Prafulrakhade",
+            "message": "1.2.0.1 release changes"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Release changes (#249)\n\n* Updated Pom versions for release changes\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n* Update Ballerina.toml\r\n\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: GitHub <noreply@github.com>\r\nSigned-off-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #248 from HimajaDhanyamraju2/release-1.2.0.1-pomchanges\n\nMOSIP-31766: Changed to SNAPSHOT version"
+        },
+        {
+            "author": "HimajaDhanyamraju2",
+            "message": "MOSIP-31766: Changed to SNAPSHOT version\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#245)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "snyk fix: kafka-admin-client/pom.xml to reduce vulnerabilities",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar"
+        },
+        {
+            "title": "Bump org.apache.kafka:kafka-clients from 2.8.0 to 2.8.1 in /kafka-admin-client",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Tf develop",
+            "author": "technoforte"
+        },
+        {
+            "title": "MOSIP-25069: Added Prometheus related dependencies",
+            "author": "GOKULRAJ136"
+        }
+    ],
+    "issues": [
+        {
+            "title": "snyk fix: kafka-admin-client/pom.xml to reduce vulnerabilities",
+            "author": "rajapandi1234"
+        },
+        {
+            "title": "[MOSIP-31575] Updated docker file.",
+            "author": "abhishek8shankar"
+        },
+        {
+            "title": "Bump org.apache.kafka:kafka-clients from 2.8.0 to 2.8.1 in /kafka-admin-client",
+            "author": "dependabot[bot]"
+        },
+        {
+            "title": "Tf develop",
+            "author": "technoforte"
+        },
+        {
+            "title": "MOSIP-25069: Added Prometheus related dependencies",
+            "author": "GOKULRAJ136"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "repository": "mosip/inji-openid4vp",
+    "commits": [
+        {
+            "author": "PuBHARGAVI",
+            "message": "[INJIMOB-1629] add workflows support (#3)\n\nSigned-off-by: PuBHARGAVI <46226958+PuBHARGAVI@users.noreply.github.com>"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Initial commit"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[INJIMOB-2367] add sequence diagram in read me file that explains about interactions between openid4vp, verifier and wallet",
+            "author": "PuBHARGAVI"
+        },
+        {
+            "title": "[INJIMOB-2367] add sequence diagram in read me file that explains about interactions between openid4vp, verifier and wallet",
+            "author": "PuBHARGAVI"
+        },
+        {
+            "title": "[INJIMOB-2367] add sequence diagram in read me file that explains about interactions between openid4vp, verifier and wallet",
+            "author": "PuBHARGAVI"
+        },
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.1.0 release",
+            "author": "vishwa-vyom"
+        }
+    ],
+    "issues": [
+        {
+            "title": "[INJIMOB-2367] add sequence diagram in read me file that explains about interactions between openid4vp, verifier and wallet",
+            "author": "PuBHARGAVI"
+        },
+        {
+            "title": "[INJIMOB-2367] add sequence diagram in read me file that explains about interactions between openid4vp, verifier and wallet",
+            "author": "PuBHARGAVI"
+        },
+        {
+            "title": "[INJIMOB-2367] add sequence diagram in read me file that explains about interactions between openid4vp, verifier and wallet",
+            "author": "PuBHARGAVI"
+        },
+        {
+            "title": "Critical code review PR - Last sprint handover checklist of 0.1.0 release",
+            "author": "vishwa-vyom"
+        }
+    ]
+}

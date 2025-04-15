@@ -1,0 +1,610 @@
+{
+    "repository": "mosip/android-registration-client",
+    "commits": [
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-841] (#438)\n\n* added collab env to gradle\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* changed server url\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the actions yml file\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated Operator biometrics logic\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-08-29T06:06:44Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Release 0.11.x (#437)",
+            "date": "2024-08-28T07:00:54Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-914] (#434)\n\n* added collab env to gradle\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* changed server url\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Fixed state update issue in biometrics\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Fixed state update issue in biometrics1\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-08-28T03:34:29Z"
+        },
+        {
+            "author": "Sachin S  P",
+            "message": "fixed ui spec issue, multiple dropdown display and removed unfunctional button (#435)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-08-28T03:33:56Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "RCF-922 (#436)\n\n* revert const from operator biometrics update\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* Update UIN fixed\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* saving update UIN template\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>",
+            "date": "2024-08-28T03:33:30Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-823] (#430)\n\n* added collab env to gradle\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* changed server url\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Removed sync and upload buttons in ack screen\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-08-19T06:34:32Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-741] (#431)\n\n* added collab env to gradle\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* changed server url\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Added the validation for applicant biometric threshold\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-08-19T06:33:59Z"
+        },
+        {
+            "author": "Sachin S  P",
+            "message": "[RCF-792] [RCF-874] (#432)\n\n* RCF-732 clear button not available if non mandatory field\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* gender loading issue\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* RCF-874 removed non functional component\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-08-19T06:33:06Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "revert const from operator biometrics update (#429)",
+            "date": "2024-08-09T14:00:20Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Mosip 31234 (#428)",
+            "date": "2024-08-09T07:37:31Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "Approve packet feature (#427)\n\n* approve packet feature added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* error handling and reject reason added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* multi language added to approve feature\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* bug in review during search fixed\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* encrypted shared preference\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* minor change\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>",
+            "date": "2024-08-09T04:41:57Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Validation fixes (#421)\n\n* Added minor validation fixes\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Fixed nic date issue\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Added commit hash in ui\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Removed memory widget\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\nCo-authored-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>",
+            "date": "2024-08-08T07:56:38Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Rcf 849 (#424)\n\n* qa-platform to collab\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Fixed dropdown validation issue\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Removed border for gender language labels\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\nCo-authored-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>",
+            "date": "2024-08-08T07:40:09Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "import missing for getPreRegIds (#426)\n\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>",
+            "date": "2024-08-08T04:14:55Z"
+        },
+        {
+            "author": "Sachin S  P",
+            "message": "[RCF-827][RCF-838] (#422)\n\n* RCF-827 application stuck in loading\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* RCF-828 validation up/down scroll issue\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* RCF-848 Pre-reg data fetch error popup messages should reflect in logged language\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-08-07T14:36:53Z"
+        },
+        {
+            "author": "Sachin S  P",
+            "message": "RCF-847 Incorporating feedback issue (#423)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-08-07T14:36:28Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-381] (#425)\n\n* added collab env to gradle\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* changed server url\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Fixed Preview and Acknowledgement transliteration\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-08-07T14:30:31Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "New toast design and bugs fixes (#402)\n\n* New toast design added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* Changes on flutter side\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* new toast for all sync, upload and code cleanup\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* bug fixes and inputs from meeting\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* all language added to export page\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* filtered out uploaded packets\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* retaining latest versions\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* prakash changes added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Aditya Singh <62157757+developer-aditya@users.noreply.github.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>",
+            "date": "2024-08-07T14:28:11Z"
+        },
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Merge pull request #420 from Infosys/develop\n\nBuild jar dependencies fix",
+            "date": "2024-07-30T04:55:54Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Build jar dependencies fix\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-07-29T16:29:20Z"
+        },
+        {
+            "author": "Md Humair Kankudti",
+            "message": "RCF-351 Integration of Match-SDK (#416)\n\n* Removed clipboard function\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Changed app name\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* clear traffic set to false\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Some changes in error handling\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Integration of match-sdk to validate the applicant biometric data match with the existing operators biometrics data\r\n\r\nSigned-off-by: Md-Humair-KK <mdhumair.kankudti@gmail.com>\r\n\r\n* solved build issues\r\n\r\nSigned-off-by: Md-Humair-KK <mdhumair.kankudti@gmail.com>\r\n\r\n* Review comment changes\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\nSigned-off-by: Md-Humair-KK <mdhumair.kankudti@gmail.com>\r\nCo-authored-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>",
+            "date": "2024-07-29T06:56:50Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Added sample for ui-spec (#419)",
+            "date": "2024-07-29T06:33:14Z"
+        },
+        {
+            "author": "jayesh12234",
+            "message": "MOSIP-34480,MOSIP-34481 (#413)\n\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-29828\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-29828\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-34417\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-34417\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-34481,MOSIP-34480\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* 34480,MOSIP-34481\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-34528\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-07-23T04:19:06Z"
+        },
+        {
+            "author": "jayesh12234",
+            "message": "MOSIP-34417 (#410)",
+            "date": "2024-07-12T12:20:40Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "text controller lagging issue (#411)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-07-12T04:04:31Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Changed fetch fields for templates (#406)\n\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\nCo-authored-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>",
+            "date": "2024-07-10T08:59:22Z"
+        },
+        {
+            "author": "jayesh12234",
+            "message": "MOSIP-29828 (#408)\n\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-29828\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-29828\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-07-10T08:49:47Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Crash issue on logout fixed (#409)\n\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\nCo-authored-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>",
+            "date": "2024-07-10T06:26:39Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "scroll issue fic in new registration (#407)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-07-10T04:24:29Z"
+        },
+        {
+            "author": "damodarguru",
+            "message": "MOSIP-33728 (#403)\n\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: damodar <damodar.g@cyberpwn.com>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: damodar <damodar.g@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nSigned-off-by: damodar <damodar.g@cyberpwn.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nCo-authored-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>",
+            "date": "2024-07-05T08:35:38Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Update uin fix (#405)\n\n* Added field selector screen\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Minor changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes for validation\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Uploading update json locally\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added update json to list of processes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added flowtype\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added validations for demographics and docs\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added uin with validation\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added validations for biometrics\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added uin to dto\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Minor change\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added reset values on age change\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added some validation fixes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed validations\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added consent to dto\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* process specs added\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fetch all processes spec\r\n\r\nSigned-off-by: Piyush Shukla <piyush.shukla03@ad.infosys.com>\r\n\r\n* Added condition for 1.1.5\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added localization texts\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-770 task 1 to 3 fixed\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Age date control changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Disabled scan button on attempts exhausted\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added update UIN fixes\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Added go to home from acknowledgement\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n* Removed unused file\r\n\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Piyush Shukla <piyush.shukla03@ad.infosys.com>\r\nSigned-off-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>\r\nCo-authored-by: Piyush Shukla <piyush.shukla03@ad.infosys.com>\r\nCo-authored-by: piyush-shukla03_infosys <piyush.shukla03@infosys.com>",
+            "date": "2024-07-05T08:35:12Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "fixed text controller issue (#404)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-07-05T05:28:32Z"
+        },
+        {
+            "author": "jayesh12234",
+            "message": "MOSIP-31687 (#400)\n\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33728\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-07-02T04:01:28Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Alert dismiss fix in biometrics (#396)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-07-01T10:27:13Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Added flag for batch job process (#395)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: G S Prakash Naidu <146939767+GSPrakashNaidu2662@users.noreply.github.com>",
+            "date": "2024-07-01T10:26:22Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "fixed UIN generation failed issue (#399)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-07-01T10:26:07Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Fixed the tab default state in biometrics (#394)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-07-01T04:39:56Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "RCF-456 Download pre-reg data (#393)\n\n* pre-reg functional ui added\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* added dto and daofile\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* download pre registration functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* download pre registration functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* changed the name pre regid to application id\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-07-01T04:38:31Z"
+        },
+        {
+            "author": "jayesh12234",
+            "message": "MOSIP-31687 (#375)\n\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-33047\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-06-28T05:47:06Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Logout UI and Functionality (#392)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-06-25T06:59:37Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Process spec (#390)\n\n* Added field selector screen\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Minor changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes for validation\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Uploading update json locally\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added update json to list of processes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added flowtype\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added validations for demographics and docs\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added uin with validation\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added validations for biometrics\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added uin to dto\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Minor change\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added reset values on age change\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added some validation fixes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed validations\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added consent to dto\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* process specs added\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fetch all processes spec\r\n\r\nSigned-off-by: Piyush Shukla <piyush.shukla03@ad.infosys.com>\r\n\r\n* Added condition for 1.1.5\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added localization texts\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Piyush Shukla <piyush.shukla03@ad.infosys.com>\r\nCo-authored-by: Piyush Shukla <piyush.shukla03@ad.infosys.com>",
+            "date": "2024-06-24T09:27:41Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "added operator updated biometric time (#373)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-06-13T03:19:25Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Operator biometric screen headers changed (#388)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-06-13T03:17:25Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-750] (#389)\n\n* Added bioexceptions clear code\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* github workflows reverted\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Added the validation for biometrics\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-06-13T03:17:00Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "bulk upload and export feature (#384)\n\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>",
+            "date": "2024-06-13T03:15:47Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-734] (#385)\n\n* Added bioexceptions clear code\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* github workflows reverted\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Added introducer exception image code to preview template code\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-06-11T04:01:32Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-346] (#386)\n\n* Added bioexceptions clear code\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* github workflows reverted\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Fixed introducer exception validation issue for minor packet\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-06-11T04:01:05Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "PR From Develop (#380)",
+            "date": "2024-05-29T07:33:55Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Develop (#377)\n\n* Changed MPL license to MIT (#210)\r\n\r\n* [Changes] Build Release Branch source code\r\n\r\n* Patch fixes (#279)\r\n\r\n* batch job fix aditya\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* aviral changes\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* solution reason added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* Updated the server url to qa3 (#280)\r\n\r\n* [DSD-4668] Update build-android.yml (#285)\r\n\r\n* [DSD-4668] Update push_trigger.yml  (#286)\r\n\r\n* Changed qa3 to qa-platform1 (#297)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added the commenting line with qa3 env (#303)\r\n\r\n* [RCF-454] (#338)\r\n\r\n* Added JPEG compression for face image in the acknowledgement screen\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the code for gender code in template\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF- 468 and RCF-663 (#335)\r\n\r\n* DOB and Cancel(x) button disappearing in Date picker\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* Operator onborad information is not getting updated in Dashboard\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed the checkbox selection in consent screen (#328)\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Rcf 558 (#331)\r\n\r\n* Alert sync added for inactive machine and center\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added mvel required expression\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added required conditoon for biomterics\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed print audit event missing\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-282 (#330)\r\n\r\n* bug fixing\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* multiple lang dropdown value\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* multiple lang dropdown value\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* fixed thresholed and reverted checkbox issue (#351)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* fixed biometric exception issue (#352)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-454 Revert (#354)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* reverted profile screen changes (#356)\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* abi filters added (#357)\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed to qa-platform1\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* [RCF-454] (#338)\r\n\r\n* Added JPEG compression for face image in the acknowledgement screen\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the code for gender code in template\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF- 468 and RCF-663 (#335)\r\n\r\n* DOB and Cancel(x) button disappearing in Date picker\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* Operator onborad information is not getting updated in Dashboard\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed the checkbox selection in consent screen (#328)\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Rcf 558 (#331)\r\n\r\n* Alert sync added for inactive machine and center\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added mvel required expression\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added required conditoon for biomterics\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed print audit event missing\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-282 (#330)\r\n\r\n* bug fixing\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* multiple lang dropdown value\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* multiple lang dropdown value\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* fixed thresholed and reverted checkbox issue (#351)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* fixed biometric exception issue (#352)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-454 Revert (#354)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* reverted profile screen changes (#356)\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* abi filters added (#357)\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed base url\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Hitesh C <jainhitesh9998@gmail.com>\r\nCo-authored-by: Aditya Singh <62157757+developer-aditya@users.noreply.github.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: G S Prakash Naidu <146939767+GSPrakashNaidu2662@users.noreply.github.com>\r\nCo-authored-by: Praful Rakhade <99539100+Prafulrakhade@users.noreply.github.com>\r\nCo-authored-by: Sachin s p <52343650+SachinPremkumar@users.noreply.github.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-05-29T06:10:51Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "fixed button enabling in operator onboarding (#368)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: G S Prakash Naidu <146939767+GSPrakashNaidu2662@users.noreply.github.com>",
+            "date": "2024-05-24T10:37:25Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "fixed validation for applicant biometrics (#367)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-05-24T09:04:50Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-733] (#372)\n\n* Added translitaration for operator onboarding\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Added translitaration for operator onboarding\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Added translitaration for operator onboarding\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-05-24T09:04:11Z"
+        },
+        {
+            "author": "jayesh12234",
+            "message": "MOSIP-32859 (#371)\n\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-32859\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-05-23T03:52:23Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "abi filters added (#357)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-05-13T10:04:14Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "reverted profile screen changes (#356)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-05-13T08:22:26Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "RCF-454 Revert (#354)",
+            "date": "2024-05-13T06:54:17Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "fixed biometric exception issue (#352)",
+            "date": "2024-05-10T08:20:29Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "fixed thresholed and reverted checkbox issue (#351)",
+            "date": "2024-05-10T08:14:03Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "RCF-282 (#330)\n\n* bug fixing\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* multiple lang dropdown value\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* multiple lang dropdown value\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-05-10T06:41:25Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Rcf 558 (#331)\n\n* Alert sync added for inactive machine and center\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added mvel required expression\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added required conditoon for biomterics\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed print audit event missing\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-05-10T04:37:31Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Fixed the checkbox selection in consent screen (#328)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-05-10T04:33:36Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "RCF- 468 and RCF-663 (#335)\n\n* DOB and Cancel(x) button disappearing in Date picker\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* Operator onborad information is not getting updated in Dashboard\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-05-10T04:31:41Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-454] (#338)\n\n* Added JPEG compression for face image in the acknowledgement screen\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the code for gender code in template\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-05-10T04:31:19Z"
+        },
+        {
+            "author": "Aviral Mishra",
+            "message": "Rcf 572 (#337)\n\n* Pigeon Issue Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Removed unwanted architectures\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-572 Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Enabled Verify and save on complete exception of an atttribute\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Exception Error in Operator fixed\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Pigeon Run\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>",
+            "date": "2024-05-07T08:41:58Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Added JPEG compression for face image in the acknowledgement screen (#336)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-05-07T04:26:48Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "RCF-448, RCF-372 and RCF-679 (#339)\n\n* RCF-448, RCF-372 and RCF-679\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* retaining previous versions\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>",
+            "date": "2024-05-07T04:24:12Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "Fixed RCF-474 reopened bug (#341)\n\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>",
+            "date": "2024-05-07T04:20:14Z"
+        },
+        {
+            "author": "jayesh12234",
+            "message": "MOSIP-31687 (#298)\n\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-05-02T19:17:39Z"
+        },
+        {
+            "author": "Aditya Singh",
+            "message": "RCF-490 and RCF-474 (#329)",
+            "date": "2024-04-26T04:17:23Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Added template headings to the App (#324)",
+            "date": "2024-04-26T04:15:49Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Modified the dashboard UI and added app localization to dashboard screen (#326)",
+            "date": "2024-04-26T04:15:04Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Alert sync added for inactive machine and center (#320)\n\n* Alert sync added for inactive machine and center\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Created alert dialog class\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-04-25T04:35:04Z"
+        },
+        {
+            "author": "Aviral Mishra",
+            "message": "Rcf 573 (#325)\n\n* Pigeon Issue Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Removed unwanted architectures\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-573 Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>",
+            "date": "2024-04-25T04:33:59Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "bug fixing (#312)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-04-23T03:45:39Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Added exception image to the template (#317)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-04-23T03:45:20Z"
+        },
+        {
+            "author": "Aviral Mishra",
+            "message": "Rcf 346 (#323)\n\n* Pigeon Issue Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Removed unwanted architectures\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-346 Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-349\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-570\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Minor Change\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>",
+            "date": "2024-04-23T03:44:45Z"
+        },
+        {
+            "author": "Aviral Mishra",
+            "message": "[Rcf 431] [RCF-430] (#316)\n\n* Pigeon Issue Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Removed unwanted architectures\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-431 Resolved with new UI update\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Text field disabled as per comment on RCF-310\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-430 Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* ZoomingFeature Added to Operator Onboarding\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>",
+            "date": "2024-04-22T06:39:36Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Fixed error code serialization for service error (#318)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-04-22T04:31:03Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Updated the condition for visibility of buttons in ack screen (#319)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-04-22T04:30:42Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-564] (#321)\n\n* Updated the condition for visibility of buttons in ack screen\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the constants in template\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-04-22T04:29:08Z"
+        },
+        {
+            "author": "Himaja Dhanyamraju",
+            "message": "RCF-372: Fixed error messages (#322)\n\n* RCF-352: Added db encryption\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\n\r\n* RCF-352: Added static password for debug mode\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\n\r\n* RCF-372: Fixed error messages\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nCo-authored-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-04-22T04:28:30Z"
+        },
+        {
+            "author": "Aviral Mishra",
+            "message": "Auth api error (#315)\n\n* Pigeon Issue Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Onboard Auth Api Error Solved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Minor Change\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>",
+            "date": "2024-04-15T08:41:56Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "Added the dependency to implement resource ID (#311)\n\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-04-10T15:35:42Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Onboard operator (#305)\n\n* Fixed\r\nChanged fetch commit id\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed\r\nAdded try catch for fetching commit ids\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed\r\nAdded the qr code template changes to the acknowledgement template\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-414 (#247)\r\n\r\n* Changed fetch commit id\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added try catch for fetching commit ids\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added the qr code template changes to the acknowledgement template\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the util configuration in the app\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nCo-authored-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nCo-authored-by: GSPrakashNaiduCyberpwn <146939767+GSPrakashNaiduCyberpwn@users.noreply.github.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Values for all selected langauges added to dto (#248)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Rcf 403 - batch job sync before upload (#246)\r\n\r\n* transliteration fixes\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\n\r\n* batch job sync before upload\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\n\r\n* transliteration from any-any lang\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nCo-authored-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* QA platform (#249)\r\n\r\n* Values for all selected langauges added to dto\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* change env to qa-platform\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nCo-authored-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nCo-authored-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Minor bugs (#252)\r\n\r\n* batch job & error message fix\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\n\r\n* french transliteration & gender control bug fix\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nCo-authored-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Rcf 358 (#250)\r\n\r\n* RCF-377 fixed\r\n\r\nSigned-off-by: aviral-mishra-hunter <aviralmishra.015@gmail.com>\r\n\r\n* Overflow Fix\r\n\r\nSigned-off-by: aviral-mishra-hunter <aviralmishra.015@gmail.com>\r\n\r\n* Disabled language whose localization file is not available\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Small fix\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added locale codes in a constants file\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed packet auth page ui\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added more locales to constants\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes in auto sync\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed auto sync issue\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes in save version\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed save all headers\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* changed qa-trinity to qa-platform\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: aviral-mishra-hunter <aviralmishra.015@gmail.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nCo-authored-by: aviral-mishra-hunter <aviralmishra.015@gmail.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Rcf 415 (#253)\r\n\r\n* Changed app langauge to be same as mandatory language\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Mandatory language as first language in the list\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* [RCF-407] , [RCF-423] , [RCF-420] (#254)\r\n\r\n* RCF-407 Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Initial Commits\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* RCF-420 Fixed\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* [RCF-407] , [RCF-423] , [RCF-420]\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Some additional changes\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-411 (#251)\r\n\r\n* removed reference id text field mandatory option\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* fixed the alignment issue\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Final changes (#255)\r\n\r\n* Final Changes\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* UI Changes\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed MPL license to MIT license (#256)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* audit added before batch job (#257)\r\n\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nCo-authored-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Updated the string of Sync Packet\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Overflow Fix\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-435\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Minor Change\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-451 Fixed\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Radio Button Fix for Synergy Env\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* text alignment for arabic\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* dynamic alignment of lang text\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* fixed retrigger multiple time at the T-0 minute\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* minor changes\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* default cron expression added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* added to constant\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-214, RCF-212 and RCF-216 (#261)\r\n\r\n* added mavel native code\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* changed the new code error\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* fixed the ui break issue\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* document upload screen based on mavel script and application doc type\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* document upload screen validation\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* document upload screen exception proof function\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* exception proof validation\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* made some merge changes\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* script added in pigeon.sh (#269)\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Revert RCF 216 (#275)\r\n\r\n* reverted code\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* reverted code\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-460: Fixed cacerts sync issue (#271)\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Functions added in User Onboard Service from Registrarion Client User Onboard Service Impl\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-35: Added service classes for onboarding\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Initial Commit\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* First view Added\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Saving data\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* UI Complete for Onboarding Operator\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Operation Biometric Capture Backend Complete\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* fixed\r\nSave Operator Biometrics in progress\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Operator Biometrics Saving In progress\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Threshold added for operator biometrics\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* fixed\r\nRCF-35: User onboarding changes\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-35: Fix in saving biometrics to DB\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed\r\nAdded fix for operator onboard saving\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-399 Resolved (#283)\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Android14 patch (#282)\r\n\r\n* android 14 alarm permission request added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n* patch-fixes changes added\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* MOSIP-31687 (#292)\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* MOSIP-31687\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\n\r\n* Delete androidReg-clientTest/.classpath\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n* Delete androidReg-clientTest/.metadata directory\r\n\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added null check conditions (#289)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed build branch from feature-flutter to develop (#287)\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* added event id for scan button and preview doc (#293)\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added back button functionality on registration screen (#263)\r\n\r\n* Added back button functionality on registration screen\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed print ack event id to REG-EVT-012\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed\r\ndocument upload screen based on mavel script (#281)\r\n\r\n* document upload screen based on mavel script\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* resolve merge conflict\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-88 DashBoard UI (#291)\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* handle null check\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* null handle\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* changed the logic and name\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-88 (#301)\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* handle null check\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* null handle\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* changed the logic and name\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* removed some import\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-431 Fixed and rescan enabled for operator onboarding\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Pigeon Issue Resolved\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Removed vscode file\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Removed VScode folder\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n* Fixed timestamp issue\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Operator Saving fail scenario added\r\n\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nSigned-off-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nSigned-off-by: aviral-mishra-hunter <aviralmishra.015@gmail.com>\r\nSigned-off-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nSigned-off-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nSigned-off-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>\r\nSigned-off-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: G S Prakash <prakash.gs@cyberpwn.com>\r\nCo-authored-by: G S Prakash Naidu <146939767+GSPrakashNaidu2662@users.noreply.github.com>\r\nCo-authored-by: GSPrakashNaiduCyberpwn <146939767+GSPrakashNaiduCyberpwn@users.noreply.github.com>\r\nCo-authored-by: Aditya Singh <62157757+developer-aditya@users.noreply.github.com>\r\nCo-authored-by: Aditya Singh(aditya.singh509) <aditya.singh509@infosys.com>\r\nCo-authored-by: aviral-mishra-hunter <aviralmishra.015@gmail.com>\r\nCo-authored-by: Aviral Mishra <88927802+aviral-mishra-hunter@users.noreply.github.com>\r\nCo-authored-by: Aviral Mishra <aviral.mishra@ad.infosys.com>\r\nCo-authored-by: Sachin s p <52343650+SachinPremkumar@users.noreply.github.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Aditya Singh <aditya.singh509@ad.infosys.com>\r\nCo-authored-by: Himaja Dhanyamraju <43470317+HimajaDhanyamraju2@users.noreply.github.com>\r\nCo-authored-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nCo-authored-by: jayesh12234 <111957576+jayesh12234@users.noreply.github.com>\r\nCo-authored-by: Jayesh Kharode <jayesh.kharode@technoforte.co.in>",
+            "date": "2024-04-10T15:34:58Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Master data service (#300)\n\n* Added null check conditions\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some code refactor\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Code clean on login page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Resolved lint issues for login page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Refactored code on home page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Removed method channel code\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Moved required code from MasterDataService to MasterSyncApi\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Widgets code refactoring\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed null exception on new registration from acknowledgement page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* MasterDataServiceImpl refactoring\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added some conditions for manual sync\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed login language change on manual sync\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed disable continue button on field value change\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Form key null state fixed\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Removed unwanted file\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Auto sync failing issue fixed\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-557 app crash fixed\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-04-10T06:50:30Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Rcf 371 (#307)\n\n* Added null check conditions\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some code refactor\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Code clean on login page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Resolved lint issues for login page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Refactored code on home page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Removed method channel code\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Moved required code from MasterDataService to MasterSyncApi\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Widgets code refactoring\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed null exception on new registration from acknowledgement page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* MasterDataServiceImpl refactoring\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Added some conditions for manual sync\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed login language change on manual sync\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed disable continue button on field value change\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Some changes\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Fixed validation error language\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* RCF-397 fixed\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed userid with username on onboarding page\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-04-10T05:11:44Z"
+        },
+        {
+            "author": "Himaja Dhanyamraju",
+            "message": "RCF-352: Added static password for debug mode (#313)\n\n* RCF-352: Added db encryption\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\n\r\n* RCF-352: Added static password for debug mode\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\n\r\n---------\r\n\r\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nCo-authored-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-04-08T05:43:58Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "RCF-497, RCF-462, RCF-468 and RCF-469 (#308)\n\n* alignment and respansivness\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* bug fixing\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-04-05T04:47:58Z"
+        },
+        {
+            "author": "G S Prakash Naidu",
+            "message": "[RCF-437] (#309)\n\n* Added toast for already uploaded packets\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n* Updated the ack template type code\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: G S Prakash <prakash.gs@cyberpwn.com>",
+            "date": "2024-04-05T04:46:31Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Fixed condtions for non-mandatory fields (#310)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-04-05T04:46:04Z"
+        },
+        {
+            "author": "Himaja Dhanyamraju",
+            "message": "RCF-352: Added db encryption (#299)\n\nSigned-off-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>\r\nCo-authored-by: HimajaDhanyamraju2 <dhanyamraju.himaja2@mindtree.com>",
+            "date": "2024-04-02T04:18:07Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Fixed manual sync (#306)",
+            "date": "2024-03-29T11:06:59Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "Changed base Url Qa-platform to Qa-platform1 (#302)",
+            "date": "2024-03-26T06:22:36Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "RCF-88 (#301)\n\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* handle null check\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* null handle\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* changed the logic and name\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* removed some import\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-03-26T04:57:04Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "RCF-88 DashBoard UI (#291)\n\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* handle null check\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* null handle\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* dashboard ui and functionality\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* commented 30 days logic\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* changed the logic and name\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-03-26T04:04:18Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "document upload screen based on mavel script (#281)\n\n* document upload screen based on mavel script\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n* resolve merge conflict\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-03-22T04:59:07Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Added back button functionality on registration screen (#263)\n\n* Added back button functionality on registration screen\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n* Changed print ack event id to REG-EVT-012\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>\r\n\r\n---------\r\n\r\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-03-21T03:54:16Z"
+        },
+        {
+            "author": "Sachin s p",
+            "message": "added event id for scan button and preview doc (#293)\n\nSigned-off-by: Sachin S P <sachin.sp@cyberpwn.com>\r\nCo-authored-by: Sachin S P <sachin.sp@cyberpwn.com>",
+            "date": "2024-03-18T05:10:00Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Changed build branch from feature-flutter to develop (#287)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-03-18T05:08:25Z"
+        },
+        {
+            "author": "Piyush7034",
+            "message": "Added null check conditions (#289)\n\nSigned-off-by: Piyush7034 <piyushshukla2100@gmail.com>",
+            "date": "2024-03-18T05:07:58Z"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "[RCF-1130]",
+            "author": "GSPrakash2662",
+            "date": "2025-01-30T10:17:03Z"
+        },
+        {
+            "title": "MOSIP-36833---release-0.11.x-customization",
+            "author": "jayesh12234",
+            "date": "2024-10-23T07:59:13Z"
+        },
+        {
+            "title": "Manual trigger Actions master",
+            "author": "developer-aditya",
+            "date": "2024-10-11T05:00:20Z"
+        },
+        {
+            "title": "workflow_dispatch added in .github",
+            "author": "SachinPremkumar",
+            "date": "2024-10-09T11:34:40Z"
+        },
+        {
+            "title": "Create codeql-analysis.yml",
+            "author": "rajapandi1234",
+            "date": "2024-09-19T07:42:03Z"
+        },
+        {
+            "title": "Document upload",
+            "author": "Mikias-Estifanos",
+            "date": "2023-07-20T12:39:36Z"
+        },
+        {
+            "title": "RCF-78 - Logout with pigeon",
+            "author": "Mikias-Estifanos",
+            "date": "2023-06-23T07:30:35Z"
+        },
+        {
+            "title": "MOSIP-22784, MOSIP-22850, MOSIP-23436, MOSIP-22963",
+            "author": "gaurav1309goel",
+            "date": "2022-10-28T07:56:36Z"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Getting Null for error code while logging in.",
+            "author": "Piyush7034",
+            "date": "2023-05-19T11:31:25Z"
+        },
+        {
+            "title": "Work on build process and apk generation and sharing",
+            "author": "rakhimosip",
+            "date": "2022-04-25T05:17:56Z"
+        },
+        {
+            "title": "New environment/instance for android reg client. Possibly qa-triple?",
+            "author": "rakhimosip",
+            "date": "2022-04-25T05:14:04Z"
+        },
+        {
+            "title": "Backend job to sync packet status",
+            "author": "ase-101",
+            "date": "2022-04-22T08:26:40Z"
+        },
+        {
+            "title": "Login screen, login with auth server",
+            "author": "ase-101",
+            "date": "2022-04-01T11:06:38Z"
+        },
+        {
+            "title": "Audit Dao and service layer",
+            "author": "ase-101",
+            "date": "2022-04-01T11:03:05Z"
+        },
+        {
+            "title": "UI validator support",
+            "author": "rakhimosip",
+            "date": "2022-03-25T11:32:42Z"
+        },
+        {
+            "title": "Create entities to store masterdata and registration metadata",
+            "author": "ase-101",
+            "date": "2022-03-18T11:27:28Z"
+        },
+        {
+            "title": "Biometric device interface manager",
+            "author": "ase-101",
+            "date": "2022-03-02T11:06:18Z"
+        },
+        {
+            "title": "Upload packet to server",
+            "author": "rakhimosip",
+            "date": "2021-06-22T08:54:15Z"
+        },
+        {
+            "title": "Port 'Packet Manager' and 'KeyManager' service to new repo",
+            "author": "rakhimosip",
+            "date": "2021-06-22T08:53:47Z"
+        },
+        {
+            "title": "Build a simple UI to collect demographic, documents and biometircs (face)",
+            "author": "rakhimosip",
+            "date": "2021-06-22T08:52:10Z"
+        }
+    ],
+    "reviews": []
+}

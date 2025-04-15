@@ -1,0 +1,41 @@
+{
+    "repository": "mosip/partner-management-portal",
+    "commits": [
+        {
+            "author": "Chandra Keshav Mishra",
+            "message": "Updated Pom versions for release changes (#267)\n\nSigned-off-by: GitHub <noreply@github.com>\r\nCo-authored-by: Prafulrakhade <Prafulrakhade@users.noreply.github.com>"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #266 from dhanendra06/patch-4\n\nUpdate pom version for pmp-ui"
+        },
+        {
+            "author": "dhanendra06",
+            "message": "Update pom.xml\n\nSigned-off-by: dhanendra06 <60607841+dhanendra06@users.noreply.github.com>"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Corrected the file name and fixed build failure of material keyboard module (#265)\n\nSigned-off-by: Aravindhan Alagesan <aravindh2090@gmail.com>"
+        },
+        {
+            "author": "Aravindhan Alagesan",
+            "message": "Merge pull request #261 from jayesh12234/release-1.2.0.1\n\nMOSIP-32098"
+        }
+    ],
+    "pull_requests": [
+        {
+            "title": "MOSIP-36036: Refactored & Rectified the Code Duplication in UI.",
+            "author": "Anil-kumar-Majji"
+        }
+    ],
+    "issues": [
+        {
+            "title": "MOSIP-36036: Refactored & Rectified the Code Duplication in UI.",
+            "author": "Anil-kumar-Majji"
+        },
+        {
+            "title": "Obscured API Key",
+            "author": "andrew-musoke"
+        }
+    ]
+}
